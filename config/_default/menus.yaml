@@ -11,7 +11,7 @@ main:
     url: 'teaching'
     weight: 30
   - name: COLIN DOYLE
-    url: 'http://www.colin-doyle.net/'
+    url: '/'
     weight: 10
 
 # Link to a PDF of your resume/CV from the menu.
