@@ -306,10 +306,7 @@
                 font-family: 'concourse_4_caps';
                 font-weight: bold;
                 color: #2a3f69;
-                a:hover {
-                  color: #AB0C2F;
-                  text-decoration: none
-                }
+                
                 }
    
 
@@ -323,11 +320,11 @@
 
 
 
-      li:not(:last-child) {
-        margin-bottom: .4em;
-    }
+    //   li:not(:last-child) {
+    //     margin-bottom: .4em;
+    // }
   h1, h2 {
-    font-weight: 600;  
+    font-weight: 800;  
   }
   h3, h4, h5, h6 {
     font-weight: 400;  
@@ -340,9 +337,6 @@
     text-transform: uppercase;
   }
   
-  h2 :is("Colin Doyle"){
-    color:red
-  }
 
   
   h2 {
@@ -366,12 +360,12 @@
     font-size: 19px;
   }
 
-  html {
-    font-size: 19px;
-    max-width: 75em;
-    hyphens: auto;
+  // html {
+  //   font-size: 19px;
+  //   max-width: 75em;
+  //   hyphens: auto;
 
-  }
+  // }
 
  
 
@@ -380,6 +374,10 @@
     color: #39478f;
   }
 
+  a:hover :is(.navbar) {
+    color: #AB0C2F;
+    text-decoration: none
+  }
 
 
   /* mouse over link */
@@ -394,18 +392,18 @@
   }
 
     
-  .docs-toc{
-    margin-left: 10px;
-    line-height: 1;
+  // .docs-toc{
+  //   margin-left: 10px;
+  //   line-height: 1;
 
-    }
+  //   }
 
 .docs-article-container {
     max-width: 35em;
     text-align: justify;
     text-justify: inter-word;
     hyphens: auto;
-
+    margin-left: 10px;
 }
 
 .article-style {
