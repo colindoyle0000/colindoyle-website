@@ -38,6 +38,7 @@ header:
     show_day_night: false
     show_search: true
     highlight_active_link: true
+    margin-left: 200px;
 
 # Site footer
 

@@ -5,6 +5,7 @@ type: book
 date: '2019-05-05T00:00:00+01:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 30
+toc: false
 ---
 
 ## Attendance
@@ -19,19 +20,15 @@ Class preparation is also required. According to ABA Standard 310, for a five-cr
 
 I conduct class primarily through Socratic “cold calling,” with limited volunteering. I plan to call on a large portion of the class during each session, using a randomized list. This means that being called on once does not preclude you from being called on again in the same class or the following day. Because all students are expected to read the materials and come to class prepared to answer questions, students are not allowed to “pass” when I ask them to answer a question. If exigent circumstances prevent you from being able to prepare for class, you may place your name on a “no call list” by emailing me before 8:15am on the morning of class. 
 
-Many students begin their 1L year nervous about cold-calling — and for good reason. You want to impress your classmates and your professors. Flubbing a cold call can be embarrassing, and cold calls can sometimes seem like a cruel way for law professors to intimidate their students. But the purpose of cold calling is not to humiliate or intimidate but to facilitate a dialogue. It’s a method for us to collectively interrogate what we think we know and what we think that we have learned about the law. 
-
-Being prepared for cold calls means that you are ready to engage in questions — not that you already have the answers. We are here to get it right, not to be right already. You will be prepared for cold calls if you have read the assigned cases closely enough to engage in a spirited discussion. As you work through your reading assignments, don’t read passively and don’t take anything in the cases for granted. Reading without taking notes is not reading at all. As you read, write down questions that come to mind. Ask questions of each other, and consider studying or discussing readings together. And you should always feel free to ask me questions, both in and outside of class. Ask about anything unfamiliar. Please don’t be embarrassed to ask about things you don’t understand — there will likely be others with the same question.
+Many students begin their 1L year nervous about cold-calling — and for good reason. You want to impress your classmates and your professors. Flubbing a cold call can be embarrassing, and cold calls can sometimes seem like a cruel hazing ritual. My purpose with cold calling is not to humiliate or intimidate but to facilitate a dialogue. It’s a method for us to collectively interrogate what we think we know and what we think that we have learned about the law. Being prepared for cold calls in this class means that you are ready to engage in questions — not that you already have the answers. We are here to get it right, not to be right already. You will be prepared for cold calls if you have read the assigned cases closely enough to engage in a spirited discussion. As you work through your reading assignments, don’t read passively and don’t take anything in the cases for granted. Reading without taking notes is not reading at all. As you read, write down questions that come to mind. Ask questions of each other, and consider studying or discussing readings together. And you should always feel free to ask me questions, both in and outside of class. Ask about anything unfamiliar. Please don’t be embarrassed to ask about things you don’t understand — there will likely be others with the same question.
 
 ## Classroom Norms
-To foster an environment that supports curious critical thinking, our class has set of norms that I ask you each to follow.
+To foster an environment that supports curious critical thinking, our class has a set of norms that I ask you each to follow.
 
 _Professionalism_ <br>
-Law school is a professional environment. Your classmates are your future colleagues, co-counsel, judges and policymakers. You should treat law school as the beginning of a professional career rather than as an extension of college.
+Law school is a professional environment. Your classmates are your future colleagues, co-counsel, judges and policymakers. You should treat law school as the beginning of a professional career rather than as an extension of college. 
 
-Professionalism and ethical conduct are central to the practice of law, and thus to legal education. We will cover topics in this course that are sensitive and may have personal and significant implications for any one of us in the class, for our families and for others we hold dear. All communication for the course is expected to be professional, respectful, and on topic.
-
-For the reasons explained [here](https://mattrking.com/courses/introduction/), I ask that you address me as "Professor" or "Professor Doyle."
+Professionalism and ethical conduct are central to the practice of law, and thus to legal education. We will cover topics in this course that are sensitive and may have personal and significant implications for any one of us in the class, for our families and for others we hold dear. All communication for the course is expected to be professional, respectful, and on topic. For the reasons explained [here](https://mattrking.com/courses/introduction/), I ask that you address me as "Professor" or "Professor Doyle."
 
 _Generosity_ <br>
 We should all strive to be good listeners and to be respectful of different viewpoints. Being respectful does not mean that we should hold back from critiquing others' views, but it does require us to be be generous in how we interpret and respond to others. Particularly when disagreeing with an argument that someone else has made, try to address the strongest version of their argument. If a statement is made that offends you or that you think might offend others, do challenge it; but show respect for the person who made it. Remember, we all make mistakes sometimes in our speaking and listening.

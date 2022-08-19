@@ -306,7 +306,7 @@
                 font-family: 'concourse_4_caps';
                 font-weight: bold;
                 color: #2a3f69;
-                
+            
                 }
    
 
@@ -320,9 +320,7 @@
 
 
 
-    //   li:not(:last-child) {
-    //     margin-bottom: .4em;
-    // }
+
   h1, h2 {
     font-weight: 800;  
   }
@@ -390,6 +388,10 @@
   a:active {
     color: #AB0C2F;
   }
+
+ li {
+margin-bottom: .4em;
+}
 
     
   // .docs-toc{

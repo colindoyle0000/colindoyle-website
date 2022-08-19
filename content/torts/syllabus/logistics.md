@@ -3,11 +3,12 @@ title: Logistics
 linktitle: Logistics
 type: book
 date: '2019-05-05T00:00:00+01:00'
-toc: true
+toc: false
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 20
 ---
+
 ## Contact information
 Colin.Doyle@lls.edu <br>
 Office: Burns 315 <br>
@@ -51,9 +52,7 @@ Please note that open office hours are the norm, and one-on-one office hours are
 
 To allow for this course to be flexible in response to the pace and dynamics of our in-class discussions, reading assignments will be scheduled on a rolling basis. To allow you enough time to read the assigned material, I plan to post reading assignments at least one week in advance of class. Once I have assigned the reading for a particular class, I will not change the reading.
 
-Unless otherwise noted, all page numbers refer to the required textbook for the class, [Franklin, Rabin & Green, Tort Law and Alternatives: Cases and Materials (11th ed. 2021)](https://www.westacademic.com/Franklin-Rabin-Green-and-Geistfelds-Tort-Law-and-Alternatives-Cases-and-Materials-11th-9781647084899). I will provide links for supplementary materials.
-
-As I assign readings to particular class dates, the reading assignments will appear both in the _ page on this website and on a [Google calendar](https://calendar.google.com/calendar/embed?src=vtu22g9khnc4acg3plvuaarptc%40group.calendar.google.com&ctz=America%2FLos_Angeles). You can view and bookmark this calendar [in a separate browser window](https://calendar.google.com/calendar/embed?src=vtu22g9khnc4acg3plvuaarptc%40group.calendar.google.com&ctz=America%2FLos_Angeles). With a Google account, you can [subscribe to the calendar with read-only access](https://calendar.google.com/calendar/u/5?cid=dnR1MjJnOWtobmM0YWNnM3BsdnVhYXJwdGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). If you subscribe to the calendar, you can turn on notifications to automatically receive an email when new reading assignments are added. Here's how to do that:
+As I assign readings to particular class dates, the reading assignments will appear both in the [Reading Assignments](../reading) page on this website and on a [Google calendar](https://calendar.google.com/calendar/embed?src=vtu22g9khnc4acg3plvuaarptc%40group.calendar.google.com&ctz=America%2FLos_Angeles). You can view and bookmark this calendar [in a separate browser window](https://calendar.google.com/calendar/embed?src=vtu22g9khnc4acg3plvuaarptc%40group.calendar.google.com&ctz=America%2FLos_Angeles). With a Google account, you can [subscribe to the calendar with read-only access](https://calendar.google.com/calendar/u/5?cid=dnR1MjJnOWtobmM0YWNnM3BsdnVhYXJwdGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). If you subscribe to the calendar, you can turn on notifications to automatically receive an email when new reading assignments are added. Here's how to do that:
 1. Open [Google Calendar](https://calendar.google.com/) and locate the "Torts Reading Assignments (2022-2023)" calendar under "Other calendars." 
 2. Click on the three dots next to the calendar nam.
 3. Click on "Settings"

@@ -1,7 +1,7 @@
 ---
 title: Slides
 linktitle: Slides
-toc: true
+toc: false
 type: book
 date: '2022-08-16T00:00:00+01:00'
 
