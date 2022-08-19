@@ -9,4 +9,4 @@ date: '2022-08-16T00:00:00+01:00'
 weight: 30
 ---
 
-
+After the first day of class, I will provide a link on this page to access class audio recordings and transcripts.
