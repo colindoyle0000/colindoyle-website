@@ -26,14 +26,14 @@ Being prepared for cold calls means that you are ready to engage in questions â€
 ## Classroom Norms
 To foster an environment that supports curious critical thinking, our class has set of norms that I ask you each to follow.
 
-### Professionalism
+_Professionalism_ <br>
 Law school is a professional environment. Your classmates are your future colleagues, co-counsel, judges and policymakers. You should treat law school as the beginning of a professional career rather than as an extension of college.
 
 Professionalism and ethical conduct are central to the practice of law, and thus to legal education. We will cover topics in this course that are sensitive and may have personal and significant implications for any one of us in the class, for our families and for others we hold dear. All communication for the course is expected to be professional, respectful, and on topic.
 
 For the reasons explained [here](https://mattrking.com/courses/introduction/), I ask that you address me as "Professor" or "Professor Doyle."
 
-### Generosity
+_Generosity_ <br>
 We should all strive to be good listeners and to be respectful of different viewpoints. Being respectful does not mean that we should hold back from critiquing others' views, but it does require us to be be generous in how we interpret and respond to others. Particularly when disagreeing with an argument that someone else has made, try to address the strongest version of their argument. If a statement is made that offends you or that you think might offend others, do challenge it; but show respect for the person who made it. Remember, we all make mistakes sometimes in our speaking and listening.
 
 In this classroom, we disagree with ideas, not with people. When a disagreement targets a person, it often causes that person to become defensive and unreceptive to the point being made. But when a disagreement targets an idea, it allows the person who initially voiced that idea the space to consider the point being made and gives them the opportunity to change their mind.

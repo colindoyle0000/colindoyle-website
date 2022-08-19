@@ -398,22 +398,25 @@
 
   //   }
 
+.docs-article-container :not(h1, h2, h3){
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 .docs-article-container {
-    max-width: 35em;
+  max-width: 35em;
+  hyphens: auto;
+  margin-left: 10px;
+}
+
+.article-style :not(h1, h2, h3){
     text-align: justify;
     text-justify: inter-word;
     hyphens: auto;
-    margin-left: 10px;
 }
-
 .article-style {
-    max-width: 33em;
-    text-align: justify;
-    text-justify: inter-word;
-    hyphens: auto;
-
-}
-
+  max-width: 33em;
+  }
 .universal-wrapper{
  
   hyphens: auto;
