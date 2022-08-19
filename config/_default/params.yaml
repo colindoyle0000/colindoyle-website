@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: my_theme2
-  theme_night: my_theme2
+  # theme_night: my_theme2
   font: equity_a_caps
   font_size: M
 
