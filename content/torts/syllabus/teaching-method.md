@@ -13,7 +13,7 @@ Class attendance is required.[^1] Class starts at exactly 8:45am. Don’t be lat
 
 [^1]:Section 3.2 of the JD Handbook states, “A student is required to attend classes regularly. A student may be withdrawn, and/or excluded from an examination, and given a failing grade in any course in which the student has not maintained a satisfactory attendance record.” 
 
-If illness or exigent circumstances prevent you from being able to attend class, you must [email me](mailto:Colin.Doyle@lls.edu?subject=Absent%20from%20Class) or contact the [Office of Student Affairs](https://studentaffairs.lls.edu/) at [studentaffairs@lls.edu](mailto:studentaffairs@lls.edu)
+If illness or exigent circumstances prevent you from being able to attend class, you must [email me](mailto:Colin.Doyle@lls.edu?subject=Absent%20from%20Class) or contact the [Office of Student Affairs](https://studentaffairs.lls.edu/) at [studentaffairs@lls.edu](mailto:studentaffairs@lls.edu).
 
 ## Preparation & Participation
 Class preparation is also required. According to ABA Standard 310, for a five-credit two-semester course, you are expected to spend at least five hours per week on course-related work outside of class. I expect that you will come to class having completed the reading and ready to speak about the cases and materials assigned for that day. 
