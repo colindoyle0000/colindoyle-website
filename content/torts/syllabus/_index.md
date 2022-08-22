@@ -23,4 +23,4 @@ How the class is conducted and what is expected of students
 ### [Course Website & Other Technology](technology)
 The technology we use and how to troubleshoot technical difficulties
 ### [Exams & Grading](exams-grading)
-### [Useful Links](links)
+
