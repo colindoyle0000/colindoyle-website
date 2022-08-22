@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Colin Doyle | Law Professor # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://colin-doyle.net' # Website URL
 
 ############################
 ## LANGUAGE
@@ -43,8 +43,8 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
-  section: [HTML, RSS]
+home: [] #[HTML, RSS  , JSON, WebAppManifest, headers, redirects]
+section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
   quality: 75
