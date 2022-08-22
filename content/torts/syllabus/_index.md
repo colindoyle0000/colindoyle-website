@@ -15,9 +15,7 @@ type: book # Do not modify.
 ---
 
 ### [Logistics](logistics)
-Class schedule, office hours, contact information
-### [Reading Assignments](reading)
-How to know what to read for this class
+Class schedule, office hours, contact information, reading assignments
 ### [Teaching Method & Class Policies](teaching-method)
 How the class is conducted and what is expected of students
 ### [Course Website & Other Technology](technology)
