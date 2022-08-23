@@ -20,20 +20,21 @@ This page serves as a kind of blackboard/whiteboard for in-class instruction. I 
 ## Class One - August 23, 2022
 
 ### Group Divisions
-1. -
-2. -
-3. -
-4. -
-5. -
-6. -
-7. -
-8. -
-9. -
-10. -
-11. -
-12. -
-13. -
-14. -
+1. - P - TJ
+2. - P - Doc
+3. -P - GM
+4. - D - TJ
+5. - D - Doct
+6. - D- GM
+7. - P - TJ
+8. - P  - Doc
+9. - P - Gm
+10. - D - TJ
+11. - D - Doc
+12. - D- GM
+13. - P- TJ
+14. -P - Doc
+15. P - GM
     
 ### The Facts
 
