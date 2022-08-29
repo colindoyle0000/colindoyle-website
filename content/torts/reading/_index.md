@@ -40,5 +40,17 @@ Class 04 - Compensatory Damages
 
 Pgs. 717-734
 
+## Sep 6, 2022
+Class 05 - Compensatory Damages / Punitive Damages
+
+Pgs. 734 - 742
+
+Pgs. 749 - 759
 
 
+## Sep 8, 2022
+Class 06 - Punitive Damages
+
+Pgs. 759 - 770
+
+[Mathias v. Accor Economy Lodging, Inc.](../../torts-material/readings/mathias.pdf)
