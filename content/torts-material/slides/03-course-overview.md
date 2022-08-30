@@ -1,6 +1,8 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
+profile: false
+share: false
+show_date: false
+---
 
 
 # Agenda
@@ -13,7 +15,7 @@ _(continued from last week)_
 
 **Course Overview**
 
-![right](images/IMG_9979.jpeg)
+
 
 ---
 
@@ -21,7 +23,7 @@ _(continued from last week)_
 
 **How to Read a Case**
 
-![left](images/IMG_9981.jpeg)
+
 
 ---
 
