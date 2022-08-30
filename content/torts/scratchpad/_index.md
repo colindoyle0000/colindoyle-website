@@ -17,6 +17,12 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## Class Three - August 30, 2022
+
+You are a judge in the state of Loyola tasked with writing the opinion of the court in the following case. No precedent binds you on the legal issues here, but it is customary to reference the reasoning of decisions from other jurisdictions when deciding an issue of first impression. The facts of the case are as follows:
+
+Luna Adams found that her car's brakes were squeaking. She brought the car in to be seen by her mechanic, Naomi Donald. Donald replaced the brake pads. A week later, Adams was driving when the brakes on her car failed, causing her to run off the road and crash into a tree. Adams sued Donald for personal injuries and property damages. The case went to a jury trial. Adams motioned for summary judgment, under the legal theory that when a car mechanic fixes a part of a car, that mechanic is strictly liable for all injuries proximately caused by that part of the car failing. The trial judge denied the motion, ruling that negligence, not strict liability, governed. The plaintiff appeals the denial of that motion.
+
 ## Class One - August 23, 2022
 
 ### Group Divisions
