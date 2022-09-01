@@ -56,5 +56,17 @@ Class 06 - Punitive Damages
 
 Pgs. 759 - 770
 
+## Sep 13, 2022
+Class 07 - Introduction to the Concept of Negligence
 
+Pgs. 37, 46-55
 
+## Sep 15, 2022
+Class 08 - The Reasonable Person
+
+Pgs. 55-64
+
+## Sep 20, 2022
+Class 09 - The Role of Judges and Juries
+
+Pgs. 64-78
