@@ -1,7 +1,8 @@
-autoscale: true
-slidenumbers: true
-Footer: 
-
+---
+profile: false
+share: false
+show_date: false
+---
 
 # Compensatory Damages
 
@@ -46,7 +47,6 @@ To restore the plaintiff to the state they were in before the harm caused by the
 ---
 
 # Majority Reasoning
-[.build-lists: true]
 
 1. Explicit argument: Deference
 2. Implicit argument: Fact section
@@ -54,15 +54,13 @@ To restore the plaintiff to the state they were in before the harm caused by the
 ---
 
 # Dissent Reasoning
-[.build-lists: true]
+
 1. Problem: Pain and suffering awards are arbitrary
 2. Solution: Compare with similar cases
 
 ---
 
 # Jury Exercise
-
-![](images/randy.jpeg)
 
 You are a member of a jury, determining damages in the case of the falling donut sign.
 

@@ -13,3 +13,5 @@ weight: 10
 **02 - How to Read a Case** | [(.pdf)](/../../torts-material/slides/02-how-to-read-a-case.pdf) | [(webpage)](/../../torts-material/slides/02-how-to-read-a-case)
 
 **03 - Course Overview** | [(.pdf)](/../../torts-material/slides/03-course-overview.pdf) | [(webpage)](/../../torts-material/slides/03-course-overview)
+
+**04 - Compensatory Damages** | [(.pdf)](/../../torts-material/slides/04-compensatory-damages.pdf) | [(webpage)](/../../torts-material/slides/04-compensatory-damages)
