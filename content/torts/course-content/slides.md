@@ -15,3 +15,5 @@ weight: 10
 **03 - Course Overview** | [(.pdf)](/../../torts-material/slides/03-course-overview.pdf) | [(webpage)](/../../torts-material/slides/03-course-overview)
 
 **04 - Compensatory Damages** | [(.pdf)](/../../torts-material/slides/04-compensatory-damages.pdf) | [(webpage)](/../../torts-material/slides/04-compensatory-damages)
+
+**05 - Damages** | [(.pdf)](/../../torts-material/slides/05-damages-2.pdf) | [(webpage)](/../../torts-material/slides/05-damages-2)
