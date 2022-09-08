@@ -2,6 +2,7 @@
 profile: false
 share: false
 show_date: false
+title: Course Overview
 ---
 
 

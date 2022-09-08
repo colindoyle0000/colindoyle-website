@@ -17,6 +17,37 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## Class Six - September 8, 2022
+
+### Hershovitz v. Speedy Pete Pizza Pies
+
+The only issue on appeal to Loyola Supreme Court is whether the jury's punitive damages award violates Speedy Pete's constitutional right to due process.
+
+Speedy Pete Pizza Pies is a national pizza chain that promises to deliver pizzas within fifteen minutes or it is free. As a result of this policy, their delivery drivers get in a lot of car accidents. The plaintiff, Scott Hershovitz, suffered minor injuries when a Speedy Pete delivery driver rear-ended him at a stop sign while out on delivery.
+
+Hershovitz sued Speedy Pete for negligence. A jury found Speedy Pete liable and awarded Hershovitz both compensatory and punitive damages.
+
+Compensatory damages: $15,000 <br>
+Punitive damages: $314,159
+
+For considering punitive damages, the jury heard testimony from Speedy Pete workers within the state of Loyola and within the state of Nebraska, where Speedy Pete is headquartered. The Loyola-located workers testified to management imposing strict rules about delivery drivers delivering on-time, including punishments like docked pay. The Nebraska-located workers testified to the Speedy Pete national office instructing managers across the country 1) to tell their delivery drivers to obey all traffic laws, and to follow up this instruction with a playful wink (or wink emoji if the instruction was communicated over text); and 2) to tell their delivery drivers that if they got in a car accident they should remove the *Speedy Pete Pizza Pies* decal from the side of their vehicle and tell any people they injured, "I'm so sorry. My blood sugar is running low, which is why I bought all of these pizzas that are in my car. I would love to give you a free slice if you could write your signature on this waiver of liability I just happen to have on me."
+
+The delivery driver who injured Hershovitz testified that she did remember receiving these instructions, but forgot to follow them exactly. After rear-ending Hershovitz, the driver removed the car decal, offered Hershovitze a slice of pizza but did not ask him to sign a waiver of liability. When he asked her why she hit him, she told him that she worked for Speedy Pete and had been rushing to deliver a pizza.
+
+In the State of Loyola, Speedy Pete could face civil penalties of up to $100,000 for instructing employees to hide that they were working for their employer in the event of an accident. In other states like Nebraska, Speedy Pete would not face civil penalties.
+
+### Your Job
+You have ten minutes to prepare for oral argument for both plaintiff and defendant.
+
+Plaintiff goal: Convince the court that the award amount is constitutional.
+
+Defendant goal: Convince the court that the award amount is unconstitutional.
+
+*Use* the legal tests we just went over in class.
+*Draw* upon and *analogize to* the reasoning from today's cases.
+
+When we reconvene, I will cold call random students and we will workshop your arguments together.
+
 ## Class Four - September 1, 2022
 
 **Jury Exercise**

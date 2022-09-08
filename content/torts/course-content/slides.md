@@ -17,3 +17,5 @@ weight: 10
 **04 - Compensatory Damages** | [(.pdf)](/../../torts-material/slides/04-compensatory-damages.pdf) | [(webpage)](/../../torts-material/slides/04-compensatory-damages)
 
 **05 - Damages** | [(.pdf)](/../../torts-material/slides/05-damages-2.pdf) | [(webpage)](/../../torts-material/slides/05-damages-2)
+
+**05 - Punitive Damages** | [(.pdf)](/../../torts-material/slides/06-punitive-damages.pdf) | [(webpage)](/../../torts-material/slides/06-punitive-damages)

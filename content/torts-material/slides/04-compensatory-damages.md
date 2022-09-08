@@ -2,9 +2,10 @@
 profile: false
 share: false
 show_date: false
+Title: Compensatory Damages
+
 ---
 
-# Compensatory Damages
 
 Why should our legal system make tortfeasors pay compensatory damages?
 

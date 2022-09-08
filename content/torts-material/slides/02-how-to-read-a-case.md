@@ -2,10 +2,11 @@
 profile: false
 share: false
 show_date: false
+title: How to Read a Case
+
 ---
 
 
-# How to Read a Case
 
 ---
 

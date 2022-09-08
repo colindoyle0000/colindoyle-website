@@ -1,13 +1,10 @@
 ---
+title: Welcome to Torts
 profile: false
 share: false
 show_date: false
 ---
 
-
-# Welcome to Torts
-
----
 
 # Agenda
 
