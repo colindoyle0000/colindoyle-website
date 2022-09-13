@@ -1,9 +1,10 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
+profile: false
+share: false
+show_date: false
+Title: Punitive Damages
 
-
-# Punitive Damages
+---
 
 
 

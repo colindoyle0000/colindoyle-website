@@ -23,9 +23,10 @@ _What are the stakes? What do I get when I win? What do I lose when I lose?_
 ## A. Damages
 - Compensatory damages
 - Punitive damages
-- Nominal damages & declaratory judgment
 
-## B. Injunctions
+## B. Other Remedies
+- Nominal damages & declaratory judgment
+- Injunctions
 
 # III. Negligence
 _Tort law’s major contribution_
