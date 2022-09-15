@@ -21,3 +21,5 @@ weight: 10
 **06 - Punitive Damages** | [(.pdf)](/../../torts-material/slides/06-punitive-damages.pdf) | [(webpage)](/../../torts-material/slides/06-punitive-damages)
 
 **07 - Damages Recap** | [(.pdf)](/../../torts-material/slides/07-damages-recap.pdf) | [(webpage)](/../../torts-material/slides/07-damages-recap)
+
+**08 - Introduction to the Concept of Negligence** | [(.pdf)](/../../torts-material/slides/08-negligence-intro.pdf) | [(webpage)](/../../torts-material/slides/08-negligence-intro)
