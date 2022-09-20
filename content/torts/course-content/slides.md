@@ -23,3 +23,5 @@ weight: 10
 **07 - Damages Recap** | [(.pdf)](/../../torts-material/slides/07-damages-recap.pdf) | [(webpage)](/../../torts-material/slides/07-damages-recap)
 
 **08 - Introduction to the Concept of Negligence** | [(.pdf)](/../../torts-material/slides/08-negligence-intro.pdf) | [(webpage)](/../../torts-material/slides/08-negligence-intro)
+
+**09 - Reasonable Care & The Reasonable Person** | [(.pdf)](/../../torts-material/slides/09-reasonable-care.pdf) | [(webpage)](/../../torts-material/slides/09-reasonable-care)
