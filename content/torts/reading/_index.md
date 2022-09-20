@@ -74,3 +74,18 @@ Pgs. 55-64
 Class 10 - The Role of Judges and Juries
 
 Pgs. 64-78
+
+## Sep 27, 2022
+Class 11 - Customs & Statutes
+
+Pgs. 78 - 89
+
+## Sep 29, 2022
+Class 12 - Proving Negligence
+
+Pgs. 89 - 95
+
+## Oct. 4, 2022
+Class 13 - Proving Negligence Part 2
+
+Pgs. 95 - 109
