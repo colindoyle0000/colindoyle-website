@@ -83,9 +83,15 @@ Pgs. 78 - 89
 ## Sep 29, 2022
 Class 12 - Proving Negligence
 
+
 Pgs. 89 - 95
 
 ## Oct. 4, 2022
 Class 13 - Proving Negligence Part 2
 
-Pgs. 95 - 109
+Pgs. 95 - 102
+
+## Oct. 6, 2022
+Class 14 - Proving Negligence Part 3
+
+Pgs. 102 - 109
