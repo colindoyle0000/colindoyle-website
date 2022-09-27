@@ -1,10 +1,10 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
+profile: false
+share: false
+show_date: false
+Title: Reasonable Care & The Reasonable Person (continued...)
 
-# Reasonable Care & 
-# The Reasonable Person
-(continued...)
+---
 
 
 ---
