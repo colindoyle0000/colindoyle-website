@@ -28,4 +28,4 @@ weight: 10
 
 **10 - Reasonable Care & The Reasonable Person (continued)** | [(.pdf)](/../../torts-material/slides/10-reasonable-person.pdf) | [(webpage)](/../../torts-material/slides/10-reasonable-person)
 
-**10 - Judges & Juries | Customs** | [(.pdf)](/../../torts-material/slides/11-judge-jury.pdf) | [(webpage)](/../../torts-material/slides/11-judge-jury)
+**11 - Judges & Juries | Customs** | [(.pdf)](/../../torts-material/slides/11-judge-jury.pdf) | [(webpage)](/../../torts-material/slides/11-judge-jury)
