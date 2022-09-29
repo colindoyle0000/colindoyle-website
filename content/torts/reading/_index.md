@@ -95,3 +95,10 @@ Pgs. 95 - 102
 Class 14 - Proving Negligence Part 3
 
 Pgs. 102 - 109
+
+## Oct. 11, 2022
+No Class
+
+## Oct. 13, 2022
+Class 15 - Medical Malpractice
+Pgs. 109 - 128
