@@ -17,6 +17,54 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## Class 13 - October 3, 2022
+## In-Class Exercise: Moore v. Myers
+### Prompt
+
+You are an appellate court judge in the state of Loyola. The following case comes to you on appeal from a trial court.
+
+In the first part of this exercise, you should take notes on the opinion that you would write in this case.
+
+In the second part of this exercise, you will confer with the other judges on this appellate panel and decide the case together. After conferring with colleagues, it may be that you arrive at one unanimous opinion. Or it may be that some members of the panel concur or dissent. As a reminder: concurrences arrive at the same holding as the majority opinion but for different reasons, and dissents arrive at a different holding than the majority opinion.
+
+In the third of this exercise, you will report back to the class.
+
+### Background
+
+Twelve-year-old Monica Graham was struck by a car while fleeing a neighbor's advancing pit bull. The dog was, at that time, both unleashed and unconfined, in violation of state law.
+
+Seeking damages for her daughter's injuries, Monica's mother, appellant Mattie Moore, brought a negligence action on behalf of herself and her daughter against the owner of the dog, Michael Myers; his wife, Jeanne Griffin Myers; and her fifteen year-old son, Jaton Griffin.
+
+At the conclusion of plaintiff's case, the defense motioned for a directed verdict, and the trial court granted judgment in favor of the defendants as to all counts. The plaintiff now appeals that ruling.
+
+### Appellant's Case
+#### Monica Graham's Testimony
+Monica testified that on July 18, 1999, she and three friends were walking along Columbia Park Road, not far from her residence. As the girls approached the Myerses' home, at 7104 Columbia Park Road, Monica saw Jaton and two other boys, Heath and Nathaniel, “standing by the steps [of the house] with a dog.” Monica knew all three boys either from school or from the neighborhood.
+The dog was a pit bull. It was unleashed and standing between Jaton and Heath, in an unenclosed front yard. In front of the Myerses' house, Jaton and one of Monica's friends, Showna, got into an argument. At that point, Jaton threatened to “sic his dog on” the girls. When he purportedly “said something to the dog to make the dog ... aggressive,” the dog barked at the girls and started towards Monica, “like it was coming after” her. As it approached, Monica “got scared,” turned and ran into the path of Ms. Young's oncoming car. The car hit Monica, leaving her with two broken arms, a broken leg, and a fractured jaw.
+
+#### Michael Myers's Deposition Testimony
+Appellant read portions of Mr. Myers's deposition testimony into the record. Myers deponed that he owned the pit bull. He insisted, however, that the dog had never bitten anyone, except during personal protection training when the dog bit a protective sleeve. He also stated that he regularly allowed Jaton to play with the pit bull in front of his house, and did not require Jaton to put the dog on a leash.
+On his way home on the date of the accident, he saw a group of girls walking along Columbia Park Road, headed in the direction of his house. He stated that, when he got home, “[he] walked past Jaton,” who was “by the steps with the dog.” As he entered his house, he heard the slamming of car brakes.
+
+#### Mia Young's Deposition Testimony
+Excerpts from the deposition of Mia Young were read into the record. The excerpts disclosed that, as Ms. Young drove down Columbia Park Road towards the Myerses' house, she observed three girls running in the street, with a dog in pursuit. She noted that the dog wore a leash, that it “was behind the children,” and that it looked like it was chasing them. Ms. Young testified that she only saw Monica for a second, before she struck Monica with her car. 
+
+#### Appellees' Defense
+For his convenience, Officer Stanley was permitted to testify during the presentation of appellant's case, even though he was called by the defense. The officer testified that when he arrived at the scene of Monica's accident, he was not told by anyone that a dog had been involved in the accident. Officer Stanley testified that, in investigating the accident, “there was no indication of any involvement of a pit bull and neither animal control nor any related agency was called to investigate any violation of the City Ordinance.”
+
+#### Trial Court Ruling
+At the conclusion of plaintiff's case, the defense motioned for a directed verdict, and the trial court granted judgment in favor of the defendants as to all counts. The trial court found that, although there was sufficient evidence to prove that the defendants had violated the pitbull ordinance, the purpose of this ordinance was not to protect people from the kind of harm the plaintiff suffered (a car accident). Therefore, the trial court found that the defendants were not negligent as a matter of law.
+
+The plaintiff now appeals the trial court’s ruling on the motion for a directed verdict. This court will review the trial court’s ruling *de novo*.
+
+#### Text of Relevant Statute
+> [a]ny person owning a Pit Bull Terrier prior to November 1, 1996, may continue to harbor the animal on his premises under the following conditions:
+> 
+> ....
+> 
+> (3) The owner shall maintain the dog within a building or a secure kennel at all times. Whenever the dog is removed from the building or kennel it shall be secured by an unbreakable or unseverable leash and maintained under the control of an adult.
+
+
 ## Class Six - September 8, 2022
 
 ### Hershovitz v. Speedy Pete Pizza Pies

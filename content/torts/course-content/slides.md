@@ -31,3 +31,5 @@ weight: 10
 **11 - Judges & Juries | Customs** | [(.pdf)](/../../torts-material/slides/11-judge-jury.pdf) | [(webpage)](/../../torts-material/slides/11-judge-jury)
 
 **12 - Statutes | Proving Negligence** | [(.pdf)](/../../torts-material/slides/12-statutes.pdf) | [(webpage)](/../../torts-material/slides/12-statutes)
+
+**13 - Proving Negligence** | [(.pdf)](/../../torts-material/slides/13-proving-negligence.pdf) | [(webpage)](/../../torts-material/slides/13-proving-negligence)
