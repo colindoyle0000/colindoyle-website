@@ -33,3 +33,5 @@ weight: 10
 **12 - Statutes | Proving Negligence** | [(.pdf)](/../../torts-material/slides/12-statutes.pdf) | [(webpage)](/../../torts-material/slides/12-statutes)
 
 **13 - Proving Negligence** | [(.pdf)](/../../torts-material/slides/13-proving-negligence.pdf) | [(webpage)](/../../torts-material/slides/13-proving-negligence)
+
+**14 - Res Ipsa Loquitur** | [(.pdf)](/../../torts-material/slides/14-res-ipsa.pdf) | [(webpage)](/../../torts-material/slides/14-res-ipsa)
