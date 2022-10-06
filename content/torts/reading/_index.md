@@ -87,12 +87,12 @@ Class 12 - Proving Negligence
 Pgs. 89 - 95
 
 ## Oct. 4, 2022
-Class 13 - Proving Negligence Part 2
+Class 13 - Proving Negligence
 
 Pgs. 95 - 102
 
 ## Oct. 6, 2022
-Class 14 - Proving Negligence Part 3
+Class 14 - Res Ipsa Loquitur
 
 Pgs. 102 - 109
 
@@ -100,5 +100,14 @@ Pgs. 102 - 109
 No Class
 
 ## Oct. 13, 2022
-Class 15 - Medical Malpractice
-Pgs. 109 - 128
+Class 15 - Res Ipsa Loquitur
+
+No reading
+
+## Oct. 18, 2022
+Class 16 - Medical Malpractice
+Pgs. 109 - 119
+
+## Oct. 20, 2022
+Class 17 - Medical Malpractice
+Pgs. 119 - 128
