@@ -17,6 +17,24 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## Class 15 - October 12, 2022
+
+## In-Class Exercise for Res Ipsa Loquitur:
+
+You are an appellate court judge in the state of Loyola. The following case comes to you on appeal from a trial court. You should take notes on the opinion that you would write in this case and be prepared to share your thoughts with the class.
+
+The defendant parked his car on an incline. Three children sat in the rear seat of the car; it was a 4-door sedan, and none of them got in the front seat. The children testified that none of them touched any of the control mechanisms of the car and that “something clicked in the front and the car started rolling” backwards in the direction of a large ditch. One of the children opened the door and told the others to jump out. All of the children jumped out. When the plaintiff jumped out, he fell, and the front wheel ran over him, causing serious injury. There is no evidence as to the condition of the brakes, whether the handbrake had been set, or whether the car was in gear.
+
+At trial, the plaintiff alleged that the defendant was negligent and that the doctrine of *res ipsa loquitur* applies. At the close of the plaintiff's case, the trial court ordered a directed verdict for the defendant. The plaintiff now appeals.
+
+How do you rule and why?
+
+Organize your notes according to the IRAC method:
+- Issue
+- Rule
+- Application
+- Conclusion
+
 ## Class 13 - October 3, 2022
 ## In-Class Exercise: Moore v. Myers
 ### Prompt
