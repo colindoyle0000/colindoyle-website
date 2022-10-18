@@ -111,3 +111,11 @@ Pgs. 109 - 119
 ## Oct. 20, 2022
 Class 17 - Medical Malpractice
 Pgs. 119 - 128
+
+## Oct. 25, 2022
+Class 18 - Review
+No reading
+
+## Oct. 27, 2022
+Class 19 - No Duty to Rescue or Protect
+Pgs. 129 - 143
