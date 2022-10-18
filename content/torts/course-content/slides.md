@@ -37,3 +37,5 @@ weight: 10
 **14 - Res Ipsa Loquitur** | [(.pdf)](/../../torts-material/slides/14-res-ipsa.pdf) | [(webpage)](/../../torts-material/slides/14-res-ipsa)
 
 **15 - Res Ipsa Loquitur 2** | [(.pdf)](/../../torts-material/slides/15-res-ipsa-2.pdf) | [(webpage)](/../../torts-material/slides/15-res-ipsa-2)
+
+**16 - Medical Malpractice** | [(.pdf)](/../../torts-material/slides/16-medical-malpractice.pdf) | [(webpage)](/../../torts-material/slides/16-medical-malpractice)
