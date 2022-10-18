@@ -1,8 +1,11 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
+profile: false
+share: false
+show_date: false
+Title: Medical Malpractice
 
-# Medical Malpractice
+---
+
 
 ---
 # Res Ipsa Recap
