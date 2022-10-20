@@ -7,8 +7,6 @@ show_date: false
 
 
 
-# Medical Malpractice
-
 ---
 
 
