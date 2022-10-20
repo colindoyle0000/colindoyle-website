@@ -5,7 +5,6 @@ share: false
 show_date: false
 ---
 
-
 # Agenda
 
 Syllabus highlights

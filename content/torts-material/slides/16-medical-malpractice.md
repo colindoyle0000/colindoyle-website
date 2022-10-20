@@ -1,11 +1,9 @@
 ---
+title: Medical Malpractice
 profile: false
 share: false
 show_date: false
-Title: Medical Malpractice
-
 ---
-
 
 ---
 # Res Ipsa Recap
@@ -52,7 +50,7 @@ Presumption of negligence
 
 ---
 
-![inline](images/Res Ipsa Loquitur.jpeg)
+![](images/Res Ipsa Loquitur.jpeg)
 
 ---
 
@@ -96,4 +94,4 @@ Doctors as a profession set that standard of care.
 
 The ultimate question is still:
 
-# [fit] Reasonable Care
+# Reasonable Care
