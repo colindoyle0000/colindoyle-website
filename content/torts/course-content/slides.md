@@ -40,4 +40,4 @@ weight: 10
 
 **16 - Medical Malpractice** | [(.pdf)](/../../torts-material/slides/16-medical-malpractice.pdf) | [(webpage)](/../../torts-material/slides/16-medical-malpractice)
 
-**17 - Medical Malpractice** | [(.pdf)](/../../torts-material/slides/16-medical-malpractice-cont.pdf) | [(webpage)](/../../torts-material/slides/16-medical-malpractice-cont)
+**17 - Medical Malpractice** | [(.pdf)](/../../torts-material/slides/17-medical-malpractice-cont.pdf) | [(webpage)](/../../torts-material/slides/17-medical-malpractice-cont)
