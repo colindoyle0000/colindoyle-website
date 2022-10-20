@@ -12,7 +12,7 @@ show_date: false
 ---
 
 
-![](images/Medical Malpractice.jpeg)
+![](images/Medical-Malpractice.jpeg)
 
 ---
 
@@ -56,7 +56,7 @@ or
 
 ---
 
-![](images/CA Informed consent.jpeg)
+![](images/CA-Informed-consent.jpeg)
 
 ---
 
