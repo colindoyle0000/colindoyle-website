@@ -17,6 +17,9 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## Class 18 - October 24, 2022
+
+
 ## Class 15 - October 12, 2022
 
 ## In-Class Exercise for Res Ipsa Loquitur:

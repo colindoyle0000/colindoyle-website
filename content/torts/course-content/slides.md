@@ -41,3 +41,5 @@ weight: 10
 **16 - Medical Malpractice** | [(.pdf)](/../../torts-material/slides/16-medical-malpractice.pdf) | [(webpage)](/../../torts-material/slides/16-medical-malpractice)
 
 **17 - Medical Malpractice Cont.** | [(.pdf)](/../../torts-material/slides/17-medical-malpractice-cont.pdf) | [(webpage)](/../../torts-material/slides/17-medical-malpractice-cont)
+
+**18 - Review: Concept of Negligence** | [(.pdf)](/../../torts-material/slides/18-review.pdf) | [(webpage)](/../../torts-material/slides/18-review)
