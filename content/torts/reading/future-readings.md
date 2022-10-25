@@ -16,4 +16,23 @@ toc: true
 
 
 
+## Nov. 8, 2022
+Duties of Landowners and Occupiers 
+Pgs. 190-205
+
+## Nov. 10, 2022
+Duties of Governmental Entities 
+Pgs. 227-244
+
+## Nov. 15, 2022
+Duties of Governmental Enttities (cont.) 
+Pgs. 244-257
+
+## Nov. 17, 2022
+Duty for Purely Emotional Harm 
+Pgs. 261-279
+
+## Nov. 22, 2022
+Duty for Purely Emotional Harm (cont.) 
+Pgs. 279-294
 
