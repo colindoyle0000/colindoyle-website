@@ -125,6 +125,7 @@ Pgs. 129 - 143
 
 ## Nov. 1, 2022
 Class 20 - Misrepresentations & Special Duties to Third Parties 
+
 Pgs. 143-158
 
 ## Nov. 3, 2022
