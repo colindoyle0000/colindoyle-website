@@ -19,6 +19,29 @@ This page serves as a kind of blackboard/whiteboard for in-class instruction. I 
 
 ## Class 18 - October 24, 2022
 
+You are the law clerk to a Supreme Court justice in the state of Loyola. The justice wants to discuss with you a new case coming up on appeal. She shares with you the following history of the case so far:
+
+The plaintiff, Adrianna Blackwell, sued the defendant, Dominic Pope, for negligence. Blackwell alleges that Pope negligently allowed gasoline to leak from an underground gasoline tank, contaminating the plaintiff’s well, which the plaintiff relied upon for drinking water and other household purposes.
+
+The plaintiff’s home borders Dominic Pope’s property to the North and a state highway to the East. The well on the plaintiff’s property was equidistant to the site of the gasoline tank on Pope’s property and the state highway.
+
+About ten years ago, Pope installed an underground gasoline tank and pump on his property. The tank was installed about one foot under the surface of the ground and was connected with the pump by pipes. Two months after the tank was installed, the plaintiff began to smell and taste gasoline in her drinking water. At trial, a number of witnesses testified that the water from the plaintiff’s well tasted of gasoline and could be lit on fire with a match. Prior to the gasoline tank being installed, no gasoline had ever been detected in the plaintiff’s well.
+
+The defendant, Pope, had paid Andrew Huber, a professional gasoline tank installer, to install the tank for him. Evidence was introduced at trial to show that the tank was a new tank stamped with an inspection sticker (as required by law for quality control). The plumbing was completed by professional plumbers; the fittings were examined after being installed; and the pipes were checked each time that the tank was filled to ensure that no gasoline was leaking out through any fixtures on the tank or through the pump itself.
+
+Russell Bollinger, the plaintiff’s mailperson, testified for the plaintiff that he had seen the tank being installed when out on his mail route. He testified, “It looked like an old outfit, rusty, had dirt on it, looked like they had taken it out of some place and installed it there without making changes on the fittings or retreading the pipes.” On cross-examination, he stated that “I was there just a few minutes. The tank was laying on top of the ground. I made no particular examination of that tank. When I went to the post office I glanced over and saw they were installing something. I saw the tank, looked at it a few seconds, I never went on the property. I don't think I was there over a minute.”
+
+Before intitiating the lawsuit, Blackwell brought up the issue with the defendant, Pope. He drank some water from her well and told her that it did not taste or smell of gasoline. To reassure her about the gasoline tank, he pointed to a meter on the tank and told Blackwell that the readings on the meter showed that no gasoline was leaking out. At trial, Pope admitted that the meter on the tank did no such thing. After meeting with the plaintiff, Pope called Huber, the tank installer, to ask about a potential leak. Huber assured the defendant that the tank had been installed properly and that there was nothing to worry about. The defendant asked Huber if they could dig around the tank to discover if there were any holes on the bottom but Huber told him that “no one does that for a small tank like this,” that the operation would risk creating an actual gasoline leak, and that it would cost Pope less to get water coolers delivered to the plaintiff’s house.
+
+The plaintiff sought to prove the defendant’s negligence according to two different legal theories. The first theory was res ipsa loquitur. The second theory was that the defendant had not exercised reasonable care when installing the gasoline tank and when addressing the problem of the gasoline leak after the plaintiff alerted the defendant to the problem.
+
+Over the plaintiff’s objection, the trial judge did not instruct the jury on res ipsa loquitur. Following controlling precedent from our court, the trial judge ruled that the plaintiff had an opportunity either to prove negligence through specific acts or to prove negligence through res ipsa loquitur, but the plaintiff was not allowed to present both grounds for liability to the jury. In the jurisdiction of Loyola, res ipsa loquitur does not create a rebuttable presumption of negligence, but a jury may rely upon res ipsa loquitur to infer that a defendant was negligent.
+
+Before you dig into the briefs that the parties have filed and the details of the record below, the justice would like to know your initial answers to three questions: 
+
+1. Was the defendant negligent? 
+2. If you were the attorney for the plaintiff, and you had the opportunity to prove negligence relying upon either res ipsa or specific acts but not both, which would you choose? Why?
+3. With this case, our court will have an opportunity to revisit our rule requiring plaintiffs to choose between relying on res ipsa or relying on specific acts to prove negligence. Should we change this rule? What difference would it make?
 
 ## Class 15 - October 12, 2022
 
