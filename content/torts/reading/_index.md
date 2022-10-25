@@ -119,3 +119,11 @@ No reading
 ## Oct. 27, 2022
 Class 19 - No Duty to Rescue or Protect
 Pgs. 129 - 143
+
+## Nov. 1, 2022
+Class 20 - Misrepresentations & Special Duties to Third Parties 
+Pgs. 143-158
+
+## Nov. 3, 2022
+Class 21 - Policy Bases for Invoking No Duty 
+Pgs. 169-184
