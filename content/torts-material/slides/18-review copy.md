@@ -1,10 +1,10 @@
----
-title: Review: Concept of Negligence
-profile: false
-share: false
-show_date: false
----
+autoscale: true
+slidenumbers: true
+Footer: 
 
+# Review: Concept of Negligence
+
+---
 
 # But first...
 
