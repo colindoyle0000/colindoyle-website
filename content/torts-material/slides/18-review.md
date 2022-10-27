@@ -8,7 +8,7 @@ show_date: false
 
 # But first...
 
-# [fit] Thanksgiving
+# Thanksgiving
 
 ![left](images/IMG_1804.jpeg)
 
@@ -48,15 +48,23 @@ A principle for assigning liability. Primarily informs:
 The principle behind liability/fault is __________________.
 
 **Tools for Identifying Reasonable Care**
+
     1. __________________
+   
     2. __________________
+   
     3. __________________
+   
     4. __________________
+   
     5. __________________
 
 **Special Considerations**
+
     1. __________________
+   
     2. __________________
+   
     3. __________________
 
 ---
@@ -64,7 +72,9 @@ The principle behind liability/fault is __________________.
 # Res Ipsa Loquitur
 
 **Two requirements:**
+
  1. __________________
+
  2. __________________
 
 ---
