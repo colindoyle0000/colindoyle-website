@@ -1,5 +1,5 @@
 ---
-title: Review: No Duty to Rescue or Protect
+title: No Duty to Rescue or Protect
 profile: false
 share: false
 show_date: false
