@@ -43,3 +43,5 @@ weight: 10
 **17 - Medical Malpractice Cont.** | [(.pdf)](/../../torts-material/slides/17-medical-malpractice-cont.pdf) | [(webpage)](/../../torts-material/slides/17-medical-malpractice-cont)
 
 **18 - Review: Concept of Negligence** | [(.pdf)](/../../torts-material/slides/18-review.pdf) | [(webpage)](/../../torts-material/slides/18-review)
+
+**19 - No Duty to Rescue or Protect** | [(.pdf)](/../../torts-material/slides/19-no-duty.pdf) | [(webpage)](/../../torts-material/slides/19-no-duty)
