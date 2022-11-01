@@ -45,3 +45,5 @@ weight: 10
 **18 - Review: Concept of Negligence** | [(.pdf)](/../../torts-material/slides/18-review.pdf) | [(webpage)](/../../torts-material/slides/18-review)
 
 **19 - No Duty to Rescue or Protect** | [(.pdf)](/../../torts-material/slides/19-no-duty.pdf) | [(webpage)](/../../torts-material/slides/19-no-duty)
+
+**20 - Duty to Act** | [(.pdf)](/../../torts-material/slides/20-duty-to-act.pdf) | [(webpage)](/../../torts-material/slides/20-duty-to-act)
