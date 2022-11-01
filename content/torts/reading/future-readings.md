@@ -16,13 +16,7 @@ toc: true
 
 
 
-## Nov. 8, 2022
-Duties of Landowners and Occupiers 
-Pgs. 190-205
 
-## Nov. 10, 2022
-Duties of Governmental Entities 
-Pgs. 227-244
 
 ## Nov. 15, 2022
 Duties of Governmental Enttities (cont.) 
