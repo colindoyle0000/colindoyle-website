@@ -1,11 +1,10 @@
-autoscale: true
-slidenumbers: true
-Footer: 
-
-# Duty to Act
-
-
 ---
+title: Duty to Act
+profile: false
+share: false
+show_date: false
+---
+
 
 # exercise reasonable care
 
@@ -75,7 +74,7 @@ Statutes
 
 ---
 
-# Sidenote: Don't write like this
+# Sidenote: Don’t write like this
 
 On Sunday, August 9, 1986, Jeffrey Harper (“Harper”) was one of four guests on Theodor Herman’s (“Herman”) 26-foot boat…
 
@@ -97,7 +96,7 @@ As Gregor Samsa (“Samsa”) awoke one morning on Sunday, August 9, 1986 from u
 
 # Because they treat the reader like a big, golden baby.
 
-![right](images/IMG_5099.jpeg)
+![](images/IMG_5099.jpeg)
 
 ---
 

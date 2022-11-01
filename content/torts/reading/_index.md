@@ -132,3 +132,11 @@ Pgs. 143-158
 Class 21 - Policy Bases for Invoking No Duty 
 
 Pgs. 169-184
+
+## Nov. 8, 2022
+Duties of Landowners and Occupiers 
+Pgs. 190-205
+
+## Nov. 10, 2022
+Duties of Governmental Entities 
+Pgs. 227-244
