@@ -17,15 +17,15 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
-## Class 22 - November 8, 2022
+## Class 23 - November 10, 2022
 
-You are a trial court judge in the state of Loyola. Here are the facts of a case before you:
+### Sample Exam Question
 
-A patient had been diagnosed as legally blind and had stopped driving as a result. At a routine eye appointment, the patient’s optometrist told him that his vision had improved enough for him to drive again. 
+You are a trial court judge in the state of Loyola. The facts of a case before you are as follows. A patient had been diagnosed as legally blind and had stopped driving as a result. At a routine eye appointment, the patient’s optometrist told him that his vision had improved enough for him to drive again. The patient resumed driving and shortly thereafter crashed into a horse-drawn hay trailer, killing one passenger and injuring the other four. 
 
-The patient resumed driving and shortly thereafter crashed into a horse-drawn hay trailer, killing one passenger and injuring the other four. The passengers have sued the optometrist, claiming medical malpractice. The optometrist has moved for summary judgment on the grounds that she had no duty to the plaintiffs.
+The passengers have sued the optometrist, claiming medical malpractice. The optometrist has moved for summary judgment on the grounds that she had no duty to the plaintiffs. 
 
-How would you rule on the motion? Include your reasoning.
+How would you rule on the motion? Include your reasoning. You should be aware that the Supreme Court of Loyola recently adopted the holding and reasoning of the *Tarasoff* opinion regarding a psychiatrist’s duty to third parties.
 
 ## Class 18 - October 24, 2022
 

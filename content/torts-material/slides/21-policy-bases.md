@@ -1,8 +1,11 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
+title: Policy Bases for No Duty
+profile: false
+share: false
+show_date: false
+---
 
-# Policy Bases for No Duty
+
 
 
 ---

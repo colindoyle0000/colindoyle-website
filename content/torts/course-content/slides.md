@@ -49,3 +49,5 @@ weight: 10
 **20 - Duty to Act** | [(.pdf)](/../../torts-material/slides/20-duty-to-act.pdf) | [(webpage)](/../../torts-material/slides/20-duty-to-act)
 
 **21 - Policy Bases for Invoking No Duty** | [(.pdf)](/../../torts-material/slides/21-policy-bases.pdf) | [(webpage)](/../../torts-material/slides/21-policy-bases)
+
+**22 - Duties of Landowners & Occupiers** | [(.pdf)](/../../torts-material/slides/22-landowners.pdf) | [(webpage)](/../../torts-material/slides/22-landowners)

@@ -1,8 +1,10 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
+title: Duties of Landowners & Occupiers
+profile: false
+share: false
+show_date: false
+---
 
-# Duties of Landowners & Occupiers
 
 
 
