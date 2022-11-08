@@ -18,15 +18,5 @@ toc: true
 
 
 
-## Nov. 15, 2022
-Duties of Governmental Enttities (cont.) 
-Pgs. 244-257
 
-## Nov. 17, 2022
-Duty for Purely Emotional Harm 
-Pgs. 261-279
-
-## Nov. 22, 2022
-Duty for Purely Emotional Harm (cont.) 
-Pgs. 279-294
 
