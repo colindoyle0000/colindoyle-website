@@ -164,3 +164,21 @@ Pgs. 190-205
 Class 23 - Duties of Governmental Entities 
 
 Pgs. 227-244
+
+## Nov. 15, 2022
+
+Class 24 - Duties of Governmental Enttities (cont.) 
+
+Pgs. 244-257
+
+## Nov. 17, 2022
+
+Class 25 - Duty for Purely Emotional Harm 
+
+Pgs. 261-279
+
+## Nov. 22, 2022
+
+Class 26 - Duty for Purely Emotional Harm (cont.) 
+
+Pgs. 279-294
