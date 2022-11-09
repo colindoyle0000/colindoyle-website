@@ -161,24 +161,24 @@ Pgs. 190-205
 
 ## Nov. 10, 2022
 
-Class 23 - Duties of Governmental Entities 
-
-Pgs. 227-244
+Class 23 - Exam Discussion & Practice Problem
 
 ## Nov. 15, 2022
 
-Class 24 - Duties of Governmental Enttities (cont.) 
+Class 24 - Duties of Governmental Entities
 
-Pgs. 244-257
+Pgs. 227-243
+
+Additional assignment: Do something kind and restorative for yourself.
 
 ## Nov. 17, 2022
 
-Class 25 - Duty for Purely Emotional Harm 
+Class 25 - Duty for Purely Emotional Harm
 
-Pgs. 261-279
+Pgs. 261-268
 
 ## Nov. 22, 2022
 
-Class 26 - Duty for Purely Emotional Harm (cont.) 
+Class 26 - Duty for Purely Emotional Harm (cont.)
 
-Pgs. 279-294
+Pgs. 276-286
