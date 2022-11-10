@@ -21,11 +21,54 @@ This page serves as a kind of blackboard/whiteboard for in-class instruction. I 
 
 ### Sample Exam Question
 
-You are a trial court judge in the state of Loyola. The facts of a case before you are as follows. A patient had been diagnosed as legally blind and had stopped driving as a result. At a routine eye appointment, the patient’s optometrist told him that his vision had improved enough for him to drive again. The patient resumed driving and shortly thereafter crashed into a horse-drawn hay trailer, killing one passenger and injuring the other four. 
+You are an appellate court panel in the state of Loyola. The facts of a case on appeal before you are as follows. 
 
-The passengers have sued the optometrist, claiming medical malpractice. The optometrist has moved for summary judgment on the grounds that she had no duty to the plaintiffs. 
+A patient had been diagnosed as legally blind and had stopped driving as a result. At a routine eye appointment, the patient’s optometrist told him that his vision had improved enough for him to drive again. The patient resumed driving and six weeks later crashed into a horse-drawn hay trailer, killing one passenger and injuring the other four. 
 
-How would you rule on the motion? Include your reasoning. You should be aware that the Supreme Court of Loyola recently adopted the holding and reasoning of the *Tarasoff* opinion regarding a psychiatrist’s duty to third parties.
+The passengers have sued the optometrist, claiming medical malpractice. 
+
+Part A)
+
+The optometrist motioned for summary judgment on the grounds that she had no duty to the plaintiffs. The trial judge denied the motion, and the optometrist now appeals the denial of the motion.
+
+Write a majority opinion that affirms the lower court’s ruling and a dissenting opinion that would have overturned the lower court’s ruling. 
+
+It may be helpful to know that the Supreme Court of Loyola recently adopted both the holding and reasoning of the *Tarasoff* opinion regarding a psychiatrist’s duty to third parties.
+
+**Note:** For the actual exam, you will have an appendix of legal rules that you are not expected to have memorized. Included in that appendix will be the *Rowland* factors, listed here:
+
+**Rowland v. Christian Factors:**
+
+(1) the foreseeability of harm to the injured party;
+
+(2) the degree of certainty that the injured party suffered harm;
+
+(3) the closeness of the connection between the defendant's conduct and the injury suffered;
+
+(4) the moral blame attached to the defendant's conduct;
+
+(5) the policy of preventing future harm;
+
+(6) the extent of the burden to the defendant;
+
+(7) the consequences to the community of imposing a duty to exercise care, with resulting potential liability.
+
+Part B)
+
+On remand, the case went to trial and expert witnesses testified for both the plaintiff and the defendant. 
+
+The plaintiff's witness testified that the optometrist used a standard eye test and that the patient’s score on the test “barely” crossed the threshold into the range of scores that would permit someone to drive. The witness also testified that under similar circumstances she would “never” tell a patient that they could drive without performing more tests because it was “such a close call” and because the defendant had performed poorly on previous tests. On cross-examination, the witness conceded that no statutes or regulations required further tests and that her judgment was based on professional experience and not a particular medical text or guidebook that she could share with the court.
+
+The defendant’s witness testified that, according to the test, the patient’s score was in the range of scores that would permit someone to drive. On cross-examination, the witness conceded that his sole income was providing expert witness testimony and that he had not practiced optometry or seen patients in over a decade.
+
+The trial court judge instructed the jury that, “negligence is about fault” and that “the question is not whether the doctor’s judgment proved to be incorrect but whether the doctor made that judgment based on faulty reasons or practices.”
+
+At the close of trial, the defendant motioned for a directed verdict. The motion was denied, and the jury returned a verdict for the defendant.
+
+On appeal, the plaintiffs contend that the judge’s instructions to the jury were improper and that a new trial should be granted. The defendant contends that the judge’s instructions were proper and that even if the instructions were improper that the judge should have entered a directed verdict for the defendant.
+
+Write a majority opinion that addresses both issues.
+
 
 ## Class 18 - October 24, 2022
 
