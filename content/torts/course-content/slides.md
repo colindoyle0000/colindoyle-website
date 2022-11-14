@@ -51,3 +51,5 @@ weight: 10
 **21 - Policy Bases for Invoking No Duty** | [(.pdf)](/../../torts-material/slides/21-policy-bases.pdf) | [(webpage)](/../../torts-material/slides/21-policy-bases)
 
 **22 - Duties of Landowners & Occupiers** | [(.pdf)](/../../torts-material/slides/22-landowners.pdf) | [(webpage)](/../../torts-material/slides/22-landowners)
+
+**23 - Midterm Review** | [(.pdf)](/../../torts-material/slides/23-midterm.pdf) | [(webpage)](/../../torts-material/slides/23-midterm)

@@ -1,10 +1,9 @@
----
-title: Preparing for the Midterm
-profile: false
-share: false
-show_date: false
----
+autoscale: true
+slidenumbers: true
+Footer: 
 
+# ~~Duties of Governmental Entities~~
+# Preparing for the Midterm
 
 ---
 
