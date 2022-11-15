@@ -53,3 +53,5 @@ weight: 10
 **22 - Duties of Landowners & Occupiers** | [(.pdf)](/../../torts-material/slides/22-landowners.pdf) | [(webpage)](/../../torts-material/slides/22-landowners)
 
 **23 - Midterm Review** | [(.pdf)](/../../torts-material/slides/23-midterm.pdf) | [(webpage)](/../../torts-material/slides/23-midterm)
+
+**24 - Duties of Governmental Entities** | [(.pdf)](/../../torts-material/slides/24-government.pdf) | [(webpage)](/../../torts-material/slides/24-government)
