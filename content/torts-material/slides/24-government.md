@@ -1,8 +1,9 @@
-autoscale: true
-slidenumbers: true
-Footer: 
-
-# Duties of Governmental Entities
+---
+title: Duties of Governmental Entities
+profile: false
+share: false
+show_date: false
+---
 
 
 ---
@@ -48,21 +49,37 @@ Two parts:
 # Structure: Actual Answer (Example)
 
 Main Issue
+
 \- Introduction
+
 \- Rule
+
 \- Analysis
+
 --- Subissue # 1
+
 --- Rule
+
 --- Analysis
+
 --- Conclusion
+
 --- Subissue # 2
+
 --- Rule
+
 --- Analysis
+
 ------ Sub-subissue
+
 ------ Rule
+
 ------ Analysis
+
 ------ Conclusion
+
 --- Conclusion
+
 \- Conclusion
 
 ---
@@ -70,25 +87,45 @@ Main Issue
 # Practice Question Structure: Actual Answer
 
 \- Introduction (basically your holding / conclusion)
+
 \- Rule for duty
+
 \- Acknowledgment that this is a close call and both paths will be analyzed.
+
 \- First path: Actions created a risk of physical harm
+
 --- Rule
+
 --- Analysis
+
 ------ Subissue: Policy basis exception
+
 ------ Rule
+
 ------ Analysis
+
 --- Conclusion
+
 \- Second path: Affirmative duty
+
 --- Rule
+
 --- Analysis
+
 ------ Subissue: Exceptions
+
 ------ Rule
+
 ------ Analysis
+
 ------------ Subissues: Each exception that warrants a full analysis
+
 ------------ Rule (when does this exception apply?)
+
 ------------ Analysis
+
 --- Conclusion
+
 - Conclusion
 
 ---

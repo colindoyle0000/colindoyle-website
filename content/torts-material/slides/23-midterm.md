@@ -8,7 +8,7 @@ show_date: false
 
 ---
 
-# [fit] You should be worried.
+# You should be worried.
 
 ---
 
