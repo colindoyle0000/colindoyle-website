@@ -174,7 +174,7 @@ Ministerial functions
 
 ---
 
-# [fit] Waiver of immunity ≠ Existence of duty
+# Waiver of immunity ≠ Existence of duty
 
 ---
 
