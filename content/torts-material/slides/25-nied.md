@@ -1,14 +1,17 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
+title: Duty for Purely Emotional Harm
+profile: false
+share: false
+show\_date: false
+---
 
-# Duty for Purely Emotional Harm
+
 
 
 ---
 
 # Assignment Report Back:
-# [fit]Did you do something kind and restorative for yourself?
+# \Did you do something kind and restorative for yourself?
 
 ---
 
@@ -16,15 +19,15 @@ Footer:
 
 ---
 
-![inline](images/gov1.jpg)
+![inline][image-1]
 
 ---
 
-![inline](images/gov2.jpg)
+![inline][image-2]
 
 ---
 
-![inline](images/gov3.jpg)
+![inline][image-3]
 
 ---
 
@@ -54,3 +57,7 @@ Requires a reasonable fear of immediate physical injury
 
 1. How is emotional harm different than damages for pain and suffering?
 2. Why are we learning about this under the duty chapter?
+
+[image-1]:	images/gov1.jpg
+[image-2]:	images/gov2.jpg
+[image-3]:	images/gov3.jpg

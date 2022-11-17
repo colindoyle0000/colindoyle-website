@@ -55,3 +55,5 @@ weight: 10
 **23 - Midterm Review** | [(.pdf)](/../../torts-material/slides/23-midterm.pdf) | [(webpage)](/../../torts-material/slides/23-midterm)
 
 **24 - Duties of Governmental Entities** | [(.pdf)](/../../torts-material/slides/24-government.pdf) | [(webpage)](/../../torts-material/slides/24-government)
+
+**25 - Duty for Purely Emotional Harm** | [(.pdf)](/../../torts-material/slides/25-nied.pdf) | [(webpage)](/../../torts-material/slides/25-nied)
