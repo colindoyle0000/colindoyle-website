@@ -11,7 +11,7 @@ show\_date: false
 ---
 
 # Assignment Report Back:
-# \Did you do something kind and restorative for yourself?
+# Did you do something kind and restorative for yourself?
 
 ---
 
