@@ -15,7 +15,7 @@ toc: false
 This section of the course website will provide links for viewing or downloading course material including slides, class recordings, and transcripts.
 
 ### [Course Roadmap](roadmap)
-An overview of the structure of the course.
 ### [Slides](slides)
 ### [Class Recordings](recordings)
 ### [Audio Recordings & Transcripts](audio)
+
