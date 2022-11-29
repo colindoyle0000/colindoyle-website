@@ -22,9 +22,9 @@ The midterm exam will count for 25% of your grade, and the final exam will count
 
 Included below are links to PDF versions of the instructions and appendices you will receive when you take the exam. I am providing them here so that you can familiarize yourself with the material before taking the exam.
 
-**Midterm Instructions** | [(.pdf)](/../../midterm-instructions.pdf) 
+**Midterm Instructions** | [(.pdf)](/../../torts-material/midterm-instructions.pdf) 
 
 
-**Midterm Appendices** | [(.pdf)](/../../midterm-appendices.pdf) 
+**Midterm Appendices** | [(.pdf)](/../../torts-material/midterm-appendices.pdf) 
 
 Appendix A is a list of cases discussed in-depth during class. Appendix B is a list of legal rules that you are not expected to have memorized. When you take the midterm exam, you will receive a copy of these appendices as part of your exam packet. You are allowed to consult those appendices while you take your exam.
