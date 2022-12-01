@@ -57,3 +57,5 @@ weight: 10
 **24 - Duties of Governmental Entities** | [(.pdf)](/../../torts-material/slides/24-government.pdf) | [(webpage)](/../../torts-material/slides/24-government)
 
 **25 - Duty for Purely Emotional Harm** | [(.pdf)](/../../torts-material/slides/25-nied.pdf) | [(webpage)](/../../torts-material/slides/25-nied)
+
+**25 - Duty for Purely Emotional Harm (cont.)** | [(.pdf)](/../../torts-material/slides/26-nied.pdf) | [(webpage)](/../../torts-material/slides/26-nied)
