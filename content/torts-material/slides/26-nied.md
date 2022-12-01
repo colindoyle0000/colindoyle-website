@@ -1,9 +1,9 @@
-autoscale: true
-slidenumbers: true
-Footer: 
-
-# Duty for Purely Emotional Harm
-
+---
+title: Duty for Purely Emotional Harm Cont.
+profile: false
+share: false
+show\_date: false
+---
 
 ---
 
