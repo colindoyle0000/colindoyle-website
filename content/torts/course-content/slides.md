@@ -58,4 +58,6 @@ weight: 10
 
 **25 - Duty for Purely Emotional Harm** | [(.pdf)](/../../torts-material/slides/25-nied.pdf) | [(webpage)](/../../torts-material/slides/25-nied)
 
-**25 - Duty for Purely Emotional Harm (cont.)** | [(.pdf)](/../../torts-material/slides/26-nied.pdf) | [(webpage)](/../../torts-material/slides/26-nied)
+**26 - Duty for Purely Emotional Harm (cont.)** | [(.pdf)](/../../torts-material/slides/26-nied.pdf) | [(webpage)](/../../torts-material/slides/26-nied)
+
+**27 - Midterm Review** | [(.pdf)](/../../torts-material/slides/27-midterm.pdf) | [(webpage)](/../../torts-material/slides/27-midterm)
