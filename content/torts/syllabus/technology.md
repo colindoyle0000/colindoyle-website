@@ -25,7 +25,7 @@ Following the first day of class, I will give each student access to a shared fo
 Please note that you are not allowed to record or share all or a portion of classes at Loyola Law School (video, audio, or photo) without the express permission of your instructor or the law school administration.
 
 ## Slides
-In general, I will post a copy of my [slides](/torts/course-content/slides) to this website just before class begins.
+In general, I will post a copy of my [slides](/torts/course-content/slides) to this website in the afternoon following our class.
 
 ## Technical Assistance
 Should you encounter any hardware or software issues during this course, please contact the ITS Service Desk at [helpdesk@lls.edu](mailto:helpdesk@lls.edu?subject=IT%20Help%20Re%3A%20Torts%20w%2F%20Prof.%20Doyle) or by calling 310-338-7777, option 2.

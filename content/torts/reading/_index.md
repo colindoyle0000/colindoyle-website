@@ -18,7 +18,7 @@ The reading assignments listed below are also available as a [Google calendar](h
 
 Unless otherwise noted, all page numbers refer to the required textbook for the class, [Franklin, Rabin & Green, Tort Law and Alternatives: Cases and Materials (11th ed. 2021)](https://www.westacademic.com/Franklin-Rabin-Green-and-Geistfelds-Tort-Law-and-Alternatives-Cases-and-Materials-11th-9781647084899). I will provide links for supplementary materials.
 
-# Spring 2023 Reading Assignments
+# Spring Semester
 
 # Causation
 
@@ -50,7 +50,7 @@ Intervening & Superseding Causes
 
 Pgs. 419-429
 
-# Fall 2022 Reading Assignments
+# Fall Semester
 
 ## Aug 23, 2022
 
