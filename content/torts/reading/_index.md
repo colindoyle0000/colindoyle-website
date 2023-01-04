@@ -20,27 +20,27 @@ Unless otherwise noted, all page numbers refer to the required textbook for the 
 
 # Spring 2023 Reading Assignments
 
-## Causation
+# Causation
 
-### Tuesday, January 17, 2023
+## Tuesday, January 17, 2023
 
 Basic Doctrine
 
 Pgs. 341-361
 
-### Thursday, January 19, 2023
+## Thursday, January 19, 2023
 
 Multiple Defendants
 
 Pgs. 376-393
 
-### Tuesday, January 24, 2023
+## Tuesday, January 24, 2023
 
 Toxic Harms
 
 Pgs. 393-403
 
-### Thursday, January 26, 2023
+## Thursday, January 26, 2023
 
 Unexpected Harm
 
