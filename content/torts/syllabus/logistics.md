@@ -47,7 +47,7 @@ By appointment in Burns 315. To schedule an appointment, [email me](mailto:colin
 
 Please note that open office hours are the norm, and one-on-one office hours are the exception. If you have a question about tort law or about the class itself, I recommend that you ask this question during open office hours. One-on-one office hours are available for students who cannot attend open office hours or who wish to have a private conversation about something other than substantive tort law.
 
-
+At the beginning of the spring semester, I will host one-on-one office hours for students who would like to go over their midterm exams. A midterm review memo will be distributed along with midterm grades. I encourage all students to read through my commentary on each question and mark out on the exam the issues that you missed. Take notes on how you would rewrite your exam if given the chance. Compare your answers to the sample student answers to understand how you can better structure your answers, string together arguments, and write more precisely and succinctly. Once you have taken these review steps, I am more than happy to meet with you individually (or in groups) to go over your exams. If you finish your review of this exam and still have questions about how to approach an exam for this class, this is great timing for meeting with me one-on-one so that I can understand your approach and coach you for the final. At the start of the semester, I will put a form on our class website for students to schedule one-on-one meetings with me. Depending on the number of students who request these meetings, we may need to spread them out across the first half of the semester.
 
 ## Reading Assignments
 
