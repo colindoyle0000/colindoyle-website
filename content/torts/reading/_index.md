@@ -18,6 +18,40 @@ The reading assignments listed below are also available as a [Google calendar](h
 
 Unless otherwise noted, all page numbers refer to the required textbook for the class, [Franklin, Rabin & Green, Tort Law and Alternatives: Cases and Materials (11th ed. 2021)](https://www.westacademic.com/Franklin-Rabin-Green-and-Geistfelds-Tort-Law-and-Alternatives-Cases-and-Materials-11th-9781647084899). I will provide links for supplementary materials.
 
+# Spring 2023 Reading Assignments
+
+## Causation
+
+### Tuesday, January 17, 2023
+
+Basic Doctrine
+
+Pgs. 341-361
+
+### Thursday, January 19, 2023
+
+Multiple Defendants
+
+Pgs. 376-393
+
+### Tuesday, January 24, 2023
+
+Toxic Harms
+
+Pgs. 393-403
+
+### Thursday, January 26, 2023
+
+Unexpected Harm
+
+Pgs. 405-410
+
+Intervening & Superseding Causes
+
+Pgs. 419-429
+
+# Fall 2022 Reading Assignments
+
 ## Aug 23, 2022
 
 Class 01 - Welcome to Torts!
