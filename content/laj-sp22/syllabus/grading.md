@@ -10,7 +10,7 @@ toc: false
 
 ## Overview
 
-This course is worth two credits. As required by Loyola Law School policy, this course will be graded according to a mandatory curve. According to ABA Standard 310, for a two-credit course you are expected to spend at least four hours per week on course-related work outside of class. 
+This course is worth two credits. According to ABA Standard 310, for a two-credit course you are expected to spend at least four hours per week on course-related work outside of class. 
 
 Your grade will be based on:
 
