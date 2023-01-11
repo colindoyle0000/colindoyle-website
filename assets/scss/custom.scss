@@ -401,8 +401,7 @@ margin-bottom: .4em;
   //   }
 
 .docs-article-container :not(h1, h2, h3){
-    text-align: justify;
-    text-justify: inter-word;
+    text-align: left;
 }
 
 .docs-article-container {
@@ -412,8 +411,7 @@ margin-bottom: .4em;
 }
 
 .article-style :not(h1, h2, h3){
-    text-align: justify;
-    text-justify: inter-word;
+    text-align: left;
     hyphens: auto;
 }
 .article-style {
