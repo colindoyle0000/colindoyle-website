@@ -35,37 +35,39 @@ Please email me both the GPT-3 text and the Dall-E image as part of your reading
 
 _Readings:_
 
-[**DOWNLOAD ALL READINGS FOR LESSON 01**](link)
+[**DOWNLOAD ALL READINGS FOR LESSON 01**](Lesson01.zip)
 
-[**AI in the Criminal Justice System**](https://epic.org/issues/ai/ai-in-the-criminal-justice-system/)
+[AI in the Criminal Justice System](https://epic.org/issues/ai/ai-in-the-criminal-justice-system/)
 <br> Epic.org
+<br> Read all.
 
-[**How the Police Use Facial Recognition, and Where It Falls Short**](https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.html)
-<br> Jennifer Valentino-DeVries, New York Times (Jan. 22 2020) <br> 
+[How the Police Use Facial Recognition, and Where It Falls Short](https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.html)
+<br> Jennifer Valentino-DeVries, New York Times (Jan. 22 2020)
+<br> Read all.
 
-[**Data and analytics enable community groups to become partners in public safety**](https://www.washingtonpost.com/crime-law/2021/12/14/crime-prevention-location-analysis/)
-<br> Tom Jackman, Wash. Post (Dec. 14, 2021) <br> 
+[Chicago’s “Race-Neutral” Traffic Cameras Ticket Black and Latino Drivers the Most](https://www.propublica.org/article/chicagos-race-neutral-traffic-cameras-ticket-black-and-latino-drivers-the-most?token=d6qqzFPQ19VGp5Qo6NiWBKiq0K33UMvJ) 
+<br> Emily Hopkins & Melissa Sanchez, ProPublica (Jan. 11, 2022)
+<br> Read all.
 
-[**Chicago’s “Race-Neutral” Traffic Cameras Ticket Black and Latino Drivers the Most**](https://www.propublica.org/article/chicagos-race-neutral-traffic-cameras-ticket-black-and-latino-drivers-the-most?token=d6qqzFPQ19VGp5Qo6NiWBKiq0K33UMvJ) <br> Emily Hopkins & Melissa Sanchez, ProPublica (Jan. 11, 2022) <br> 
+[Uptrust raises $2m to fight the billions of dollars wasted on useless mass incarceration](https://techcrunch.com/2021/05/18/uptrust-raises-2m-to-fight-the-billions-of-dollars-wasted-on-useless-mass-incarceration/)<br> Danny Crichton, TechCrunch (May 18, 2021) 
+<br> Read all.
 
-[**Uptrust raises $2m to fight the billions of dollars wasted on useless mass incarceration**](https://techcrunch.com/2021/05/18/uptrust-raises-2m-to-fight-the-billions-of-dollars-wasted-on-useless-mass-incarceration/) <br> Danny Crichton, TechCrunch (May 18, 2021) 
-
-Virginia D. Eubanks, “The Allegheny Algorithm,” ch. 4 in _Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor_ (St. Martin’s Press, 2015)
-
-[**The Coming Collision Between Autonomous Vehicles and the Liability System**][9] <br> Gary Marchant and Rachel Lindor, 52 Santa Clara L. Rev. 1321 (2012) 
+[The Coming Collision Between Autonomous Vehicles and the Liability System][9] <br> Gary Marchant and Rachel Lindor, 52 Santa Clara L. Rev. 1321 (2012) 
 <br> Read pages 1321-1330.
 
-[**The Promise and Perils of Algorithmic Lenders’ Use of Big Data**][10] <br> Matthew Adam Bruckner, 93 Chi.-Kent L. Rev. 3 (2018) 
-<br> Read pages 31-38, skim pages 38-56.
+[The Promise and Perils of Algorithmic Lenders’ Use of Big Data][10] <br> Matthew Adam Bruckner, 93 Chi.-Kent L. Rev. 3 (2018) 
+<br> Read pages 31-38.
 
-**DeepFakes: A Looming Challenge for Privacy, Democracy, and National Security** <br> Citron & Chesney (Scholarly Common at BU, 2019) 
+[DeepFakes: A Looming Challenge for Privacy, Democracy, and National Security](https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=1640&context=faculty_scholarship) <br> Citron & Chesney (Scholarly Common at BU, 2019) 
 <br> Read pages 1768-86.
 
-**AI is mastering language; should we trust what it says?**
+[AI is mastering language; should we trust what it says?](https://www.nytimes.com/2022/04/15/magazine/ai-language.html)
 <br> Steven Johnson, New York Times Magazine, 2022
+<br> Read all.
 
-[**Online Dispute Resolution Moves from E-Commerce to the Courts: Technology Executive Discusses Use of Internet to Settle Civil Cases**](https://www.pewtrusts.org/en/research-and-analysis/articles/2019/06/04/online-dispute-resolution-moves-from-e-commerce-to-the-courts)
+[Online Dispute Resolution Moves from E-Commerce to the Courts: Technology Executive Discusses Use of Internet to Settle Civil Cases](https://www.pewtrusts.org/en/research-and-analysis/articles/2019/06/04/online-dispute-resolution-moves-from-e-commerce-to-the-courts)
 <br> Erika Rickard, Pew Charitable Trusts (Jun 4, 2019)
+<br> Read all.
 
 
 ## Lesson 02 - Jan. 25
@@ -74,22 +76,35 @@ In this class, we will discuss how the field of machine learning has developed, 
 
 _Readings:_
 
-“Machine Learning: A Primer: an introduction for both technical and non-technical readers” by Lizzie Turner (Medium: Artificial Intelligence, 2018)
+[**DOWNLOAD ALL READINGS FOR LESSON 02**](Lesson02.zip)
 
-An Introduction to Statistical Learning with Applications in R
-[https://hastie.su.domains/ISLR2/ISLRv2\_website.pdf][12]
-Introduction (Pgs. 1-9 (stop at “Who Should Read This Book?), 12-13, 15-24)
+[Machine Learning: A Primer: an introduction for both technical and non-technical readers](https://medium.com/@lizziedotdev/lets-talk-about-machine-learning-ddca914e9dd1)
+<br> Lizzie Turner, Medium: Artificial Intelligence (May 26, 2018)
+<br> Read all.
 
-Anatomy of an A.I.
-[https://anatomyof.ai/][13]
+[An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
+<br> Gareth James, Daniela Witten, Trevor Hastie, & Robert Tibshirani (2021)
+<br> Read Introduction pages 1-9 (stop at “Who Should Read This Book?), 12-13, 15-24.
 
-Langdon Winner, [Do Artifacts Have Politics][14]? Deadlus Volume 109(1) (1980) 
+[Anatomy of an A.I. System](https://anatomyof.ai/)
+<br> Kate Crawford & Vladan Joler (2018)
+<br> Read all.
 
-Frank Easterbrook, [_Cyberspace and the Law of the Horse_][15], 1996 University of Chicago Legal Forum 207 (1996) (read all)
+[Do Artifacts Have Politics?][14]
+<br> Langdon Winner, Deadlus Volume 109(1) (1980)
+<br> Read all.
 
-Meg Leta Jones, [_Does Technology Drive Law? The Dilemma of Technological Exceptionalism in Cyberlaw_][16], 2018 U. Ill. J.L. Tech. & Pol'y 249 (2018) (read pp 249-260, 268-272)
+[Cyberspace and the Law of the Horse][15]
+<br> Frank Easterbrook, University of Chicago Legal Forum 207 (1996) 
+<br> Read all.
 
-Mark Chinen, [_The Co-Evolution of Autonomous Machines and Legal Responsibility_][17], 20 Va. J.L. & Tech. 338 (2016) (read pp 345-353)
+[Does Technology Drive Law? The Dilemma of Technological Exceptionalism in Cyberlaw][16]
+<br> Meg Leta Jones, U. Ill. J.L. Tech. & Pol'y 249 (2018) 
+<br> Read pages 249-260, 268-272.
+
+[The Co-Evolution of Autonomous Machines and Legal Responsibility][17]
+<br> Mark Chinen, 20 Va. J.L. & Tech. 338 (2016)
+<br> Read pages 345-353.
 
 ## Lesson 03 - Feb. 1
 ### The aspirations of legal algorithms

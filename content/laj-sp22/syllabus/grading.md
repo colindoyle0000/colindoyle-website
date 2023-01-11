@@ -21,9 +21,9 @@ Your grade will be based on:
 ## Weekly Reading Responses
 By midnight on the Tuesday before each class, please [email me][1] a 250-500 word reading response to that week’s assigned reading. To be sure that I do not miss your email, please use the subject line “Reading Response.”
 
-Your reading response should articulate your initial reactions to and thoughts about the theories, concepts, themes and ideas from the week’s reading. 
+Your reading response should articulate your initial reactions to and thoughts about the theories, concepts, arguments, and ideas from the week’s reading. 
 
-I _highly_ encourage you to take notes as you read. Reading without taking notes is not reading at all. Jotting down notes only after finishing reading a handful of different articles will almost always result in a subpar reading response. As you work through your reading assignments, don’t read passively and don’t take anything for granted. As you read, write down questions that come to mind. Ask yourself: What aspects of the author’s argument do you agree and disagree with? Why? Why not? What are the opportunities and limitations of these ideas? What assumptions are being taken for granted? What questions have been left unasked? What questions would you like to ask the author? 
+I _highly_ encourage you to take notes as you read. Reading without taking notes is not reading at all. Jotting down notes only after finishing the assigned reading will almost always result in a subpar reading response. As you work through your reading assignments, don’t read passively and don’t take anything for granted. As you read, write down questions that come to mind. Ask yourself: What aspects of the author’s argument do you agree and disagree with? Why? Why not? What are the opportunities and limitations of these ideas? What assumptions are being taken for granted? What questions have been left unasked? What questions would you like to ask the author? 
 
 Your reading response should take the form of an edited collection of those notes. With reading responses, you are not expected to have arrived at answers that can resolve difficult and thorny issues. Rather, a good reading response thoughtfully probes at important questions.
 
