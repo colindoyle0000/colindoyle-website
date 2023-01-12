@@ -15,7 +15,7 @@ draft: false
 toc: false
 ---
 
-The midterm review memo is available [here](/../../torts-material/midterm-instructions.pdf).
+The midterm review memo is available [here](/../../torts-material/midterm-memo.pdf).
 
 Once you have reviewed your exam, I am more than happy to meet with you individually or in groups to go over your exams. If you finish your review of this exam and still have questions about how to approach an exam for this class, this is great timing for meeting with me one-on-one so that I can understand your approach and coach you for the final.
 
