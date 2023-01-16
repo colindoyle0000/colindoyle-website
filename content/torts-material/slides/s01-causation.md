@@ -52,6 +52,22 @@ Two parts:
 
 ---
 
+# Factual causation is usually straightforward
+
+**Adams v. Bullock**
+--- Kid gets electrocuted by trolley line
+
+**Martin v. Herzog**
+--- Car accident, driving without headlights turned on
+
+**Byrne v. Boadle**
+--- Flour barrel falls on plaintiff's head
+
+**Reynolds v. Hicks**
+--- Underage kid gets drunk at wedding and gets in car accident
+
+---
+
 # Stubbs v. City of Rochester
 
 ---
@@ -69,9 +85,9 @@ Two parts:
 
 # California Jury Instructions
 
-A substantial factor in causing harm is a factor that a reasonable person would consider to have contributed to the harm. It must be more than aremote or trivial factor. It does not have to be the only cause of the harm.
+A substantial factor in causing harm is a factor that a reasonable person would consider to have contributed to the harm. It must be more than a remote or trivial factor. It does not have to be the only cause of the harm.
 
-[Conduct is not a substantial factor in causing harm if the same harmwould have occurred without that conduct.]
+[Conduct is not a substantial factor in causing harm if the same harm would have occurred without that conduct.]
 
 ---
 
