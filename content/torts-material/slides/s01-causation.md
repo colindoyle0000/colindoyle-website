@@ -1,6 +1,9 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
+title: Midterm Review
+profile: false
+share: false
+show\_date: false
+---
 
 # Welcome to the Spring Semester!
 
@@ -72,7 +75,7 @@ Two parts:
 
 ---
 
-# [fit] What about two possible causes?
+# What about two possible causes?
 
 ---
 
