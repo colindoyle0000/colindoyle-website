@@ -1,12 +1,10 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
+title: Midterm Review
+profile: false
+share: false
+show\_date: false
+---
 
-—
-
-# Midterm Review
-
-—
 
 # How I would approach a question for this class
 
