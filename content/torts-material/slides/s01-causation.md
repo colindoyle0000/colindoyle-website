@@ -1,5 +1,5 @@
 ---
-title: Midterm Review
+title: Causation - Basic Doctrine
 profile: false
 share: false
 show\_date: false
@@ -16,11 +16,17 @@ show\_date: false
 # Semester Overview
 
 Negligence
+
 --- Causation
+
 ------ Factual Causation
+
 ------ Proximate Cause
+
 --- Defenses
+
 ------ Contributory & Comparative Negligence
+
 ------ Assumption of Risk
 
 ---
@@ -28,19 +34,28 @@ Negligence
 # Semester Overview
 
 Strict Liability
+
 --- Traditional view
+
 --- Products liability
+
 ------ Manufacturing defects
+
 ------ Design defects
+
 ------ Warnings
+
 ------ Defenses
+
 
 ---
 
 # Semester Overview
 
 Intentional Torts
+
 --- Types of intentional tort
+
 --- Defenses
 
 Alternatives to Tort
