@@ -17,3 +17,5 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+Invitation link to trello discussion board:
+https://trello.com/invite/lawalgorithmsandjustice/ATTI4864949d8bb8f875e4d3a55c75c26b11B1EC3065
