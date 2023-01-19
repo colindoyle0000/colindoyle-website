@@ -14,6 +14,7 @@ weight: 10
 
 **01 - Causation - Basic Doctrine** | [(.pdf)](/../../torts-material/slides/s01-causation.pdf) | [(webpage)](/../../torts-material/slides/s01-causation)
 
+**01 - Causation - Multiple Defendants** | [(.pdf)](/../../torts-material/slides/s02-multiple.pdf) | [(webpage)](/../../torts-material/slides/1s02-multiple)
 
 # Fall Semester
 
