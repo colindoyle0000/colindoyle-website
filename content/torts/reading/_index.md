@@ -22,6 +22,8 @@ Unless otherwise noted, all page numbers refer to the required textbook for the 
 
 # Causation
 
+# Factual Cause
+
 ## Tuesday, January 17, 2023
 
 Basic Doctrine
@@ -40,6 +42,8 @@ Toxic Harms
 
 Pgs. 393-403
 
+# Proximate Cause
+
 ## Thursday, January 26, 2023
 
 Unexpected Harm
@@ -49,6 +53,16 @@ Pgs. 405-410
 Intervening & Superseding Causes
 
 Pgs. 419-429
+
+## Tuesday, January 31, 2023
+
+Unexpected Victim
+
+Pgs. 429-441
+
+## Thursday, February 2, 2023
+
+Causation Review & Exercises
 
 # Fall Semester
 
