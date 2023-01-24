@@ -108,7 +108,41 @@ _Readings:_
 
 ## Lesson 03 - Feb. 1
 ### The aspirations of legal algorithms
-_Readings to be determined_
+What concepts and tools do computational resources offer for realizing legal values and policies? What cautions and objections should lawyers and communities sharpen in the face of increasing use of computational and algorithmic tools in public and private settings?
+
+_Readings:_
+
+[**DOWNLOAD ALL READINGS FOR LESSON 03**](Lesson03.zip)
+
+[Prediction Policy Problems](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.p20151023)
+<br> Jon Kleinberg, Jens Ludwig, Sendhil Mullainathan, and Ziad Obermeyer, American Economic Review (2015) 
+<br> Read pages 491-95.
+
+[A Guide to Solving Social Problems with Machine Learning](https://hbr.org/2016/12/a-guide-to-solving-social-problems-with-machine-learning)
+<br> Jon Kleinberg, Jens Ludwig, and Sendhil Mullainathan, Harvard Business Review (Dec. 8, 2016)
+<br> Read all.
+
+[Of prediction and policy](https://www.economist.com/finance-and-economics/2016/08/20/of-prediction-and-policy)
+<br> The Economist (Aug. 20, 2016)
+<br> Read all.
+
+[Biased Algorithms Are Easier to Fix Than Biased People](https://www.nytimes.com/2019/12/06/business/algorithm-bias-fix.html)
+<br> Sendhil Mullainathan, N.Y. Times (Dec. 6, 2019)
+<br> Read all.
+
+[Want Less-Biased Decisions? Use Algorithms.](https://hbr.org/2018/07/want-less-biased-decisions-use-algorithms)
+<br> Alex P. Miller, Harvard Business Review (2018)
+<br> Read all.
+
+[Artificial Intelligence - the Revolution hasn’t happened yet](https://hdsr.mitpress.mit.edu/pub/wot7mkc1/release/10)
+<br> Michael Jordan, Harvard Data Science Review (July 1, 2019)
+<br> Read all.
+
+[AI Is Doing Legal Work.  But It Won’t Replace Lawyers, Yet](https://www.nytimes.com/2017/03/19/technology/lawyers-artificial-intelligence.html)
+<br> Steven Lohr, N.Y. Times (Mar. 19, 2019).
+<br> Read all.
+
+
 ## Lesson 04 - Feb. 8
 ### Fairness and discrimination
 _Readings to be determined_

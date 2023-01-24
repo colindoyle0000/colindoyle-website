@@ -15,23 +15,7 @@ toc: true
 ---
 
 
-## Lesson 03 - Feb. 1
-### The aspirations of legal algorithms
-What concepts and tools do computational resources offer for realizing legal values and policies? What cautions and objections should lawyers and communities sharpen in the face of increasing use of computational and algorithmic tools in public and private settings?
-_Readings:_
-“Artificial Intelligence - the Revolution hasn’t happened yet” by Michael Jordan
-(Medium: Artificial Intelligence, 2018)
-Steven Lohr, “AI Is Doing Legal Work.  But It Won’t Replace Lawyers, Yet,” N.Y. Times (Mar. 19, 2019), https://www.nytimes.com/2017/03/19/technology/lawyers-artificial-intelligence.html
-[Of prediction and policy: Governments have much to gain from applying algorithms][1][Download Of prediction and policy: Governments have much to gain from applying algorithms][2][to public policy, but controversies loom.][3][ Download to public policy, but controversies loom.][4]The Economist, Aug. 20, 2016.
-Kleinberg, J., Ludwig, J., and Mullainathan, S. 2016.[ A Guide to Solving Social][5]
-[Problems with Machine Learning.][6]Harvard Business Review, December 08.
-\- Kleinberg, J., Ludwig, J., Mullainathan, S. and Obermeyer, Z., 2015. [Prediction ][7] 
-[Download Prediction ][8]
-[policy problems. American Economic Review: Papers & Proceedings][9][ ][10]
-[Download policy problems. American Economic Review: Papers & Proceedings][11]
-, 105(5), 491-95.
-Sendhil Mullainathan, Biased Algorithms Are Easier to Fix Than Biased People, NY Times (Dec. 6, 2019),
-Alex P. Miller, _Want Less-Biased Decisions? Use Algorithms_., Harvard Business Review, 2018, [https://hbr.org/2018/07/want-less-biased-decisions-use-algorithms][12]
+
 
 ## Lesson 04 - Feb. 8
 ### Fairness and discrimination
