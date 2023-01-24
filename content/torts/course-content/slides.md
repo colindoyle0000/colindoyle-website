@@ -14,7 +14,9 @@ weight: 10
 
 **01 - Causation - Basic Doctrine** | [(.pdf)](/../../torts-material/slides/s01-causation.pdf) | [(webpage)](/../../torts-material/slides/s01-causation)
 
-**01 - Causation - Multiple Defendants** | [(.pdf)](/../../torts-material/slides/s02-multiple.pdf) | [(webpage)](/../../torts-material/slides/1s02-multiple)
+**02 - Causation - Multiple Defendants** | [(.pdf)](/../../torts-material/slides/s02-multiple.pdf) | [(webpage)](/../../torts-material/slides/1s02-multiple)
+
+**03 - Causation - Toxic Harms and Factual Causation Review** | [(.pdf)](/../../torts-material/slides/s03-toxic.pdf) | [(webpage)](/../../torts-material/slides/1s03-toxic)
 
 # Fall Semester
 
