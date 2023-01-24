@@ -1,9 +1,6 @@
----
-title: Causation - Basic Doctrine
-profile: false
-share: false
-show\_date: false
----
+autoscale: true
+slidenumbers: true
+Footer: 
 
 # Welcome to the Spring Semester!
 
@@ -16,17 +13,11 @@ show\_date: false
 # Semester Overview
 
 Negligence
-
 --- Causation
-
 ------ Factual Causation
-
 ------ Proximate Cause
-
 --- Defenses
-
 ------ Contributory & Comparative Negligence
-
 ------ Assumption of Risk
 
 ---
@@ -34,28 +25,19 @@ Negligence
 # Semester Overview
 
 Strict Liability
-
 --- Traditional view
-
 --- Products liability
-
 ------ Manufacturing defects
-
 ------ Design defects
-
 ------ Warnings
-
 ------ Defenses
-
 
 ---
 
 # Semester Overview
 
 Intentional Torts
-
 --- Types of intentional tort
-
 --- Defenses
 
 Alternatives to Tort
@@ -90,7 +72,7 @@ Two parts:
 
 ---
 
-# What about two possible causes?
+# [fit] What about two possible causes?
 
 ---
 
