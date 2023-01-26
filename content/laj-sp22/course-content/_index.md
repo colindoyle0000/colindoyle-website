@@ -13,5 +13,6 @@ toc: false
 ---
 
 
-No slides available at this time.
+[Lesson 02 Discussion Map](class02.png)
+
 
