@@ -18,6 +18,8 @@ weight: 10
 
 **03 - Causation - Toxic Harms and Factual Causation Review** | [(.pdf)](/../../torts-material/slides/s03-toxic.pdf) | [(webpage)](/../../torts-material/slides/1s03-toxic)
 
+**04 - Proximate Cause** | [(.pdf)](/../../torts-material/slides/s04-proximate.pdf) | [(webpage)](/../../torts-material/slides/1s04-proximate)
+
 # Fall Semester
 
 <br>
