@@ -78,8 +78,14 @@ Comparative Negligence (cont’d.)
 
 Pgs. 461-470
 
-Wassell v. Adams and an excerpt from Amy H. Kately, Out of the Whiteness: On Raced Codes and White Race Consciousness in Some Tort, Criminal, and Contract Law, 63 U. Cin. L. Rev. (1994) [Download here.](wassellvadams.pdf)
+
+_Wassell v. Adams_, 865 F.2d 849 (7th Cir. 1989)
+<br> Amy H. Kately, _Out of the Whiteness: On Raced Codes and White Race Consciousness in Some Tort, Criminal, and Contract Law_, 63 U. Cin. L. Rev. (1994) (excerpt)
+
 Please note that the case and article address issues of sexual assault, racism, and sexism. 
+
+[Download the PDF of the case and article excerpt here.](wassellvadams.pdf)
+
 
 # Fall Semester
 
