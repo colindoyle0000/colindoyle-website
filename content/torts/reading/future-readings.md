@@ -30,6 +30,7 @@ Contributory Negligence & Comparative Negligence
 
 Pgs. 443-461
 
+
 Lesson 08 - 
 
 ## Thursday, February 9, 2023
@@ -37,6 +38,8 @@ Lesson 08 -
 Comparative Negligence (cont’d.)
 
 Pgs. 461-470
+
+Excerpt from Amy H. Kately, Out of the Whiteness: On Raced Codes and White Race Consciousness in Some Tort, Criminal, and Contract Law, 63 U. Cin. L. Rev. (1994)
 
 Lesson 09 - 
 

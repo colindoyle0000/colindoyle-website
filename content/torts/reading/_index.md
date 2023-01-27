@@ -64,6 +64,23 @@ Pgs. 429-441
 
 Causation Review & Exercises
 
+# Defenses to Negligence
+
+## Tuesday, February 7, 2023
+
+Contributory Negligence & Comparative Negligence
+
+Pgs. 443-461
+
+## Thursday, February 9, 2023
+
+Comparative Negligence (cont’d.)
+
+Pgs. 461-470
+
+Wassell v. Adams and an excerpt from Amy H. Kately, Out of the Whiteness: On Raced Codes and White Race Consciousness in Some Tort, Criminal, and Contract Law, 63 U. Cin. L. Rev. (1994) [Download here.](wassellvadams.pdf)
+Please note that the case and article address issues of sexual assault, racism, and sexism. 
+
 # Fall Semester
 
 ## Aug 23, 2022
