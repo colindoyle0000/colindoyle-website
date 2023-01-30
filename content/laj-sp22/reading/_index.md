@@ -145,7 +145,47 @@ _Readings:_
 
 ## Lesson 04 - Feb. 8
 ### Fairness and discrimination
-_Readings to be determined_
+Recent developments in A.I. and machine learning raise questions about how fairness, equality, and nondiscrimination should be understood, defined, assessed, and advanced. As you make your way through this week’s readings, keep the following questions in mind:
+
+- What are the contrasting conceptions of fairness at work in these different sources? 
+- How should we reconcile competing concerns of accuracy and equity?
+- How should an understanding of historic and systemic inequality influence the approach to incorporating machine learning into legal decision-making?
+- Do risk scores pose the same or different problems depending on the decision-making context (e.g., access to credit, eligibility for pretrial release without bail, parole eligibility, policing, child welfare, and so on)?
+
+ 
+_Readings:_
+
+[**DOWNLOAD ALL READINGS FOR LESSON 04**](Lesson04.zip)
+
+[Criminal Tendency Detection From Facial Images and the Gender Bias Effect](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0282-4)
+<br> Mahdi Hashemi and Margeret Hall, Journal of Big Data (2020).
+<br> Read the abstract and introduction.
+
+[Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+<br> Joy Buolamwini and Timnit Gebru, ACM Conference on Fairness,
+Accountability and Transparency (2018).
+<br> Read all.
+
+[Two Conceptions of Procedural Fairness](https://pl-ai-seminar.seas.harvard.edu/files/pl-ai-seminar/files/sunstein_two_conceptions_of_procedural_fairness.pdf)
+<br> Cass R. Sunstein, Social Research, Vol. 73, No. 2 (Summer 2006).
+<br> Read all. 
+
+[Discrimination in the Age of Algorithms](https://academic.oup.com/jla/article/doi/10.1093/jla/laz001/5476086)
+<br> Jon Kleinberg, Jens Ludwi, Sendhil Mullainathan and Cass R. Sunstein, Journal of Legal Analysis (2018).
+<br> Read pages 113-146.
+
+[Why Is My Classifier Discriminatory?](https://arxiv.org/abs/1805.12002)
+<br> Irene Chen, Fredrik D. Johansson, and David Sontag, arXiv (Dec. 10, 2018).
+<br> Read pages 1-9. Don’t worry about understanding the equations.
+
+[Fairness and Abstraction in Sociotechnical Systems](https://dl.acm.org/doi/pdf/10.1145/3287560.3287598)
+<br> Andrew W. Selbst, dana boyd, Sorelle Friedler, Suresh Venkatusabramanian, and Janet Vertsei, ACM Conference on Fairness, Accountability, and Transparency (2019)
+<br> Read all.
+
+[Where fairness fails: data, algorithms, and the limits of antidiscrimination discourse](https://static1.squarespace.com/static/5b8ab61f697a983fd6b04c38/t/5cd9934e9b747a265111e80a/1557762900322/Where+fairness+fails+data+algorithms+and+the+limits+of+antidiscrimination+discourse.pdf)
+<br> Anna Lauren Hoffmann, Information, Communications, and Society (2019)
+<br> Read all.
+
 ## Lesson 05 - Feb. 15
 ### Prediction and probability
 _Readings to be determined_

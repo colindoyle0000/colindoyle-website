@@ -17,6 +17,34 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## February 2, 2023
+
+In both exercises for today, you are a trial court judge in the state of Loyola.
+
+### Exercise #1
+A chestnut tree from Tortfeasor Farms, the defendant in this case, fell over during a violent windstorm, crushing the roof of a car driving on the road beside the farm and injuring a passenger in the car, the plaintiff in this case. On this particular country road, the speed limit is thirty miles per hour. The driver of the car had been driving fifty miles per hour. If the driver had not been driving in excess of the speed limit, the car would not have been under the chestnut tree at the moment that it fell, and the plaintiff would not have been injured.
+
+Tortfeasor farms seeks to dismiss the negligence case against it because the driver’s excessive speed was an intervening cause of the injury. How do you rule and why?
+
+### Exercise #2
+
+While driving down a residential street, Sidney Greene looked down at her car’s display to skip forward on a podcast that she was listening to. When Greene’s attention returned to the road, she saw a pedestrian, Lamar Boyd, crossing a crosswalk about twenty feet ahead. Greene slammed on the brakes and swerved to the right side of the road where her car collided with a set of garbage cans that a local homeowner, Wilma Cooper, had set out for trash collection. As it turns out, there was no trash collection scheduled for that day. Cooper was tired of wheeling her trash can back and forth from the street each week, so she had decided to keep the trashcan at the curb. A local ordinance only allowed people to leave their trashcans in the street on trash collection day.
+
+As a result of Greene’s collision with the trashcan, trash and debris flew across the road, including a banana peel, which landed in the crosswalk. Not seeing the banana peel, Lamar Boyd stepped on it, slipped, and broke his leg. 
+
+Boyd is now suing both Greene and Cooper.
+
+Greene seeks to dismiss the case against her for two independent reasons:
+1) The trashcans that Cooper put out were an intervening cause of Boyd’s injuries
+2) Greene did not proximately cause Boyd’s injuries
+
+Cooper seeks to dismiss the case against her for two independent reasons:
+1) Cooper did not breach a duty of care to Boyd
+2) Cooper did not proximately cause Boyd’s injuries
+
+How do you rule and why?
+
+
 ## January 24, 2023
 
 ### Exercise #1

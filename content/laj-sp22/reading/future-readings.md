@@ -17,31 +17,7 @@ toc: true
 
 
 
-## Lesson 04 - Feb. 8
-### Fairness and discrimination
-The developments in Artificial Intelligence and Machine Learning make urgent questions about how fairness should be defined, assessed, and advanced. What is “determined” by technological and technical developments, what are dangers, and what are promising possibilities?
-In this session we will unpack one of the main principles of AI, fairness and nondiscrimination.  In addition, technical interest in this field expanded significantly, after stories about biased and discriminatory algorithms broke up in the media. In this class we will concentrate on the technical groups of fairness (individual fairness, group fairness and causal reasoning); and the sub definitions of fairness in each group. Among the specific notions that will be covered: statistical parity, equalized odds, and calibration. We will discuss the difference between the definitions, the benefits of choosing one over the other, and their limitations. 
-In this session we will focus on the legal and policy aspects of the technical definitions. In some domains there are specific legal mechanisms that bind the meaning of fairness and instruct what can or cannot be done. We will introduce some of those mechanisms, such as the disparate impact and disparate treatment theory in the US, we will discuss if those mechanisms are sufficient and whether they can be computed into a mathematical equation.
-- What are the contrasting conceptions of fairness at work in uses of probability and statistics? 
-- How do these contrasting views appear in discussions about the use of risk scores to inform decisions about access to credit, eligibility for pretrial release without bail, and other legal matters? 
-- How should calibration vs. balance be treated; what is fair and unfair about randomization; how do ex ante and ex post notions of fairness relate and differ?
-- What does or could it mean for there be to probabilities for an individual or risk scores for an individual? Randomness: is fairness ex ante really fair? 
-_Readings:_
-Irene Chen, Fredrik D. Johansson, David Sontag, “Why Is My Classifier Discriminatory?” (Dec. 10, 2018), https://arxiv.org/abs/1805.12002 
-Mark MacCarthy, “Standards of Fairness for Disparate Impact Assessment of Big Data Algorithms, ”48 CUMBER. L. REV. 1 (2017).
-Solon Barocas, Andrew D. Selbst, Big Data’s Disparate Impact, 104 California Law Review, 671 (2016).
-Fred Schauer, Profiles, Probabilities, and Stereotypes (Harvard, 2003), pp. 79-107
-Gary L. Wells, “Naked Statistical Evidence of Liability: Is Subjective Probability Enough?” J. PERSONALITY AND SOCIAL PSYCH. 62:3, pp. 739-752 (1992)
-Jon Elster, “Fairness and Norms,” Social Research, Vol. 73, No. 2 (Summer 2006), pp. 365, https://www.jstor.org/stable/40971828 
-Cass R. Sunstein, “Two Conceptions of Procedural Fairness,” Social Research, Vol. 73, No. 2 (Summer 2006), pp. 619-646, https://www.jstor.org/stable/40971840 
-Jon Kleinberg et al., “Discrimination in the Age of Algorithms,” Journal of Legal Analysis (Apr. 22, 2019), https://academic.oup.com/jla/article/doi/10.1093/jla/laz001/5476086
-“Gender Shades: Intersectional Accuracy Disparities in Commercial Gender
-Classification” by Joy Buolamwini and Timnit Gebru (Conference of Fairness,
-Accountability and Transparency, 2018) [PERMA]()
-“Criminal Tendency Detection From Facial Images and the Gender Bias Effect” by
-Mahdi Hashemi and Margeret Hall (Journal of Big Data, 2020) Read the Abstract
-and Introduction. [PERMA]()
-Andrew W. Selbst, dana boyd, Sorelle Friedler, Suresh Venkatusabramanian, and Janet Vertsei, Fairness and Abstraction in Sociotechnical Systems, 2019 ACM Conference on Fairness, Accountability, and Transparency (FAT*), 59-68 (Revised Jan. 2020)., https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265913
+
 
 ## Lesson 05 - Feb. 15
 ### Prediction and probability
@@ -53,6 +29,7 @@ Shima Baradaran, _Race, Prediction, and Discretion_, 81 Geo. Wash. L. Rev. 157 (
 John Monahan, _The Prediction of Violent Behavior: Toward a Second Generation of Theory and Policy_, 141 American Journal of Psychiatry 10 (1984). Read the whole thing, pages 10-15.
 Vincent Chiao, _Predicting Proportionality: The Case for Algorithmic Sentencing_, 37 Criminal Justice Ethics 238 (2018). Read introduction, pages 238-40.
 Elish and Boyd, _Situating methods in the magic of Big Data and AI_, 85 Communication Monographs 57 (2018). Read the introduction pages 57-58 and pages 67-72, starting with “Faith in Prediction.”
+Gary L. Wells, “Naked Statistical Evidence of Liability: Is Subjective Probability Enough?” J. PERSONALITY AND SOCIAL PSYCH. 62:3, pp. 739-752 (1992)
 
 ## Lesson 06 - Feb. 22
 ### Case study on risk assessments
