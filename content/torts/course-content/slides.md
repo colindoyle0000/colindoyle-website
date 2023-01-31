@@ -20,6 +20,8 @@ weight: 10
 
 **04 - Proximate Cause** | [(.pdf)](/../../torts-material/slides/s04-proximate.pdf) | [(webpage)](/../../torts-material/slides/1s04-proximate)
 
+**05 - Proximate Cause (Cont’d.)** | [(.pdf)](/../../torts-material/slides/s05-proximate.pdf) | [(webpage)](/../../torts-material/slides/1s05-proximate)
+
 # Fall Semester
 
 <br>

@@ -1,9 +1,10 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
+title: Proximate Cause (cont'd.)
+profile: false
+share: false
+show_date: false
+---
 
-
-# Proximate Cause (cont'd.)
 
 —
 
@@ -21,11 +22,11 @@ Torres v. El Paso Electric Co.
 
 ---
 
-# [fit] Palsgraf v. Long Island Railroad Co.
+# Palsgraf v. Long Island Railroad Co.
 
 ---
 
-# [fit] So, what is the rule?
+# So, what is the rule?
 
 ---
 
@@ -42,6 +43,14 @@ Torres v. El Paso Electric Co.
 “What we do mean by the word ‘proximate’ is, that because of convenience, of public policy, of a rough sense of justice, the law arbitrarily declines to trace a series of events beyond a certain point. This is not logic. It is practical politics.”
 
 \- Andrews dissent in _Palsgraf_
+
+---
+
+# Danger invites rescue
+
+---
+
+![fit](images/danger-invites-rescue.jpg)
 
 ---
 
