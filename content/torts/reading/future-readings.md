@@ -14,52 +14,9 @@ type: book # Do not modify.
 toc: true
 ---
 
-Lesson 05 - 
-
-
-Lesson 06 - 
-
-
-Lesson 07 - 
-
-# Defenses to Negligence
-
-## Tuesday, February 7, 2023
-
-Contributory Negligence & Comparative Negligence
-
-Pgs. 443-461
-
-
-Lesson 08 - 
-
-## Thursday, February 9, 2023
-
-Comparative Negligence (cont’d.)
-
-Pgs. 461-470
-
-Excerpt from Amy H. Kately, Out of the Whiteness: On Raced Codes and White Race Consciousness in Some Tort, Criminal, and Contract Law, 63 U. Cin. L. Rev. (1994)
-
 Lesson 09 - 
 
-## Tuesday, February 14, 2023
 
-Assumption of Risk: Express Agreements
-
-Pgs. 474-486
-
-Implied Assumption of Risk
-
-Pgs. 486-491
-
-Lesson 10 - 
-
-## Thursday, February 16, 2023
-
-Implied Assumption of Risk (cont’d.)
-
-Pgs. 491-498
 
 Lesson 11 - 
 
