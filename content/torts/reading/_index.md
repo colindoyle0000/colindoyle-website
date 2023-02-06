@@ -86,6 +86,21 @@ Please note that the case and article address issues of sexual assault, racism, 
 
 [Download the PDF of the case and article excerpt here.](wassellvadams.pdf)
 
+## Tuesday, February 14, 2023
+
+Assumption of Risk: Express Agreements
+
+Pgs. 474-486
+
+Implied Assumption of Risk
+
+Pgs. 486-491
+
+## Thursday, February 16, 2023
+
+Implied Assumption of Risk (cont’d.)
+
+Pgs. 491-498
 
 # Fall Semester
 
