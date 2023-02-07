@@ -193,9 +193,11 @@ Many legal concepts and practices are rooted in the language and logic of predic
 
 Across legal systems nationwide, algorithmic predictions are replacing or informing predictions traditionally made by humans. Today, algorithms can deny a person government food benefits, send a social worker to investigate a home, or ban a person from flying on commercial airlines. In many places, criminal procedure is now algorithmic from start to finish. Based on predictions of wrongdoing, algorithms encourage police to investigate, judges to incarcerate, probation to surveil, and parole boards to deny release.
 
-As you go through this week’s readings, ask yourself about the compatibility of traditional legal concepts and emerging algorithmic systems. How much is a legal idea like “probable cause” governed by our understanding of probability? As we develop or encounter systems that consider probability much more rigorously than judges or police traditionally would, how much should statistical thinking govern our decision-making? Are there some legal concepts that can be reduced to numerical probability and some that should not be confined to that kind of conceptualization? Why? When is it fair to make a legal judgment that depends upon a prediction about someone based on that person’s similarity to a broader group? Is it ever possible to make a prediction about someone that doesn’t rely upon their similarity to a broader group?
+As you go through this week’s readings, ask yourself about the compatibility of traditional legal concepts and emerging algorithmic systems. How much is a legal idea like “probable cause” governed by our understanding of probability? As we develop or encounter systems that consider probability much more rigorously than judges or police traditionally would, how much should statistical thinking govern our decision-making? Are there some legal concepts that can be reduced to numerical probability and some that should not be understood in purely probabilistic terms? Why? When is it fair to make a legal judgment that depends upon a prediction about someone based on that person’s similarity to a broader group? Is it ever possible to make a prediction about someone that doesn’t rely upon their similarity to a broader group?
 
 _Readings:_
+
+[**DOWNLOAD ALL READINGS FOR LESSON 05**](Lesson05.zip)
 
 [Law and the Crystal Ball]
 <br> Barbara Underwood, 88 Yale L.J. 1408 (1979).
