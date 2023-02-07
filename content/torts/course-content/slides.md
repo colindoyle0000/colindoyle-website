@@ -22,6 +22,10 @@ weight: 10
 
 **05 - Proximate Cause (Cont’d.)** | [(.pdf)](/../../torts-material/slides/s05-proximate.pdf) | [(webpage)](/../../torts-material/slides/1s05-proximate)
 
+**06 - Review Session - Causation** | [(.pdf)](/../../torts-material/slides/s06-causation.pdf) | [(webpage)](/../../torts-material/slides/1s06-causation)
+
+**07 - Defenses - Contributory & Comparative Negligence** | [(.pdf)](/../../torts-material/slides/s07-contrib.pdf) | [(webpage)](/../../torts-material/slides/1s07-contrib)
+
 # Fall Semester
 
 <br>

@@ -188,7 +188,44 @@ Accountability and Transparency (2018).
 
 ## Lesson 05 - Feb. 15
 ### Prediction and probability
-_Readings to be determined_
+
+Many legal concepts and practices are rooted in the language and logic of prediction and probability. Before issuing a preliminary injunction, a judge must predict whether the plaintiffs will win their case on the merits. Police must have probable cause for many arrests, searches, and seizures to be constitutionally permissible. Child welfare agencies triage investigations of suspected neglect based on predictions of which claims will be substantiated, while public housing authorities manage waitlists for housing based on predictions of who will use public housing for the shortest length of time before living independently.
+
+Across legal systems nationwide, algorithmic predictions are replacing or informing predictions traditionally made by humans. Today, algorithms can deny a person government food benefits, send a social worker to investigate a home, or ban a person from flying on commercial airlines. In many places, criminal procedure is now algorithmic from start to finish. Based on predictions of wrongdoing, algorithms encourage police to investigate, judges to incarcerate, probation to surveil, and parole boards to deny release.
+
+As you go through this week’s readings, ask yourself about the compatibility of traditional legal concepts and emerging algorithmic systems. How much is a legal idea like “probable cause” governed by our understanding of probability? As we develop or encounter systems that consider probability much more rigorously than judges or police traditionally would, how much should statistical thinking govern our decision-making? Are there some legal concepts that can be reduced to numerical probability and some that should not be confined to that kind of conceptualization? Why? When is it fair to make a legal judgment that depends upon a prediction about someone based on that person’s similarity to a broader group? Is it ever possible to make a prediction about someone that doesn’t rely upon their similarity to a broader group?
+
+_Readings:_
+
+[Law and the Crystal Ball]
+<br> Barbara Underwood, 88 Yale L.J. 1408 (1979).
+<br> Read pages 1409-1420.
+
+[Naked Statistical Evidence of Liability: Is Subjective Probability Enough?]
+<br> Gary L. Wells, J. Personality & Social Psych. 62:3 (1992).
+<br> Read pages 739-752.
+
+[On Individual Risk]
+<br> Philip Dawid, Synthese 194 (9):3445-3474 (2017).
+<br> Read the whole thing.
+
+[The Prediction of Violent Behavior: Toward a Second Generation of Theory and Policy]
+<br>John Monahan, 141 American Journal of Psychiatry 10 (1984).
+<br> Read the whole thing, pages 10-15.
+
+[Race, Prediction, and Discretion]
+<br> Shima Baradaran, 81 Geo. Wash. L. Rev. 157 (2013). 
+<br> Read the introduction, pages 159-64.
+
+[Predicting Proportionality: The Case for Algorithmic Sentencing]
+<br> Vincent Chiao, 37 Criminal Justice Ethics 238 (2018). 
+<br> Read introduction, pages 238-40.
+
+[Situating methods in the magic of Big Data and AI]
+<br> Elish and Boyd, 85 Communication Monographs 57 (2018). 
+<br> Read the introduction pages 57-58 and pages 67-72, starting with “Faith in Prediction.”
+
+
 ## Lesson 06 - Feb. 22
 ### Case study on risk assessments
 _Readings to be determined_
