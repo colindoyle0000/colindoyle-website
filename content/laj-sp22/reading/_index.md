@@ -199,32 +199,32 @@ _Readings:_
 
 [**DOWNLOAD ALL READINGS FOR LESSON 05**](Lesson05.zip)
 
-[Law and the Crystal Ball]
+[Law and the Crystal Ball](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/2423/Law_and_the_Crystal_Ball_Predicting_Behavior_with_Statistical_Inference_and_Individualized_Judgment.pdf?sequence=2)
 <br> Barbara Underwood, 88 Yale L.J. 1408 (1979).
-<br> Read pages 1409-1420.
+<br> Read the first part, pages 1408-1420.
 
-[Naked Statistical Evidence of Liability: Is Subjective Probability Enough?]
+[Naked Statistical Evidence of Liability: Is Subjective Probability Enough?](https://psycnet.apa.org/record/1992-33520-001)
 <br> Gary L. Wells, J. Personality & Social Psych. 62:3 (1992).
-<br> Read pages 739-752.
-
-[On Individual Risk]
-<br> Philip Dawid, Synthese 194 (9):3445-3474 (2017).
 <br> Read the whole thing.
 
-[The Prediction of Violent Behavior: Toward a Second Generation of Theory and Policy]
-<br>John Monahan, 141 American Journal of Psychiatry 10 (1984).
-<br> Read the whole thing, pages 10-15.
+[On Individual Risk](https://arxiv.org/abs/1406.5540)
+<br> Philip Dawid, arXiv (2017).
+<br> Read the whole thing.
 
-[Race, Prediction, and Discretion]
+[The Prediction of Violent Behavior: Toward a Second Generation of Theory and Policy](https://ajp.psychiatryonline.org/doi/epdf/10.1176/ajp.141.1.10)
+<br>John Monahan, 141 American Journal of Psychiatry 10 (1984).
+<br> Read the whole thing.
+
+[Race, Prediction, and Discretion](https://www.gwlr.org/wp-content/uploads/2018/04/81-Geo.-Wash.-L.-Rev.-157.pdf)
 <br> Shima Baradaran, 81 Geo. Wash. L. Rev. 157 (2013). 
 <br> Read the introduction, pages 159-64.
 
-[Predicting Proportionality: The Case for Algorithmic Sentencing]
+[Predicting Proportionality: The Case for Algorithmic Sentencing](https://www.tandfonline.com/doi/full/10.1080/0731129X.2018.1552359)
 <br> Vincent Chiao, 37 Criminal Justice Ethics 238 (2018). 
 <br> Read introduction, pages 238-40.
 
-[Situating methods in the magic of Big Data and AI]
-<br> Elish and Boyd, 85 Communication Monographs 57 (2018). 
+[Situating methods in the magic of Big Data and AI](https://www.tandfonline.com/doi/full/10.1080/03637751.2017.1375130)
+<br> M. C. Elish & danah boyd, 85 Communication Monographs 57 (2018). 
 <br> Read the introduction pages 57-58 and pages 67-72, starting with “Faith in Prediction.”
 
 
