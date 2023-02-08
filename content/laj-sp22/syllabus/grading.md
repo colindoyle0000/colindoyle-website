@@ -35,7 +35,7 @@ Class preparation is required. I expect that you will come to class having compl
 I also expect you to ask questions of each other in class, and you should always feel free to ask me questions as well. In particular, I would encourage you to ask about anything unclear from the readings. Please don’t be embarrassed to ask about things you don’t understand — there will likely be others with the same question.
 
 ## Final Project & Presentation
-Final projects should be conducted in teams of 1-4 students. You are encouraged to work in pairs or teams but may work independently if you do not like group work. You must complete a research paper (approximately 10 single-spaced pages) and related presentation (approximately 10-15 minutes) that is inspired by the course material. These projects are an opportunity for you to examine a wider range of techniques, domains, and moral and legal principles than we have covered in class.
+Final projects should be conducted in teams of 1-3 students. You are encouraged to work in pairs or teams but may work independently if you do not like group work. You must complete a research paper (approximately 10 single-spaced pages) and related presentation (approximately 15-20 minutes) that is inspired by the course material. These projects are an opportunity for you to examine a wider range of techniques, domains, and moral and legal principles than we have covered in class.
 
 Although you have flexibility in constructing these projects, I anticipate that most projects will take one of two forms:
 
