@@ -215,10 +215,6 @@ _Readings:_
 <br>John Monahan, 141 American Journal of Psychiatry 10 (1984).
 <br> Read the whole thing.
 
-[Race, Prediction, and Discretion](https://www.gwlr.org/wp-content/uploads/2018/04/81-Geo.-Wash.-L.-Rev.-157.pdf)
-<br> Shima Baradaran, 81 Geo. Wash. L. Rev. 157 (2013). 
-<br> Read the introduction, pages 159-64.
-
 [Predicting Proportionality: The Case for Algorithmic Sentencing](https://www.tandfonline.com/doi/full/10.1080/0731129X.2018.1552359)
 <br> Vincent Chiao, 37 Criminal Justice Ethics 238 (2018). 
 <br> Read introduction, pages 238-40.
