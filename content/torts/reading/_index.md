@@ -102,6 +102,18 @@ Implied Assumption of Risk (cont’d.)
 
 Pgs. 491-498
 
+## Tuesday, February 21, 2023
+
+Defenses Review and Exercises
+
+# Strict Liability
+
+## Thursday, February 23, 2023
+
+Strict Liability - Traditional view
+Pgs. 519-528
+Pgs. 533-544
+
 # Fall Semester
 
 ## Aug 23, 2022
