@@ -26,6 +26,8 @@ weight: 10
 
 **07 - Defenses - Contributory & Comparative Negligence** | [(.pdf)](/../../torts-material/slides/s07-contrib.pdf) | [(webpage)](/../../torts-material/slides/1s07-contrib)
 
+**08 - Comparative Negligence (cont’d.)** | [(.pdf)](/../../torts-material/slides/s08-comp.pdf) | [(webpage)](/../../torts-material/slides/1s08-comp)
+
 # Fall Semester
 
 <br>
