@@ -12,12 +12,19 @@ show_date: false
 
 **Negligence**
 ~~Elements of a cause of action:~~
+
 ~~--- Duty~~
+
 ~~--- Breach~~
+
 ~~--- Causation~~
+
 ~~--- Harm~~
+
 Defenses:
+
 --- Contributory or Comparative Negligence
+
 --- Assumption of risk
 
 ---
@@ -35,14 +42,23 @@ Defenses:
 # Contributory Negligence in General:
 
 **The defendant is not liable**
+
 **If** the plaintiff was also negligent 
+
 --- Duty,
+
 --- Breach,
+
 --- Causation, and
+
 --- Harm
+
 **Unless** an exception applies:
+
 --- Last clear chance,
+
 --- Recklessness or willfulness of defendant, or
+
 --- Statute
 
 ---
