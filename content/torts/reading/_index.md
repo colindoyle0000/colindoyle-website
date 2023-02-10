@@ -111,7 +111,9 @@ Defenses Review and Exercises
 ## Thursday, February 23, 2023
 
 Strict Liability - Traditional view
+
 Pgs. 519-528
+
 Pgs. 533-544
 
 # Fall Semester
