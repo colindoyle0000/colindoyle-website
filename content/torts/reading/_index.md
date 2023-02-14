@@ -116,6 +116,22 @@ Pgs. 519-528
 
 Pgs. 533-544
 
+## Tuesday, February 28, 2023
+
+Products liability
+
+Pgs. 569-589
+
+## Thursday, March 2, 2023
+
+Manufacturing Defects
+
+Pgs. 589-591
+
+Design Defects
+
+Pgs. 591-605
+
 # Fall Semester
 
 ## Aug 23, 2022
