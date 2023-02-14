@@ -28,6 +28,8 @@ weight: 10
 
 **08 - Comparative Negligence (cont’d.)** | [(.pdf)](/../../torts-material/slides/s08-comp.pdf) | [(webpage)](/../../torts-material/slides/1s08-comp)
 
+**09 - Assumption of Risk** | [(.pdf)](/../../torts-material/slides/s09-aor.pdf) | [(webpage)](/../../torts-material/slides/1s09-aor)
+
 # Fall Semester
 
 <br>
