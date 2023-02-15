@@ -227,9 +227,6 @@ _Readings:_
 ## Lesson 06 - Feb. 22
 ### Case study on risk assessments
 
-## Lesson 06 - Feb. 22
-### Case study on risk assessments
-
 What was your attitude toward risk assessments before doing these readings? What changed and why?
 
 If you had to align yourself with one of the authors or between multiple authors, who would they be? How would your perspective differ from theirs?
