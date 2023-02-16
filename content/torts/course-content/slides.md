@@ -30,6 +30,8 @@ weight: 10
 
 **09 - Assumption of Risk** | [(.pdf)](/../../torts-material/slides/s09-aor.pdf) | [(webpage)](/../../torts-material/slides/1s09-aor)
 
+**10 - Assumption of Risk (Cont'd.)** | [(.pdf)](/../../torts-material/slides/s10-aor2.pdf) | [(webpage)](/../../torts-material/slides/1s10-aor2)
+
 # Fall Semester
 
 <br>
