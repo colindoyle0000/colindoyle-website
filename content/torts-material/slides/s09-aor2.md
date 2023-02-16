@@ -1,0 +1,121 @@
+autoscale: true
+slidenumbers: true
+Footer: 
+
+# Assumption of Risk (cont’d.)
+
+---
+
+
+# Assumption of Risk
+
+## - Explicit
+## - Implicit
+
+---
+
+# Two Common Issues
+
+1. Was the contract clear enough about releasing the defendant from liability?
+2. Will the court enforce contract?
+
+---
+
+# Tort Law Values
+
+| Era | Philosophy |  Primary Goal | Concern
+| --- | --- | --- | --- |
+| Classical | Corrective<br>justice | Individual accountability | Autonomy
+| New Deal | Political<br>economy | Distributive justice | Power
+| Neoliberal | Economics |  Maximize utility | Efficiency
+
+---
+
+# Lamson v. American Axe & Tool
+
+---
+
+# Murphy v. Steeplechase
+
+---
+
+# [fit] _volenti non fit injuria_
+
+### [fit] “to one who is willing, no wrong is done”
+
+---
+
+# Cardozo’s counter-examples
+
+1. “Obscure and unobserved” dangers
+2. Too many accidents
+
+---
+
+# Davenport v. Cotton Hope
+
+---
+
+## Should assumption of risk<br>survive as an absolute defense<br>in a comparative negligence world?
+
+---
+
+# Assumption of Risk
+
+**Tuesday’s Framework**
+- Explicit
+- Implicit
+
+**Thursday’s Framework**
+- Express
+- Primary
+- Secondary
+
+---
+
+# Assumption of Risk
+
+\- Explicit / Express
+\- Implicit
+\---- Primary
+\---- Secondary
+
+---
+
+# Assumption of Risk
+
+\- Explicit / Express → Duty
+\- Implicit
+\---- Primary
+\---- Secondary
+
+---
+
+# Assumption of Risk
+
+\- Explicit / Express → Duty
+\- Implicit
+\---- Primary → Duty
+\---- Secondary
+
+---
+
+# Assumption of Risk
+
+\- Explicit / Express → Duty
+\- Implicit
+\---- Primary → Duty
+\---- Secondary → Comparative Fault
+
+---
+
+# Takeaway
+
+In comparative fault jurisdictions, assumption of risk is typically not available an absolute defense because duty rules and comparative negligence rules suffice.
+
+What do you think?
+
+---
+In the Vargas family’s home, a power strip manufactured by the Unreliable Breaker Company failed to go off during a temporary short circuit, starting a fire. The only person at home at the time was a napping one-year-old, Emily Vargas. Her babysitter had briefly left the home to take the family dog for a walk. Emily’s fifteen-year-old sister, Lynn Vargas, returned home from school to find a fire consuming the home. Seeing that Jennifer was down the street with the dog, Lynn raced inside, grabbed Emily and managed to get her out safely, but Lynn was burned in the process. Lynn and Emily’s father, Tito Vargas, then arrived home, saw that his daughters were safe, and ran into the house to try to save his pet parrot. He succeeded but also suffered burns in the process. Moments later Tatiana Vargas, Tito’s spouse, arrived home. Tatiana is your typical absentminded law professor. Deep in thought about the viability of assumption of risk as an absolute defense in a comparative negligence world, she didn’t notice the fire, walked in the front door, and was burned. At this point, the firefighters arrived on scene. A firefighter, Pat Murphy, ran into the house and rescured Tatiana, but he was also burned.
+
+If Lynn, Tito, Tatiana, and Pat each sue the Unreliable Breaker Company for negligence, would there be any affirmative defenses that the company could assert? What would be the differences in the analysis of the applicability of those defenses to each plaintiff?

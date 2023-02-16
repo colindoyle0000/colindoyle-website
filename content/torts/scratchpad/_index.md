@@ -17,6 +17,12 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## February 15, 2023
+
+In the Vargas family’s home, a power strip manufactured by the Unreliable Breaker Company failed to go off during a temporary short circuit, starting a fire. The only person at home at the time was a napping one-year-old, Emily Vargas. Her babysitter had briefly left the home to take the family dog for a walk. Emily’s fifteen-year-old sister, Lynn Vargas, returned home from school to find a fire consuming the home. Seeing that Jennifer was down the street with the dog, Lynn raced inside, grabbed Emily and managed to get her out safely, but Lynn was burned in the process. Lynn and Emily’s father, Tito Vargas, then arrived home, saw that his daughters were safe, and ran into the house to try to save his pet parrot. He succeeded but also suffered burns in the process. Moments later Tatiana Vargas, Tito’s spouse, arrived home. Tatiana is your typical absentminded law professor. Deep in thought about the viability of assumption of risk as an absolute defense in a comparative negligence world, she didn’t notice the fire, walked in the front door, and was burned. At this point, the firefighters arrived on scene. A firefighter, Pat Murphy, ran into the house and rescured Tatiana, but he was also burned.
+
+If Lynn, Tito, Tatiana, and Pat each sue the Unreliable Breaker Company for negligence, would there be any affirmative defenses that the company could assert? What would be the differences in the analysis of the applicability of those defenses to each plaintiff?
+
 ## February 2, 2023
 
 In both exercises for today, you are a trial court judge in the state of Loyola.
