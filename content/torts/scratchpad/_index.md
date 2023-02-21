@@ -19,7 +19,7 @@ This page serves as a kind of blackboard/whiteboard for in-class instruction. I 
 
 
 
-## February 15, 2023
+## February 21, 2023
 
 ### Defenses exercise
 
