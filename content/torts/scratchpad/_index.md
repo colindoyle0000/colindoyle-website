@@ -17,11 +17,37 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+
+
 ## February 15, 2023
 
-In the Vargas family’s home, a power strip manufactured by the Unreliable Breaker Company failed to go off during a temporary short circuit, starting a fire. The only person at home at the time was a napping one-year-old, Emily Vargas. Her babysitter had briefly left the home to take the family dog for a walk. Emily’s fifteen-year-old sister, Lynn Vargas, returned home from school to find a fire consuming the home. Seeing that Jennifer was down the street with the dog, Lynn raced inside, grabbed Emily and managed to get her out safely, but Lynn was burned in the process. Lynn and Emily’s father, Tito Vargas, then arrived home, saw that his daughters were safe, and ran into the house to try to save his pet parrot. He succeeded but also suffered burns in the process. Moments later Tatiana Vargas, Tito’s spouse, arrived home. Tatiana is your typical absentminded law professor. Deep in thought about the viability of assumption of risk as an absolute defense in a comparative negligence world, she didn’t notice the fire, walked in the front door, and was burned. At this point, the firefighters arrived on scene. A firefighter, Pat Murphy, ran into the house and rescured Tatiana, but he was also burned.
+### Defenses exercise
+
+In the Vargas family’s home, a power strip manufactured by the Unreliable Breaker Company failed to go off during a temporary short circuit, starting a fire. The only person at home at the time was a napping one-year-old, Emily Vargas. Her babysitter had briefly left the home to take the family dog for a walk. Emily’s fifteen-year-old sister, Lynn Vargas, returned home from school to find a fire consuming the home. Seeing that Jennifer was down the street with the dog, Lynn raced inside, grabbed Emily and managed to get her out safely, but Lynn was burned in the process. Lynn and Emily’s father, Tito Vargas, then arrived home, saw that his daughters were safe, and ran into the house to try to save his pet parrot. He succeeded but also suffered burns in the process. Moments later Tatiana Vargas, Tito’s spouse, arrived home. Tatiana is your typical absentminded law professor. Deep in thought about the viability of assumption of risk as an absolute defense in a comparative negligence world, she didn’t notice the fire, walked in the front door, and was burned. At this point, the firefighters arrived on scene. A firefighter, Pat Murphy, ran into the house and rescued Tatiana, but he was also burned.
 
 If Lynn, Tito, Tatiana, and Pat each sue the Unreliable Breaker Company for negligence, would there be any affirmative defenses that the company could assert? What would be the differences in the analysis of the applicability of those defenses to each plaintiff?
+
+---
+
+### Version #1
+
+You are an associate working at a firm that represents the Unreliable Breaker Company.
+
+The state of Loyola (where this case takes place) takes a common law approach to tort defenses. Unlike most jurisdictions in the United States, Loyola is still a contributory negligence regime with joint-and-several liability. Assumption of risk is a complete defense.
+
+Lynn, Tito, Tatiana, and Pat are each suing the Unreliable Breaker Company for negligence. A senior associate has asked you to write an email detailing any affirmative defenses that the company could assert against each plaintiff’s claim. The senior associate has specifically asked you to only address affirmative defenses at this time, so there’s no need to address whether the plaintiffs can prove the elements of duty, breach, causation, and a harm.
+
+---
+
+### Version #2
+
+You are an associate working at a plaintiff-side firm.
+
+The state of Loyola (where this case takes place) takes a modern approach to tort defenses. Loyola is a “not as great as” comparative negligence regime with several liability. Assumption of risk is a complete defense for explicit and primary assumption of risk but not for secondary assumption of risk, where comparative fault suffices.
+
+Your firm is considering representing Lynn, Tito, Tatiana, and Pat, who each want to sue the Unreliable Breaker Company for negligence. As the firm works on a contingency fee basis, we want to take on cases that are the easiest to win and we don’t want to take on cases that would cost the firm money. A senior associate has asked you to write an email detailing any affirmative defenses that the company could assert against each plaintiff’s claim. In your analysis, please describe which cases you think our firm should prioritize and which plaintiffs, if any, our firm should decline to represent based upon possible affirmative defenses. The senior associate has specifically asked you to only address affirmative defenses at this time, so there’s no need to address whether the plaintiffs can prove the elements of duty, breach, causation, and a harm.
+
+
 
 ## February 2, 2023
 
