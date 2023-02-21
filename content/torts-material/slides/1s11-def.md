@@ -1,10 +1,11 @@
-autoscale: true
-slidenumbers: true
-Footer: 
-
-# Negligence Defenses Review
-
 ---
+title: Negligence Defenses Review
+profile: false
+share: false
+show_date: false
+---
+
+
 
 # Today’s Agenda
 
@@ -43,14 +44,23 @@ Given information about jurisdictional rules and case-specific information about
 # Contributory Negligence in General:
 
 **The defendant is not liable**
+
 **If** the plaintiff was also negligent 
+
 --- Duty,
+
 --- Breach,
+
 --- Causation, and
+
 --- Harm
+
 **Unless** an exception applies:
+
 --- Last clear chance,
+
 --- Recklessness or willfulness of defendant, or
+
 --- Statute
 
 ---
@@ -94,18 +104,19 @@ Doctrine of contribution:
 Divide up damages based on comparative fault
 
 Doctrine of contribution:
+
 Variety of rules across jurisdictions, including several liability, joint-and-several liability, and a variety of hybrids.
 
 ---
 
-# [fit] Don’t 
-# [fit] forget about 
-# [fit] factual cause!
+# Don’t 
+# forget about 
+# factual cause!
 
 
 ---
 
-# Order of operations with multiple injuries and multiple defendants
+# Order of operations for allocating damages with multiple injuries and multiple defendants
 
 **First step:**
 Separate injuries based on factual cause.
@@ -124,8 +135,11 @@ For injuries that multiple defendants caused, sort out who owes what based on ju
 # Assumption of Risk
 
 \- Explicit / Express
+
 \- Implicit
+
 \---- Primary
+
 \---- Secondary
 
 ---
@@ -142,7 +156,9 @@ For injuries that multiple defendants caused, sort out who owes what based on ju
 Various legal tests for determining if liability waiver is against public policy:
 
 \- Liability waivers are unenforceable
+
 \- Totality of the circumstances
+
 \- Six factors from _Tunkl_
 
 
@@ -159,8 +175,11 @@ _volenti non fit injuria_
 # Should assumption of risk persist in a comparative fault world?
 
 \- Explicit / Express → Duty
+
 \- Implicit
+
 \---- Primary → Duty
+
 \---- Secondary → Comparative Fault
 
 ---

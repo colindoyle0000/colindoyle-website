@@ -32,6 +32,8 @@ weight: 10
 
 **10 - Assumption of Risk (Cont'd.)** | [(.pdf)](/../../torts-material/slides/s10-aor2.pdf) | [(webpage)](/../../torts-material/slides/1s10-aor2)
 
+**11 - Defenses Review** | [(.pdf)](/../../torts-material/slides/s11-def.pdf) | [(webpage)](/../../torts-material/slides/1s11-def)
+
 # Fall Semester
 
 <br>
