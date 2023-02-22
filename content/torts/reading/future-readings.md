@@ -14,41 +14,7 @@ type: book # Do not modify.
 toc: true
 ---
 
-Lesson 09 - 
 
-
-
-Lesson 11 - 
-
-## Tuesday, February 21, 2023
-
-Defenses Review and Exercises
-
-Lesson 12 - 
-
-# Strict Liability
-
-## Thursday, February 23, 2023
-
-Traditional view
-Pgs. 519-528
-Pgs. 533-544
-
-Lesson 13 - 
-## Tuesday, February 28, 2023
-Products liability
-Pgs. 569-589
-
-Lesson 14 - 
-## Thursday, March 2, 2023
-
-Manufacturing Defects
-
-Pgs. 589-591
-
-Design Defects
-
-Pgs. 591-605
 
 Lesson 15 - 
 ## Tuesday, March 14, 2023
