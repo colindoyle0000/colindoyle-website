@@ -34,6 +34,8 @@ weight: 10
 
 **11 - Defenses Review** | [(.pdf)](/../../torts-material/slides/s11-def.pdf) | [(webpage)](/../../torts-material/slides/1s11-def)
 
+**12 - Strict Liability - Traditional Approach** | [(.pdf)](/../../torts-material/slides/s12-sl.pdf) | [(webpage)](/../../torts-material/slides/1s12-sl)
+
 # Fall Semester
 
 <br>
