@@ -53,14 +53,15 @@ Megan T Stevenson & Christopher Slobogin, _Algorithmic Risk Assessments and The 
 In this session we will discuss different approaches to achieve explainability, both from a legal and technical perspective. We will learn about the difference between interpretable algorithms and non-interpretable algorithms, and the difference between transparency ex-ante and transparency ex-post including different auditing methods. We will also discuss the tradeoff between transparency and accuracy, and how balance between the two can be achieved. We will match between different transparency methods and their relevant policy domains, and become familiar with legal concepts such as due process and fair trial; as well as the legal limitations that demand a certain form of transparency. 
 - Does a requirement of transparency or explanation in the use of algorithms in decision-making promote fairness? 
 - How would it work and what would be limitations? 
+- 
 “Artificial Intelligence’s ‘Black Box’ Is Nothing to Fear” by Vijay Pande (The New
 York Times, 2018)
-Zachary C. Lipton, “The Mythos of Model Interpretability,” 2016 ICML Workshop on Human Interpretability in Machine Learning (WHI 2016, New York, NY) (Mar. 6, 2017)
-Andrew D. Selbts and Solon Barocas, “The Intuitive Appeal of Explanable Machines,” 87 Fordham L. Rev. 1085 (2018)
+
+
+
 Aziz Z. Huq, Constitutional Rights in the Machine Learning State, 105 Cornell. L. Rev. (2020)
-“The Hidden Costs of Automated Thinking” by Jonathan Zittrain (The New Yorker,
-2019)
-“Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead” by Cynthia Rudin (Nature, 2019)
+
+
 Paul V. de Laat, “Algorithmic Decision-Making Based on Machine Learning from Big Data: Can Transparency Restore Accountability?,” 47 SIGCAS Computers and Society 39 (2017), https://www.researchgate.net/publication/321017507_Algorithmic_Decision-Making_Based_on_Machine_Learning_from_Big_Data_Can_Transparency_Restore_Accountability
 Cliff Kuang, “Can A.I. Be Taught to Explain Itself?,” N.Y. Times Magazine (Nov. 21, 2017), https://www.nytimes.com/2017/11/21/magazine/can-ai-be-taught-to-explain-itself.html
 Julia Powles, “New York City’s Bold, Flawed Attempt to Make Algorithms Accountable,” New Yorker (Dec. 20, 2017), https://www.newyorker.com/tech/annals-of-technology/new-york-citys-bold-flawed-attempt-to-make-algorithms-accountable

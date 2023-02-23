@@ -277,7 +277,36 @@ Mayson’s article leaves out what to do for pretrial incarceration in the absen
 
 ## Lesson 07 - Mar. 1
 ### Transparency, interpretability, and explainability
-_Readings to be determined_
+
+In this session we will discuss different approaches to achieve explainability, both from a legal and technical perspective. We will learn about the difference between interpretable algorithms and non-interpretable algorithms, and the difference between transparency ex-ante and transparency ex-post including different auditing methods. We will also discuss the tradeoff between transparency and accuracy, and how balance between the two can be achieved. 
+
+Questions to consider:
+- Does a requirement of transparency or explanation in the use of algorithms in decision-making promote fairness? 
+- How would it work and what would be limitations? 
+- How should different legal contexts require different transparency practices?
+
+[**DOWNLOAD ALL READINGS FOR LESSON 07**](Lesson07.zip)
+
+[The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf)
+Zachary C. Lipton, 2016 ICML Workshop on Human Interpretability in Machine Learning 
+Read the whole thing.
+
+[Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead](https://www.nature.com/articles/s42256-019-0048-x)
+Cynthia Rudin, Nature (2019)
+Read the whole thing.
+
+[The Intuitive Appeal of Explanable Machines](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=5569&context=flr)
+Andrew D. Selbts and Solon Barocas, 87 Fordham L. Rev., 1085 (2018).
+Read 1087-1099.
+
+[The Hidden Costs of Automated Thinking ](https://www.newyorker.com/tech/annals-of-technology/the-hidden-costs-of-automated-thinking)
+Jonathan Zittrain, New Yorker (2019).
+Read the whole thing.
+
+[New York City’s Bold, Flawed Attempt to Make Algorithms Accountable](https://www.newyorker.com/tech/annals-of-technology/new-york-citys-bold-flawed-attempt-to-make-algorithms-accountable)
+Julia Powles, New Yorker (2017).
+Read the whole thing.
+
 ## Lesson 08 - Mar. 15
 ### Accountability
 _Readings to be determined_
