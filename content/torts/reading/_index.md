@@ -118,11 +118,15 @@ Pgs. 533-544
 
 ## Tuesday, February 28, 2023
 
+No class.
+
+## Thursday, March 2, 2023
+
 Products liability
 
 Pgs. 569-589
 
-## Thursday, March 2, 2023
+## Tuesday, March 14, 2023
 
 Manufacturing Defects
 

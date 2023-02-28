@@ -17,7 +17,6 @@ toc: true
 
 
 Lesson 15 - 
-## Tuesday, March 14, 2023
 
 Warnings
 
