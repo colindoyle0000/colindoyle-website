@@ -36,6 +36,8 @@ weight: 10
 
 **12 - Strict Liability - Traditional Approach** | [(.pdf)](/../../torts-material/slides/s12-sl.pdf) | [(webpage)](/../../torts-material/slides/1s12-sl)
 
+**13 - Products Liability** | [(.pdf)](/../../torts-material/slides/s13-products.pdf) | [(webpage)](/../../torts-material/slides/1s13-products)
+
 # Fall Semester
 
 <br>
