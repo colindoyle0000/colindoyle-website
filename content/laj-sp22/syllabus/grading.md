@@ -47,8 +47,8 @@ Students are encouraged to discuss ideas for final projects in class. Later in t
 
 To help formulate your final project, students are _highly_ encouraged to schedule office hours with me before the end of March.
 
-Student presentations will be held on our final two weeks of class: April 12th and April 19th.
+Student presentations will be held on our final two weeks of class: ~~April 12th and April 19th~~ April 19th and April 26th.
 
-Final papers are due Wednesday April 26th. You are encouraged to use the questions and reactions to your in-class presentations to refine your final paper.
+Final papers are due ~~Wednesday April 26th~~ Wednesday May 4th (rescheduled because of Week 07 class cancellation). You are encouraged to use the questions and reactions to your in-class presentations to refine your final paper.
 
 [1]:	mailto:colin.doyle@lls.edu?subject=Reading%20Response

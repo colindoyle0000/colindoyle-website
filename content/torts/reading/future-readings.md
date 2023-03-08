@@ -16,37 +16,9 @@ toc: true
 
 
 
-Lesson 15 - 
 
-Warnings
+## Tuesday, March 28, 2023
 
-Pgs. 618-636
-
-Lesson 16 - 
-## Thursday, March 16, 2023
-
-Defenses
-
-Pgs. 642-652
-
-Review and Exercises
-
-
-Lesson 17 - 
-
-# Intentional Torts
-
-## Tuesday, March 21, 2023
-Introduction
-
-Pgs. 901-908
-
-Assault and Battery
-
-Pgs. 908-917
-
-Lesson 18 - 
-## Thursday, March 23, 2023
 False Imprisonment
 
 Pgs. 917-924
@@ -55,8 +27,8 @@ Intentional Infliction of Emotional Distress
 
 Pgs. 924-939
 
-Lesson 19 - 
-## Tuesday, March 28, 2023
+
+## Thursday, March 30, 2023
 
 **Defenses**
 
@@ -68,8 +40,8 @@ Self-Defense
 
 Pgs. 961-965
 
-Lesson 20 - 
-## Thursday, March 30, 2023
+
+## Tuesday, April 4, 2023
 
 Protection of Property
 
@@ -79,26 +51,34 @@ Necessity
 
 Pgs. 970-976
 
-Lesson 21 - 
 
-## Tuesday, April 4, 2023
+
+## Thursday, April 6, 2023
 
 Review of Intentional Torts & Exercises
 
-Lesson 22 - 
+
 
 # Alternatives to Tort
 
-## Thursday, April 6, 2023
-Lesson 23 - 
-## Tuesday, April 11, 2023
-Lesson 24 - 
-Thursday, April 13, 2023
-Lesson 25 - 
-## Tuesday, April 18, 2023
-Lesson 26 - 
-## Thursday, April 20, 2023
 
+## Tuesday, April 11, 2023
+
+Lesson 23 - 
+
+## Thursday, April 13, 2023
+
+Lesson 24 - 
+
+## Tuesday, April 18, 2023
+
+Lesson 25 - 
+
+## Thursday, April 20, 2023
+Lesson 26 - 
+
+## Thursday, April 27, 2023
+Makeup class
 
 
 

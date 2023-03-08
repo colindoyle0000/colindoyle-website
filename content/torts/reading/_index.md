@@ -136,6 +136,33 @@ Design Defects
 
 Pgs. 591-605
 
+## Thursday, March 16, 2023
+
+Warnings
+
+Pgs. 618-636
+
+## Tuesday, March 21, 2023
+
+Defenses
+
+Pgs. 642-652
+
+Review and Exercises
+
+# Intentional Torts
+
+## Thursday, March 23, 2023
+
+Introduction
+
+Pgs. 901-908
+
+Assault and Battery
+
+Pgs. 908-917
+
+
 # Fall Semester
 
 ## Aug 23, 2022

@@ -275,7 +275,7 @@ Mayson’s article leaves out what to do for pretrial incarceration in the absen
 <br> Read the introduction, pages 1-3.
 
 
-## Lesson 07 - Mar. 1
+## Lesson 07 - Mar. 15 (rescheduled)
 ### Transparency, interpretability, and explainability
 
 In this session we will discuss different approaches to achieve explainability, both from a legal and technical perspective. We will learn about the difference between interpretable algorithms and non-interpretable algorithms, and the difference between transparency ex-ante and transparency ex-post including different auditing methods. We will also discuss the tradeoff between transparency and accuracy, and how balance between the two can be achieved. 
@@ -317,21 +317,21 @@ Julia Powles, New Yorker (2017).
 
 Read the whole thing.
 
-## Lesson 08 - Mar. 15
+## Lesson 08 - Mar. 22
 ### Accountability
 _Readings to be determined_
-## Lesson 09 - Mar. 22
+## Lesson 09 - Mar. 29
 ### Regulation
 _Readings to be determined_
-## Lesson 10 - Mar. 29
+## Lesson 10 -  Apr. 5
 ### Litigation
 _Readings to be determined_
-## Lesson 11 - Apr. 5
+## Lesson 11 - Apr. 12
 ### The Future
 _Readings to be determined_
-## Lesson 12 - Apr. 12
+## Lesson 12 - Apr. 19
 ### Student presentations
-## Lesson 13 - Apr. 19
+## Lesson 13 - Apr. 26
 ### Student presentations
 
 [1]:	/../../laj-sp22/syllabus/grading
