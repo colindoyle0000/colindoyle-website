@@ -135,7 +135,7 @@ It depends upon the  “everyday experience of the product’s users”
 
 ---
 
-# [fit]“Reasonable Alternative Design”
+# “Reasonable Alternative Design”
 
 ---
 
