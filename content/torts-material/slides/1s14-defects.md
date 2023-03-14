@@ -141,4 +141,4 @@ It depends upon the  “everyday experience of the product’s users”
 
 ## “Reasonable Alternative Design” Challenges
 
-![](images/vw.jpg)![](images/newport.jpeg)![](images/pool.jpeg)
+![](images/vw2.jpg)![](images/newport.jpeg)![](images/pool.jpeg)
