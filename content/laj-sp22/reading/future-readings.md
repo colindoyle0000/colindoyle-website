@@ -66,32 +66,37 @@ Paul V. de Laat, “Algorithmic Decision-Making Based on Machine Learning from B
 Cliff Kuang, “Can A.I. Be Taught to Explain Itself?,” N.Y. Times Magazine (Nov. 21, 2017), https://www.nytimes.com/2017/11/21/magazine/can-ai-be-taught-to-explain-itself.html
 Julia Powles, “New York City’s Bold, Flawed Attempt to Make Algorithms Accountable,” New Yorker (Dec. 20, 2017), https://www.newyorker.com/tech/annals-of-technology/new-york-citys-bold-flawed-attempt-to-make-algorithms-accountable
 
-## Lesson 08 - Mar. 15
-### Accountability
-A major question when inserting AI technologies in routine applications is whether there should be a human validator or supervisor and how human intervention can take place. The present paradigm in complex human-machine interfaces is that the human operator should definitely be granted to take over the control of the system in any situation. This important statement can be supported with ethical and social considerations which affect the acceptability of the technology. However, errors of the operators in the perception of the environment are quite common and may have dramatic consequences in transportation for instance. Therefore the discussion should be enriched with concepts from cognitive psychology and neurosciences in order to cover all aspects of risk assessment and management, including penal responsibility. 
-_Readings:_
-Jon Kleinberg et al., “Human Decisions and Machine Predictions,” Quarterly Journal of Economics (2018), pp. 237-293
-Cynthia Rudin, “Algorithms and Justice: Scrapping the ‘Black Box,’” The ALI Advisor, (Jan. 30, 2018)
-Crootof paper?
-Carroll Seron and Susan S. Silbey, The Dialectic Between Expert Knowledge and Professional Discretion: Accreditation, Social Control, and the Limits of Instrumental Knowledge, 1 Engineering Studies 101 (July 2009), https://www.researchgate.net/publication/245495032_The_dialectic_between_expert_knowledge_and_professional_discretion_Accreditation_social_control_and_the_limits_of_instrumental_logic
 
-## Lesson 09 - Mar. 22
-### Regulation
-This class will exam legal regimes that could be used to govern or regulate the use of algorithms. We'll start with product liability, using autonomous vehicles (also known as self-driving cars) as our case study. Product liability emerged, in part, from the increasing complexity of the supply chain of modern goods and the inherent harm certain products could cause. Is the same approach--or an analogous one--appropriate for dealing with the increasing complexity of algorithms? Or should algorithms be treated like human services? Is there a viable third option, such as universal insurance for harms caused by autonomous vehicles?
-Product liability in general, and strict product liability specifically, represent an attempt to regulate the creation and sale of goods by imposing liability for harms caused. Is a regulation-by-incentive approach effective? Is it appropriate for the regulation of algorithms? Where might incentives to create safe, ethical algorithms and artificial intelligences break down? What are other model of assigning redress for the harms caused by technologies such as autonomous vehicles?
+## Lesson 08 - Mar. 22
+### Regulation Part One
+This class will exam legal regimes that could be used to govern or regulate the use of algorithms. 
 
+Blueprint for an A.I. Bill of Rights
+https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf
+Read pages 5-7, 15-29, 40-52
 
-Jonas Schuett , [Defining the Scope of AI Regulation][18], (2019) 
+Listen to Bryan Frye Podcast
 
 “DeepFakes: A Looming Challenge for Privacy, Democracy, and National Security”
 by Citron & Chesney (Scholarly Common at BU, 2019) Read Section II: Costs &
 Benefits (1768-1786) [PERMA]()
 
-“AI is mastering language; should we trust what it says?” by Steven Johnson
-(New York Times Magazine, 2022) [PERMA]()
+https://www.nytimes.com/2023/01/22/business/media/deepfake-regulation-difficulty.html
+
+Sunstein "Can the Government Regulate Deepfakes?"
+
+https://www.theregreview.org/2021/08/14/saturday-seminar-responding-deepfakes-disinformation/
 
 
- Peter Krafft, Meg Young, Michael Katell, Karen Huang, and Ghislain Bugingo,, [Defining AI in Policy versus Practice][21], AIES 20: Proceedings of the AAAI/ACM Conference on AI, Ethics and Society. 
+
+## Lesson 09 - Mar. 29
+### Regulation Part Two
+
+
+Our second class on regulating algorithms will focus on product liability, using self-driving cars as our case study. Product liability emerged, in part, from the increasing complexity of the supply chain of modern goods and the inherent harm certain products could cause. Is the same approach — or an analogous one — appropriate for dealing with the increasing complexity of algorithms? Or should algorithms be treated like human services? Is there a viable third option, such as universal insurance for harms caused by autonomous vehicles?
+
+Product liability in general, and strict product liability specifically, represent an attempt to regulate the creation and sale of goods by imposing liability for harms caused. Is a regulation-by-incentive approach effective? Is it appropriate for the regulation of algorithms? Where might incentives to create safe, ethical algorithms and artificial intelligences break down? What are other model of assigning redress for the harms caused by technologies such as autonomous vehicles?
+
 
 Jess Whittlestone, Rune Nyrup, Anna Alexandrova and Stephen Cave, [The Role and Limits of Principles in AI Ethics: Towards A Focus on Tensions][22], AIES19 Proceedings of the AAAI/ACM Conference on AI, Ethics and Society
 
@@ -99,13 +104,13 @@ Gary Marchant and Rachel Lindor, [_The Coming Collision Between Autonomous Vehic
 - Karni A. Chagal-Feferkorn, [_Am I an Algorithm or a Product? When Products Liability Should Apply to Algorithmic Decision-Makers_][24], 30 Stan. L. & Pol'y Rev. 61 (2019) (read pp 70-72, 77-86)
 
 - Hin-Yan Liu, [_Irresponsibilities, Inequalities and Injustice for Autonomous Vehicles_][25], 19 Ethics Info. Tech. 193 (2017) (read pp 194-200)
+- 
 - Hana Creger, [_How Self-Driving Cars Could Harm Marginalized Communities_][26], Salon (March 5, 2019) (read all)
 
-Matthew Tokson, _The Aftermath of _Carpenter: _An Empirical Study of Fourth Amendment Law_, 135 Harv. L. Rev. (forthcoming 2022) Read 1-6.
-**American Civil Liberties Union, Community Control Over Police Surveillance (CCOPS) Model Bill (2021), **[https://www.aclu.org/legal-document/community-control-over-police-surveillance-ccops-model-bill][27]
 
 
-## Lesson 10 - Mar. 29
+
+## Lesson 10 - Apr. 5
 ### Litigation
 In this class session, we'll be looking at the impact of algorithms in three areas of decision-making that are traditionally protected by civil rights laws: housing, lending, and employment. In the first part of class, we'll consider why private actors might want to use algorithms in housing, lending, and employment decision-making and how those uses might interact with civil rights statutes. On one hand, it seems like algorithmic decision-making is a cure for intentional and unintentional discrimination in _human_ decision-making. On the other hand, empirical studies show that algorithmic decision-making can exhibit bias against protected characteristics such as race or gender, even when these characteristics have been scrubbed from input datasets. What are the tradeoffs between algorithmic and human decision-making when it comes to decisions that disparately impact protected classes? Do we (or should we) think about these tradeoffs differently in the areas of housing, lending, and employment? Readings for this part of class are:
 - Matthew Adam Bruckner, [_The Promise and Perils of Algorithmic Lenders’ Use of Big Data_][28], 93 Chi.-Kent L. Rev. 3 (2018) (read pp 15-17, skim pp 17-29)
@@ -119,7 +124,7 @@ For the second part of class, we'll look at potential legal interventions that c
 A.I. Bill of Rights
 
 
-## Lesson 11 - Apr. 5
+## Lesson 11 - Apr. 12
 ### The Future
 Elish and Boyd, _Situating methods in the magic of Big Data and AI_, 85 Communication Monographs 57 (2018). Read the introduction pages 57-58 and pages 67-72, starting with “Faith in Prediction.”
 Rediet Abebe, Solon Barocas, Jon Kleinberg, Karen Levy, Manish Raghavan, David Robinson, “Roles for Computing in Social Change” https://arxiv.org/pdf/1912.04883.pdf
@@ -132,11 +137,11 @@ Algorithmic Justice League (https://www.ajlunited.org)
 “The Metamorphosis” by Henry Kissinger, Eric Schmidt, and Daniel Huttenlocher (The Atlantic, 2019)
 
 # Student Presentations
-## Lesson 12 - Apr. 12
+## Lesson 12 - Apr. 19
 - Student presentations
-## Lesson 13 - Apr. 19
+## Lesson 13 - Apr. 26
 - Student presentations
-- Algorithmic fairness and grading
+
 
 
 

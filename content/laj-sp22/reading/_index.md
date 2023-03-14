@@ -318,10 +318,10 @@ Julia Powles, New Yorker (2017).
 Read the whole thing.
 
 ## Lesson 08 - Mar. 22
-### Accountability
+### Regulation Part One
 _Readings to be determined_
 ## Lesson 09 - Mar. 29
-### Regulation
+### Regulation Part Two
 _Readings to be determined_
 ## Lesson 10 -  Apr. 5
 ### Litigation

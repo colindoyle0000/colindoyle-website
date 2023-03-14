@@ -38,6 +38,8 @@ weight: 10
 
 **13 - Products Liability** | [(.pdf)](/../../torts-material/slides/s13-products.pdf) | [(webpage)](/../../torts-material/slides/1s13-products)
 
+**14 - Manufacturing and Design Defects** | [(.pdf)](/../../torts-material/slides/s14-defects.pdf) | [(webpage)](/../../torts-material/slides/1s14-defects)
+
 # Fall Semester
 
 <br>

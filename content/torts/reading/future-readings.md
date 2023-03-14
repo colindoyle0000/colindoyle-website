@@ -30,55 +30,53 @@ Pgs. 924-939
 
 ## Thursday, March 30, 2023
 
-**Defenses**
+Defenses to Intentional Torts
 
-Consent
-
-Pgs. 957-961
-
-Self-Defense
-
-Pgs. 961-965
+Pgs. 957-976
 
 
 ## Tuesday, April 4, 2023
 
-Protection of Property
+Review of Intentional Torts & Exercises
 
-Pgs. 965-970
-
-Necessity
-
-Pgs. 970-976
-
-
+# Alternatives to Tort
 
 ## Thursday, April 6, 2023
 
-Review of Intentional Torts & Exercises
+First-Party Insurance
 
-
-
-# Alternatives to Tort
+Pgs. 775-793
 
 
 ## Tuesday, April 11, 2023
 
-Lesson 23 - 
+ Liability Insurance
+
+798-817
+
+
 
 ## Thursday, April 13, 2023
 
-Lesson 24 - 
+Workers Compensation
+
+Pgs. 831-857
+
 
 ## Tuesday, April 18, 2023
 
-Lesson 25 - 
+No-fault and Beyond
+
+Pgs. 878-900
+
 
 ## Thursday, April 20, 2023
-Lesson 26 - 
+
+Flex Day
+
 
 ## Thursday, April 27, 2023
-Makeup class
+Review
 
 
 
