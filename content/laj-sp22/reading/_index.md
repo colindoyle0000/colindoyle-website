@@ -309,7 +309,45 @@ Questions to consider:
 
 ## Lesson 08 - Mar. 22
 ### Regulation Part One
-_Readings to be determined_
+## Lesson 08 - Mar. 22
+### Regulation Part One
+
+This class and the next will exam legal regimes that could be used to govern or regulate the use of algorithms. Our first class will examine the “Blueprint for an A.I. Bill of Rights” that the White House put out this past fall and also the challenge of regulating deep fakes.
+
+As A.I. and machine learning proliferates, what regulations are required? Are our institutions up to the task or is technology’s disruptive power overblown? Where might governmental oversight succeed and where might it fail? What would underegulation and overregulation look like in this space? How could we measure it? What existing rights should the government protect? What new rights ought to be protected in an age of automation?
+
+[**DOWNLOAD ALL READINGS FOR LESSON 08**](Lesson08.zip)
+
+Please note that the download link above does not include the assigned podcast episode in the .zip file.
+
+[Podcast: Suresh Venkatasubramanian: An AI Bill of Rights](https://thegradientpub.substack.com/p/suresh-venkatasubramanian-an-ai-bill#details)
+<br> The Gradient, (2023).
+<br> Listen from 43:50 to the end. But feel free to listen to whole thing if you want, lots of good stuff.
+
+[Blueprint for an A.I. Bill of Rights](https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf)
+<br> Read pages 5-7, 15-29, 40-52.
+
+[DeepFakes: A Looming Challenge for Privacy, Democracy, and National Security](https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=1640&context=faculty_scholarship)
+<br> Danielle K. Citron & Robert Chesney, Calif. L. Rev. (2019) 
+<br> Read 1768-1786 (Section II: Costs & Benefits).
+
+[Responding to Deepfakes and Disinformation](https://www.theregreview.org/2021/08/14/saturday-seminar-responding-deepfakes-disinformation/)
+<br> Soojin Jeong, Margaret Sturtevant, & Karis Stephen, The Regulatory Review (2021).
+<br> Read the whole thing.
+
+[Congress Should Not Rush to Regulate Deepfakes](https://www.eff.org/deeplinks/2019/06/congress-should-not-rush-regulate-deepfakes)
+<br> Hayley Tsukayama, India Mckinney, & Jamie Williams, Electronic Frontier Foundation (2019)
+<br> Read the whole thing.
+
+[Deepfakes and American Law](https://www.davispoliticalreview.com/article/deepfakes-and-american-law)
+<br> Abigail Loomis, Davis Political Review (2022).
+<br> Read the whole thing.
+
+[As Deepfakes Flourish, Countries Struggle With Response](https://www.nytimes.com/2023/01/22/business/media/deepfake-regulation-difficulty.html)
+<br> Tiffany Hsu, N.Y. Times (2023)
+<br> Read the whole thing.
+
+
 ## Lesson 09 - Mar. 29
 ### Regulation Part Two
 _Readings to be determined_

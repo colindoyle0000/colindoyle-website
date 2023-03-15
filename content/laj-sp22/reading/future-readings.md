@@ -71,14 +71,18 @@ Julia Powles, “New York City’s Bold, Flawed Attempt to Make Algorithms Accou
 ### Regulation Part One
 This class and the next will exam legal regimes that could be used to govern or regulate the use of algorithms. Our first class will examine the “Blueprint for an A.I. Bill of Rights” that the White House put out this past fall and also the challenge of regulating deep fakes.
 
+As A.I. and machine learning proliferates, what regulations are required? Are our institutions up to the task or is technology’s disruptive power overblown? Where might governmental oversight succeed and where might it fail? What would underegulation and overregulation look like in this space? How could we measure it? What existing rights should the government protect? What new rights ought to be protected in an age of automation?
+
 [**DOWNLOAD ALL READINGS FOR LESSON 08**](Lesson08.zip)
 
-[Blueprint for an A.I. Bill of Rights](https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf)
-<br> Read pages 5-7, 15-29, 40-52.
+Please note that the download link above does not include the assigned podcast episode in the .zip file.
 
 [Podcast: Suresh Venkatasubramanian: An AI Bill of Rights](https://thegradientpub.substack.com/p/suresh-venkatasubramanian-an-ai-bill#details)
 <br> The Gradient, (2023).
 <br> Listen from 43:50 to the end. But feel free to listen to whole thing if you want, lots of good stuff.
+
+[Blueprint for an A.I. Bill of Rights](https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf)
+<br> Read pages 5-7, 15-29, 40-52.
 
 [DeepFakes: A Looming Challenge for Privacy, Democracy, and National Security](https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=1640&context=faculty_scholarship)
 <br> Danielle K. Citron & Robert Chesney, Calif. L. Rev. (2019) 
