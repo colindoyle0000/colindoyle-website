@@ -40,6 +40,8 @@ weight: 10
 
 **14 - Manufacturing and Design Defects** | [(.pdf)](/../../torts-material/slides/s14-defects.pdf) | [(webpage)](/../../torts-material/slides/1s14-defects)
 
+**15 - Warnings** | [(.pdf)](/../../torts-material/slides/s15-warnings.pdf) | [(webpage)](/../../torts-material/slides/1s15-warnings)
+
 # Fall Semester
 
 <br>
