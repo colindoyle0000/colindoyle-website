@@ -307,8 +307,7 @@ Questions to consider:
 <br> Julia Powles, New Yorker (2017).
 <br> Read the whole thing.
 
-## Lesson 08 - Mar. 22
-### Regulation Part One
+
 ## Lesson 08 - Mar. 22
 ### Regulation Part One
 
