@@ -195,9 +195,9 @@ Pgs. 775-793
 
 ## Tuesday, April 11, 2023
 
- Liability Insurance
+Liability Insurance
 
-798-817
+Pgs. 798-817
 
 
 
@@ -210,9 +210,19 @@ Pgs. 831-857
 
 ## Tuesday, April 18, 2023
 
-No-fault and Beyond
+No-Fault and Beyond
 
 Pgs. 878-900
+
+
+## Thursday, April 20, 2023
+
+Flex Day
+
+
+## Thursday, April 27, 2023
+Review
+
 
 # Fall Semester
 

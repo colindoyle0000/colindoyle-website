@@ -20,13 +20,7 @@ toc: true
 
 
 
-## Thursday, April 20, 2023
 
-Flex Day
-
-
-## Thursday, April 27, 2023
-Review
 
 
 
