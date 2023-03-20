@@ -17,57 +17,7 @@ toc: true
 
 
 
-## Tuesday, March 28, 2023
 
-False Imprisonment
-
-Pgs. 917-924
-
-Intentional Infliction of Emotional Distress
-
-Pgs. 924-939
-
-
-## Thursday, March 30, 2023
-
-Defenses to Intentional Torts
-
-Pgs. 957-976
-
-
-## Tuesday, April 4, 2023
-
-Review of Intentional Torts & Exercises
-
-# Alternatives to Tort
-
-## Thursday, April 6, 2023
-
-First-Party Insurance
-
-Pgs. 775-793
-
-
-## Tuesday, April 11, 2023
-
- Liability Insurance
-
-798-817
-
-
-
-## Thursday, April 13, 2023
-
-Workers Compensation
-
-Pgs. 831-857
-
-
-## Tuesday, April 18, 2023
-
-No-fault and Beyond
-
-Pgs. 878-900
 
 
 ## Thursday, April 20, 2023
