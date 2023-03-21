@@ -42,6 +42,8 @@ weight: 10
 
 **15 - Warnings** | [(.pdf)](/../../torts-material/slides/s15-warnings.pdf) | [(webpage)](/../../torts-material/slides/1s15-warnings)
 
+**16 - Defenses** | [(.pdf)](/../../torts-material/slides/s16-defenses.pdf) | [(webpage)](/../../torts-material/slides/1s16-defenses)
+
 # Fall Semester
 
 <br>
