@@ -44,6 +44,8 @@ weight: 10
 
 **16 - Defenses** | [(.pdf)](/../../torts-material/slides/s16-defenses.pdf) | [(webpage)](/../../torts-material/slides/1s16-defenses)
 
+**17 - Intentional Torts** | [(.pdf)](/../../torts-material/slides/s17-intent.pdf) | [(webpage)](/../../torts-material/slides/1s17-intent)
+
 # Fall Semester
 
 <br>
