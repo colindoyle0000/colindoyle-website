@@ -52,7 +52,7 @@ A partner at your firm would like you to sketch out arguments defending Oscar Ma
 
 ---
 
-![inline](images/culp.jpg)
+![](images/culp.jpg)
 
 ---
 
