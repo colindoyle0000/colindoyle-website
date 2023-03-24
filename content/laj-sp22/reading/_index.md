@@ -367,7 +367,7 @@ Videos:
 [Microsoft's AI Future of Work Event: Everything Revealed in 8 Minutes - YouTube](https://www.youtube.com/watch?v=VqhDnaqhnd4)
 
 [We tried to compete with AI... [AI vs. ARCHITECT] - YouTube](https://www.youtube.com/watch?v=N709ZrxoIP0)
-You can skim through parts of this video, but it is an interesting test case in an adjacent field.
+<br> You can skim through parts of this video, but it is an interesting test case in an adjacent field.
 
 Readings:
 
