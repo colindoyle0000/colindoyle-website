@@ -348,8 +348,62 @@ Please note that the download link above does not include the assigned podcast e
 
 
 ## Lesson 09 - Mar. 29
-### Regulation Part Two
-_Readings to be determined_
+### Large Language Models
+
+The main assignment for this week is to experiment with Chat-GPT. You will need to creat an account with Open AI, but you can access Chat-GPT in your browser at: [https://chat.openai.com/chat](https://chat.openai.com/chat). As you go through your week, just keep it open as a tab in your browser, and experiment with using the tool to answer different questions. In particular, explore how it might be used for law school and legal tasks. Watch [this short video](https://www.youtube.com/watch?v=SbgJDL4DJ7M)  to learn how to provide ChatGPT with stronger prompts.
+
+What are the possible benefits and drawbacks of large language models like GPT-4 for legal education and the legal profession? How can law schools best integrate these technologies into legal education? How can lawyers best integrate these technologies into legal work?
+
+How might the widespread adoption of large language models in the legal profession affect the job market for lawyers and other legal professionals? Will these technologies complement or replace traditional legal roles?
+
+To what extent should large language models be regulated within the legal profession? Can large language models be held accountable for providing incorrect or misleading legal advice? How can we ensure that AI technologies maintain the ethical standards of the legal profession?
+
+Videos:
+
+[How ChatGPT Works Technically For Beginners - YouTube](https://www.youtube.com/watch?v=uCIa6V4uF84)
+
+[A Massive Upgrade To ChatGPT! (This is Crazy) - YouTube](https://www.youtube.com/watch?v=ZSfwgKDcGKY)
+
+[Microsoft's AI Future of Work Event: Everything Revealed in 8 Minutes - YouTube](https://www.youtube.com/watch?v=VqhDnaqhnd4)
+
+[We tried to compete with AI... [AI vs. ARCHITECT] - YouTube](https://www.youtube.com/watch?v=N709ZrxoIP0)
+You can skim through parts of this video, but it is an interesting test case in an adjacent field.
+
+Readings:
+
+[**DOWNLOAD ALL READINGS FOR LESSON 09**](Lesson09.zip)
+
+[You Can Have the Blue Pill or the Red Pill, and We’re Out of Blue Pills](https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html)
+<br> Yuval Harari, Tristan Harris and Aza Raskin, N.Y. Times (2023).
+<br> Read the whole thing.
+
+[The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html?action=click&module=RelatedLinks&pgtype=Article)
+<br> Noam Chomsky, Ian Roberts and Jeffrey Watumull, N.Y. Times (2023).
+<br> Read the whole thing.
+
+[The Implications of ChatGPT for Legal Services and Society](https://clp.law.harvard.edu/knowledge-hub/magazine/issues/generative-ai-in-the-legal-profession/the-implications-of-chatgpt-for-legal-services-and-society/)
+<br> Andrew Perlman, Harvard Law School Center on the Legal Profession (2022)
+<br> Read the whole thing.
+
+[New GPT-Based Chat App from LawDroid Is A Lawyer's 'Copilot' for Research, Drafting, Brainstorming and More | LawSites](https://www.lawnext.com/2023/01/new-gpt-based-chat-app-from-lawdroid-is-a-lawyers-copilot-for-research-drafting-brainstorming-and-more.html)
+<br> Bob Ambrogi, LawNext (2023).
+<br> Read the whole thing.
+
+[Can AI replace patent attorneys? - HGF](https://www.hgf.com/news/can-ai-replace-patent-attorneys/)
+<br> Mark Sellick, HGF (2022)
+<br> Read the whole thing.
+
+[Will ChatGPT Bring AI to Law Firms? Not Anytime Soon.](https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-will-chatgpt-bring-ai-to-law-firms-not-anytime-soon)
+<br> Thomas Bacas, BloombergLaw (2022).
+<br> Read the whole thing.
+
+[Evaluating The Legal Ethics Of A ChatGPT-Authored Motion](https://www.law360.com/articles/1567985/evaluating-the-legal-ethics-of-a-chatgpt-authored-motion)
+<br> Aimee Furness and Sam Mallick, Law360 (2023).
+<br> Read the whole thing.
+
+
+
+
 ## Lesson 10 -  Apr. 5
 ### Litigation
 _Readings to be determined_
