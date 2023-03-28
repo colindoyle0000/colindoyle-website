@@ -46,6 +46,8 @@ weight: 10
 
 **17 - Intentional Torts** | [(.pdf)](/../../torts-material/slides/s17-intent.pdf) | [(webpage)](/../../torts-material/slides/1s17-intent)
 
+**18 - False Imprisonment and IIED** | [(.pdf)](/../../torts-material/slides/s18-false.pdf) | [(webpage)](/../../torts-material/slides/1s18-false)
+
 # Fall Semester
 
 <br>

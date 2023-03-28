@@ -37,7 +37,11 @@ Tuesdays & Thursdays from 2:00pm to 3:00pm <br>
 Outside the Robinson Moot Courtroom
 
 **Spring 2023** <br>
-Immediately following class, Tuesdays & Thursdays from 12:00pm to 1:00pm.
+
+Tuesdays from 1pm to 2pm
+
+Thursdays from 11am to 12pm
+
 Outside the Robinson Moot Courtroom
 
 During open office hours, any student or group of students from our class may stop by without an appointment. Anyone in the class is welcome to join or leave during that time. Please know that I _love_ office hours. While I am always up for talking about torts, I am also happy to talk about anything you’re interested in discussing: navigating law school, legal careers, the research I’m conducting when I’m not teaching, the latest season of the Great British Bakeoff — anything is fair game. Maybe I'll have cookies or brownies to share. Show up to find out.
