@@ -404,9 +404,34 @@ Readings:
 
 
 
-## Lesson 10 -  Apr. 5
-### Litigation
-_Readings to be determined_
+## Lesson 10 - Apr. 5
+
+### Critical Approaches
+
+In this class we’ll be examining critical approaches to algorithmic fairness that challenge the assumptions of the literature we’ve read so far and offer sometimes radical reconceptions of the role that algorithms can play in law and society.
+
+As you work through the readings this week, take note of what critiques and perspectives resonate with you — even if you disagree with the broader argument of an article. In our class discussion, we’ll work on synthesizing these critiques and continuing the work of imagining algorithmic alternatives.  
+
+Readings:
+
+[**DOWNLOAD ALL READINGS FOR LESSON 10**](Lesson10.zip)
+
+[Escaping the Impossibility of Fairness: From Formal to Substantive Algorithmic Fairness](https://link.springer.com/article/10.1007/s13347-022-00584-6)
+<br> Ben Green, Philosophy & Technology (2022).
+<br> Read the whole thing.
+
+[On Missing Data Sets](https://github.com/MimiOnuoha/missing-datasets)
+<br> Mimi Onuoha, Github Repository (2018).
+<br> Read the whole thing.
+
+[Algorithmic Reparation](http://journals.sagepub.com/doi/10.1177/20539517211044808)
+<br> Jenny Davis, Apryl Williams, & Michael W. Yang, Big Data & Society (2021).
+<br> Read the whole thing.
+
+White Collar Risk Zones
+<br> Sam Lavigne, et al., The New Inquiry, (2017). 
+<br> Visit the [website](https://whitecollar.thenewinquiry.com/) and read the [whitepaper](https://whitecollar.thenewinquiry.com/static/whitepaper.pdf)
+
 ## Lesson 11 - Apr. 12
 ### The Future
 _Readings to be determined_
