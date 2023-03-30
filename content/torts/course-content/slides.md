@@ -48,6 +48,8 @@ weight: 10
 
 **18 - False Imprisonment and IIED** | [(.pdf)](/../../torts-material/slides/s18-false.pdf) | [(webpage)](/../../torts-material/slides/1s18-false)
 
+**19 - Defenses** | [(.pdf)](/../../torts-material/slides/s19-defenses.pdf) | [(webpage)](/../../torts-material/slides/1s19-defenses)
+
 # Fall Semester
 
 <br>
