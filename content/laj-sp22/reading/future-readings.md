@@ -136,8 +136,7 @@ Gary Marchant and Rachel Lindor, [_The Coming Collision Between Autonomous Vehic
 ## Lesson 10 - Apr. 5
 ### Litigation
 In this class session, we'll be looking at the impact of algorithms in three areas of decision-making that are traditionally protected by civil rights laws: housing, lending, and employment. In the first part of class, we'll consider why private actors might want to use algorithms in housing, lending, and employment decision-making and how those uses might interact with civil rights statutes. On one hand, it seems like algorithmic decision-making is a cure for intentional and unintentional discrimination in _human_ decision-making. On the other hand, empirical studies show that algorithmic decision-making can exhibit bias against protected characteristics such as race or gender, even when these characteristics have been scrubbed from input datasets. What are the tradeoffs between algorithmic and human decision-making when it comes to decisions that disparately impact protected classes? Do we (or should we) think about these tradeoffs differently in the areas of housing, lending, and employment? Readings for this part of class are:
-- Matthew Adam Bruckner, [_The Promise and Perils of Algorithmic Lenders’ Use of Big Data_][28], 93 Chi.-Kent L. Rev. 3 (2018) (read pp 15-17, skim pp 17-29)
-- Ifeoma Ajunwa, [_The Paradox of Automation as Anti-Bias Intervention_][29], 41 Cardozo L. Rev. 1671 (2020) (read pp 1683-1692, skim pp 1692-1707)
+
 For the second part of class, we'll look at potential legal interventions that could address, at least partially, the issue of algorithmic discrimination. Assuming that we find _some_ benefit to algorithmic decision-making (and thus don't opt for an out-right ban), how do we preserve the good while regulating the bad? Should a regulatory agency be nominated - or created - to oversee the deployment of algorithms in areas protected by civil rights laws? Should we create a private right of action against algorithmic discrimination? Or are existing civil rights laws sufficient to address these harms? Readings for this section of class are:
 - Matthew Adam Bruckner, [_The Promise and Perils of Algorithmic Lenders’ Use of Big Data_][30], 93 Chi.-Kent L. Rev. 3 (2018) (read pp 31-38, skim pp 38-56)
 - Ifeoma Ajunwa, [_The Paradox of Automation as Anti-Bias Intervention_][31], 41 Cardozo L. Rev. 1671 (2020) (skim pp 1720-1726, read pp 1726-1734)
@@ -147,16 +146,15 @@ For the second part of class, we'll look at potential legal interventions that c
 A.I. Bill of Rights
 
 
+
 ## Lesson 11 - Apr. 12
 ### The Future
-Elish and Boyd, _Situating methods in the magic of Big Data and AI_, 85 Communication Monographs 57 (2018). Read the introduction pages 57-58 and pages 67-72, starting with “Faith in Prediction.”
-Rediet Abebe, Solon Barocas, Jon Kleinberg, Karen Levy, Manish Raghavan, David Robinson, “Roles for Computing in Social Change” https://arxiv.org/pdf/1912.04883.pdf
+
+
 Dorothy E. Roberts, _Digitizing the Carceral State_, 132 Harv. L. Rev. 1695 (2019). Read 1695-1699, 1721-1728.
-Ruha Benjamin, Race After Technology: Abolitionist Tools for the New Jim Code (2019) Read attached excerpt.
-Ben Green, _Algorithmic Imaginaries: The Political Limits of Legal and Computational Reasoning_, LPE Project (2021), [https://lpeproject.org/blog/algorithmic-imaginaries-the-political-limits-of-legal-and-computational-reasoning][35].
-Sam Lavigne, et al., _White Collar Risk Zones_, The New Inquiry, (Apr. 26, 2017). Visit the website [https://whitecollar.thenewinquiry.com/][36] and read the whitepaper: [https://whitecollar.thenewinquiry.com/static/whitepaper.pdf][37].
-Studying Up
-Algorithmic Justice League (https://www.ajlunited.org)
+
+[35].
+
 “The Metamorphosis” by Henry Kissinger, Eric Schmidt, and Daniel Huttenlocher (The Atlantic, 2019)
 
 # Student Presentations
