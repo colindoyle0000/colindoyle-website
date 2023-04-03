@@ -17,6 +17,16 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## April 3, 2023
+
+### Intentional Torts Exercise
+
+You are a personal injury attorney in the state of Loyola. In Loyola, a protest and counter-protest over gun regulations began to get out of hand. Annie stood at the front lines of the protest arguing for assault weapon regulation, and Bob stood at the front lines of the counter-protest arguing for free assault weapons for public school teachers. The two protests began on opposite sides of city park but grew closer together over the course of the day and were now squaring off face-to-face. Annie started addressing Bob directly. “You think it’s worth it for kids to die so you can pretend you’re a real man? What are you compensating for, buddy? Huh? Wife left you? Maybe instead of buying so many guns, you should buy a gym membership, you fat piece of shit!” As she screamed at him, flecks of spit kept landing on Bob’s face. She pointed her index finger right between his eyes, inches from his face as she said, “No one is ever going to love you.”
+
+Bob drew his SIG Sauer P365 pistol from its holster on his hip and pointed it at the ground by his feet. “Back up. Stop spitting on my face. And stop being so mean to me.” “Are you going to shoot me?” Annie asked.  “If I have to.” Bob responded.  “I’m calling the cops,” Annie said, and retreated back into the crowd.
+
+Annie did not call the cops. But she did sue Bob for assault. Bob has now hired you as his attorney. Having never been sued before, Bob wants you to advise him on his legal options. Please consider any defenses Bob might raise, any intentional tort claims he might have against Annie, and any defenses she might be able to raise. As you advise Bob, be sure to inform him of how strong or weak these claims or defenses are and why. For the purposes of this question, do not consider any negligence or strict liability claims.
+
 ## March 16, 2023
 
 ### Products Liability Exercise Part 1
