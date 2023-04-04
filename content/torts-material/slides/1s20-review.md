@@ -1,12 +1,10 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer: 
-
-# Review
-
 ---
+title: Review
+profile: false
+share: false
+show_date: false
+---
+
 
 # Office Hours
 
@@ -24,7 +22,15 @@ Today, 1:00pm to 2:00pm, lunch tables outside
 
 ---
 
-![inline](images/culp.jpg)
+# Hand Formula
+
+B < P*L
+
+Negligence when the burden on the defendant of taking precautions is less than the probability of loss for the plaintiff multiplied by the magnitude of that loss.
+
+---
+
+![](images/culp.jpg)
 
 ---
 
@@ -35,60 +41,80 @@ Today, 1:00pm to 2:00pm, lunch tables outside
 # Structure for this Part of the Course
 
 Intentional Torts:
+
 --- Battery
+
 --- Assault
+
 --- False imprisonment
+
 --- Intentional infliction of emotional distress
 
 Defenses:
+
 --- Consent
+
 --- Self-defense
+
 --- Defense of property
+
 --- Necessity
 
 ---
 
 
 
-![inline, 80%](images/intent.jpg)
+![](images/intent.jpg)
 
 
 **Abridged Definition from Restatement (Third) of Torts**
+
 A person acts with the intent to produce a consequence if:
+
 (a) the person acts with the purpose of producing that consequence; or
+
 (b) the person acts knowing that the consequence is substantially certain to result.
 
 ---
 
-![inline, 80%](images/battery.jpg)
+![](images/battery.jpg)
 
 **Abridged Definition from Restatement (Second) of Torts**
+
 An actor is subject to liability to another for battery if he acts intending to cause a harmful or offensive contact with the person of the other or a third person, or an imminent apprehension of such a contact, and a harmful or offensive contact with the person of the other directly or indirectly results.
 
 ---
 
-![inline, 80%](images/assault.jpg)
+![](images/assault.jpg)
 
 **Abridged Definition from Restatement (Second) of Torts**
+
 An actor is subject to liability to another for assault if
+
 (a) he acts intending to cause a harmful or offensive contact with the person of the other or a third person, or an imminent apprehension of such a contact, and
+
 (b) the other is thereby put in such imminent apprehension.
 
 ---
 
-![inline, 50%](images/false.jpg)
+![](images/false.jpg)
 
 **Abridged Definition from Restatement (Second) of Torts**
+
 An actor is subject to liability to another for false imprisonment if
+
 (a) he acts intending to confine the other or a third person within boundaries fixed by the actor, and
+
 (b) his act directly or indirectly results in such a confinement of the other, and
+
 (c) the other is conscious of the confinement or is harmed by it.
 
 ---
 
-![inline, 60%](images/IIED.jpg)
+![](images/IIED.jpg)
 
 **Abridged Definition from Restatement (Second) of Torts**
+
 One who by extreme and outrageous conduct intentionally or recklessly causes severe emotional distress to another is subject to liability for such emotional distress, and if bodily harm to the other results from it, for such bodily harm.
 
 ---
@@ -96,8 +122,11 @@ One who by extreme and outrageous conduct intentionally or recklessly causes sev
 # Defenses
 
 --- Consent
+
 --- Self-defense
+
 --- Defense of property
+
 --- Necessity
 
 ---
@@ -110,12 +139,16 @@ Annie did not call the cops. But she did sue Bob for assault. Bob has now hired 
 
 ---
 
-# Defenses for Bob
+## Defenses for Bob
 
----
+- Consent
+- Self-defense
+- No prima facie case of assault 
 
-# [fit] Claims that Bob might have against Annie
+## Claims that Bob might have against Annie
 
----
+- IIED
+- Battery
+- Assault
 
 

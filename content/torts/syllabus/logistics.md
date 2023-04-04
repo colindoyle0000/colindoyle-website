@@ -38,9 +38,9 @@ Outside the Robinson Moot Courtroom
 
 **Spring 2023** <br>
 
-Tuesdays from 1pm to 2pm
+Tuesdays, 1:00pm to 2:00pm
 
-Thursdays from 11am to 12pm
+Thursdays, 11:00am to 12:00pm
 
 Outside the Robinson Moot Courtroom
 

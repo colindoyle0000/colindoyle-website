@@ -50,6 +50,9 @@ weight: 10
 
 **19 - Defenses** | [(.pdf)](/../../torts-material/slides/s19-defenses.pdf) | [(webpage)](/../../torts-material/slides/1s19-defenses)
 
+**20 - Review of Intentional Torts** | [(.pdf)](/../../torts-material/slides/s20-review.pdf) | [(webpage)](/../../torts-material/slides/1s20-review)
+
+
 # Fall Semester
 
 <br>
