@@ -435,10 +435,23 @@ White Collar Risk Zones
 ## Lesson 11 - Apr. 12
 ### The Future
 _Readings to be determined_
+
+
 ## Lesson 12 - Apr. 19
 ### Student presentations
+
+1 - Kevin 
+2 - Amara
+3 - Soundarya
+
+
 ## Lesson 13 - Apr. 26
 ### Student presentations
+
+1 - Jake
+2 - Monica
+3 - Prince
+
 
 [1]:	/../../laj-sp22/syllabus/grading
 [2]:	https://chat.openai.com/chat
