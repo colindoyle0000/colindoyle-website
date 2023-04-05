@@ -12,6 +12,8 @@ type: book # Do not modify.
 toc: false
 ---
 
+[Class 10 Discussion Map](class10.png)
+
 [Class 09 Discussion Map](class09.png)
 
 [Class 08 Discussion Map](class08.png)
