@@ -52,6 +52,10 @@ weight: 10
 
 **20 - Review of Intentional Torts** | [(.pdf)](/../../torts-material/slides/s20-review.pdf) | [(webpage)](/../../torts-material/slides/1s20-review)
 
+**21 - First Party Insurance** | [(.pdf)](/../../torts-material/slides/s21-first.pdf) | [(webpage)](/../../torts-material/slides/1s21-first)
+
+**22 - Third Party (Liability) Insurance** | [(.pdf)](/../../torts-material/slides/s22-third.pdf) | [(webpage)](/../../torts-material/slides/1s22-third)
+
 
 # Fall Semester
 

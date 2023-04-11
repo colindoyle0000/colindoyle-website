@@ -441,7 +441,9 @@ _Readings to be determined_
 ### Student presentations
 
 1 - Kevin 
+
 2 - Amara
+
 3 - Soundarya
 
 
@@ -449,7 +451,9 @@ _Readings to be determined_
 ### Student presentations
 
 1 - Jake
+
 2 - Monica
+
 3 - Prince
 
 
