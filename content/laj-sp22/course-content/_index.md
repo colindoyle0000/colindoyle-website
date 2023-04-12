@@ -15,7 +15,7 @@ toc: false
 
 [Public Writing Slides](public-writing)
 
-[Model Presentation on “Should Reparations Be Algorithmic?”](algo-rep)
+[Model Presentation on “Should Reparations Be Algorithmic?”](algo-rep.pdf)
 
 [Class 11 Discussion Map](class11.png)
 
