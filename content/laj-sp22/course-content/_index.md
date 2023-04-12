@@ -12,6 +12,10 @@ type: book # Do not modify.
 toc: false
 ---
 
+[Public Writing Slides](public-writing.md)
+
+[Model Presentation on “Should Reparations Be Algorithmic?”](algo-rep.md)
+
 [Class 11 Discussion Map](class11.png)
 
 [Class 10 Discussion Map](class10.png)
