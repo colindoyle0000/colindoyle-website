@@ -56,6 +56,7 @@ weight: 10
 
 **22 - Third Party (Liability) Insurance** | [(.pdf)](/../../torts-material/slides/s22-third.pdf) | [(webpage)](/../../torts-material/slides/1s22-third)
 
+**23 - Workers’ Compensation** | [(.pdf)](/../../torts-material/slides/s23-workers.pdf) | [(webpage)](/../../torts-material/slides/1s23-workers)
 
 # Fall Semester
 
