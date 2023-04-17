@@ -10,7 +10,7 @@ show_date: false
 
 ---
 
-# [fit] How do alternatives to tort teach us about tort?
+# How do alternatives to tort teach us about tort?
 
 1. They influence tort litigation
 2. They affect substantive doctrine
@@ -25,9 +25,11 @@ show_date: false
 # Hypos on Impact of Insurance
 
 First party insurance for plaintiff in
+
 _Vincent v. Lake Erie Transport Co._
 
 Liability insurance for defendants in
+
 _Randi W. v. Muroc Joint Unified School District_
 
 
@@ -37,7 +39,7 @@ _Randi W. v. Muroc Joint Unified School District_
 
 ---
 
-# [fit] The “Unholy Trinity” of Common Law Defenses
+# The “Unholy Trinity” of Common Law Defenses
 
 1. Fellow servant rule
 2. Contributory negligence
@@ -45,7 +47,7 @@ _Randi W. v. Muroc Joint Unified School District_
 
 ---
 
-# [fit] The Bargain of Workers’ Compensation
+# The Bargain of Workers’ Compensation
 
 No fault
 
@@ -60,16 +62,20 @@ Exclusive remedy
 Only compensates for work-related injuries
 
 Benefits include:
+
 ------ Medical coverage
+
 ------ Percent of lost wages
+
 ------ Vocational rehabilitation
+
 ------ Survivor benefits
 
 Employers must buy workers’ comp insurance
 
 ---
 
-# [fit] When would an employee not file a workers’ comp claim?
+# When would an employee not file a workers’ comp claim?
 
 Injury didn’t occur while in scope of employment
 
