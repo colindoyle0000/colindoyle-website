@@ -1,10 +1,10 @@
----
-title: No-Fault and Beyond
-profile: false
-share: false
-show_date: false
----
+theme: Colin
+autoscale: true
+slidenumbers: true
+header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
+Footer: 
 
+# No-Fault and Beyond
 
 ---
 
@@ -199,16 +199,10 @@ Unique characteristics:
 # New Zealand
 
 **Total tort reform**
-
-
 Common law torts for accidental injury are abolished
-
 All accidental injuries now covered under a no-fault scheme:
-
 --- unlimited medical expenses
-
 --- fixed compensation for lost earnings
-
 --- lump sums for lost body parts and pain and suffering
 
 ---
