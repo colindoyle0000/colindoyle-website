@@ -58,6 +58,8 @@ weight: 10
 
 **23 - Workers’ Compensation** | [(.pdf)](/../../torts-material/slides/s23-workers.pdf) | [(webpage)](/../../torts-material/slides/1s23-workers)
 
+**24 - No-Fault and Beyond** | [(.pdf)](/../../torts-material/slides/s24-nofault.pdf) | [(webpage)](/../../torts-material/slides/1s24-nofault)
+
 # Fall Semester
 
 <br>
