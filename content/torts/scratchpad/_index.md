@@ -17,6 +17,16 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## April 17, 2023
+
+### Compensation Fund Exercise
+
+You are a wise federal trial judge with experience managing multidistrict litigation for toxic harms. Policymakers are considering establishing a compensation fund for victims of toxic harms. You have been asked to advise the group that is drafting the proposal.
+
+Here are some features of the current plan. To receive compensation, the plaintiff must prove that she was sufficiently exposed to a toxic substance such that the toxic substance could have caused her injury. If there are multiple possible defendants, the plaintiff is not required to prove which defendants are responsible for her injuries. The plaintiff is not required to prove that the defendant was at fault. The plaintiff can receive unlimited compensaton for medical expenses (including medical monitoring) in installments over time, but the plaintiff cannot be compensated for other losses. If the plaintiff receives compensation from this fund, the plaintiff is barred from pursuing any common law tort action related to the injury.
+
+What are the strengths and weaknesses of this plan? What are your suggestions for revision?
+
 ## April 3, 2023
 
 ### Intentional Torts Exercise
