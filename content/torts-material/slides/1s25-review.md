@@ -120,7 +120,7 @@ Variety of rules across jurisdictions, including several liability, joint-and-se
 
 # Duty
 
-![inline](images/duty-6.jpg)
+![](images/duty-6.jpg)
 
 ---
 
@@ -161,13 +161,13 @@ Variety of rules across jurisdictions, including several liability, joint-and-se
 
 
 # Government duties
-![inline](images/gov3.jpg)
+![](images/gov3.jpg)
 
 ---
 
 # Breach
 
-![inline](images/Res Ipsa Loquitur.jpeg)
+![](images/Res Ipsa Loquitur.jpeg)
 
 
 ---
@@ -185,7 +185,7 @@ Res ipsa
 # Medical Malpractice
 
 
-![inline](images/Medical Malpractice.jpeg)
+![](images/Medical Malpractice.jpeg)
 
 ---
 
@@ -244,13 +244,13 @@ Unexpected victim
 
 # Contributory negligence
 
-![inline](images/cn5.jpg)
+![](images/cn5.jpg)
 
 ---
 
 # Comparative negligence
 
-![inline](images/pl5.jpg)
+![](images/pl5.jpg)
 
 ---
 
@@ -340,13 +340,13 @@ Defenses:
 
 # IIED
 
-![inline](images/iied.jpg)
+![](images/iied.jpg)
 
 ---
 
 # NIED 
 
-![inline](images/nied.jpg)
+![](images/nied.jpg)
 
 ---
 
