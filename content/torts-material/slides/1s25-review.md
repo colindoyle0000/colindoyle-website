@@ -340,13 +340,13 @@ Defenses:
 
 # IIED
 
-![inline](images/IIED.jpg)
+![inline](images/iied.jpg)
 
 ---
 
 # NIED 
 
-![inline](images/NIED.jpg)
+![inline](images/nied.jpg)
 
 ---
 
