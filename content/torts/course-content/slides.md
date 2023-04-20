@@ -60,6 +60,8 @@ weight: 10
 
 **24 - No-Fault and Beyond** | [(.pdf)](/../../torts-material/slides/s24-nofault.pdf) | [(webpage)](/../../torts-material/slides/1s24-nofault)
 
+**25 - Review** | [(.pdf)](/../../torts-material/slides/s25-review.pdf) | [(webpage)](/../../torts-material/slides/1s25-review)
+
 # Fall Semester
 
 <br>
