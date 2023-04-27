@@ -62,6 +62,8 @@ weight: 10
 
 **25 - Review** | [(.pdf)](/../../torts-material/slides/s25-review.pdf) | [(webpage)](/../../torts-material/slides/1s25-review)
 
+**26 - Review** | [(.pdf)](/../../torts-material/slides/s26-review.pdf) | [(webpage)](/../../torts-material/slides/1s26-review)
+
 # Fall Semester
 
 <br>
