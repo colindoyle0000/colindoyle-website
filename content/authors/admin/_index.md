@@ -32,9 +32,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3134099
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/colindoyle0000
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/colindoyle0000
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/colin-doyle-54315312/
