@@ -61,6 +61,8 @@ The Promise and Perils of Algorithmic Lenders’ Use of Big Data <br> Matthew Ad
 DeepFakes: A Looming Challenge for Privacy, Democracy, and National Security <br> Citron & Chesney (Scholarly Common at BU, 2019) 
 <br> Read pages 1768-86.
 
+Sanctions Issued in Case Where Lawyers Cited ChatGPT-Hallucinated Precedents<br> Eugene Volokh, Volokh Conspiracy (June 22, 2023)<br> Read all.
+
 
 
 ## Lesson 02 - Aug. 29
