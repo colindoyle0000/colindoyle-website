@@ -8,6 +8,8 @@ toc: true
 
 ---
 
+# Current Courses
+
 ## Torts  <br>
 Fall 2023 to Spring 2024 <br>
 Loyola Law School, Los Angeles <br>
@@ -15,7 +17,7 @@ Loyola Law School, Los Angeles <br>
 
 ---
 
-Course website archive:
+# Archive:
 
 ## Torts  <br>
 Fall 2022 to Spring 2023 <br>
