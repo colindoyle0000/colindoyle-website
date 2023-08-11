@@ -1,6 +1,6 @@
 ---
 linktitle: Law, Algorithms, and Justice
-title: Law, Algorithms, and Justice (Spring 2023)
+title: Law, Algorithms, and Justice (Fall 2023)
 type: book # Do not modify.
 toc: false
 ---
