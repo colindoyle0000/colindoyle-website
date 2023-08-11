@@ -27,7 +27,7 @@ Tuesdays & Thursdays from 8:15am to 9:30am<br>
 Hall of the 70s
 
 **Spring 2023** <br>
-Tuesdays & Thursdays from 8:15am to 9:30am<br>
+Tuesdays & Thursdays from  8:45am to 10:00am<br>
 Hall of the 70s
 
 ## Open office hours
