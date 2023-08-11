@@ -15,7 +15,7 @@ I am reluctant to allow laptops to be used in the classroom. Laptops invite dist
 I am allowing laptops to be used during class for taking notes and referencing reading assignments. If I find that laptops are proving to be too much of a distraction, that policy will change. If you choose to use a laptop in class, I ask that you only use the laptop for taking notes and looking at your reading assignments. You should turn off notifications, close your email, and minimize your browser windows.
 
 ## Course Website
-You're on the [course website](http://www.colin-doyle.net/torts/) right now. I may also use our course [Brightspace page](https://brightspace.lmu.edu/d2l/home/217728) to make announcements and to host content that cannot be shared publicly.
+You're on the [course website](http://www.colin-doyle.net/torts2023/) right now. I may also use our course [Brightspace page](https://brightspace.lmu.edu/d2l/home/217728) to make announcements and to host content that cannot be shared publicly.
 
 ## Class Recordings
 The Instructional Technology Department will post video recordings of class [here](https://echo360.org/section/5552db9a-6979-43ae-a254-7c03a501c03e/home) as soon as the video files have been received and processed.
