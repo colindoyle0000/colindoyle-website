@@ -11,7 +11,7 @@ title: Reading Assignments
 date: '2022-08-14T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 type: book # Do not modify.
-toc: true
+toc: false
 ---
 
 You do not need to purchase a casebook for this class. 
