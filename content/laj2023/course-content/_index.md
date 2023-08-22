@@ -12,5 +12,5 @@ type: book # Do not modify.
 toc: false
 ---
 
-[Class 01 Discussion Map](class01.png)
+[Class 01 Discussion Map](https://brightspace.lmu.edu/d2l/le/content/217802/viewContent/2634424/View)
 
