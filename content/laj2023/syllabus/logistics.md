@@ -23,7 +23,7 @@ My faculty assistant is Colin Goward, and his email is: [Colin.Goward@lls.edu][1
 ## Class schedule
 
 Tuesdays from 1:10pm to 3:10pm
-<br> FH238 
+<br> FH236 
 
 ## Office hours
 
