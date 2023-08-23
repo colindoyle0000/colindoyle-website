@@ -67,7 +67,33 @@ Sanctions Issued in Case Where Lawyers Cited ChatGPT-Hallucinated Precedents<br>
 
 ## Lesson 02 - Aug. 29
 
-To be determined.
+### An introduction to machine learning
+In this class, we will discuss how the field of machine learning has developed, what it looks like now, and how it may look in the future. With a firmer understanding of what machine learning is, we can address the question of whether we need distinct legal or regulatory frameworks for governing algorithmic decision-making systems or whether the “law of the algorithm” is an unnecessarily specific instance of more general principles.
+
+_Readings:_
+
+[**DOWNLOAD ALL READINGS FOR LESSON 02**](Lesson02.zip)
+
+Machine Learning: A Primer: an introduction for both technical and non-technical readers
+<br> Lizzie Turner, Medium: Artificial Intelligence (May 26, 2018)
+<br> Read all.
+
+An Introduction to Statistical Learning with Applications in R
+<br> Gareth James, Daniela Witten, Trevor Hastie, & Robert Tibshirani (2021)
+<br> Read Introduction pages 1-9 (stop at “Who Should Read This Book?), 15-42.
+
+Anatomy of an A.I. System
+<br> Kate Crawford & Vladan Joler (2018)
+<br> Read all.
+
+Do Artifacts Have Politics?
+<br> Langdon Winner, Deadlus Volume 109(1) (1980)
+<br> Read all.
+
+Cyberspace and the Law of the Horse
+<br> Frank Easterbrook, University of Chicago Legal Forum 207 (1996) 
+<br> Read all.
+
 
 ## Lesson 03 - Sep. 5
 
