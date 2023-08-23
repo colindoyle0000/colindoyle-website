@@ -1,4 +1,4 @@
-\---
+---
 
 title: Welcome to Torts!
 
@@ -8,7 +8,7 @@ share: false
 
 show_date: false
 
-\---
+---
 
 
 
