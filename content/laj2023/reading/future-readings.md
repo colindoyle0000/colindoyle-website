@@ -14,6 +14,10 @@ type: book # Do not modify.
 toc: true
 ---
 
+# For Chat GPT Lesson
+Video: How GPT/ChatGPT Work - An Understandable Introduction to the Technology 
+<br> Harry Surden
+<br> https://www.youtube.com/watch?v=IMAhwv5dn8E
 
 
 # From last year:
