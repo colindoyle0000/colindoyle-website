@@ -12,4 +12,8 @@ weight: 10
 
 <br>
 
-Slides will be posted after each class.
+**01 - Welcome to Torts!** | [(.pdf)](/content/torts2023/slides/01-welcome-to-torts.pdf) | [(webpage)](/content/torts2023/slides/01-welcome-to-torts.md)
+
+
+
+
