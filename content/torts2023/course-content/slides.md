@@ -12,7 +12,7 @@ weight: 10
 
 <br>
 
-**01 - Welcome to Torts!** | [(.pdf)](/content/torts2023/slides/01-welcome-to-torts.pdf) | [(webpage)](/content/torts2023/slides/01-welcome-to-torts.md)
+**01 - Welcome to Torts!** | [(.pdf)](/torts2023/slides/01-welcome-to-torts.pdf) | [(webpage)](/torts2023/slides/01-welcome-to-torts.md)
 
 
 
