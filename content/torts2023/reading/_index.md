@@ -45,20 +45,20 @@ Pgs. 41-58
 
 ## Aug. 31, 2023
 
+No reading.
+
+## Sep. 4, 2023
+
 04 - Compensatory Damages
 
 Pgs. 59-87
 
-## Sep. 4, 2023
-
-TBD
-
-
 
 ## Sep. 7, 2023
 
-TBD
+05 - Punitive Damages
 
+Pgs. 88 - 110
 
 
 ## Sep. 12, 2023
