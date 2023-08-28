@@ -11,10 +11,6 @@ show_date: false
 ---
 
 
-# How to Read a Case
-
----
-
 # Today’s Agenda
 
 Hammontree v. Jenner
