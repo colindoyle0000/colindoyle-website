@@ -33,7 +33,7 @@ Hall of the 70s
 ## Open office hours
 
 **Fall 2023** <br>
-Thursdays from 12:00pm to 1:30pm <br>
+Thursdays from 1:00pm to 2:30pm <br>
 Outside the Robinson Moot Courtroom
 
 During open office hours, any student or group of students from our class may stop by without an appointment. Anyone in the class is welcome to join or leave during that time. Please know that I _love_ office hours. While I am always up for talking about torts, I am also happy to talk about anything you’re interested in discussing: navigating law school, legal careers, the research I’m conducting when I’m not teaching, the latest season of the Great British Bakeoff — anything is fair game. My office hours are during lunchtime, so feel free to bring your lunch and eat as we chat about torts. Sometimes I'll even have cookies or brownies to share. Show up to find out.

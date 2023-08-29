@@ -2,15 +2,23 @@ autoscale: true
 slidenumbers: true
 Footer: 
 
+![](images/chart_flipped.jpg)
 
-# Agenda
+---
 
-**Recap**
+# Course Overview
 
-**How to Read a Case**
-_(continued from last week)_
+---
 
-**Course Overview**
+# Administrative Crap
+
+**Office Hours**
+
+— New time: Thursdays from 1:00pm to 2:30pm
+
+**Thursday’s Reading Assignment**
+
+— Has been pushed to next Tuesday 
 
 ---
 
