@@ -97,7 +97,32 @@ Cyberspace and the Law of the Horse
 
 ## Lesson 03 - Sep. 5
 
-To be determined.
+### The aspirations of legal algorithms
+What concepts and tools do computational resources offer for realizing legal values and policies? What cautions and objections should lawyers and communities sharpen in the face of increasing use of computational and algorithmic tools in public and private settings?
+
+_Readings:_
+
+[**DOWNLOAD ALL READINGS FOR LESSON 03**](Lesson03.zip)
+
+Prediction Policy Problems
+<br> Jon Kleinberg, Jens Ludwig, Sendhil Mullainathan, and Ziad Obermeyer, American Economic Review (2015) 
+<br> Read pages 491-95.
+
+A Guide to Solving Social Problems with Machine Learning
+<br> Jon Kleinberg, Jens Ludwig, and Sendhil Mullainathan, Harvard Business Review (Dec. 8, 2016)
+<br> Read all.
+
+Of prediction and policy
+<br> The Economist (Aug. 20, 2016)
+<br> Read all.
+
+Biased Algorithms Are Easier to Fix Than Biased People
+<br> Sendhil Mullainathan, N.Y. Times (Dec. 6, 2019)
+<br> Read all.
+
+Want Less-Biased Decisions? Use Algorithms.
+<br> Alex P. Miller, Harvard Business Review (2018)
+<br> Read all.
 
 ## Lesson 04 - Sep. 12
 
