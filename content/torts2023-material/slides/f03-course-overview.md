@@ -1,10 +1,15 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
 
-# Course Overview
+title: Course Overview
+
+profile: false
+
+share: false
+
+show_date: false
 
 ---
+
 
 # Administrative Crap
 
