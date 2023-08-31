@@ -63,13 +63,15 @@ Pgs. 88 - 110
 
 ## Sep. 12, 2023
 
-TBD
+06 - Punitive Damages
+
+Pgs. 110 - 117
 
 
 
 ## Sep. 14, 2023
 
-TBD
+No reading.
 
 
 
