@@ -17,3 +17,5 @@ weight: 10
 **02 - How to Read a Case** | [(.pdf)](/../../torts2023-material/slides/02-how-to-read-a-case.pdf) | [(webpage)](/../../torts2023-material/slides/f02-how-to-read-a-case)
 
 **03 - Course Overview** | [(.pdf)](/../../torts2023-material/slides/03-course-overview.pdf) | [(webpage)](/../../torts2023-material/slides/f03-course-overview)
+
+**04 - Reading Cases, Answering Questions** | [(.pdf)](/../../torts2023-material/slides/04-reading-cases.pdf) | [(webpage)](/../../torts2023-material/slides/f04-reading-cases)

@@ -45,9 +45,9 @@ Before you begin:
 
 # Three lines of reasoning
 
-1. Precedent binds us. (Strict liability doesn’t apply for automobile accidents.)
-2. Analogy to products liability falls apart. (Not the same kind of power imbalance / control as products manufacturers.)
-3. Supreme Court reasoning in analogous case applies here. (Slippery slope, domain of the legislature)
+1. Precedent binds us.
+2. Analogy to products liability falls apart.
+3. Supreme Court reasoning in analogous case applies here.
 
 ---
 
