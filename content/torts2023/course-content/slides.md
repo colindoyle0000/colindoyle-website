@@ -19,3 +19,5 @@ weight: 10
 **03 - Course Overview** | [(.pdf)](/../../torts2023-material/slides/03-course-overview.pdf) | [(webpage)](/../../torts2023-material/slides/f03-course-overview)
 
 **04 - Reading Cases, Answering Questions** | [(.pdf)](/../../torts2023-material/slides/04-reading-cases.pdf) | [(webpage)](/../../torts2023-material/slides/f04-reading-cases)
+
+**05 - Compensatory Damages** | [(.pdf)](/../../torts2023-material/slides/05-compensatory-damages.pdf) | [(webpage)](/../../torts2023-material/slides/f05-compensatory-damages)

@@ -1,6 +1,14 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
+
+title: Compensatory Damages
+
+profile: false
+
+share: false
+
+show_date: false
+
+---
 
 # Remedies
 
@@ -64,6 +72,10 @@ To restore the plaintiff to the state they were in before the harm caused by the
 
 ---
 
+![fit](images/nycourts.gif)
+
+---
+
 # Jury Exercise
 
 ![](images/randy.jpeg)
@@ -73,7 +85,3 @@ You are a jury, determining damages in the following case.
 The giant donut at Randy’s Donuts fell down, crushing the plaintif, Cindy Estrada. You have already determined that the proprieters of Randy’s Donuts are liable for negligence and have calculated compensatory damages for expenses that Estrada has already incurred. But your role as factfinder is not over:
 
 **You must now determine the plaintiff’s compensatory damages for future economic loss and pain and suffering.**
-
----
-
-![](images/chart_flipped.jpg)
