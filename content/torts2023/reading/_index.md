@@ -77,13 +77,17 @@ No reading.
 
 ## Sep. 19, 2023
 
-TBD
+07 - Reasonable Care
+
+Pgs. 119 - 134
 
 
 
 ## Sep. 21, 2023
 
-TBD
+08 - Reasonable Care
+
+Pgs. 135 - 164
 
 
 
