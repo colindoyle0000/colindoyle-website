@@ -16,3 +16,4 @@ toc: false
 
 [Class 02 Discussion Map](https://brightspace.lmu.edu/d2l/le/content/217802/viewContent/2703167/View)
 
+[Class 03 Discussion Map](https://brightspace.lmu.edu/d2l/le/content/217802/viewContent/2719056/View)
