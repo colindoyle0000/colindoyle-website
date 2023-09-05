@@ -17,6 +17,41 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## Sep. 5, 2023
+
+**Jury Exercise**
+
+You are a jury, determining damages in the following case.
+
+The giant donut at Randy's Donuts fell down, crushing the plaintiff, Cindy Estrada. You have already determined that the proprieters of Randy's Donuts are liable for negligence and have calculated compensatory damages for expenses that Estrada has already incurred. But your role as factfinder is not over: 
+
+**You must now determine the plaintiff's compensatory damages for future economic loss and pain and suffering.**
+**Be prepared to explain the reasoning and calculations behind your damages award.**
+
+### Jury Instructions
+
+The judge has given you California’s standard jury instruction on damages for pain and suffering: 
+
+> Reasonable compensation for any pain, discomfort, fears, anxiety and other mental and emotional distress suffered by the plaintiff and caused by the injury. 
+
+> No definite standard is prescribed by law by which to fix reasonable compensation for pain and suffering. Nor is the opinion of any witness required as to the amount of such reasonable compensation. In making an award for pain and suffering you should exercise your authority with calm and reasonable judgment and the damages you fix must be just and reasonable in the light of the evidence.
+
+The judge has also instructed you that under California law, a jury cannot reduce damages for lost future earnings for personal injury when those reductions are based on race, gender, or ethnicity.
+
+### Plaintiff Information
+
+_Occupation:_ Stay-at-home parent
+
+_Income:_ None. Prior to deciding to become a stay-at-home parent, Estrada earned $40,000 a year as an office coordinator. The plaintiff decided to stay at home to offset daycare expenses ($30,000 a year) while her children were little (currently ages two and four) and had planned to return to the workforce when children were in school fulltime. The plaintiff had aspirations of going to law school and had purchased a series of LSAT prepbooks.
+
+_Future medical expenses:_ The plaintiff will need ongoing treatment for back injuries. Outside of surgery, expenses for treatment in the past year were $10,000. Treatment should be similar for the rest of plaintiff's natural life (life expectancy of ~40 years). Surgical expenses this year were $100,000. Expert witnesses testified that the plaintiff may not need surgery in the future or may need multiple rounds of surgery at different points in her life.
+
+_Pain and suffering:_ The plaintiff suffers chronic pain daily, has endured multiple surgeries, and future surgery may be necessary. 
+
+Estrada cannot walk more than a few blocks at one time without stopping to rest. She must regularly adjust her sitting position to feel comfortable. The plaintiff feels deep shame and embarrassment for the injury that she sustained and now rarely goes out in public. 
+
+Estrada used to be a member of an indoor soccer team and will never play soccer again. She used to enjoy international travel but she does not feel capable of enduring the pain of sitting in an airplane seat for that stretch of time. Since her injury she has picked up crochet as a hobby, which she enjoys very much.
+
 ## Aug. 29, 2023
 
 ### Sample Exam Question
