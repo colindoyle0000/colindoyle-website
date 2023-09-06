@@ -126,6 +126,7 @@ Want Less-Biased Decisions? Use Algorithms.
 
 ## Lesson 04 - Sep. 12
 
+### Fairness and discrimination
 Recent developments in A.I. and machine learning raise questions about how fairness, equality, and nondiscrimination should be understood, defined, assessed, and advanced. As you make your way through this week’s readings, keep the following questions in mind:
 
 - What are the contrasting conceptions of fairness at work in these different sources? 
