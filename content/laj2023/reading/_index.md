@@ -126,7 +126,33 @@ Want Less-Biased Decisions? Use Algorithms.
 
 ## Lesson 04 - Sep. 12
 
-To be determined.
+Recent developments in A.I. and machine learning raise questions about how fairness, equality, and nondiscrimination should be understood, defined, assessed, and advanced. As you make your way through this week’s readings, keep the following questions in mind:
+
+- What are the contrasting conceptions of fairness at work in these different sources? 
+- How should we reconcile competing concerns of accuracy and equity?
+- How should an understanding of historic and systemic inequality influence the approach to incorporating machine learning into legal decision-making?
+- Do risk scores pose the same or different problems depending on the decision-making context (e.g., access to credit, eligibility for pretrial release without bail, parole eligibility, policing, child welfare, and so on)?
+
+ 
+_Readings:_
+
+[**DOWNLOAD ALL READINGS FOR LESSON 04**](Lesson04.zip)
+
+Two Conceptions of Procedural Fairness
+<br> Cass R. Sunstein, Social Research, Vol. 73, No. 2 (Summer 2006).
+<br> Read all. 
+
+Discrimination in the Age of Algorithms
+<br> Jon Kleinberg, Jens Ludwi, Sendhil Mullainathan and Cass R. Sunstein, Journal of Legal Analysis (2018).
+<br> Read pages 113-146.
+
+Fairness and Abstraction in Sociotechnical Systems
+<br> Andrew W. Selbst, dana boyd, Sorelle Friedler, Suresh Venkatusabramanian, and Janet Vertsei, ACM Conference on Fairness, Accountability, and Transparency (2019)
+<br> Read all.
+
+Where fairness fails: data, algorithms, and the limits of antidiscrimination discourse
+<br> Anna Lauren Hoffmann, Information, Communications, and Society (2019)
+<br> Read all.
 
 ## Lesson 05 - Sep. 19
 
