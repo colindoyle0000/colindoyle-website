@@ -56,45 +56,40 @@ Pgs. 59-87
 
 ## Sep. 7, 2023
 
+*Class rescheduled.*
+
+
+## Sep. 12, 2023
+
 05 - Punitive Damages
 
 Pgs. 88 - 110
 
 
-## Sep. 12, 2023
+## Sep. 14, 2023
 
 06 - Punitive Damages
 
 Pgs. 110 - 117
 
 
-
-## Sep. 14, 2023
+## Sep. 19, 2023
 
 No reading.
 
 
-
-## Sep. 19, 2023
+## Sep. 21, 2023
 
 07 - Reasonable Care
 
 Pgs. 119 - 134
 
 
-
-## Sep. 21, 2023
+## Sep. 26, 2023
 
 08 - Reasonable Care
 
 Pgs. 135 - 164
-
-
-
-## Sep. 26, 2023
-
-TBD
-
 
 
 ## Sep. 28, 2023
@@ -182,5 +177,8 @@ TBD
 
 
 ## Nov. 21, 2023
+
+
+## Makeup Class
 
 Review
