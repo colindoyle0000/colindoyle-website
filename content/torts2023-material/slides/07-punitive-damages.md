@@ -2,18 +2,11 @@ autoscale: true
 slidenumbers: true
 Footer: 
 
-
 # Punitive Damages
 
-
-
 ---
 
-# Recap
-
----
-
-# Mathias v. Accor Economy Lodging, Inc.
+# BMW v. Gore
 
 1. Procedural posture
 2. Legal question(s)
@@ -23,20 +16,35 @@ Footer:
 
 ---
 
-# Rule from State Farm
-Anything outside of single digit ratio of punitive to compensatory damages is presumed unreasonable.
+## 14th Amendment
+
+**Section 1.**
+
+…
+
+No state shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any state deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
+
+…
 
 ---
 
-# Three Due Process Concerns with Punitive Damages
+##  BMW v. Gore: Due Process Concerns
 
-1. Proportionality
-2. Notice
-3. Punishment for actions, not identity/status of defendant
+**Majority**
+\- Jurisdiction
+\- Fair notice
+\- Proportionality
+
+**Concurrence**
+\- Arbitrary coercion
 
 ---
 
-# Traditional Rationale Behind Punitive Damages
+# Three Guideposts
+
+1. Degree of reprehensibility
+2. Ratio of punitive damages to harm inflicted on plaintiff
+3. Comparison with civil or criminal penalties
 
 ---
 
@@ -50,7 +58,9 @@ Anything outside of single digit ratio of punitive to compensatory damages is pr
 
 ---
 
-# Guideposts from BMW v. Gore
+## State Farm Reasoning:
+
+**Guideposts from BMW v. Gore**
 
 1. Reprehensibility
 2. Disparity between compensatory and punitive damages
@@ -58,23 +68,34 @@ Anything outside of single digit ratio of punitive to compensatory damages is pr
 
 ---
 
+# Mathias v. Accor Economy Lodging, Inc.
 
-# In-Class Exercise
-Oral argument: Appealing a Punitive Damages Award
+1. Procedural posture
+2. Legal question(s)
+3. Relevant facts
+4. Holding
+5. Reasoning(s) behind the holding
 
 ---
 
-# Your Job
-Your job is to prepare for oral argument for both plaintiff and defendant.
+![inline](images/court_map.png)
 
-Defendant/Appellant goal: 
-Convince the court that the award amount is unconstitutional.
+---
 
-Plaintiff/Appellee goal: 
-Convince the court that the award amount is constitutional.
+### Oral argument: Appealing a Punitive Damages Award
 
-*Use* the legal tests we just went over in class.
-*Draw* upon and *analogize to* the reasoning from today's cases.
+When we reconvene for class on Tuesday, we we will moot oral arguments for a case on appeal before the Loyola Supreme Court: _Hershovitz v. Speedy Pete’s Pizza Pies_
 
-When we reconvene, I will cold call random students and we will workshop our arguments.
+Odd-numbered groups (1, 3, 5, 7, 9, 11) are attorneys for the plaintiff.
+Even-numbered groups (2, 4, 6, 8, 10, 12) are attorneys for the defendant.
 
+On Tuesday, I will cold call students at random to present their arguments. I will ask follow-up questions, and I will call on students representing the opposing side to address the points that have been made.
+
+The only legal issue on appeal in this case is whether the punitive damages award in this case is excessive and would deprive the defendant of its property without due process of law.
+
+**Use** the legal tests we just went over in class.
+**Draw** upon and **analogize to** the reasoning from these cases.
+
+---
+
+![](images/chart_flipped.jpg)

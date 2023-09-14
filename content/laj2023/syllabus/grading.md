@@ -49,6 +49,6 @@ To help formulate your final project, students are _highly_ encouraged to schedu
 
 Student presentations will be held on our final two weeks of class: November 14th and November 21.
 
-Final papers are due Tuesday Decembe 5th. You are encouraged to use the questions and reactions to your in-class presentations to refine your final paper.
+Final papers are due Tuesday December 5th. You are encouraged to use the questions and reactions to your in-class presentations to refine your final paper.
 
 [1]:	mailto:colin.doyle@lls.edu?subject=Reading%20Response
