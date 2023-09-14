@@ -1,8 +1,12 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
 
-# Punitive Damages
+title: Punitive Damages
+
+profile: false
+
+share: false
+
+show_date: false
 
 ---
 
@@ -95,7 +99,3 @@ The only legal issue on appeal in this case is whether the punitive damages awar
 
 **Use** the legal tests we just went over in class.
 **Draw** upon and **analogize to** the reasoning from these cases.
-
----
-
-![](images/chart_flipped.jpg)

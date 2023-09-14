@@ -23,3 +23,5 @@ weight: 10
 **05 - Compensatory Damages** | [(.pdf)](/../../torts2023-material/slides/05-compensatory-damages.pdf) | [(webpage)](/../../torts2023-material/slides/f05-compensatory-damages)
 
 **06 - Damages** | [(.pdf)](/../../torts2023-material/slides/06-damages.pdf) | [(webpage)](/../../torts2023-material/slides/f06-damages)
+
+**07 - Punitive Damages** | [(.pdf)](/../../torts2023-material/slides/07-punitive-damages.pdf) | [(webpage)](/../../torts2023-material/slides/f07-punitive-damages)
