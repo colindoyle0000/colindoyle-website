@@ -37,9 +37,9 @@ The only legal issue on appeal in this case is whether the punitive damages awar
 
 The facts of the case:
 
-Speedy Pete’s Pizza Pies is a national pizza chain that promises to deliver pizzas within fifteen minutes or it is free. As a result of this policy, their delivery drivers get in a lot of car accidents. The plaintiff, Scott Hershovitz, suffered minor injuries when a Speedy Pete’s delivery driver rear-ended him at a stop sign while out for delivery.
+Speedy Pete’s Pizza Pies is a national pizza chain that promises to deliver pizzas within fifteen minutes or it is free. As a result of this policy, their delivery drivers get in a lot of car accidents. The plaintiff, Scott Hershovitz, suffered minor injuries when a Speedy Pete’s delivery driver rear-ended him at a stop sign while out for delivery. The accident occurred in the state of Loyola.
 
-Hershovitz sued Speedy Pete’s for negligence. A jury found Speedy Pete’s liable and awarded Hershovitz both compensatory and punitive damages.
+Hershovitz sued Speedy Pete’s in Loyola state court for negligence. A jury found Speedy Pete’s liable and awarded Hershovitz both compensatory and punitive damages.
 
 Compensatory damages: $15,000 <br>
 Punitive damages: $314,159
