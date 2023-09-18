@@ -21,7 +21,7 @@ This page serves as a kind of blackboard/whiteboard for in-class instruction. I 
 
 ### Oral argument: Appealing a Punitive Damages Award
 
-### Hershovitz v. Speedy Pete Pizza Pies
+### Hershovitz v. Speedy Pete’s Pizza Pies
 
 When we reconvene for class on Tuesday, we will moot oral arguments for a case on appeal before the Loyola Supreme Court. 
 
