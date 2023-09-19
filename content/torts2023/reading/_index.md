@@ -91,29 +91,35 @@ Pgs. 119 - 134
 
 Pgs. 135 - 164
 
-
 ## Sep. 28, 2023
 
-TBD
+09 - Roles of Judge & Jury
 
+Pgs. 165 - 174
 
 
 ## Oct. 3, 2023
 
-TBD
+10 - Customs & Statutes 
 
-
+Pgs. 175 - 186
 
 ## Oct. 5, 2023
 
-TBD
+11 - Customs & Statutes 
+
+Pgs. 187 - 196
 
 
+## Oct. 10, 2023
+
+12 - Economic Theory of Negligence 
+
+Pgs. 197 - 210
 
 ## Oct. 12, 2023
 
-TBD
-
+No reading.
 
 
 ## Oct. 17, 2023
