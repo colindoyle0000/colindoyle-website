@@ -1,11 +1,15 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
 
+title: Damages Recap
 
-# Damages Recap
+profile: false
+
+share: false
+
+show_date: false
 
 ---
+
 
 # In-Class Exercise
 Oral argument: Appealing a Punitive Damages Award

@@ -52,6 +52,88 @@ In the State of Loyola, Speedy Pete’s could face civil penalties of up to $100
 
 The State of Loyola permits a jury to award punitive damages if the defendant’s tortious conduct was “willful and wanton.”
 
+### Arguments from class:
+
+**Plaintiff Arguments**
+
+Willful & wanton - under Loyola State law necessary
+
+- failure to instruct drivers / fraudulent
+- ask drivers to break law / drive recklessly
+- encourage employees to lie and misinform, avoid culpability
+
+BMV v. Gore
+
+Reprehensibility
+
+​	Most important factor (BMW and State Farm (disanalogy from these two cases: details of reprehensibility analysis))
+
+​	Deviation from normal / reasonable behavior
+
+​	Company policy creates a huge public risk
+
+​	Not purely economical
+
+​	Optimal Deterrence
+
+​		Evading review b/c it is a fraudulent
+
+Ratio
+
+​	Not a categorical brightline
+
+​	Rely on Mathias, bring in concerns of deterrence (huge issue of public safety)
+
+​	Below ratio in Mathias
+
+
+
+Comparison
+
+​	Civil penalties in State of Loyola demonstrate willful/wanton/reprehensible
+
+**Defense Arguments**
+
+
+
+BMW v. Gore
+
+Reprehensibility
+
+​	Repetition
+
+​		No evidence of repetition
+
+​	Company policy outside the scope
+
+​		Should be focused on the harm to the plaintiff
+
+​		DP violation to punish nationwide policy (State Farm)
+
+​			Nexus of what is defined as reprehensible and the injury that the plaintiff suffered
+
+​	
+
+Ratio
+
+​	21 : 1 far more than what is allowed in State Farm
+
+​		Not one of the few that will exceed ratio and satisfy due process
+
+​			Compensatory damages are big and suffice here
+
+​		Hiding the logo not particularly egregious
+
+​		Not a reasonable relationship between harm and punitive damages
+
+​		Mathias is much closerr to intentional / willful harm
+
+Comparison
+
+​	$100,000 in sanctions - jury acted arbitrarily
+
+​		Direct application
+
 
 ## Sep. 5, 2023
 
