@@ -63,56 +63,6 @@ _Readings:_
 <br> Read the introduction pages 57-58 and pages 67-72, starting with “Faith in Prediction.”
 
 
-## Lesson 06 - Feb. 22
-
-### Case study on risk assessments
-
-What was your attitude toward risk assessments before doing these readings? What changed and why?
-
-If you had to align yourself with one of the authors or between multiple authors, who would they be? How would your perspective differ from theirs?
-
-What do you think of the “perfect is the enemy of good” argument from the “Open Letter”? Does your answer depend on a conception of risk assessments as either a positive incremental change or a distraction from other interventions?
-
-What do you make of Mayson’s argument to use risk assessments to predict needs and intervene in positive ways?
-Mayson’s article leaves out what to do for pretrial incarceration in the absence of risk assessments. How do you expect that the open letter authors would respond? Would you buy their response? How would you approach the challenge that Mayson leaves unanswered?
-
-[**DOWNLOAD ALL READINGS FOR LESSON 06**](Lesson06.zip)
-
-[Understanding risk assessment instruments in criminal justice](https://www.brookings.edu/research/understanding-risk-assessment-instruments-in-criminal-justice/)
-<br> Alex Chohlas-Wood, Brookings Institute (June 19, 2020)
-<br> Read the whole thing.
-
-[Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-<br> Julia Angwin, et al., ProPublica (May 22, 2016).
-<br> Read the whole thing.
-
-[False Positives, False Negatives, and False Analyses: A Rejoinder to ‘Machine Bias: There’s Software Used Across the Country to Predict Future Criminals. And It’s Biased Against Blacks,’](https://www.uscourts.gov/sites/default/files/80_2_6_0.pdf)
-<br> Anthony W. Flores et al., 80:2 Federal Probation (Sept. 2016).
-<br> Read the whole thing.
-
-[More than 100 Civil Rights, Digital Justice, and Community-Based Organizations Raise Concerns About Pretrial Risk Assessment](https://civilrights.org/2018/07/30/more-than-100-civil-rights-digital-justice-and-community-based-organizations-raise-concerns-about-pretrial-risk-assessment/)
-<br> The Leadership Conference on Civil and Human Rights (2018).
-<br> Read the whole thing.
-
-[Updated Position on Pretrial Risk Assessments Tools](https://static1.squarespace.com/static/61d1eb9e51ae915258ce573f/t/61df34bb945c52230a215be9/1642018002889/PJI+Statement+Against+Risk+Assessments)
-<br> The Pretrial Justice Institute, (2020).
-<br> Read the whole thing.
-
-[Open Letter to the Pretrial Justice Institute](https://www.gopopai.org/docs/2020/article_item/Open_Letter_to_the_Pretrial_Justice_Institute.pdf)
-<br> James Austin, Sarah L Desmarais & John Monahan, (2020).
-<br> Read the whole thing.
-
-[The Accuracy, Equity, and Jurisprudence of Criminal Risk Assessment](https://www.ssrn.com/abstract=3306723)
-<br> Sharad Goel et al. (2018). 
-<br> Read pages 1-4, 7-12.
-
-[Bias In, Bias Out](https://www.yalelawjournal.org/article/bias-in-bias-out)
-<br> Sandra G. Mayson, 128 Yale L.J. 2218 (2019). 
-<br> Read the introduction, pages 2221-27.
-
-[Algorithmic Risk Assessments and The Double-edged Sword of Youth](https://journals.library.wustl.edu/lawreview/article/6232/galley/23065/view/)
-<br> Megan T Stevenson & Christopher Slobogin, (2018). 
-<br> Read the introduction, pages 1-3.
 
 
 ## Lesson 07 - Mar. 15 (rescheduled)
