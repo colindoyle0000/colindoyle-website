@@ -204,7 +204,41 @@ Algorithmic Risk Assessments and The Double-edged Sword of Youth
 
 ## Lesson 06 - Sep. 26
 
-To be determined.
+### Transparency, interpretability, and explainability
+
+In this session we will discuss different approaches to achieve explainability, both from a legal and technical perspective. We will learn about the difference between interpretable algorithms and non-interpretable algorithms, and the difference between transparency ex-ante and transparency ex-post including different auditing methods. We will also discuss the tradeoff between transparency and accuracy, and how balance between the two can be achieved. 
+
+Questions to consider:
+
+- Does a requirement of transparency or explanation in the use of algorithms in decision-making promote fairness? 
+- How would it work and what would be limitations? 
+- How should different legal contexts require different transparency practices?
+
+[**DOWNLOAD ALL READINGS FOR LESSON 06**](Lesson06.zip)
+
+Transparency and Accountability in ML-Enabled Systems
+<br> Christian Kästner, Medium, 2022
+<br> Read the whole thing.
+
+Interpretability and explainability
+<br> Christian Kästner, Medium, 2021
+<br> Read the whole thing.
+
+The Mythos of Model Interpretability
+<br> Zachary C. Lipton, 2016 ICML Workshop on Human Interpretability in Machine Learning 
+<br> Read the whole thing.
+
+Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead
+<br> Cynthia Rudin, Nature (2019)
+<br> Read the whole thing.
+
+The Intuitive Appeal of Explanable Machines
+<br> Andrew D. Selbts and Solon Barocas, 87 Fordham L. Rev., 1085 (2018).
+<br> Read 1087-1099.
+
+The Hidden Costs of Automated Thinking
+<br> Jonathan Zittrain, New Yorker (2019).
+<br> Read the whole thing.
 
 ## Lesson 07 - Oct. 3
 
