@@ -27,3 +27,5 @@ weight: 10
 **07 - Punitive Damages** | [(.pdf)](/../../torts2023-material/slides/07-punitive-damages.pdf) | [(webpage)](/../../torts2023-material/slides/f07-punitive-damages)
 
 **08 - Damages Recap** | [(.pdf)](/../../torts2023-material/slides/08-damages-recap.pdf) | [(webpage)](/../../torts2023-material/slides/f08-damages-recap)
+
+**09 - Introduction to Negligence** | [(.pdf)](/../../torts2023-material/slides/09-negligence.pdf) | [(webpage)](/../../torts2023-material/slides/f09-negligence)
