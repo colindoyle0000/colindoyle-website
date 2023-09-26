@@ -29,3 +29,5 @@ weight: 10
 **08 - Damages Recap** | [(.pdf)](/../../torts2023-material/slides/08-damages-recap.pdf) | [(webpage)](/../../torts2023-material/slides/f08-damages-recap)
 
 **09 - Introduction to Negligence** | [(.pdf)](/../../torts2023-material/slides/09-negligence.pdf) | [(webpage)](/../../torts2023-material/slides/f09-negligence)
+
+**10 - Reasonable Care and the Reasonable Person** | [(.pdf)](/../../torts2023-material/slides/10-reasonable-person.pdf) | [(webpage)](/../../torts2023-material/slides/f10-reasonable-person)
