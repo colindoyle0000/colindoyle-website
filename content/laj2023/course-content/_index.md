@@ -21,3 +21,5 @@ toc: false
 [Class 04 Discussion Map](https://brightspace.lmu.edu/d2l/le/content/217802/viewContent/2732790/View)
 
 [Class 05 Discussion Map](https://brightspace.lmu.edu/d2l/le/content/217802/viewContent/2739908/View)
+
+[Class 06 Discussion Map](https://brightspace.lmu.edu/d2l/le/content/217802/viewContent/2748543/View)
