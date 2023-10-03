@@ -41,26 +41,33 @@ toc: true
 
 ## Oct. 17, 2023
 
-13 - Res Ipsa Loquitur 
-
-Pgs. 211 - 223
 
 ## Oct. 19, 2023
 
 
-14 - Res Ipsa Loquitur 
 
-Pgs. 224 - 234
+
+
 
 
 
 ## Oct. 24, 2023
 
-No reading.
+
+
+
 
 
 
 ## Oct. 26, 2023
+
+
+
+
+
+
+
+## Oct. 31, 2023
 
 15 - No Duty to Rescue or Protect 
 
@@ -68,8 +75,9 @@ Pgs. 235 - 246
 
 
 
-## Oct. 31, 2023
 
+
+## Nov. 2, 2023
 
 16 - Duties to Third Parties 
 
@@ -77,30 +85,35 @@ Pgs. 247 - 262
 
 
 
-## Nov. 2, 2023
 
+## Nov. 7, 2023
 
 17 - Policy Bases for Invoking No Duty 
 
 Pgs. 263 - 274
 
 
-## Nov. 7, 2023
 
+
+## Nov. 9, 2023
 
 18 - Duties of Landowners and Occupiers 
 
 Pgs. 275 - 285
 
 
-## Nov. 9, 2023
-
-No reading.
 
 
 
 ## Nov. 14, 2023
 
+No reading.
+
+
+
+
+
+## Nov. 16, 2023
 
 19 - Medical Malpractice 
 
@@ -108,17 +121,14 @@ Pgs. 286 - 304
 
 
 
-## Nov. 16, 2023
 
+## Nov. 21, 2023
 
 20 - Purely Emotional Harm
 
 Pgs. 305 - 325
 
 
-## Nov. 21, 2023
-
-No reading.
 
 
 ## Makeup Class
