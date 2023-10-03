@@ -1,9 +1,12 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
 
-# Customs & Statutes
+title: Customs & Statutes
 
+profile: false
+
+share: false
+
+show_date: false
 
 ---
 
@@ -29,7 +32,7 @@ Plaintiff must prove four elements:
 
 ---
 
-# Proving Duty and Breach
+# Proving Negligence
 
 To establish that the defendant’s conduct fell below standard of reasonable care, plaintiff needs to prove:
 
@@ -86,52 +89,6 @@ Helpful for individualized judging of past behavior
 
 ---
 
-# Tedla v. Ellman
-
-“Walking on the Side of the Highway”
-
----
-
-# Short exercise
-
-Write the dissent in *Tedla v. Ellman*.
-
-Explain why *Martin v. Herzog* controls and therefore plaintiffs were negligent as a matter of law.
-
----
-
-# Custom
-
-**Sword for proving negligence**
-Prove two things:
-
-\- Custom = reasonable care
-\- Defendant failed to comply with custom
-\----------------------------------------------------
-**Shield for disproving negligence**
-Prove two things:
-
-\- Custom = reasonable care
-\- Defendant complied with custom
-
----
-
-# Statutes
-
-**Sword for proving negligence**
-Prove two things:
-
-\- Statute = reasonable care
-\- Defendant failed to comply with statute
-\----------------------------------------------------
-**Shield for disproving negligence**
-Prove two things:
-
-\- Statute = reasonable care
-\- Defendant complied with statute
-
----
-
 # Legal jargon
 
 Prima facie case of negligence
@@ -147,3 +104,33 @@ Negligence per se
 AND
 
 \- the accident victim is within the class of persons the statute is designed to protect.
+
+---
+
+# Tedla v. Ellman
+
+“Walking on the Side of the Highway”
+
+---
+
+# How to use customs and statutes
+
+**Sword for proving negligence**
+Prove two things:
+
+\- Custom or statute = reasonable care
+\- Defendant failed to comply with custom or statute
+\----------------------------------------------------
+**Shield for disproving negligence**
+Prove two things:
+
+\- Custom or statute = reasonable care
+\- Defendant complied with custom or statute
+
+---
+
+# Short exercise
+
+Write the dissent in *Tedla v. Ellman*.
+
+Explain why *Martin v. Herzog* controls and therefore plaintiffs were negligent as a matter of law.
