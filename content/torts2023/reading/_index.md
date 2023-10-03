@@ -113,36 +113,41 @@ Pgs. 187 - 196
 
 ## Oct. 10, 2023
 
+No class.
+
+
+## Oct. 12, 2023
+
 12 - Economic Theory of Negligence 
 
 Pgs. 197 - 210
 
-## Oct. 12, 2023
-
-No reading.
-
 
 ## Oct. 17, 2023
 
-TBD
+No reading.
 
 
 
 ## Oct. 19, 2023
 
-TBD
+13 - Res Ipsa Loquitur 
+
+Pgs. 211 - 223
 
 
 
 ## Oct. 24, 2023
 
-TBD
+14 - Res Ipsa Loquitur 
+
+Pgs. 224 - 234
 
 
 
 ## Oct. 26, 2023
 
-TBD
+No reading.
 
 
 
