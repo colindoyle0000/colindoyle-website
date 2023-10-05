@@ -35,3 +35,5 @@ weight: 10
 **11 - Roles of Judge & Jury** | [(.pdf)](/../../torts2023-material/slides/11-judge-jury.pdf) | [(webpage)](/../../torts2023-material/slides/f11-judge-jury)
 
 **12 - Customs & Statutes** | [(.pdf)](/../../torts2023-material/slides/12-customs-statutes.pdf) | [(webpage)](/../../torts2023-material/slides/f12-customs-statutes)
+
+**13 - Customs & Statutes** | [(.pdf)](/../../torts2023-material/slides/13-statutes.pdf) | [(webpage)](/../../torts2023-material/slides/f13-statutes)
