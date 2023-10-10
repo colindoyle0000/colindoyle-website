@@ -274,9 +274,7 @@ Situating methods in the magic of Big Data and AI
 
 ## Lesson 08 - Oct. 17
 
-Lesson 09 - Oct. 17
-
-**Generative A.I. & Law**
+### Generative A.I. & Law
 
 In this class, we’ll explore how A.I. — particularly generative A.I. — may or may not disrupt our contemporary legal systems. As you work through this week’s readings, ask yourself how our legal systems should adapt to a world of generative A.I.. What foundations should remain secure and what foundations are threatened? What are the benefits that may accrue and what are the harms? Who stands to lose and who stands to gain?
 
