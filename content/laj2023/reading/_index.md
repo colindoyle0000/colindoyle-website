@@ -274,7 +274,43 @@ Situating methods in the magic of Big Data and AI
 
 ## Lesson 08 - Oct. 17
 
-To be determined.
+Lesson 09 - Oct. 17
+
+**Generative A.I. & Law**
+
+In this class, we’ll explore how A.I. — particularly generative A.I. — may or may not disrupt our contemporary legal systems. As you work through this week’s readings, ask yourself how our legal systems should adapt to a world of generative A.I.. What foundations should remain secure and what foundations are threatened? What are the benefits that may accrue and what are the harms? Who stands to lose and who stands to gain?
+
+_Readings:_
+
+[**DOWNLOAD ALL READINGS FOR LESSON 08**](Lesson08.zip)
+
+How GPT/ChatGPT Work - An Understandable Introduction to the Technology
+<br> Harry Surden, YouTube (2023).
+<br> https://www.youtube.com/watch?v=IMAhwv5dn8E
+
+Legal Tech, Civil Procedure, and the Future of Adversarialism
+<br> David Freeman Engstrom & Jonah B. Gelbach, 169 U. Penn. L. Rev. 1001 (2021).
+<br> Read Introduction and Part III, pgs. 1001-1008, 1086-1099.
+
+Generative Interpretation
+<br> Yonathan Arbel & David A. Hoffman, 99 NYU L. REV. ___ (2024).
+<br> Read Introduction and Part III, pgs. 1-8, 43-57.
+
+Envisioning Legal Mitigations for Intentional and Unintentional Harms Associated with Large Language Models (Extended Abstract)
+<br> Inyoung Cheong, Aylin Caliskan, & Tadayoshi Kohno.
+<br> Read the whole thing.
+
+Protecting Visual Artists from Generative AI: An Interdisciplinary Perspective (Extended Abstract)
+<br> Eunseo Dana Choi.
+<br> Read the whole thing.
+
+Guiding large language models to write legal treatises (working draft)
+<br> Colin Doyle.
+<br> Read the whole thing.
+
+Bonus reading, an article to help you think through your topics for the final paper in this class:
+<br> Martha Minow, Archetypal Legal Scholarship: A Field Guide, 63 J. L. Ed. 65 (2013).
+<br> Read however much you’d like to help you focus your final paper.
 
 ## Lesson 09 - Oct. 24
 

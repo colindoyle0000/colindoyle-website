@@ -64,26 +64,60 @@ L = Magnitude of loss/harm
 
 ---
 
-# Hand Formula Critiques:
+# BPL Example
 
-1. Incommeasurability
-2. Uncertainty of Quantification
+Railroad company with a 50% chance of causing $200k in damage to a farm beside the railroad tracks.
+
+P * L = $100k
+
+| Possible Precautions for Defendant to Take | Cost of precautionary measure | Expected cost to plaintiff | Total cost to society |
+| ------------------------------------------ | ----------------------------- | -------------------------- | --------------------- |
+| No Precaution                              | $0                            | $100k                      | $100k                 |
+| Solar Panels                               | $200k                         | $0                         | $200k                 |
+
+Solar panels available as a possible precaution. Would reduce 100% of the harm to the plaintiff at cost of $200k to railroad company.
+
+And yet, railroad company takes no precautions. Was the railroad company negligent?
 
 ---
 
 # BPL Example
 
-| Precaution      | B         | P * L | Total Cost |
-| --------------- | --------- | ----- | ---------- |
-| None            | $0 (or ∞) | $100k | $100k      |
-| Solar Panels    | $200k     | $0k   | $200k      |
-| Spark Arresters | $30k      | $50k  | $80k       |
+Railroad company with a 50% chance of causing $200k in damage to a farm beside the railroad tracks.
 
-Scenario 1: No precautions available to defendant
-Scenario 2: Only solar panels available
-Scenario 3: Both solar panels and spark arresters available
+P * L = $100k
+
+| Possible Precautions for Defendant to Take | Cost of precautionary measure | Expected cost to plaintiff | Total cost to society |
+| ------------------------------------------ | ----------------------------- | -------------------------- | --------------------- |
+| No Precaution                              | $0                            | $100k                      | $100k                 |
+| Solar Panels                               | $200k                         | $0                         | $200k                 |
+| Spark Arresters                            | $30k                          | $50k                       | $80k                  |
+
+Solar panels available as a possible precaution. Would reduce 100% of the harm to the plaintiff at cost of $200k to railroad company.
+
+Spark arresters are also available as a possible precaution. Would reduce 50% of the harm to plaintiff at cost of $30k to railroad company.
+
+And yet, railroad company takes no precautions. Was the railroad company negligent?
 
 ---
+
+**Economic Theory of Negligence**
+
+\- Fault = economic inefficiency
+
+\- Embodies a trust in private ordering and economic incentives
+
+\- Driven by a goal of maximizing overall economic welfare
+
+**Critiques of Economic Theory**
+
+\- Incommeasurability of harms
+
+\- Uncertainty of cost calculations
+
+---
+
+## What we’ve learned…
 
 **Ways to determine reasonable care under the circumstances include:**
 
