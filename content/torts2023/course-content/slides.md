@@ -37,3 +37,5 @@ weight: 10
 **12 - Customs & Statutes** | [(.pdf)](/../../torts2023-material/slides/12-customs-statutes.pdf) | [(webpage)](/../../torts2023-material/slides/f12-customs-statutes)
 
 **13 - Customs & Statutes** | [(.pdf)](/../../torts2023-material/slides/13-statutes.pdf) | [(webpage)](/../../torts2023-material/slides/f13-statutes)
+
+**14 - Economic Theory of Negligence** | [(.pdf)](/../../torts2023-material/slides/14-economic.pdf) | [(webpage)](/../../torts2023-material/slides/f14-economic)

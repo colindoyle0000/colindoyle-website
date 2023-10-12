@@ -1,8 +1,12 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
 
-# Economic Theory of Negligence
+title: Economic Theory of Negligence
+
+profile: false
+
+share: false
+
+show_date: false
 
 ---
 
