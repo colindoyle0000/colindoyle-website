@@ -17,6 +17,31 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## Oct. 17, 2023
+
+### Noriega v. Loyola State Fair
+
+Every year, the Loyola State Fair includes a dunk tank as one of the fair activities. The governor of the state and other high officials take turns sitting in the dunk tank while fairgoers pay money to throw baseballs to try to dunk the government official. The dunk tank consists of a seat suspended over a large tank of water. This seat is connected to a target mechanism, which is connected to a bullseye target beside the dunk tank. If a fairgoer hits the target with a baseball, a mechanism releases the seat and the person sitting is dropped into the water below. There’s a metal and wire cage to protect the person in the dunk tank from any stray baseballs. There is also a large net behind the dunk tank to catch any balls that are thrown. 
+
+At this year’s state fair, the dunk tank proved to be a popular attraction. When the governor took a turn on the city and risked being dunked in the water, a sizable crowd gathered around the dunk tank. State Fair employees roped off an area keeping all fairgoers twenty feet away from the dunk tank and five feet behind where the participants threw balls at the target.
+
+A participant’s errant throw missed the target, ricocheted off of the metal bar at the top of the cage protecting the governor, and rebounded back into the crowd of people watching the dunk tank spectacle. The baseball hit the plaintiff, Matthew Noriega, in the face, causing physical injuries.
+
+Noriega is considering suing the Loyola State Fair for negligence. You’re a junior attorney working at a plaintiff-side firm that is evaluating the merits of Noriega’s case agains the state fair. A partner at the firm would like you to deliver a memo detailing potential theories of negligence that could be argued in this case. For each argument, you should include:
+- what constituted reasonable care under the circumstances, and why, and how the defendant failed to exercise that duty of reasonable care
+- what the defense’s best counterarguments would be
+- in your estimation, how strong of a theory of negligence this is
+
+Here is some additional information that may help you as you develop your arguments:
+
+- A statute requires all dunk tanks to have a safety cage surrounding the person sitting on the seat suspended over the tank of water.
+- State fair employees positioned the dunk tank in an area of the fair without any activities or people behind the dunk tank so that balls thrown past the target would be safely caught by the net and balls thrown outside of the net would be unlikely to hit anyone.
+- Rather than use baseballs, a small number of carnival proprietors use softer balls made of poly-plastic material. These balls are less popular for dunk tanks because fairgoers prefer to throw baseballs. The poly-plastic balls cannot be thrown with the same force and sometimes do not trigger the seat-release mechanism even after hitting the target.
+- Dunk tanks have resulted in injuries in the past, including at the Loyola State Fair. These injuries were due to the release mechanism injuring the person sitting in the dunk tank, the thrower injuring themselves while throwing the baseball, the thrower accidentally hitting a fairgoer with the baseball when fairgoer wandered between the thrower and the target, and fairgoers slipping and falling in the pools of water that tend to accumulate on the ground beside the dunk tank.
+- A recent regulation requires all recreational baseball fields in the state to put up netting between the baseball field and any places where spectators typically gather.
+
+Do not research additional facts or laws when writing this memo. In your memo, you may include information that would be helpful for your firm to learn for developing any of your arguments.
+
 ## Oct. 4, 2023
 
 ### May v. Wrecking Crew Co.
