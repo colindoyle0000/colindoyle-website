@@ -153,43 +153,57 @@ No reading.
 
 ## Oct. 31, 2023
 
-TBD
+15 - No Duty to Rescue or Protect 
+
+Pgs. 235 - 246
 
 
 
 ## Nov. 2, 2023
 
-TBD
+16 - Duties to Third Parties 
+
+Pgs. 247 - 262
 
 
 
 ## Nov. 7, 2023
 
-TBD
+17 - Policy Bases for Invoking No Duty 
+
+Pgs. 263 - 274
 
 
 
 ## Nov. 9, 2023
 
-TBD
+18 - Duties of Landowners and Occupiers 
+
+Pgs. 275 - 285
 
 
 
 ## Nov. 14, 2023
 
-TBD
+No reading.
 
 
 
 ## Nov. 16, 2023
 
-TBD
+19 - Medical Malpractice 
+
+Pgs. 286 - 304
 
 
 
 ## Nov. 21, 2023
 
+20 - Purely Emotional Harm
 
-## Makeup Class
+Pgs. 305 - 325
+
+
+## Makeup Class (Date TBD)
 
 Review
