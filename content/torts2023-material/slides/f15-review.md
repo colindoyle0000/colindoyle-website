@@ -1,10 +1,12 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# Review of Reasonable Care
+title: Review of Reasonable Care
+
+profile: false
+
+share: false
+
+show_date: false
 
 ---
 
@@ -152,29 +154,31 @@ B = $200k
 P = 50%
 L = $200k
 
-$200k > (50% x $200k)
+B > P * L
+$200k > (50% * $200k)
 
 ---
 
 ## BPL Example
 
-Same facts as before. Railroad company with a 50% chance of causing $200k in damage to a farm beside the railroad tracks. But now spark arresters are also available as a possible precaution. Would reduce 50% of the harm to plaintiff at cost of $30k to railroad company. Railroad company takes no precautions. Was the railroad company negligent?
+Same facts as before. Railroad company with a 50% chance of causing $200k in damage to a farm beside the railroad tracks. But now spark arresters are also available as a possible precaution. Would reduce likelihood of the harm to plaintiff by 50% at cost of $30k to railroad company. Railroad company takes no precautions. Was the railroad company negligent?
 
 B = $30k
-P = 50%
-L = $100k
+P = 25%
+L = $200k
 
-$30k < (50% x $100k)
+B < P * L
+$30k < (25% * $200k)
 
 ---
 
 ## BPL Example
 
-| Possible Precautions for Defendant to Take | Cost of precautionary measure | Expected cost to plaintiff | Total cost to society |
-| ------------------------------------------ | ----------------------------- | -------------------------- | --------------------- |
-| No Precaution                              | $0                            | $100k                      | $100k                 |
-| Solar Panels                               | $200k                         | $0                         | $200k                 |
-| Spark Arresters                            | $30k                          | $50k                       | $80k                  |
+| Possible precautions | Cost for defendant | Expected cost for plaintiff | Total cost to society |
+| -------------------- | ------------------ | --------------------------- | --------------------- |
+| No Precaution        | $0                 | $100k                       | $100k                 |
+| Solar Panels         | $200k              | $0                          | $200k                 |
+| Spark Arresters      | $30k               | $50k                        | $80k                  |
 
 ---
 
@@ -194,4 +198,28 @@ $30k < (50% x $100k)
 
 ---
 
-# In-Class Exercise
+## That’s all, folks!
+
+**Ways to determine reasonable care under the circumstances include:**
+
+\- Foreseeability
+\- The Reasonable Person
+\- Custom
+\- Statute
+\- Cost-Benefit Analysis (Hand Formula: B < P\*L)
+
+**Special Considerations**
+\- Judge and jury relationship
+
+---
+
+# Noriega v. Loyola State Fair
+
+Assignment: Deliver a memo detailing potential theories of negligence that could be argued in this case. For each argument, you should include:
+
+- what constituted reasonable care under the circumstances, and why, and how the defendant failed to exercise that duty of reasonable care
+
+- what the defense’s best counterarguments would be
+
+- in your estimation, how strong of a theory of negligence this is
+

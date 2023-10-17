@@ -39,3 +39,5 @@ weight: 10
 **13 - Customs & Statutes** | [(.pdf)](/../../torts2023-material/slides/13-statutes.pdf) | [(webpage)](/../../torts2023-material/slides/f13-statutes)
 
 **14 - Economic Theory of Negligence** | [(.pdf)](/../../torts2023-material/slides/14-economic.pdf) | [(webpage)](/../../torts2023-material/slides/f14-economic)
+
+**15 - Review of Reasonable Care** | [(.pdf)](/../../torts2023-material/slides/15-review.pdf) | [(webpage)](/../../torts2023-material/slides/15-review)
