@@ -302,7 +302,7 @@ Protecting Visual Artists from Generative AI: An Interdisciplinary Perspective (
 <br> Eunseo Dana Choi.
 <br> Read the whole thing.
 
-Guiding large language models to write legal treatises (working draft)
+Guiding large language models to write legal treatises (Working Draft)
 <br> Colin Doyle.
 <br> Read the whole thing.
 
@@ -312,7 +312,37 @@ Bonus reading, an article to help you think through your topics for the final pa
 
 ## Lesson 09 - Oct. 24
 
-To be determined.
+### Generative A.I. & the Legal Profession
+
+What are the possible benefits and drawbacks of large language models like GPT-4 for legal education and the legal profession? How can law schools best integrate these technologies into legal education? How can lawyers best integrate these technologies into legal work?
+
+How might the widespread adoption of large language models in the legal profession affect the job market for lawyers and other legal professionals? Will these technologies complement or replace traditional legal roles?
+
+To what extent should large language models be regulated within the legal profession? Can large language models be held accountable for providing incorrect or misleading legal advice? How can we ensure that AI technologies maintain the ethical standards of the legal profession?
+
+_Readings:_
+
+[**DOWNLOAD ALL READINGS FOR LESSON 09**](Lesson09.zip)
+
+How to Use Large Language Models for Empirical Legal Research (Working Draft)
+<br> Jonathan H. Choi
+<br> Read the whole thing.
+
+Chain Of Reference prompting helps LLM to think like a lawyer (Extended Abstract)
+<br> Aditya Kuppa, Nikon Rasumov-Rahe, Marc Voses
+<br> Read the whole thing.
+
+AI Assistance in Legal Analysis: An Empirical Study (Working Draft)
+<br> Jonathan H. Choi & Daniel Schwarcz
+<br> Read pages 1-35.
+
+Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence (Working Draft)
+<br> Shakked Noy & Whitney Zhang
+<br> Read the whole thing.
+
+Large Language Models as Tax Attorneys: A Case Study in Legal Capabilities Emergence (Working Draft)
+<br> John J. Nay et al.
+<br> Read the whole thing.
 
 ## Lesson 10 - Oct. 31
 
