@@ -38,6 +38,17 @@ Should you encounter any hardware or software issues during this course, please 
 
 For assistance with class technology, such as class recordings, Brightspace, or Zoom, please contact LLS Instructional Technology at: <br> [instructional.technology@lls.edu.][12]
 
+## Generative A.I. Policy
+
+Students in this class are permitted to use generative A.I. tools to assist them in their work. However, students must disclose their use of generative A.I. tools.
+
+If you used generative A.I. for help while working on your final paper, please include the following with your submission email:
+ 
+A brief write-up explaining what tools you used, how you used those tools, and your thoughts on their usefulness.
+
+If you relied upon help from a chatbot like Chat GPT, you must include the transcript of your conversations with the chatbot related to your work in this class. Likewise, if you rely on another A.I. tool that produces a record of your interactions, you must include that record as well.
+
+
 [^1]:	Section 3.2 of the JD Handbook states, “A student is required to attend classes regularly. A student may be withdrawn, and/or excluded from an examination, and given a failing grade in any course in which the student has not maintained a satisfactory attendance record.” 
 
 [1]:	mailto:Colin.Doyle@lls.edu?subject=Absent%20from%20Class
