@@ -346,7 +346,43 @@ Large Language Models as Tax Attorneys: A Case Study in Legal Capabilities Emerg
 
 ## Lesson 10 - Oct. 31
 
-To be determined.
+### Regulating A.I.
+
+This class will exam legal regimes that could be used to govern or regulate the use of algorithms. As A.I. and machine learning proliferates, what regulations are required? Are our institutions up to the task or is technology’s disruptive power overblown? Where might governmental oversight succeed and where might it fail? What would underegulation and overregulation look like in this space? How could we measure it? What existing rights should the government protect? What new rights ought to be protected in an age of automation?
+
+
+_Readings:_
+
+[**DOWNLOAD ALL READINGS FOR LESSON 10**](Lesson10.zip)
+
+How to regulate algorithmic decision‐making: A framework of regulatory requirements for different applications
+<br> Tobis D. Krafft et al., 16 Regulation & Governance 119 (2022).
+<br> Read the whole thing.
+
+A comprehensive and distributed approach to AI regulation
+<br> Alex Engler, Brookings Institute (2023).
+<br> Read the whole thing.
+
+The EU AI Act: A Primer
+<br> Tessa Baker, Center for Security and Emerginy Technology (2023).
+<br> Read the whole thing.
+
+In U.S., Regulating A.I. Is in Its ‘Early Days’
+<br> Cecilia Kang, N.Y. Times (2023).
+<br> Read the whole thing.
+
+The AI rules that US policymakers are considering, explained
+<br> Dylan Matthews, Vox (2023).
+<br> Read the whole thing.
+
+AI Regulation in the U.S.: What’s Coming, and What Companies Need to Do in 2023
+<br> Dan Felz, Kim Petetti, & Alysa Austin, Alston & Bird (2022).
+<br> Read the whole thing.
+
+A Hiring Law Blazes a Path for A.I. Regulation
+<br> Steve Lohr, N.Y. Times (2023).
+<br> Read the whole thing.
+
 
 ## Lesson 11 - Nov. 7
 
