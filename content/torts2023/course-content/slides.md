@@ -45,3 +45,5 @@ weight: 10
 **16 - Res Ipsa Loquitur** | [(.pdf)](/../../torts2023-material/slides/16-res-ipsa.pdf) | [(webpage)](/../../torts2023-material/slides/f16-res-ipsa)
 
 **17 - Res Ipsa Loquitur** | [(.pdf)](/../../torts2023-material/slides/17-res-ipsa.pdf) | [(webpage)](/../../torts2023-material/slides/f17-res-ipsa)
+
+**18 - Review of Negligence So Far…** | [(.pdf)](/../../torts2023-material/slides/18-review.pdf) | [(webpage)](/../../torts2023-material/slides/f18-review)
