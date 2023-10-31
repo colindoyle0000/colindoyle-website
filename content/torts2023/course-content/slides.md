@@ -47,3 +47,5 @@ weight: 10
 **17 - Res Ipsa Loquitur** | [(.pdf)](/../../torts2023-material/slides/17-res-ipsa.pdf) | [(webpage)](/../../torts2023-material/slides/f17-res-ipsa)
 
 **18 - Review of Negligence So Far…** | [(.pdf)](/../../torts2023-material/slides/18-review.pdf) | [(webpage)](/../../torts2023-material/slides/f18-review)
+
+**19 - No Duty to Rescue or Protect** | [(.pdf)](/../../torts2023-material/slides/19-no-duty.pdf) | [(webpage)](/../../torts2023-material/slides/f19-no-duty)
