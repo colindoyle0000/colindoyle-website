@@ -386,7 +386,38 @@ A Hiring Law Blazes a Path for A.I. Regulation
 
 ## Lesson 11 - Nov. 7
 
-To be determined.
+### Algorithmic Imagination
+
+In our final discussion-based class we’ll be examining a set of articles and projects that reconceive the role that algorithms can play in law and society. The readings for this week include art installations, parody websites, thought experiments, and proposals for practical applications.
+
+As you work your way through the readings this week, take note of what critiques and perspectives resonate with you — even if you disagree with the broader argument of an article. In our class discussion, we’ll continue the work of imagining algorithmic alternatives to the status quo.
+
+Readings:
+
+[**DOWNLOAD ALL READINGS FOR LESSON 11**](Lesson11.zip)
+
+On Missing Data Sets
+<br> Mimi Onuoha, Github Repository (2018).
+<br> Read the whole thing.
+<br> https://github.com/MimiOnuoha/missing-datasets
+
+White Collar Risk Zones
+<br> Sam Lavigne, et al., The New Inquiry, (2017). 
+<br> Visit the [website](https://whitecollar.thenewinquiry.com/)
+<br> And read the white paper.
+
+Against Predictive Optimization: On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accuracy
+<br> Angelina Wang, et al. (2023).
+<br> Read pgs. 1-22.
+
+Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models
+<br> Shawn Shan, et al., arXiv (2023).
+<br> Read the whole thing. Skim the technical parts and focus on the legal component: “8 Poison Attacks for Copyright Protection.”
+
+JusticeBot: A Methodology for Building Augmented Intelligence Tools for Laypeople to Increase Access to Justice
+<br> Hannes Westermann & Karim Benyekhelf, arXiv (2023).
+<br> Read the whole thing.
+
 
 ## Lesson 12 - Nov. 14
 
