@@ -49,3 +49,5 @@ weight: 10
 **18 - Review of Negligence So Far…** | [(.pdf)](/../../torts2023-material/slides/18-review.pdf) | [(webpage)](/../../torts2023-material/slides/f18-review)
 
 **19 - No Duty to Rescue or Protect** | [(.pdf)](/../../torts2023-material/slides/19-no-duty.pdf) | [(webpage)](/../../torts2023-material/slides/f19-no-duty)
+
+**20 - Duty to Act** | [(.pdf)](/../../torts2023-material/slides/20-duty-to-act.pdf) | [(webpage)](/../../torts2023-material/slides/f20-duty-to-act)
