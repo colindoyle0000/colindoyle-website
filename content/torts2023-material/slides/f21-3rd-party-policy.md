@@ -1,46 +1,31 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
-
-# Duty to Third Parties
-
-# &
-
-# Policy Bases for No Duty
-
-
 ---
 
-# Elements of a Tort Claim
+title: Duty to Third Parties & Policy Bases for No Duty
 
-1. __________________
-2. __________________
-3. __________________
-4. __________________
+profile: false
+
+share: false
+
+show_date: false
 
 ---
 
 
-# Elements of a Tort Claim
+# Should we write like this?
 
-1. Duty
-2. Breach
-3. Causation
-4. Harm
+On Sunday, August 9, 1986, Jeffrey Harper (“Harper”) was one of four guests on Theodor Herman’s (“Herman”) 26-foot boat…
 
 ---
 
+# We treat our reader like a big, golden baby.
 
-# Elements of a Tort Claim
+![right](/Users/colindoyle/Documents/Loyola/Torts/2023_2024/torts-slides-2023/old/images/IMG_5099.jpeg)
 
-1. Duty
-2. Breach
-3. Causation
-   - Factual Cause
-   - Proximate Cause
-4. Harm
+---
+
+## A duty to 
+
+## exercise reasonable care
 
 ---
 

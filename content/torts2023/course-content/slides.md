@@ -51,3 +51,5 @@ weight: 10
 **19 - No Duty to Rescue or Protect** | [(.pdf)](/../../torts2023-material/slides/19-no-duty.pdf) | [(webpage)](/../../torts2023-material/slides/f19-no-duty)
 
 **20 - Duty to Act** | [(.pdf)](/../../torts2023-material/slides/20-duty-to-act.pdf) | [(webpage)](/../../torts2023-material/slides/f20-duty-to-act)
+
+**21 - Duty to Third Parties & Policy Bases for No Duty** | [(.pdf)](/../../torts2023-material/slides/21-3rd-party-policy.pdf) | [(webpage)](/../../torts2023-material/slides/f21-3rd-party-policy)
