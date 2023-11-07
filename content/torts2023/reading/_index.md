@@ -204,6 +204,8 @@ Pgs. 286 - 304
 Pgs. 305 - 325
 
 
-## Makeup Class (Date TBD)
+## Nov. 28, 2023 (Makeup Class)
 
 Review
+
+We will be having our makeup class in our normal classroom at our normal time: 8:15am-9:30am on Tuesday, November 28.
