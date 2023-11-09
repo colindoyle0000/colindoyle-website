@@ -21,13 +21,15 @@ This page serves as a kind of blackboard/whiteboard for in-class instruction. I 
 
 **Exercise 1**
 
-You are a Justice in the Supreme Court of Nebraska who was part of the majority in *Heins v. Webster County*. A case has come before the court:
+You are a Justice in the Supreme Court of Nebraska who was part of the majority in *Heins v. Webster County*. 
 
 A plaintiff was playing on an outdoor asphalt YMCA basketball court, fell, and was injured. The plaintiff was not a member of the YMCA and did not pay dues to the YMCA. Following the traditional view, the trial court found the plaintiff to be a licensee and issued a directed verdict for the defendant finding that the defendant did not owe a duty of care to the plaintiff. After the case was appealed, the Supreme Court of Nebraska issued the *Heins* opinion, and the court of appeals reversed finding that the defendant owed a duty of care.
 
-The author of the dissenting opinion in *Heins* reminds you that, following the *Heins* majority, the YMCA is now subject to lawsuits holding them to a duty to treat uninvited users of their facilities with the same standard of care as the paying members of their institutions. The majority opinion “socializes the use of privately owned property.” “From this moment on, public and private institutions, as well as residential homeowners, must be especially aware of unknown, uninvited individuals who take advantage of their land and facilities.”
+The author of the dissenting opinion in *Heins* writes you a letter reminding you that, following the *Heins* majority, the YMCA is now subject to lawsuits holding them to a duty to treat uninvited users of their facilities with the same standard of care as the paying members of their institutions. The majority opinion “socializes the use of privately owned property.” “From this moment on, public and private institutions, as well as residential homeowners, must be especially aware of unknown, uninvited individuals who take advantage of their land and facilities.”
 
 How do you respond?
+
+Please note that your response here is a letter to a colleague. You are not writing a legal opinion. You are writing a response to a colleague who is concerned about the social consequences of the *Heins* opinion. Assume that your letter will be preserved and may be made public at some point in the future.
 
 **Exercise 2**
 
