@@ -21,13 +21,11 @@ This page serves as a kind of blackboard/whiteboard for in-class instruction. I 
 
 **Exercise 1**
 
-You are a Justice in the Supreme Court of Nebraska who was part of the majority in *Heins v. Webster County*. 
+You are a Justice in the Supreme Court of Nebraska who was part of the majority in *Heins v. Webster County*. You receive a letter from a colleague, Dale Fahrnbruch, who was part of the dissenting opinion in *Heins* (which we did not read for class). The letter describes a case that is now being litigated in the wake of the *Heins* opinion.
 
-A recent case has made its way through the lower courts.
+A plaintiff was playing on an outdoor asphalt YMCA basketball court, fell, and was injured. The plaintiff was not a member of the YMCA and did not pay dues to the YMCA. The plaintiff sued the YMCA. The YMCA motioned for summary judgment, contending that the YMCA did not owe the plaintiff a duty of care. Prior to the *Heins* ruling, the trial court would have followed the traditional rule, found the plaintiff to be a licensee, and granted the defendant’s motion for summary judgment. Instead, the trial court followed the *Heins* ruling, found that the YMCA owed the plaintiff a duty of reasonable care, and denied the defendant’s motion for summary judgment.
 
-A plaintiff was playing on an outdoor asphalt YMCA basketball court, fell, and was injured. The plaintiff was not a member of the YMCA and did not pay dues to the YMCA. The plaintiff sued the YMCA before the *Heins* opinion was issued. Following the traditional view, the trial court found the plaintiff to be a licensee and issued a directed verdict for the defendant finding that the defendant did not owe a duty of care to the plaintiff. After the case was appealed, the Supreme Court of Nebraska issued the *Heins* opinion, and the court of appeals reversed finding that the defendant owed a duty of care.
-
-The author of the dissenting opinion in *Heins* writes you a letter reminding you that, following the *Heins* majority, the YMCA is now subject to lawsuits holding them to a duty to treat uninvited users of their facilities with the same standard of care as the paying members of their institutions. The majority opinion “socializes the use of privately owned property.” “From this moment on, public and private institutions, as well as residential homeowners, must be especially aware of unknown, uninvited individuals who take advantage of their land and facilities.”
+Your colleague, Dale, has written you this letter to remind you that the *Heins* opinion now subjects the YMCA to lawsuits holding them to a duty to treat uninvited users of their facilities with the same standard of care as the paying members of their institutions. He tells you that this case is “more than enough proof that the *Heins* opinion was wrongly decided and has had the expected effect of socializing the use of privately owned property. As a result, public and private institutions, as well as residential homeowners, must be especially aware of unknown, uninvited individuals who take advantage of their land and facilities.” Dale implores you to reconsider your position in *Heins* and to cast your vote the other way if the issue comes before the court again.
 
 How do you respond?
 
