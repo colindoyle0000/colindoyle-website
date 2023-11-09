@@ -1,16 +1,15 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# Policy Bases for No Duty
+title: Policy Bases for No Duty & Duties of Landowners & Occupiers
 
-# &
+profile: false
 
-# Duties of Landowners & Occupiers
+share: false
+
+show_date: false
 
 ---
+
 
 # Some logistics
 
