@@ -39,7 +39,7 @@ You are a trial court judge in the state of Loyola. The facts of a case before y
 
 The passengers have sued the optometrist for negligence. The optometrist has moved for summary judgment on the grounds that she had no duty to the plaintiffs. 
 
-How would you rule on the motion? Include your reasoning. You should be aware that the Supreme Court of Loyola recently adopted the holding and reasoning of the *Tarasoff* opinion regarding a psychiatrist’s duty to third parties.
+How would you rule on the motion? Include your reasoning. You should be aware that the Supreme Court of Loyola recently adopted the holding and reasoning of the *Tarasoff* opinion regarding a psychiatrist’s duty to third parties. Loyola has likewise adopted the Rowland factors for determining whether an affirmative duty exists beyond the traditional common law exceptions.
 
 ## Oct. 25, 2023
 
