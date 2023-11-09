@@ -17,6 +17,26 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## Nov. 14, 2023
+
+**Exercise 1**
+
+You are a Justice in the Supreme Court of Nebraska who was part of the majority in *Heins v. Webster County*. A case has come before the court:
+
+A plaintiff was playing on an outdoor asphalt YMCA basketball court, fell, and was injured. The plaintiff was not a member of the YMCA and did not pay dues to the YMCA. Following the traditional view, the trial court found the plaintiff to be a licensee and issued a directed verdict for the defendant finding that the defendant did not owe a duty of care to the plaintiff. After the case was appealed, the Supreme Court of Nebraska issued the *Heins* opinion, and the court of appeals reversed finding that the defendant owed a duty of care.
+
+The author of the dissenting opinion in *Heins* reminds you that, following the *Heins* majority, the YMCA is now subject to lawsuits holding them to a duty to treat uninvited users of their facilities with the same standard of care as the paying members of their institutions. The majority opinion “socializes the use of privately owned property.” “From this moment on, public and private institutions, as well as residential homeowners, must be especially aware of unknown, uninvited individuals who take advantage of their land and facilities.”
+
+How do you respond?
+
+**Exercise 2**
+
+You are a trial court judge in the state of Loyola. The facts of a case before you are as follows. A patient had been diagnosed as legally blind and had stopped driving as a result. At a routine eye appointment, the patient’s optometrist told him that his vision had improved enough for him to drive again. The patient resumed driving and shortly thereafter crashed into a horse-drawn hay trailer, killing one passenger and injuring the other four. 
+
+The passengers have sued the optometrist for negligence. The optometrist has moved for summary judgment on the grounds that she had no duty to the plaintiffs. 
+
+How would you rule on the motion? Include your reasoning. You should be aware that the Supreme Court of Loyola recently adopted the holding and reasoning of the *Tarasoff* opinion regarding a psychiatrist’s duty to third parties.
+
 ## Oct. 25, 2023
 
 ### Ross v. Benson
