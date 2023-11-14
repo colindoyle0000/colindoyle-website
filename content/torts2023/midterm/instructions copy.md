@@ -10,6 +10,16 @@ draft: true
 ---
 
 
+Included below are links to PDF versions of the instructions and appendices you will receive when you take the exam. I am providing them here so that you can familiarize yourself with the material before taking the exam.
+
+**Midterm Instructions** | [(.pdf)](/../../torts-material/midterm-instructions.pdf) 
+
+
+**Midterm Appendices** | [(.pdf)](/../../torts-material/midterm-appendices.pdf) 
+
+Appendix A is a list of cases discussed in-depth during class. Appendix B is a list of legal rules that you are not expected to have memorized. When you take the midterm exam, you will receive a copy of these appendices as part of your exam packet. You are allowed to consult those appendices while you take your exam.
+
+
 This list includes cases discussed in-depth during class. It is not an exhaustive list of all cases. You are welcome and encouraged to reference cases discussed in the casebook that are not included in this list. You will not receive credit for referencing cases that were neither discussed in class nor included in the casebook. The cases are listed chronologically in the order that we discussed them in class.
 Seffert v. Los Angeles Transit Lines
 McDougald v. Garber

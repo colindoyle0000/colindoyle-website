@@ -62,7 +62,6 @@ On Sunday, August 9, 1986, Jeffrey Harper (“Harper”) was one of four guests 
 
 ---
 
-
 # Rowland Factors
 
 - foreseeability of harm

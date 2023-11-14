@@ -55,3 +55,5 @@ weight: 10
 **21 - Duty to Third Parties & Policy Bases for No Duty** | [(.pdf)](/../../torts2023-material/slides/21-3rd-party-policy.pdf) | [(webpage)](/../../torts2023-material/slides/f21-3rd-party-policy)
 
 **22 - Policy Bases for No Duty & Duties of Landowners & Occupiers** | [(.pdf)](/../../torts2023-material/slides/22-landowner.pdf) | [(webpage)](/../../torts2023-material/slides/f22-landowner)
+
+**23 - Review Exercises** | [(.pdf)](/../../torts2023-material/slides/23-review.pdf) | [(webpage)](/../../torts2023-material/slides/f23-review)
