@@ -57,3 +57,5 @@ weight: 10
 **22 - Policy Bases for No Duty & Duties of Landowners & Occupiers** | [(.pdf)](/../../torts2023-material/slides/22-landowner.pdf) | [(webpage)](/../../torts2023-material/slides/f22-landowner)
 
 **23 - Review Exercises** | [(.pdf)](/../../torts2023-material/slides/23-review.pdf) | [(webpage)](/../../torts2023-material/slides/f23-review)
+
+**24 - Medical Malpractice** | [(.pdf)](/../../torts2023-material/slides/24-medical-malpractice.pdf) | [(webpage)](/../../torts2023-material/slides/f24-medical-malpractice)
