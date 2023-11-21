@@ -59,3 +59,5 @@ weight: 10
 **23 - Review Exercises** | [(.pdf)](/../../torts2023-material/slides/23-review.pdf) | [(webpage)](/../../torts2023-material/slides/f23-review)
 
 **24 - Medical Malpractice** | [(.pdf)](/../../torts2023-material/slides/24-medical-malpractice.pdf) | [(webpage)](/../../torts2023-material/slides/f24-medical-malpractice)
+
+**25 - Purely Emotional Harm** | [(.pdf)](/../../torts2023-material/slides/25-nied.pdf) | [(webpage)](/../../torts2023-material/slides/f25-nied)
