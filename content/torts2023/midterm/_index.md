@@ -21,4 +21,4 @@ The midterm exam has three parts and two appendices. Part I consists of three sh
 
 Your exam packet will include two appendices. Appendix A is a list of cases discussed in-depth during class. Appendix B is a list of legal rules that you are not expected to have memorized. You are allowed to consult the appendix while you take the exam. 
 
-A copy of the [exam instructions](/../../torts2023-material/midterm/midterm_instructions.pdf) and a copy of the [appendices](/../../torts2023-material/midterm/midterm_instructions.pdf) are available for you to use as you study. These are identical to the instructions and appendices you will receive in your exam packet when you take the exam.
+A copy of the [exam instructions](/../../torts2023-material/midterm/midterm_instructions.pdf) and a copy of the [appendices](/../../torts2023-material/midterm/midterm_appendices.pdf) are available for you to use as you study. These are identical to the instructions and appendices you will receive in your exam packet when you take the exam.
