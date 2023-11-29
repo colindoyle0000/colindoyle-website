@@ -61,3 +61,5 @@ weight: 10
 **24 - Medical Malpractice** | [(.pdf)](/../../torts2023-material/slides/24-medical-malpractice.pdf) | [(webpage)](/../../torts2023-material/slides/f24-medical-malpractice)
 
 **25 - Purely Emotional Harm** | [(.pdf)](/../../torts2023-material/slides/25-nied.pdf) | [(webpage)](/../../torts2023-material/slides/f25-nied)
+
+**26 - Midterm Review** | [(.pdf)](/../../torts2023-material/slides/26-midterm.pdf) | [(webpage)](/../../torts2023-material/slides/f26-midterm)
