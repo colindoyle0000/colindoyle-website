@@ -10,7 +10,7 @@ date: '2022-08-16T00:00:00+01:00'
 weight: 20
 ---
 
-Students in this class have access to watch all class recordings. You do not need to request my permission. Class recordings are available [here](https://echo360.org/section/5552db9a-6979-43ae-a254-7c03a501c03e/home).
+Students in this class have access to watch all class recordings. You do not need to request my permission. Class recordings are available [here](https://brightspace.lmu.edu/d2l/home/217728).
 
 If you encounter technical difficulties, contact LLS Instructional Technology at: [instructional.technology@lls.edu.](mailto:instructional.technology@lls.edu.?subject=IT%20Help%20Re%3A%20Torts%20w%2F%20Prof.%20Doyle)
 
