@@ -18,7 +18,7 @@ I am allowing laptops to be used during class for taking notes and referencing r
 You're on the [course website](http://www.colin-doyle.net/torts2023/) right now. I may also use our course [Brightspace page](https://brightspace.lmu.edu/d2l/home/217728) to make announcements and to host content that cannot be shared publicly.
 
 ## Class Recordings
-The Instructional Technology Department will post video recordings of class [here](https://echo360.org/section/5552db9a-6979-43ae-a254-7c03a501c03e/home) as soon as the video files have been received and processed.
+The Instructional Technology Department will post video recordings of class [here](https://brightspace.lmu.edu/d2l/home/217728) as soon as the video files have been received and processed.
 
 Following the first day of class, I will give each student access to a shared folder that I maintain that contains audio recordings and automated transcriptions of each of our class sessions.
 
