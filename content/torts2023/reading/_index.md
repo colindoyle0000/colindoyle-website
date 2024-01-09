@@ -16,10 +16,51 @@ toc: false
 
 You do not need to purchase a casebook for this class. 
 
-You can download a pdf of your reading assignments [here](https://brightspace.lmu.edu/d2l/le/content/217728/viewContent/2596795/View). Please note that you will need to log in to Brightspace to access this material.
+You can download a pdf of your fall reading assignments [here](https://brightspace.lmu.edu/d2l/le/content/217728/viewContent/2596795/View). 
+
+You can download a pdf of your spring reading assignments [here](https://brightspace.lmu.edu/d2l/le/content/231506/viewContent/2917870/View).
+
+Please note that you will need to log in to Brightspace to access this material.
 
 The reading assignments listed below are also available as a [Google calendar](https://calendar.google.com/calendar/embed?src=vtu22g9khnc4acg3plvuaarptc%40group.calendar.google.com&ctz=America%2FLos_Angeles). You can [subscribe to the calendar](https://calendar.google.com/calendar/u/5?cid=dnR1MjJnOWtobmM0YWNnM3BsdnVhYXJwdGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) and receive notifications when I post new reading assignments.
 
+# Spring Semester
+
+## Jan. 17, 2024
+
+01 - Basic Doctrine
+
+Pgs. 1-21
+
+## Jan. 19, 2024
+
+02 - Multiple Defendants
+
+Pgs. 22-30
+
+## Jan. 24, 2024
+
+03 - Toxic Harms
+
+Pgs. 31-62
+
+## Jan. 26, 2024
+
+04 - Proximate Cause
+
+Pgs. 63-67
+
+## Jan. 31, 2024
+
+05 - Unexpected Harm
+
+Pgs. 68-73
+
+## Feb. 2, 2024
+
+06 - Intervening Causes & Unexpected Victims
+
+Pgs. 74-87
 
 # Fall Semester
 
