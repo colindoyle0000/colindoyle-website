@@ -9,7 +9,7 @@ toc: false
 ---
 
 
-This course is a worth three credits. The course will be graded anonymously.
+This course is a worth four credits. The course will be graded anonymously.
 
 Your grade will be based on a midterm exam and a final exam. The midterm exam will count for 25% of your grade, and the final exam will count for 75%. The final exam will be cumulative. The midterm is purposefully weighted less than the final exam to give you the opportunity to improve your work in this class over time. For those eager to start studying for finals now, I'm happy to share with you a super-secret way to perform perfectly on any kind of law school exam, regardless of subject matter, format, or difficulty, which you can access [at this link.](https://www.youtube.com/watch?v=eBGIQ7ZuuiU)
 
