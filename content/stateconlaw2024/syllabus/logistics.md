@@ -22,7 +22,7 @@ My faculty assistant is Chris Galvan, and his email is: [chris.galvan@lls.edu](m
 
 ## Class schedule
 
-Tuesdays & Thursdays from  8:45am to 10:00am<br>AC-202 (Courtroom of the '90s)
+Tuesdays & Thursdays from  1:10pm to 3:10pm<br>AC-202 (Courtroom of the '90s)
 
 ## Open office hours
 
