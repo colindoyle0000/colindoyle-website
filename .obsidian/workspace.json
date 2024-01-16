@@ -11,8 +11,12 @@
             "id": "512d51638a12b210",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/stateconlaw2024/reading/_index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/stateconlaw2024/reading/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/stateconlaw2024/reading/_index.md"
+              }
             }
           },
           {
@@ -116,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/stateconlaw2024/reading/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

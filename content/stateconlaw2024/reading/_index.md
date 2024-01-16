@@ -20,16 +20,21 @@ The reading assignments are listed below. To allow for this course to be flexibl
 
 ## Jan. 16, 2024
 
-Pgs. 1-26
+No reading.
 
 ## Jan. 18, 2024
 
-Pgs. 33-44, 58-64
+Pgs. 1-26
+
 
 ## Jan. 23, 2024
 
-Pgs. 77-98
+Pgs. 33-44, 58-64
+
 
 ## Jan. 25, 2024
 
+Pgs. 77-98
+
+## Jan. 30, 2024
 Pgs. 98-132
