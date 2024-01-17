@@ -9,5 +9,4 @@ date: '2022-08-16T00:00:00+01:00'
 weight: 10
 ---
 
-<br>
 **01 - Welcome to State Constitutional Law** | [(.pdf)](/../../stateconlaw2024-material/slides/01-welcome.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s01-welcome)
