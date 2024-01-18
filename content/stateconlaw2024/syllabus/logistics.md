@@ -24,14 +24,6 @@ My faculty assistant is Chris Galvan, and his email is: [chris.galvan@lls.edu](m
 
 Tuesdays & Thursdays from  1:10pm to 3:10pm<br>AC-202 (Courtroom of the '90s)
 
-## Open office hours
-
-
-Fridays from 11:00am to 12:00pm <br>
-Outside the Robinson Moot Courtroom
-
-During open office hours, any student or group of students from our class may stop by without an appointment. Anyone in the class is welcome to join or leave during that time. Please know that I _love_ office hours. While I am always up for talking about state constitutional law, I am also happy to talk about anything you’re interested in discussing: navigating law school, legal careers, the research I’m conducting when I’m not teaching, the latest season of the Great British Bakeoff — anything is fair game. My office hours are during lunchtime, so feel free to bring your lunch and eat as we chat. Sometimes I'll even have cookies or brownies to share. Show up to find out.
-
 ## One-on-one office hours
 By appointment in Burns 315. To schedule an appointment, [email me](mailto:colin.doyle@lls.edu?subject=One-on-One%20Office%20Hours).
 
