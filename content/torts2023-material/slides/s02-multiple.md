@@ -1,12 +1,14 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
 
-## _Factual Causation:_
-# Multiple Defendants
+title: Multiple Defendants
 
-—
+profile: false
 
+share: false
+
+show_date: false
+
+---
 
 # Causation
 
@@ -32,6 +34,9 @@ Two different tests for factual causation
 
 ---
 
+![fit](images/same_pic.jpeg)
+
+—
 
 ## Stubbs v. City of Rochester
 
@@ -39,24 +44,34 @@ Two different tests for factual causation
 
 ---
 
-# Four typical scenarios in which factual cause may be contested
 
-1. Toxic exposure
-2. No idea what happened
-3. Know what happened, but don’t know that it wouldn’t have happened if defendant had behaved reasonably
-4. Know what happened, but don’t know who to blame
+# What about multiple possible causes?
 
----
+—
 
-# [fit] What about two possible causes?
-
-- - -
-
-# Joint and Several Liability
+# Anderson v. Minneapolis, St. Paul & Sault Ste. Marie Railway Co.
+“Multiple Fires Whodunnit”
 
 ---
+
+# Necessary and Sufficient Conditions
+
+**Necessary condition:**
+
+Result happens ONLY IF condition exists.
+
+Put another way: 
+
+IF NOT condition, then NO result.
+
+**Sufficient condition:**
+
+IF condition exists, then result happens.
+
+—
 
 # Summers v. Tice
+“Hunting Party Whodunnit”
 
 ---
 
@@ -78,5 +93,7 @@ Three reasons for alternative liability:
 
 ---
 
-# Hymowitz v. Eli Lilly & Co.
+# Garcia v. Joseph Vince Co.
+“Fencing Sabre Whodunnit”
+
 

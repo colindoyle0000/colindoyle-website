@@ -10,7 +10,9 @@ weight: 10
 ---
 # Spring Semester
 
-**01 - Causation!** | [(.pdf)](/../../torts2023-material/slides/01-causation.pdf) | [(webpage)](/../../torts2023-material/slides/s01-causation)
+**01 - Causation** | [(.pdf)](/../../torts2023-material/slides/01-causation.pdf) | [(webpage)](/../../torts2023-material/slides/s01-causation)
+
+**02 - Multiple Defendants** | [(.pdf)](/../../torts2023-material/slides/02-multiple.pdf) | [(webpage)](/../../torts2023-material/slides/s02-multiple)
 
 # Fall Semester
 

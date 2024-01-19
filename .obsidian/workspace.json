@@ -11,8 +11,12 @@
             "id": "5c2f7807a1046c7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/torts2023/course-content/slides.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/torts2023/course-content/slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/torts2023/course-content/slides.md"
+              }
             }
           },
           {
@@ -116,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/torts2023/course-content/slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,21 +148,21 @@
   },
   "active": "5c2f7807a1046c7c",
   "lastOpenFiles": [
+    "content/torts2023-material/slides/s02-multiple.md",
+    "content/torts2023-material/slides/s01-causation.md",
+    "content/torts2023-material/slides/02-multiple.pdf",
     "content/stateconlaw2024/course-content/slides.md",
     "content/stateconlaw2024-material/slides/s02-federal-power.md",
     "content/stateconlaw2024-material/slides/s01-welcome.md",
     "content/stateconlaw2024/syllabus/logistics.md",
     "content/torts2023/course-content/slides.md",
     "content/torts2023-material/slides/01-causation.md",
-    "content/torts2023-material/slides/s01-causation.md",
     "content/stateconlaw2024-material/slides/01-welcome.pdf",
-    "content/torts2023-material/slides/02-multiple.md",
     "content/stateconlaw2024-material/slides",
     "content/stateconlaw2024-material",
     "content/torts2023-material/slides/01-causation.pdf",
     "content/torts2023-material/slides/f26-midterm.md",
     "content/stateconlaw2024/reading/_index.md",
-    "content/torts2023-material/slides/s02-multiple.md",
     "content/torts2023-material/slides/midterm_questions.md",
     "content/torts2023-material/slides/f25-nied.md",
     "content/torts2023/reading/_index.md",
