@@ -15,114 +15,61 @@ toc: true
 ---
 
 
+Class 01
+No reading.
 
+Class 02
+Pgs. 1-26
 
 
+Class 03
+Pgs. 33-44, 58-64
 
 
+Class 04
+Pgs. 77-98
 
+Class 05
+Pgs. 98-132
 
+Class 06
 
+Class 07
 
+Class 08
 
+Class 09
 
+Class 10
 
+Class 11
 
+Class 12
 
+Class 13
 
+Class 14
 
+Class 15
 
+Class 16
 
+Class 17
 
+Class 18
 
+Class 19
 
+Class 20
 
+Class 21
 
+Class 22
 
-## Oct. 17, 2023
+Class 23
 
+Class 24
 
-## Oct. 19, 2023
+Class 25
 
-
-
-
-
-
-
-
-## Oct. 24, 2023
-
-
-
-
-
-
-
-## Oct. 26, 2023
-
-
-
-
-
-
-
-## Oct. 31, 2023
-
-
-
-
-
-
-
-## Nov. 2, 2023
-
-
-
-
-
-
-## Nov. 7, 2023
-
-
-
-
-
-
-## Nov. 9, 2023
-
-
-
-
-
-
-
-## Nov. 14, 2023
-
-
-
-
-
-
-
-## Nov. 16, 2023
-
-
-
-
-
-
-## Nov. 21, 2023
-
-
-
-
-
-
-## Makeup Class
-
-Review
-
-
-
-
+Class 26

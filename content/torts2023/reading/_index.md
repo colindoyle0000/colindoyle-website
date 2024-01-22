@@ -26,6 +26,8 @@ The reading assignments listed below are also available as a [Google calendar](h
 
 # Spring Semester
 
+## Causation
+
 ## Jan. 17, 2024
 
 01 - Basic Doctrine
@@ -61,6 +63,18 @@ Pgs. 68-73
 06 - Intervening Causes & Unexpected Victims
 
 Pgs. 74-87
+
+## Feb. 7, 2024
+
+07 - Vicarious Liability
+
+Pgs. 88-107
+
+## Feb. 9, 2024
+
+Causation Review & Exercises
+
+No reading.
 
 # Fall Semester
 
