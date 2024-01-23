@@ -18,6 +18,8 @@ The casebook for this class is *State Constitutional Law* (Fourth Edition) by Je
 
 The reading assignments are listed below. To allow for this course to be flexible in response to the pace and dynamics of our in-class discussions, reading assignments will be scheduled on a rolling basis. To allow you enough time to read the assigned material, I plan to post reading assignments at least one week in advance of class. Once I have posted a reading assignment for a particular day, I will not change the assignment by adding more reading for that day.
 
+## Federal and State Power
+
 ## Jan. 16, 2024
 
 No reading.
@@ -32,9 +34,27 @@ Pgs. 1-26
 Pgs. 33-44, 58-64
 
 
+## State Court Interpretation of State Constitutions
+
 ## Jan. 25, 2024
 
 Pgs. 77-98
 
 ## Jan. 30, 2024
 Pgs. 98-132
+
+## Equality
+
+## Feb. 6, 2024
+Pgs. 133-153
+
+## Feb. 8, 2024
+Pgs. 153-175
+
+## Due Process
+
+## Feb. 13, 2024
+Pgs. 251-286
+
+## Feb. 15, 2024
+Pgs. 287-333

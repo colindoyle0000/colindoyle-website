@@ -74,7 +74,7 @@ Pgs. 88-107
 
 Causation Review & Exercises
 
-No reading.
+No reading m
 
 # Fall Semester
 

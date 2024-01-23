@@ -8,19 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c2f7807a1046c7c",
+            "id": "7cb9a9ce4f14f209",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/torts2023/reading/future-readings.md",
+                "file": "content/stateconlaw2024/reading/future-readings.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "48b1cc2dd860672d",
+        "type": "tabs",
+        "children": [
           {
-            "id": "7cb9a9ce4f14f209",
+            "id": "7c5278936d4c5c3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,36 +44,6 @@
               "type": "markdown",
               "state": {
                 "file": "content/stateconlaw2024/reading/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e4046d15c1c5136c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c30fdbb2eedb36ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/torts/reading/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3038bbf65d2370c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/torts2023/reading/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/torts2023/reading/_index.md",
+                "file": "content/stateconlaw2024/reading/future-readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/torts2023/reading/_index.md"
+                "file": "content/stateconlaw2024/reading/future-readings.md"
               }
             }
           },
@@ -178,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/torts2023/reading/_index.md",
+                "file": "content/stateconlaw2024/reading/future-readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,13 +177,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3038bbf65d2370c5",
+  "active": "7cb9a9ce4f14f209",
   "lastOpenFiles": [
-    "content/torts2023/reading/future-readings.md",
-    "content/torts2023/reading/_index.md",
-    "content/torts/reading/_index.md",
     "content/stateconlaw2024/reading/_index.md",
     "content/stateconlaw2024/reading/future-readings.md",
+    "content/torts2023/reading/future-readings.md",
+    "content/stateconlaw2024-material/slides/03-fed-state-power.md",
+    "content/stateconlaw2024-material/slides/02-federal-power 1.md",
+    "content/torts2023/reading/_index.md",
+    "content/torts/reading/_index.md",
     "content/torts2023/course-content/slides.md",
     "content/torts2023-material/slides/s02-multiple.md",
     "content/torts2023-material/slides/s01-causation.md",
