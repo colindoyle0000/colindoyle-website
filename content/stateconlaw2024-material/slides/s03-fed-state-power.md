@@ -1,25 +1,27 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: State and Federal Power
 
+profile: false
 
+share: false
 
-
-# [fit] State Constitutional Law
-# [fit] 03 - State and Federal Power
+show_date: false
 
 ---
+
 # Recap
 
 ## The Commerce Clause
+
 **Gonzales v. Raich**
+
 545 U.S. 1 (2005)
 
 ## The Spending Power
+
 **NFIB v. Sebelius**
+
 567 U.S. 519 (2012)
 
 ---
@@ -31,6 +33,7 @@ Footer:
 # Exclusive State Power
 
 **United States v. Lopez**
+
 514 U.S. 549 (1995)
 
 ---
@@ -48,10 +51,13 @@ The case makes its way to the U.S. Supreme Court. You are Supreme Court justices
 # Anti-commandeering principle
 
 **Printz v. United States**
+
 521 U.S. 898 (1997)
 
 *Other important cases:*
+
 New York v. United States (1992)
+
 Murphy v. NCAA (2018)
 
 ---
@@ -78,6 +84,7 @@ The Senators and Representatives before mentioned, and the members of the severa
 # Federal Limitations on State Power
 
 **U.S. Term Limits Inc. v. Thornton**
+
 514 U.S. 779 (1995)
 
 ---
@@ -105,6 +112,7 @@ The powers not delegated to the United States by the Constitution, nor prohibite
 # Federal Limitations on State Power
 
 **Gregory v. Ashcroft**
+
 501 U.S. 452 (1991)
 
 ---

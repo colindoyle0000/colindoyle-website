@@ -14,6 +14,8 @@ weight: 10
 
 **02 - Multiple Defendants** | [(.pdf)](/../../torts2023-material/slides/02-multiple.pdf) | [(webpage)](/../../torts2023-material/slides/s02-multiple)
 
+**03 - Toxic Harms** | [(.pdf)](/../../torts2023-material/slides/03-toxic.pdf) | [(webpage)](/../../torts2023-material/slides/s03-toxic)
+
 # Fall Semester
 
 <br>

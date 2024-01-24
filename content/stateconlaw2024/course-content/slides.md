@@ -12,3 +12,5 @@ weight: 10
 **01 - Welcome to State Constitutional Law** | [(.pdf)](/../../stateconlaw2024-material/slides/01-welcome.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s01-welcome)
 
 **02 - Limited Federal Powers** | [(.pdf)](/../../stateconlaw2024-material/slides/02-federal-power.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s02-federal-power)
+
+**03 - State and Federal Power** | [(.pdf)](/../../stateconlaw2024-material/slides/03-fed-state-power.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s03-fed-state-power)

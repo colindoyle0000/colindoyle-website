@@ -1,13 +1,53 @@
-autoscale: true
-slidenumbers: true
-Footer: 
+---
+
+title: Toxic Harms
+
+profile: false
+
+share: false
+
+show_date: false
+
+---
 
 
-# Toxic Harms
-## _and factual causation review_
+# Midterm Review Meetings
 
 —
 
+## In-class exercise
+
+Donald Dawson was murdered in his hotel room while on a business trip to Loyola City. Dawson had eaten breakfast with a business associate, Anastasia Kent, in a coffee shop next to the hotel. Following breakfast, Dawson returned to his room on the eighth floor of the hotel to use the bathroom before beginning his business day. When Dawson did not meet Kent shortly thereafter as arranged and did not answer his phone or door, Kent became concerned and asked a hotel maid to open the door to Dawson’s room. Kent and the maid found Dawson lying face down on the floor, dead. He had been shot twice in the back of the head with a .22 caliber weapon.
+
+Both Dawson’s luggage and Kent’s, which had been left in Dawson's room because Kent was checking out, had been rifled. Dawson’s wallet was lying on one of the suitcases with the cash missing. Neither Dawson’s Rolex watch nor his credit cards were taken. There was no sign of forced entry into the room and no sign of a struggle other than scratches on Dawson’s arm in the area of his watch. Dawson’s room key was found lying in front of the bathroom door. The murderer was never apprehended.
+
+—
+
+At the time of the murder, the hotel had no security cameras or alarms at any of the entrances, in the stairwells, or on any of the guest floors. The hotel only employed a security guard at night, so there was no guard on duty at the time.
+
+**Question to Answer:** 
+
+You are a district court judge ruling on a defendant’s motion for summary judgment. Assuming the plaintiff can prove duty and breach, was the hotel’s negligence a factual cause of the plaintiff’s injuries? 
+
+If the plaintiff has not made out a prima facie case, then the motion should be granted.
+
+If the plaintiff has made out a prima facie case, then the question should go to the jury, and the motion for summary judgment should not be granted.
+
+—
+
+# Sindell v. Abbott Laboratories
+“Toxic Harms”
+
+—
+
+# Possible alternatives for factual causation
+
+1. Concert liability
+2. Alternative liability
+3. Enterprise liability
+4. Market share liability
+
+—
 # Toxic Harms
 
 ## Why is the tort system such a poor fit?
@@ -16,77 +56,24 @@ Footer:
 
 # Three frequent problems:
 
-1. Can’t be certain that the toxin was a “but for” cause
-2. Can’t be certain of the magnitude of the harm
-3. Can’t be certain who is responsible
+1. Identification of the cause: Can’t be certain that the toxin was a “but for” cause
+2. Boundaries of the harm: Can’t be certain of the extent of the harm
+3. Source of the cause: Can’t be certain who in particular is responsible
 
 ---
 
 # Mass Torts
 ## _A procedural story in two parts:_
 
-1. Amchem killed the mass tort class action
+1. The Supreme Court killed the mass tort class action
 
-2. But multidistrict litigation (MDL) took over
-
----
-
-# Factual Causation Speedrun
+2. Multidistrict litigation (MDL) took over
 
 ---
 
+# Exercises for Friday…
 
-# Causation
-
-Two parts:
-1. _____________
-2. _____________
-
-Two different tests for factual causation
-1. _____________
-2. _____________
-
----
-
-# Causation
-
-Two parts:
-1. Factual cause
-2. Proximate cause
-
-Two different tests for factual causation
-1. “But for”
-2. Substantial factor
-
----
-
-
-## Stubbs v. City of Rochester
-
-## Zuchowicz v. United States
-
-## Summers v. Tice
-
-## Hymowitz v. Eli Lilly & Co.
-
----
-
-
-# Joint and Several Liability
-# _vs._
-# Several Liability
-
-
----
-
-# Alternative Liability
-
-
----
-
-# Market Share Liability
-
----
+—
 
 # Exercise #1
 

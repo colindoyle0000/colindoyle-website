@@ -48,15 +48,14 @@ Pgs. 31-62
 
 ## Jan. 26, 2024
 
-04 - Proximate Cause
-
-Pgs. 63-67
+Causation Review
 
 ## Jan. 31, 2024
 
+04 - Proximate Cause
 05 - Unexpected Harm
 
-Pgs. 68-73
+Pgs. 63-73
 
 ## Feb. 2, 2024
 
