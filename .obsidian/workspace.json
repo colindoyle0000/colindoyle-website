@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/torts2023/reading/_index.md",
+                "file": "content/torts/midterm-review/instructions copy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/torts2023/reading/_index.md",
+                "file": "content/torts/midterm-review/instructions copy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/torts2023/reading/_index.md"
+                "file": "content/torts/midterm-review/instructions copy.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/torts2023/reading/_index.md",
+                "file": "content/torts/midterm-review/instructions copy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,8 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a41add1cbb4f003",
+  "active": "e429148926a07c65",
   "lastOpenFiles": [
+    "content/torts2023/midterm/review.md",
+    "content/torts2023/midterm/past_exam copy.md",
+    "content/torts/midterm-review/instructions.md",
+    "content/torts/midterm-review/_index.md",
+    "content/torts2023/midterm/past_exam.md",
+    "content/torts2023/midterm/instructions copy.md",
+    "content/torts2023/midterm/instructions.md",
+    "content/torts2023/midterm/_index.md",
+    "content/torts2023/midterm-review/instructions copy.md",
+    "content/torts2023/midterm-review/instructions.md",
+    "content/torts2023/midterm-review/_index.md",
+    "content/torts2023/reading/_index.md",
     "content/torts2023/reading/future-readings.md",
     "content/stateconlaw2024/course-content/slides.md",
     "content/torts2023-material/midterm/midterm_memo_2023_fall.pdf",
@@ -165,23 +177,12 @@
     "content/torts2023-material/slides/04-review.md",
     "content/torts2023-material/slides/Untitled.md",
     "content/stateconlaw2024-material/slides/02-federal-power 1.md",
-    "content/torts2023/reading/_index.md",
-    "content/torts/reading/_index.md",
-    "content/torts2023-material/slides/s01-causation.md",
     "content/torts2023-material/slides/02-multiple.pdf",
-    "content/stateconlaw2024-material/slides/s01-welcome.md",
-    "content/stateconlaw2024/syllabus/logistics.md",
-    "content/torts2023-material/slides/01-causation.md",
     "content/stateconlaw2024-material/slides/01-welcome.pdf",
     "content/stateconlaw2024-material/slides",
     "content/stateconlaw2024-material",
     "content/torts2023-material/slides/01-causation.pdf",
-    "content/torts2023-material/slides/f26-midterm.md",
-    "content/torts2023-material/slides/midterm_questions.md",
-    "content/torts2023-material/slides/f25-nied.md",
     "content/torts2023-material/slides/26-midterm.pdf",
-    "content/torts2023-material/slides/25-nied.pdf",
-    "content/torts2023/midterm/_index.md",
-    "content/torts2023/course-content/_index.md"
+    "content/torts2023-material/slides/25-nied.pdf"
   ]
 }
