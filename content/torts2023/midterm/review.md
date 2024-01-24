@@ -23,7 +23,7 @@ Before booking a meeting please confirm that you have done the following:
 
 - You have read the midterm review memo in its entirety.
 - You have identified the issues that you missed on the exam.
-- You have taken notes on how you would rewrite my exam answers if you had the opportunity.
+- You have taken notes on how you would rewrite your exam answers if you had the opportunity.
 - You understand that, under Loyola Law School policy, your grade cannot be changed unless there was a clerical error in calculating your score.
 
 You can book a one-on-one appointment using [this link](https://fantastical.app/colindoyle0000-CZrJ/midterm-review).
