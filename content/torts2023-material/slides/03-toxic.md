@@ -38,6 +38,14 @@ If the plaintiff has made out a prima facie case, then the question should go to
 
 —
 
+# Possible alternatives for factual causation
+
+1. Concert liability
+2. Alternative liability
+3. Enterprise liability
+4. Market share liability
+
+—
 # Toxic Harms
 
 ## Why is the tort system such a poor fit?
@@ -46,18 +54,18 @@ If the plaintiff has made out a prima facie case, then the question should go to
 
 # Three frequent problems:
 
-1. Identification: Can’t be certain that the toxin was a “but for” cause
-2. Boundaries: Can’t be certain of the extent of the harm
-3. Source: Can’t be certain who in particular is responsible
+1. Identification of the cause: Can’t be certain that the toxin was a “but for” cause
+2. Boundaries of the harm: Can’t be certain of the extent of the harm
+3. Source of the cause: Can’t be certain who in particular is responsible
 
 ---
 
 # Mass Torts
 ## _A procedural story in two parts:_
 
-1. Amchem killed the mass tort class action
+1. The Supreme Court killed the mass tort class action
 
-2. But multidistrict litigation (MDL) took over
+2. Multidistrict litigation (MDL) took over
 
 ---
 
