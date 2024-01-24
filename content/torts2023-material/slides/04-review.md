@@ -1,27 +1,58 @@
----
-# Title, summary, and page position.
-linktitle: In-Class Scratchpad Drafts
-summary: In-Class Scratchpad Drafts
-weight: 120
-# icon: book
-# icon_pack: fas
 
-# Page metadata.
-title: In-Class Scratchpad
-date: '2022-08-14T00:00:00Z'
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-type: book # Do not modify.
-draft: true
-toc: false
+# Factual Causation Speedrun
 
 ---
 
-Upcoming exercises:
+
+# Causation
+
+Two parts:
+1. _____________
+2. _____________
+
+Two different tests for factual causation
+1. _____________
+2. _____________
+
+---
+
+# Causation
+
+Two parts:
+1. Factual cause
+2. Proximate cause
+
+Two different tests for factual causation
+1. “But for”
+2. Substantial factor
+
+---
 
 
-## Jan. 26, 2024
+## Stubbs v. City of Rochester
 
-**Exercise #1**
+## Zuchowicz v. United States
+
+## Summers v. Tice
+
+## Sindell v. Abbott Laboratories
+
+---
+
+# Alternative Liability
+
+
+---
+
+# Market Share Liability
+
+---
+
+# Exercises for Friday…
+
+—
+
+# Exercise #1
 
 You are an attorney at a plaintiff’s side firm in the state of Loyola.
 
@@ -33,7 +64,7 @@ Waters visits your office as a prospective client. She wants to know if she has 
 
 ---
 
-**Exercise 2**
+# Exercise 2
 
 Same initial fact pattern as the first exercise. Except now, in addition to being hit by Meyer and Morales, Waters was also hit by two other drivers who fled the scene.
 
@@ -43,7 +74,7 @@ Waters visits your office as a prospective client. She wants to know if she has 
 
 ---
 
-**Exercise 3**
+# Exercise 3
 
 You are an attorney at a plaintiff’s side firm in the state of Loyola.
 
@@ -52,6 +83,3 @@ A labor activist, Ayla Ross, comes to visit you in your office. She has been org
 Ross wants to talk with these workers about the possibility of suing the slaughterhouse for negligence. She is particularly interested in the possibility of a class action lawsuit so that the workers don’t need to litigate individual cases, but she knows that issues of causation can be challenging in toxic harm lawsuits.
 
 For this question, assume that duty and breach can be proven. Please advise her on the most pertinent remaining issues.
-
-
-

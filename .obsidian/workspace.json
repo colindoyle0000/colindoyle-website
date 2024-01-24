@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/stateconlaw2024/reading/future-readings.md",
+                "file": "content/torts2023/scratchpad/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/stateconlaw2024/reading/future-readings.md",
+                "file": "content/torts2023/scratchpad/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/stateconlaw2024/reading/future-readings.md"
+                "file": "content/torts2023/scratchpad/_index.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/stateconlaw2024/reading/future-readings.md",
+                "file": "content/torts2023/scratchpad/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +179,12 @@
   },
   "active": "7cb9a9ce4f14f209",
   "lastOpenFiles": [
-    "content/stateconlaw2024/reading/_index.md",
+    "content/torts2023/scratchpad/drafts.md",
+    "content/torts2023/scratchpad/_index.md",
+    "content/torts2023-material/slides/04-review.md",
+    "content/torts2023-material/slides/Untitled.md",
     "content/stateconlaw2024/reading/future-readings.md",
+    "content/stateconlaw2024/reading/_index.md",
     "content/torts2023/reading/future-readings.md",
     "content/stateconlaw2024-material/slides/03-fed-state-power.md",
     "content/stateconlaw2024-material/slides/02-federal-power 1.md",

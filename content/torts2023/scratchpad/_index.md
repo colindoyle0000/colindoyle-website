@@ -17,6 +17,23 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## Jan. 24, 2024
+
+Donald Dawson was murdered in his hotel room while on a business trip to Loyola City. Dawson had eaten breakfast with a business associate, Anastasia Kent, in a coffee shop next to the hotel. Following breakfast, Dawson returned to his room on the eighth floor of the hotel to use the bathroom before beginning his business day. When Dawson did not meet Kent shortly thereafter as arranged and did not answer his phone or door, Kent became concerned and asked a hotel maid to open the door to Dawson’s room. Kent and the maid found Dawson lying face down on the floor, dead. He had been shot twice in the back of the head with a .22 caliber weapon.
+
+Both Dawson’s luggage and Kent’s, which had been left in Dawson's room because Kent was checking out, had been rifled. Dawson’s wallet was lying on one of the suitcases with the cash missing. Neither Dawson’s Rolex watch nor his credit cards were taken. There was no sign of forced entry into the room and no sign of a struggle other than scratches on Dawson’s arm in the area of his watch. Dawson’s room key was found lying in front of the bathroom door. The murderer was never apprehended.
+
+At the time of the murder, the hotel had no security cameras or alarms at any of the entrances, in the stairwells, or on any of the guest floors. The hotel only employed a security guard at night, so there was no guard on duty at the time.
+
+**Question to Answer:** 
+
+You are a district court judge ruling on a defendant’s motion for summary judgment. Assuming the plaintiff can prove duty and breach, was the hotel’s negligence a factual cause of the plaintiff’s injuries? 
+
+If the plaintiff has not made out a prima facie case, then the motion should be granted.
+
+If the plaintiff has made out a prima facie case, then the question should go to the jury, and the motion for summary judgment should not be granted.
+
+
 ## Nov. 14, 2023
 
 **Exercise 1**
