@@ -1,8 +1,38 @@
+theme: Colin Fall 2022
+autoscale: true
+slidenumbers: true
+header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
+Footer:
+
+# Factual Cause Review
+
+—
+
+# Toxic Harms
+## Why is the tort system such a poor fit?
+
+---
+
+# Three frequent problems:
+
+1. Identification of the cause: Can’t be certain that the toxin was a “but for” cause
+2. Boundaries of the harm: Can’t be certain of the extent of the harm
+3. Source of the cause: Can’t be certain who in particular is responsible
+
+---
+
+# Mass Torts
+## _A procedural story in two parts:_
+
+1. The Supreme Court killed the mass tort class action
+
+2. Multidistrict litigation (MDL) took over
+
+---
 
 # Factual Causation Speedrun
 
 ---
-
 
 # Causation
 
@@ -26,31 +56,35 @@ Two different tests for factual causation
 1. “But for”
 2. Substantial factor
 
----
+—
 
-
-## Stubbs v. City of Rochester
-
-## Zuchowicz v. United States
-
-## Summers v. Tice
-
-## Sindell v. Abbott Laboratories
-
----
-
-# Alternative Liability
+![fit](images/same_pic.jpeg)
 
 
 ---
+# Factual cause is usually straightforward
 
-# Market Share Liability
+**Make a factual cause argument for the plaintiff in each case**
 
----
+Con Edison was in charge of supplying electricity to New York City but negligently let a major power failure happen leaving New York City without electricity for days. Two days into the blackout, Julius Strauss walked into the unlit basement of his apartment building and fell down the stairs.
 
-# Exercises for Friday…
+Jonathan Carter visited Ronald Kinney’s home for a bible study session, slipped on a patch of ice in Kinney’s driveway, and broke his leg.
+
+Mary Jane Gerstheimer parked her car in front of a pharmacy at the Middletown Psychiatric Center and left it unattended with the keys in the ignition. Stephen Rushink, a patient at the facility, drove away in the car, struck a tree, and died.
 
 —
+# Possible issues with factual cause
+
+Maybe something other than negligence was the but-for cause.
+
+Multiple possible defendants
+\- Each defendant’s negligence was enough to cause the harm, but remove any one defendant and the harm still happens.
+\- Only one defendant was the but-for cause but can’t figure out which one.
+— All of the possible defendants were negligent and are before the court.
+— Some of the possible defendants were negligent and some were not.
+— It’s a whole industry that was negligent
+
+---
 
 # Exercise #1
 

@@ -14,3 +14,5 @@ weight: 10
 **02 - Limited Federal Powers** | [(.pdf)](/../../stateconlaw2024-material/slides/02-federal-power.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s02-federal-power)
 
 **03 - State and Federal Power** | [(.pdf)](/../../stateconlaw2024-material/slides/03-fed-state-power.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s03-fed-state-power)
+
+**04 - Similarly Worded Provisions** | [(.pdf)](/../../stateconlaw2024-material/slides/04-interp.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s04-interp)

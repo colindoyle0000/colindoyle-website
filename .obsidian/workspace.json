@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8343598f695e09b8",
+        "id": "64d2bf1751460026",
         "type": "tabs",
         "children": [
           {
-            "id": "5a41add1cbb4f003",
+            "id": "3682dc6eaa102b92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/torts/midterm-review/instructions copy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/torts/midterm-review/instructions copy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/torts/midterm-review/instructions copy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/torts/midterm-review/instructions copy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,8 +138,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e429148926a07c65",
+  "active": "3682dc6eaa102b92",
   "lastOpenFiles": [
+    "content/torts2023-material/slides/04-review.pdf",
+    "content/stateconlaw2024/reading/future-readings.md",
+    "content/stateconlaw2024/course-content/slides.md",
+    "content/stateconlaw2024-material/slides/s04-interp.md",
+    "content/stateconlaw2024-material/slides/s02-federal-power.md",
+    "content/stateconlaw2024-material/slides/s03-fed-state-power.md",
+    "content/stateconlaw2024-material/slides/04-interp.pdf",
+    "content/stateconlaw2024/course-content/recordings.md",
+    "content/stateconlaw2024/reading/_index.md",
+    "content/stateconlaw2024-material/slides/03-fed-state-power.md",
+    "content/torts/midterm-review/instructions copy.md",
     "content/torts2023/midterm/review.md",
     "content/torts2023/midterm/past_exam copy.md",
     "content/torts/midterm-review/instructions.md",
@@ -161,28 +164,17 @@
     "content/torts2023/midterm-review/_index.md",
     "content/torts2023/reading/_index.md",
     "content/torts2023/reading/future-readings.md",
-    "content/stateconlaw2024/course-content/slides.md",
     "content/torts2023-material/midterm/midterm_memo_2023_fall.pdf",
-    "content/stateconlaw2024-material/slides/s03-fed-state-power.md",
-    "content/stateconlaw2024-material/slides/s02-federal-power.md",
     "content/torts2023/course-content/slides.md",
     "content/torts2023-material/slides/s03-toxic.md",
     "content/torts2023-material/slides/s02-multiple.md",
-    "content/stateconlaw2024/reading/_index.md",
-    "content/stateconlaw2024/reading/future-readings.md",
-    "content/torts2023/scratchpad/_index.md",
     "content/stateconlaw2024-material/slides/03-fed-state-power.pdf",
     "content/torts2023-material/slides/03-toxic.pdf",
-    "content/torts2023/scratchpad/drafts.md",
-    "content/torts2023-material/slides/04-review.md",
-    "content/torts2023-material/slides/Untitled.md",
-    "content/stateconlaw2024-material/slides/02-federal-power 1.md",
     "content/torts2023-material/slides/02-multiple.pdf",
     "content/stateconlaw2024-material/slides/01-welcome.pdf",
     "content/stateconlaw2024-material/slides",
     "content/stateconlaw2024-material",
     "content/torts2023-material/slides/01-causation.pdf",
-    "content/torts2023-material/slides/26-midterm.pdf",
-    "content/torts2023-material/slides/25-nied.pdf"
+    "content/torts2023-material/slides/26-midterm.pdf"
   ]
 }
