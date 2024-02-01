@@ -25,6 +25,8 @@ Like many other high schools, Loyola City public high school has been dealing wi
 
 As a result of this evidence, J.T. was arrested and prosecuted for stalking. At the trial court level, J.T. filed a motion to suppress the evidence, arguing that the principal searched his cellphone in violation of the Fourth Amendment to the United States Constitution and Article 2, Section 6 of the Loyola Constitution. The trial court denied the motion. The Loyola Court of Appeals affirmed. The case is now being heard by the Loyola State Supreme Court.
 
+Please write a majority and dissenting opinion for this case.
+
 **Relevant constitutional provisions:**
 
 **U.S. Constitution, Fourth Amendment**
