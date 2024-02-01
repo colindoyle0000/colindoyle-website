@@ -28,12 +28,14 @@ As a result of this evidence, J.T. was arrested and prosecuted for stalking. At 
 **Relevant constitutional provisions:**
 
 **U.S. Constitution, Fourth Amendment**
+
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
 
 **Loyola Constitution, Article 2, § 6**
+
 No person shall be disturbed in their private affairs, or have their home invaded, by an unreasonable search or seizure. No warrant to search any place or to seize any person or things shall issue without describing them, nor without probable cause, supported by oath or affirmation.
 
-**Supreme Court Precedent:**
+**U.S. Supreme Court Precedent:**
 
 New Jersey v. T.L.O. (1985) 
 
