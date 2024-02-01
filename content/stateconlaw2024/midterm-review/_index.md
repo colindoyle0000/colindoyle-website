@@ -11,7 +11,7 @@ title: Midterm Review
 date: '2022-08-14T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 type: book # Do not modify.
-draft: false
+draft: true
 toc: false
 ---
 
