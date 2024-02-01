@@ -61,4 +61,4 @@ As a matter of history, the Supreme Court of Loyola adopted its constitution in 
 
 
 
-(Summary of New Jersey v. T.L.O. copied from Colorado Law Constitution Day Project September 2019, available at https://www.colorado.edu/law/sites/default/files/attached-files/constitution_day_lesson_plan_2019.pdf)
+Note: The summary of New Jersey v. T.L.O. was copied from Colorado Law Constitution Day Project September 2019, available at https://www.colorado.edu/law/sites/default/files/attached-files/constitution_day_lesson_plan_2019.pdf
