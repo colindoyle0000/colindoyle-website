@@ -76,6 +76,34 @@ Causation Review & Exercises
 
 No reading
 
+## Defenses to Negligence
+
+## Feb. 14, 2024
+
+08 – Contributory Negligence & Comparative Negligence
+
+Pgs. 108-123
+
+## Feb. 16, 2024
+
+09 – Comparative Negligence
+
+Pgs. 124-143
+
+## Feb. 21, 2024
+
+10 – Assumption of Risk 
+
+Pgs. 144-163
+
+
+## Feb. 23, 2024
+
+Defenses Review and Exercises
+
+No reading
+
+
 # Fall Semester
 
 ## Aug. 22, 2023
