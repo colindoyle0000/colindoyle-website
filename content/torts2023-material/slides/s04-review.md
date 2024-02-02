@@ -1,12 +1,15 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# Factual Cause Review
+title: Factual Cause Review
 
-—
+profile: false
+
+share: false
+
+show_date: false
+
+---
+
 
 # Toxic Harms
 ## Why is the tort system such a poor fit?
@@ -78,10 +81,15 @@ Mary Jane Gerstheimer parked her car in front of a pharmacy at the Middletown Ps
 Maybe something other than negligence was the but-for cause.
 
 Multiple possible defendants
+
 \- Each defendant’s negligence was enough to cause the harm, but remove any one defendant and the harm still happens.
+
 \- Only one defendant was the but-for cause but can’t figure out which one.
+
 — All of the possible defendants were negligent and are before the court.
+
 — Some of the possible defendants were negligent and some were not.
+
 — It’s a whole industry that was negligent
 
 ---

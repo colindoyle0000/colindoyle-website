@@ -16,3 +16,7 @@ weight: 10
 **03 - State and Federal Power** | [(.pdf)](/../../stateconlaw2024-material/slides/03-fed-state-power.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s03-fed-state-power)
 
 **04 - Similarly Worded Provisions** | [(.pdf)](/../../stateconlaw2024-material/slides/04-interp.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s04-interp)
+
+**05 - Differently Worded Provisions** | [(.pdf)](/../../stateconlaw2024-material/slides/05-interp.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s05-interp)
+
+**06 - State court rulings that address both federal and state bases for decision** | [(.pdf)](/../../stateconlaw2024-material/slides/06-interp.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s06-interp)

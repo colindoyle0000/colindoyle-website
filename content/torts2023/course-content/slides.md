@@ -16,6 +16,10 @@ weight: 10
 
 **03 - Toxic Harms** | [(.pdf)](/../../torts2023-material/slides/03-toxic.pdf) | [(webpage)](/../../torts2023-material/slides/s03-toxic)
 
+**04 - Factual Cause Review** | [(.pdf)](/../../torts2023-material/slides/04-review.pdf) | [(webpage)](/../../torts2023-material/slides/s04-review)
+
+**05 - Proximate Cause** | [(.pdf)](/../../torts2023-material/slides/05-proximate.pdf) | [(webpage)](/../../torts2023-material/slides/s05-proximate)
+
 # Fall Semester
 
 <br>

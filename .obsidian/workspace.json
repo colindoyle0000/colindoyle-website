@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/stateconlaw2024/reading/_index.md",
+                "file": "content/torts2023/course-content/slides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "160fa86570048e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/stateconlaw2024-material/slides/s06-interp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/stateconlaw2024/reading/_index.md",
+                "file": "content/torts2023/course-content/slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/stateconlaw2024/reading/_index.md"
+                "file": "content/torts2023/course-content/slides.md"
               }
             }
           },
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/stateconlaw2024/reading/_index.md",
+                "file": "content/torts2023/course-content/slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,16 +158,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6acb7666ee43adc",
+  "active": "e429148926a07c65",
   "lastOpenFiles": [
-    "content/torts2023-material/slides/05-proximate.md",
-    "content/stateconlaw2024-material/slides/04-interp.md",
-    "content/stateconlaw2024-material/slides/05-interp.md",
+    "content/torts2023-material/slides/s05-proximate.md",
+    "content/torts2023-material/slides/s04-review.md",
+    "content/torts2023-material/slides/s03-toxic.md",
+    "content/stateconlaw2024/course-content/slides.md",
+    "content/stateconlaw2024-material/slides/s06-interp.md",
+    "content/stateconlaw2024-material/slides/s05-interp.md",
+    "content/stateconlaw2024-material/slides/s04-interp.md",
+    "content/stateconlaw2024-material/slides/05-interp.pdf",
     "content/stateconlaw2024/reading/_index.md",
+    "content/stateconlaw2024-material/slides/04-interp.md",
     "content/torts2023-material/slides/04-review.pdf",
     "content/stateconlaw2024/reading/future-readings.md",
-    "content/stateconlaw2024/course-content/slides.md",
-    "content/stateconlaw2024-material/slides/s04-interp.md",
     "content/stateconlaw2024-material/slides/s02-federal-power.md",
     "content/stateconlaw2024-material/slides/s03-fed-state-power.md",
     "content/stateconlaw2024-material/slides/04-interp.pdf",
@@ -173,16 +189,12 @@
     "content/torts2023/midterm-review/instructions copy.md",
     "content/torts2023/midterm-review/instructions.md",
     "content/torts2023/midterm-review/_index.md",
-    "content/torts2023/reading/_index.md",
-    "content/torts2023/reading/future-readings.md",
     "content/torts2023-material/midterm/midterm_memo_2023_fall.pdf",
-    "content/torts2023/course-content/slides.md",
     "content/stateconlaw2024-material/slides/03-fed-state-power.pdf",
     "content/torts2023-material/slides/03-toxic.pdf",
     "content/torts2023-material/slides/02-multiple.pdf",
     "content/stateconlaw2024-material/slides/01-welcome.pdf",
     "content/stateconlaw2024-material/slides",
-    "content/stateconlaw2024-material",
-    "content/torts2023-material/slides/01-causation.pdf"
+    "content/stateconlaw2024-material"
   ]
 }

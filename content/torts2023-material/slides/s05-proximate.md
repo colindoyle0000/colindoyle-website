@@ -1,12 +1,14 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# Proximate Cause
+title: Proximate Cause
 
-—
+profile: false
+
+share: false
+
+show_date: false
+
+---
 
 # But first...
 
@@ -72,17 +74,29 @@ For this question, assume that duty and breach can be proven. Please advise her 
 ---
 
 ~~I. Introduction~~
+
 ~~II. Remedies~~
+
 ~~III. Negligence~~
+
 ---~~A. Introduction~~
+
 ---~~B. Duty & Breach~~
+
 ---~~C. Causation~~
+
 ------ ~~- Factual Cause~~
+
 ------ - Proximate Cause
+
 --- D. Defenses
+
 IV. Strict Liability
+
 V. Intentional Torts
+
 VI. Alternatives to Tort
+
 
 ---
 
