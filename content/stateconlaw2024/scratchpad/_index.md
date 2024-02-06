@@ -17,6 +17,51 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+# February 6
+
+Excerpts used in class:
+
+“All people are created equal and are entitled to equal rights and opportunity under the law.” Wis. Const. art. I, § 1.
+
+“Both male and female citizens of this State shall enjoy equally all civil, political and religious rights and privileges.” Utah Const. Art. IV, § 1.
+
+“No person shall be denied the equal protection of the law nor be subjected to segregation or discrimination in the exercise or enjoyment of his or her civil or political rights because of religion, race, color, ancestry, national origin, sex or physical or mental disability.” Conn. Const. Art I. § 20.
+
+“No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State … deny to any person within its jurisdiction the equal protection of the laws.” U.S. Constitution, Fourteenth Amendment.
+
+## Tiers of scrutiny
+
+### Rational basis
+Applies when no suspect classification is at issue.
+
+To survive judicial review, the law must serve a *legitimate* government interest and there must be a *rational connection* between the law’s means and that interest.
+
+### Intermediate scrutiny
+Applies to quasi-suspect classifications such as gender.
+
+To survive judicial review, the law must further an *important* government interest and must do so by means that are *substantially related* to that interest.
+
+### Strict scrutiny
+Applies to suspect classifications such as race, national origin, and religion.
+
+To survive judicial review,  the law must further a *compelling* government interest and law must be *narrowly tailored* to achieve that interest.
+
+
+“There shall always be free public elementary and secondary schools in the state. The general assembly shall implement this principle by appropriate legislation.” Conn. Const. Art VIII. § 1.
+
+“No person shall be denied the equal protection of the law nor be subjected to segregation or discrimination in the exercise or enjoyment of his or her civil or political rights because of religion, race, color, ancestry, national origin, sex or physical or mental disability.” Conn. Const. Art I. § 20.
+
+
+“[A]ll persons are equal and entitled to equal rights, opportunities, and protection under the law.” Article I, § 1, Alaska Const.
+
+“No person is to be denied the enjoyment of any civil or political right because of race, color, creed, sex, or national origin.” Article I, § 3, Alaska Const.
+
+“Girls shall not compete or practice against boys in any athletic contest.” Athletic Association bylaw.
+
+“Equality of rights under the law shall not be denied or abridged in the Commonwealth of Pennsylvania because of the sex of the individual.” Art. I, § 28, Penn. Const.
+
+“Equality of rights under the law shall not be denied or abridged by the State on account of sex.” Art. 1, § 21, Hawaii Const.
+
 # February 1 - Interpretation Exercise
 
 Facts of the case:

@@ -47,22 +47,22 @@ Pgs. 98-132
 No reading.
 
 ## Equality
+
 ## Feb. 6, 2024
 Pgs. 133-153
-## Due Process
 
 ## Feb. 8, 2024
 Pgs. 153-175
 
+## Due Process
 
 ## Feb. 13, 2024
 Pgs. 251-286
 
-
-## Criminal Procedure
-
 ## Feb. 15, 2024
 Pgs. 287-333
+
+## Criminal Procedure
 
 ## Feb. 20, 2024
 Pgs.  409-437, 443-458
