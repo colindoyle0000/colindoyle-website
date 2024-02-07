@@ -17,6 +17,34 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## Feb. 9, 2024
+
+### Review Exercise: Causation & Vicarious Liability
+
+You are a trial court judge in the state of Loyola. The facts of the case before you are as follows:
+
+Sidney Greene works as an engineer at the ACME dynamite company. As a salaried employee, Greene does not clock in or clock out for work or for lunch breaks, but it is customary for ACME engineers to take up to one hour for a lunch break each day. On this particular day, Greene planned to use her lunch break to stop by McDonald’s to try out the Deluxe McCrispy sandwich. She asked her coworkers if anyone wanted her to pick them up something from McDonald’s for lunch. A coworker, Abigail Vargas, asked Greene if she would stop by the grocery store down the street from the McDonald’s to pick up a birthday cake she had ordered for another one of Greene’s coworkers whose birthday was today. They planned to celebrate the coworker’s birthday in a shared break room upon Greene’s return.
+
+While driving down a residential street on her way to the McDonald’s, Sidney Greene looked down at her car’s display to add the grocery store as a second destination on Googlemaps. When Greene’s attention returned to the road, she saw a pedestrian, Lamar Boyd, crossing a crosswalk about twenty feet ahead. Greene slammed on the brakes and swerved to the right side of the road where her car collided with a set of garbage cans that a local homeowner, Wilma Cooper, had set out for trash collection. As it turns out, there was no trash collection scheduled for that day. Cooper was tired of wheeling her trash can back and forth from the street each week, so she had decided to keep the trashcan at the curb. A local ordinance only allowed people to leave their trashcans in the street on trash collection day.
+
+As a result of Greene’s collision with the trashcan, trash and debris flew across the road, including a banana peel, which landed in the crosswalk. Not seeing the banana peel, Lamar Boyd stepped on it, slipped, and broke his leg. 
+
+Boyd is now suing Cooper and Greene for negligence. Boyd has also named the ACME dynamite company as a defendant, claiming that ACME is vicariously liable for Greene’s negligence.
+
+Cooper seeks to dismiss the case against her for two independent reasons:
+1) Cooper did not breach a duty of care to Boyd.
+2) Cooper did not proximately cause Boyd’s injuries.
+
+Greene seeks to dismiss the case against her for two independent reasons:
+1) Cooper putting out the trashcans was an intervening cause of Boyd’s injuries.
+2) Even if Cooper’s actions were not an intervening cause, Greene still did not proximately cause Boyd’s injuries.
+
+ACME seeks to dismiss the negligence case against it for two reasons:
+1) ACME is not liable for Greene’s tortious acts because she was acting outside the scope of her employment.
+2) ACME is not liable because asking Greene to pick up a birthday cake was not a factual cause of Cooper’s injuries.
+
+How do you rule and why?
+
 ## Jan. 26, 2024
 
 **Exercise #1**
