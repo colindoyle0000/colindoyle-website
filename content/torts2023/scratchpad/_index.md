@@ -41,7 +41,7 @@ Greene seeks to dismiss the case against her for two independent reasons:
 
 ACME seeks to dismiss the negligence case against it for two reasons:
 1) ACME is not liable for Greene’s tortious acts because she was acting outside the scope of her employment.
-2) ACME is not liable because asking Greene to pick up a birthday cake was not a factual cause of Cooper’s injuries.
+2) ACME is not liable because asking Greene to pick up a birthday cake was not a factual cause of Boyd’s injuries.
 
 How do you rule and why?
 
