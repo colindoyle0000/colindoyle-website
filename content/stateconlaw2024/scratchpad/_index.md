@@ -17,6 +17,60 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+# February 8
+
+## Driscoll v. Corbett
+69 A.3d 197 (Pa. 2013)
+
+—
+
+“Justices, judges and justices of the peace shall be retired upon attaining the age of seventy years.”
+
+Article V, Pennsylvania Const.
+
+“All men are born equally free and independent, and have certain inherent and indefeasible rights, among which are those of enjoying and defending life and liberty, of acquiring, possessing and protecting property and reputation, and of pursuing their own happiness.”
+
+Article I, §1 Pennsylvania Const.
+
+—
+
+## Arneson v. State
+864 P.2d 1245 (Mont. 1993)
+
+—
+
+“The dignity of the human being is inviolable. No person shall be denied the equal protection of the laws.”
+Art II. § IV Montana Const.
+
+—
+
+## Gartner v. Iowa Dep’t of Public Health
+830 N.W.2s 335 (Iowa 2013)
+
+—
+
+“All men and women are, by nature, free and equal.”
+Iowa Const. Art 1. § 1
+
+“All laws of a general nature shall have a uniform operation; the general assembly shall not grant to any citizen, or class of citizens, privileges or immunities, which, upon the same terms shall not equally belong to all citizens.”
+Iowa Const. Art 1. § 6
+
+—
+
+
+## AFSCME Iowa Council 61 v. State
+928 N.W.2d 21 (Iowa 2019)
+
+—
+
+“All men and women are, by nature, free and equal.”
+Iowa Const. Art 1. § 1
+
+“All laws of a general nature shall have a uniform operation; the general assembly shall not grant to any citizen, or class of citizens, privileges or immunities, which, upon the same terms shall not equally belong to all citizens.”
+Iowa Const. Art 1. § 6
+
+
+
 # February 6
 
 Excerpts used in class:
