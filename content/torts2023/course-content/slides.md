@@ -22,6 +22,10 @@ weight: 10
 
 **06 - Proximate Cause** | [(.pdf)](/../../torts2023-material/slides/06-proximate.pdf) | [(webpage)](/../../torts2023-material/slides/s06-proximate)
 
+**07 - Vicarious Liability** | [(.pdf)](/../../torts2023-material/slides/07-vicarious.pdf) | [(webpage)](/../../torts2023-material/slides/s07-vicarious)
+
+**08 - Review** | [(.pdf)](/../../torts2023-material/slides/08-review.pdf) | [(webpage)](/../../torts2023-material/slides/s08-review)
+
 # Fall Semester
 
 <br>
