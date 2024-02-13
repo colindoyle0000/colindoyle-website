@@ -12,7 +12,7 @@ weight: 40
 ## Laptops in Class
 This class has a minimal laptop use policy.
 
-Students are expected to take notes by hand. A student may take notes using an electronic tablet and stylus provided that the student the tablet as they would a physical notebook and does not use other features of the device during class.
+Students are expected to take notes by hand. A student may take notes using an electronic tablet and stylus provided that the student use the tablet as they would use a physical notebook and does not use other features of the device during class.
 
 When answering a question in class, students are allowed to briefly use their laptop to look at their notes or the casebook. In general, class participation should be extemporaneous and does not require consulting these materials.
 
