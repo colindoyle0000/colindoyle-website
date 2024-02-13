@@ -10,9 +10,15 @@ toc: false
 weight: 40
 ---
 ## Laptops in Class
-I am reluctant to allow laptops to be used in the classroom. Laptops invite distraction, both for the student using the laptop and the students sitting nearby. At the same time, I recognize that many students prefer to take notes on their computers, that typing handwritten notes can be arduous, and that a “no laptops” policy creates a bureacratic hurdle for students who need accommodations. Also, I put all of your reading assignments in a .pdf instead of assigning you a hardcopy casebook.
+This class has a minimal laptop use policy.
 
-I am allowing laptops to be used during class for taking notes and referencing reading assignments. If I find that laptops are proving to be too much of a distraction, that policy will change. If you choose to use a laptop in class, I ask that you only use the laptop for taking notes and looking at your reading assignments. You should turn off notifications, close your email, and minimize your browser windows.
+Students are expected to take notes by hand. A student may take notes using an electronic tablet and stylus provided that the student the tablet as they would a physical notebook and does not use other features of the device during class.
+
+When answering a question in class, students are allowed to briefly use their laptop to look at their notes or the casebook. In general, class participation should be extemporaneous and does not require consulting these materials.
+
+Students will often be allowed to use laptops for in-class exercises, particularly when the text for those exercises is on the course website and is too large to fit onto a slide.
+
+Students who have auditory processing challenges may use laptops for following along with the Otter.ai transcript as a form of closed captioning for the class. If you would like to have Otter.ai open during class, please email me. I am happy to allow the accommodation for any students who find it helpful.
 
 ## Course Website
 You're on the [course website](http://www.colin-doyle.net/torts2023/) right now. I may also use our course [Brightspace page](https://brightspace.lmu.edu/d2l/home/217728) to make announcements and to host content that cannot be shared publicly.
