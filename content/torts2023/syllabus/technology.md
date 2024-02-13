@@ -18,7 +18,7 @@ When answering a question in class, students are allowed to briefly use their la
 
 Students will often be allowed to use laptops for in-class exercises, particularly when the text for those exercises is on the course website and is too large to fit onto a slide.
 
-Students who have auditory processing challenges may use laptops for following along with the Otter.ai transcript as a form of closed captioning for the class. If you would like to have Otter.ai open during class, please email me. I am happy to allow the accommodation for any students who find it helpful.
+Students who have auditory processing challenges may use laptops for reading the Otter.ai transcript as a form of closed captioning for the class. If you would like to have Otter.ai open during class, please email me. I am happy to allow the accommodation for any students who find it helpful.
 
 ## Course Website
 You're on the [course website](http://www.colin-doyle.net/torts2023/) right now. I may also use our course [Brightspace page](https://brightspace.lmu.edu/d2l/home/217728) to make announcements and to host content that cannot be shared publicly.
