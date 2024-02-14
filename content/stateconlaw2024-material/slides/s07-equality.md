@@ -1,13 +1,14 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# [fit] State Constitutional Law
-# [fit] 07 - Equality
+title: 07 - Equality
 
-—
+profile: false
+
+share: false
+
+show_date: false
+
+---
 
 # In-Class Exercise
 
@@ -94,7 +95,9 @@ Conn. Const. Art I. § 20.
 70 P.3d 416 (Alaska 2003)
 
 *Important Precedent:*
+
 Morton v. Mancari
+
 417 U.S. 535 (1974)
 
 

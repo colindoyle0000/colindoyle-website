@@ -20,3 +20,9 @@ weight: 10
 **05 - Differently Worded Provisions** | [(.pdf)](/../../stateconlaw2024-material/slides/05-interp.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s05-interp)
 
 **06 - State court rulings that address both federal and state bases for decision** | [(.pdf)](/../../stateconlaw2024-material/slides/06-interp.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s06-interp)
+
+**07 - Equality** | [(.pdf)](/../../stateconlaw2024-material/slides/07-equality.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s07-equality)
+
+**08 - Equality** | [(.pdf)](/../../stateconlaw2024-material/slides/08-equality.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s08-equality)
+
+**09 - Due Process** | [(.pdf)](/../../stateconlaw2024-material/slides/09-due-process.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s09-due-process)

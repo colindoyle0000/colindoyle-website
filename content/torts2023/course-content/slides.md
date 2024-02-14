@@ -26,6 +26,8 @@ weight: 10
 
 **08 - Review** | [(.pdf)](/../../torts2023-material/slides/08-review.pdf) | [(webpage)](/../../torts2023-material/slides/s08-review)
 
+**09 - Contributory and Comparative Negligence** | [(.pdf)](/../../torts2023-material/slides/09-comp.pdf) | [(webpage)](/../../torts2023-material/slides/s09-comp)
+
 # Fall Semester
 
 <br>
