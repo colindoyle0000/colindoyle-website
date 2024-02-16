@@ -28,6 +28,8 @@ weight: 10
 
 **09 - Contributory and Comparative Negligence** | [(.pdf)](/../../torts2023-material/slides/09-comp.pdf) | [(webpage)](/../../torts2023-material/slides/s09-comp)
 
+**10 - Contributory and Comparative Negligence** | [(.pdf)](/../../torts2023-material/slides/10-comp.pdf) | [(webpage)](/../../torts2023-material/slides/s10-comp)
+
 # Fall Semester
 
 <br>
