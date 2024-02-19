@@ -68,3 +68,28 @@ Pgs. 287-333
 ## Criminal Procedure
 ## Feb. 22, 2024
 Pgs.  409-437, 443-458
+
+## Feb. 27, 2024
+pgs. 465-475, 392-405
+
+## Property Rights
+
+## Feb. 29, 2024
+pgs. 483-508
+
+## March 5 & 7, 2024
+Spring Break
+
+## March 12, 2024
+_No class_
+
+## March 14, 2024
+pgs. 508-533
+
+## School funding
+
+## March 19, 2024
+pgs. 595-627
+
+## March 21, 2024
+pgs. 627-650

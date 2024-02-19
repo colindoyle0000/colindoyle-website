@@ -53,7 +53,6 @@ Class 09
 Pgs. 287-333
 
 
-*** Current marker for what is on website ***
 
 ## Criminal Procedure
 Class 10
@@ -79,6 +78,9 @@ pgs. 595-627
 Class 15
 
 pgs. 627-650
+
+*** Current marker for what is on website ***
+
 
 ## Unique state rights
 
