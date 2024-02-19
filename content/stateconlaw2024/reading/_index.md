@@ -60,9 +60,11 @@ Pgs. 153-175
 Pgs. 251-286
 
 ## Feb. 15, 2024
+_Class canceled due to illness._
+
+## Feb. 20, 2024
 Pgs. 287-333
 
 ## Criminal Procedure
-
-## Feb. 20, 2024
+## Feb. 22, 2024
 Pgs.  409-437, 443-458
