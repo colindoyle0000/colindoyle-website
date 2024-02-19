@@ -103,6 +103,61 @@ Defenses Review and Exercises
 
 No reading
 
+## Strict Liability
+
+## Feb. 28, 2024
+
+11 – Traditional View
+
+Pgs. 164-174
+
+## Mar. 1, 2024
+
+12 – Products liability: Manufacturing Defects 
+
+Pgs. 175-183
+
+## Mar. 6 & 8, 2024
+_Spring Break_
+
+## Mar. 13, 2024
+_No class due to professor's conflict_
+
+## Mar. 15, 2024
+
+13 – Products Liability: Design Defects
+
+Pgs. 184-196
+
+## Mar. 20, 2024
+
+14 – Products Liability: Warnings & Defenses
+
+Pgs. 197-214
+
+## Mar. 22, 2024
+
+Strict Liability Review and Exercises
+
+No reading
+
+## Mar. 27, 2024
+
+15 - Intentional Torts
+
+Pgs. 215-239
+
+## Mar. 29, 2024
+_No class due to school holiday_
+
+## Apr. 3, 2024
+
+16 – Intentional Torts
+
+Pgs. 240-258
+
+## Apr. 5, 2024
+_No class due to professor's conflict_
 
 # Fall Semester
 
