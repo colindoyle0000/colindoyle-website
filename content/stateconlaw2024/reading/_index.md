@@ -65,17 +65,22 @@ _Class canceled due to illness._
 ## Feb. 20, 2024
 Pgs. 287-333
 
-## Criminal Procedure
+
 ## Feb. 22, 2024
+[Allegheny Reproductive Health Center v. Pennsylvania Department of Human Services (Pa. 2024)](https://www.pacourts.us/Storage/media/pdfs/20240129/142421-jan.29,2024-concurringopinion(wecht).pdf) (Wecht, concurrence) 
+
+Pgs. 40-71
+
+
+## Criminal Procedure
+## Feb. 27, 2024
 Pgs.  409-437, 443-458
 
-## Feb. 27, 2024
-pgs. 465-475, 392-405
 
-## Property Rights
+
 
 ## Feb. 29, 2024
-pgs. 483-508
+Pgs. 465-475, 392-405
 
 ## March 5 & 7, 2024
 Spring Break
@@ -83,13 +88,16 @@ Spring Break
 ## March 12, 2024
 _No class_
 
+## Property Rights
 ## March 14, 2024
-pgs. 508-533
+Pgs. 483-508
+## March 19, 2024
+Pgs. 508-533
 
 ## School funding
 
-## March 19, 2024
-pgs. 595-627
-
 ## March 21, 2024
-pgs. 627-650
+Pgs. 595-627
+
+## March 26, 2024
+Pgs. 627-650

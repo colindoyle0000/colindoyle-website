@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6acb7666ee43adc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/torts2023/course-content/slides.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "160fa86570048e57",
             "type": "leaf",
             "state": {
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/torts2023/course-content/slides.md",
+                "file": "content/stateconlaw2024-material/slides/s06-interp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/torts2023/course-content/slides.md"
+                "file": "content/stateconlaw2024-material/slides/s06-interp.md"
               }
             }
           },
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/torts2023/course-content/slides.md",
+                "file": "content/stateconlaw2024-material/slides/s06-interp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6acb7666ee43adc",
+  "active": "160fa86570048e57",
   "lastOpenFiles": [
+    "content/stateconlaw2024/reading/_index.md",
+    "content/torts2023/course-content/slides.md",
     "content/stateconlaw2024-material/slides/09-due-process.md",
     "content/stateconlaw2024-material/slides/08-equality 1.md",
     "content/torts2023-material/slides/s08-review.md",
@@ -181,7 +171,6 @@
     "content/stateconlaw2024-material/slides/s05-interp.md",
     "content/stateconlaw2024-material/slides/s04-interp.md",
     "content/stateconlaw2024-material/slides/05-interp.pdf",
-    "content/stateconlaw2024/reading/_index.md",
     "content/stateconlaw2024-material/slides/04-interp.md",
     "content/torts2023-material/slides/04-review.pdf",
     "content/stateconlaw2024/reading/future-readings.md",
@@ -191,7 +180,6 @@
     "content/stateconlaw2024/course-content/recordings.md",
     "content/stateconlaw2024-material/slides/03-fed-state-power.md",
     "content/torts/midterm-review/instructions copy.md",
-    "content/torts2023/midterm/review.md",
     "content/torts2023-material/midterm/midterm_memo_2023_fall.pdf",
     "content/stateconlaw2024-material/slides/03-fed-state-power.pdf",
     "content/torts2023-material/slides/03-toxic.pdf",
