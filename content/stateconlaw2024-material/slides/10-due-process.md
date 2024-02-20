@@ -33,6 +33,18 @@ Footer:
 
 —
 
+# Substantive Due Process
+
+**Federal Backdrop**
+
+Due Process Clause of the Fourteenth Amendment protects 
+1. Rights specified within the bill of rights 
+2. “Fundamental” rights that are not specified within the Constitution. 
+ 
+Fundamental rights are only recognized if they are “deeply rooted in our history and tradition” and “essential to the nation’s concept of ordered liberty.”
+
+—
+
 # Right to Privacy
 
 What is it? Do we want a constitutional right to privacy? What should the right protect?
@@ -79,55 +91,21 @@ Art 1. §2, Tenn. Const.
 
 —
 
-# In re T.W.
+# Abortion cases
+
+**In re T.W.**
 551 So.2d 1186 (Fla. 1989)
 
-—
-
-“Every natural person has the right to be let alone and free from governmental intrusion into his private life except as otherwise provided herein. This section shall not be construed to limit the public’s right of access to public records and meetings as provided by law.”
-
-Art I., §23, Florida Const.
-
-—
-
-## Rule for evaluating constitutionality of government intrusion into private life:
-
-“The right of privacy demands the compelling state interest standard. This test shifts the burden of proof to the state to justify an intrusion on privacy. The burden can be met by demonstrating that the challenged regulation serves a compelling state interest and accomplishes its goal through the use of the least intrusive means.”
-
-—
-
-# Hodes & Nauser, MDs, P.A. v. Schmidt
+**Hodes & Nauser, MDs, P.A. v. Schmidt**
 440 P.3d 461 (Kan. 2019)
 
-—
-
-“All men are possessed of equal and inalienable natural rights, among which are life, liberty, and the pursuit of happiness.”
-
-§ 1, Kansas Bill of Rights, Kansas Const.
-
-No State shall “deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.”
-
-U.S. Constitution, Fourteenth Amendment.
-
-—
-
-# Dissent
-
-“Today, we hoist our sail and navigate the ship-of-state out of its firm anchorage in the harbor-of-common-good and onto the uncertain waters of the sea-of-fundamental-values.”
-
-—
-
-# Planned Parenthood of the Heartland Inc. v. Reynolds ex rel. State
+**Planned Parenthood of the Heartland Inc. v. Reynolds ex rel. State**
 975 N.W.2d 710 (Iowa 2022)
 
-*Important Iowa Precedents:*
-Planned Parenthood of the Heartland, Inc. v. Iowa Bd. of Med. (PPH I) (Iowa 2015)
-Planned Parenthood of the Heartland v. Reynolds (PPH II) (Iowa 2018)
-
-*Important Supreme Court Precedents:*
-Roe v. Wade (1973)
-Planned Parenthood v. Casey (1992)
-Dobbs v. Jackson Women's Health Organization (2022) (pending at time of Iowa opinion)
+New assigned reading for Thursday:
+**Allegheny Reproductive Health Center v. Pennsylvania Department of Human Services** 
+(Pa. 2024) (Wecht, concurrence)
+Pgs. 40-71
 
 —
 
@@ -140,8 +118,41 @@ Dobbs v. Jackson Women's Health Organization (2022) (pending at time of Iowa opi
 
 —
 
+## Crime of fornication
+
+“an act of illicit sexual intercourse by a man, married or single, with an unmarried woman”
+
+—
+
+1. Infringement on right to privacy?
+2. If so, compelling state interest to justify infringement?
+
+—
+
+## Compelling state interests asserted:
+
+1. Preventing venereal disease
+2. Preventing number of illegitimate children
+3. Safeguarding marriage and public morals
+
+—
+
+## Concurrence
+
+“The Legislature cannot infringe on the rights of individuals who in private and without affecting others adopt and live by standards which differ from those of society.”
+
+—
+
+# Commonwealth v. Bonadio
+415 A.2d 47 (Pa. 1980)
+
+—
 # Commonwealth v. Wasson
 842 S.W.2d 487 (Ky. 1992)
+
+—
+
+KRS 510.100 punishes “deviate sexual intercourse with another person of the same sex” as a criminal offense, and specifies “consent of the other person shall not be a defense.”
 
 —
 
@@ -151,6 +162,14 @@ Dobbs v. Jackson Women's Health Organization (2022) (pending at time of Iowa opi
 
 # Baker v. State
 744 A.2d 864 (Vt. 1999)
+
+—
+
+# Three-part analysis
+
+1. Significance of the benefits
+2. Goverment’s goals
+3. Classification under- or over-inclusive
 
 —
 
