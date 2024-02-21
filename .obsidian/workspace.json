@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/stateconlaw2024-material/slides/s06-interp.md",
+                "file": "content/torts/scratchpad/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/stateconlaw2024-material/slides/s06-interp.md",
+                "file": "content/torts/scratchpad/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/stateconlaw2024-material/slides/s06-interp.md"
+                "file": "content/torts/scratchpad/_index.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/stateconlaw2024-material/slides/s06-interp.md",
+                "file": "content/torts/scratchpad/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +148,7 @@
   },
   "active": "160fa86570048e57",
   "lastOpenFiles": [
+    "content/stateconlaw2024-material/slides/s06-interp.md",
     "content/stateconlaw2024/reading/_index.md",
     "content/torts2023/course-content/slides.md",
     "content/stateconlaw2024-material/slides/09-due-process.md",
@@ -167,7 +168,6 @@
     "content/torts2023-material/slides/s04-review.md",
     "content/torts2023-material/slides/s03-toxic.md",
     "content/stateconlaw2024/course-content/slides.md",
-    "content/stateconlaw2024-material/slides/s06-interp.md",
     "content/stateconlaw2024-material/slides/s05-interp.md",
     "content/stateconlaw2024-material/slides/s04-interp.md",
     "content/stateconlaw2024-material/slides/05-interp.pdf",

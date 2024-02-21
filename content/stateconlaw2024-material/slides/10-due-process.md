@@ -165,6 +165,12 @@ KRS 510.100 punishes “deviate sexual intercourse with another person of the sa
 
 —
 
+## The Common Benefits Clause 
+
+“That government is, or ought to be, instituted for the common benefit, protection, and security of the people, nation, or community, and not for the particular emolument or advantage of any single person, family, or set of persons, who are a part only of that community.” Vermont Const. (Chapter I, Article 7).
+
+—
+
 # Three-part analysis
 
 1. Significance of the benefits

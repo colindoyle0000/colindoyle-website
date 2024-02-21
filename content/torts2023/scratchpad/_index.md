@@ -17,6 +17,41 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## Feb. 23, 2024
+
+The Vargas family hired the Unreliable Construction Company to renovate their home. One day, after performing some repair work in the home, workers from the Unreliable Construction Company left to work at a different job site. The workers left some equipment plugged in through a series of extension cords plugged into one another. The extension cords overheated and caused an electrical fire.
+
+The only person at home at the time was a napping one-year-old, Emily Vargas. Her babysitter, Mary Sue Morton, had briefly left the home to take the family dog for a walk. Emily’s fifteen-year-old sister, Lynn Vargas, returned home from school to find a fire consuming the home. Seeing that Mary Sue was down the street with the dog, Lynn raced inside, grabbed Emily and managed to get her out safely, but Lynn was burned in the process. Lynn and Emily’s father, Tito Vargas, then arrived home, saw that his daughters were safe, and ran into the house to try to save his pet parrot. He succeeded but also suffered burns in the process. Moments later Tatiana Vargas, Tito’s spouse, arrived home. Tatiana is your typical absentminded law professor. Deep in thought about the viability of assumption of risk as an absolute defense in a comparative negligence world, she didn’t notice the fire, walked in the front door, and was burned.
+
+As a condition of hiring the Unreliable Construction Company, the company has all potential clients sign a waive of liability. Before beginning the renovation, workers had each member of the Vargas family sign the contract on an iPad they had onsite.
+
+The waiver reads:
+
+> RELEASE FROM LIABILITY 
+> PLEASE READ CAREFULLY BEFORE SIGNING
+> I understand that there are inherent and other risks involved in home renovation projects. These risks include roofs caving in, floors collapsing, windows shattering, electrical fires, water damage, and stepping on nails. 
+> I agree to hold harmless and indemnify the Unreliable Construction Company and/or any employee of the aforementioned for loss or damage, even if due to the NEGLIGENCE of the Unreliable Construction Company or its workers. That’s right. We’re talking about NEGLIGENCE. I am relieving them of liability for NEGLIGENCE. 
+
+---
+
+### Exercise Version #1
+
+You are an associate working at a firm that represents the Unreliable Construction Company. Lynn, Tito, Tatiana, and Pat have each sued the Unreliable Construction Company for negligence in the State of Loyola.
+
+The state of Loyola takes a common law approach to tort defenses. Unlike most jurisdictions in the United States, Loyola is still a contributory negligence regime with joint-and-several liability. Assumption of risk is a complete defense. In determining whether prospective releases of liability violate public policy, Loyola uses a totality of the circumstances test but uses the Tunkl factors as persuasive authority.
+
+A senior associate has asked you to write an email detailing any affirmative defenses that the company could assert against each plaintiff’s claim. The senior associate has specifically asked you to only address affirmative defenses at this time, so there’s no need to address whether the plaintiffs can prove the elements of duty, breach, causation, and a harm.
+
+---
+
+### Version #2
+
+You are an associate working at a plaintiff-side firm. Your firm is considering representing Lynn, Tito, Tatiana, and Pat, who each want to sue the Unreliable Construction Company for negligence.
+
+The state of Loyola (where this case takes place) takes a modern approach to tort defenses. Loyola is a “not as great as” comparative negligence regime with several liability. Assumption of risk is a complete defense. The Loyola Supreme Court has ruled that all exculpatory agreements purporting to release tortfeasors from future liability for personal injuries are unenforceable.
+
+As the firm works on a contingency fee basis, we want to take on cases that are the easiest to win and we don’t want to take on cases that would cost the firm money. A senior associate has asked you to write an email detailing any affirmative defenses that the company could assert against each plaintiff’s claim. In your analysis, please describe which cases you think our firm should prioritize and which plaintiffs, if any, our firm should decline to represent based upon possible affirmative defenses. The senior associate has specifically asked you to only address affirmative defenses at this time, so there’s no need to address whether the plaintiffs can prove the elements of duty, breach, causation, and a harm.
+
 ## Feb. 9, 2024
 
 ### Review Exercise: Causation & Vicarious Liability
