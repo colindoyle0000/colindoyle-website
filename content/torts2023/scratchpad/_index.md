@@ -19,11 +19,11 @@ This page serves as a kind of blackboard/whiteboard for in-class instruction. I 
 
 ## Feb. 23, 2024
 
-The Vargas family hired the Unreliable Construction Company to renovate their home. One day, after performing some repair work in the home, workers from the Unreliable Construction Company left to work at a different job site. The workers left some equipment plugged in through a series of extension cords plugged into one another. The extension cords overheated and caused an electrical fire.
+The Vargas family hired the Unreliable Construction Company to renovate their home. One day, after performing some repair work in the home, workers from the Unreliable Construction Company left to work at a different job site. The workers left some equipment plugged in through a series of extension cords. The extension cords overheated and caused an electrical fire.
 
 The only person at home at the time was a napping one-year-old, Emily Vargas. Her babysitter, Mary Sue Morton, had briefly left the home to take the family dog for a walk. Emily’s fifteen-year-old sister, Lynn Vargas, returned home from school to find a fire consuming the home. Seeing that Mary Sue was down the street with the dog, Lynn raced inside, grabbed Emily and managed to get her out safely, but Lynn was burned in the process. Lynn and Emily’s father, Tito Vargas, then arrived home, saw that his daughters were safe, and ran into the house to try to save his pet parrot. He succeeded but also suffered burns in the process. Moments later Tatiana Vargas, Tito’s spouse, arrived home. Tatiana is your typical absentminded law professor. Deep in thought about the viability of assumption of risk as an absolute defense in a comparative negligence world, she didn’t notice the fire, walked in the front door, and was burned.
 
-As a condition of hiring the Unreliable Construction Company, the company has all potential clients sign a waive of liability. Before beginning the renovation, workers had each member of the Vargas family sign the contract on an iPad they had onsite.
+As a condition of hiring the Unreliable Construction Company, the company has all potential clients sign a waiver of liability. Before beginning the renovation, workers had each member of the Vargas family sign the contract on an iPad they had onsite.
 
 The waiver reads:
 
