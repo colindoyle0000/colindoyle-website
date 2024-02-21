@@ -1,12 +1,15 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# Assumption of Risk
+title: Assumption of Risk
+
+profile: false
+
+share: false
+
+show_date: false
 
 ---
+
 
 # McCarty v. Pheasant Run, Inc. 
 “Unlocked Hotel Room Door”
@@ -32,18 +35,26 @@ How capable is our legal system of producing just outcomes in these cases? How d
 # Where are we?
 
 **Negligence**
+
 ~~Elements of a cause of action:~~
+
 ~~--- Duty~~
+
 ~~--- Breach~~
+
 ~~--- Causation~~
+
 ~~--- Harm~~
+
 **Defenses:**
+
 ~~--- Contributory or Comparative Negligence~~
+
 --- Assumption of risk
 
 ---
 
-# [fit] Hanks v. Powder Ridge Restaurant Corp.
+# Hanks v. Powder Ridge Restaurant Corp.
 “Snowtubing Waiver”
 
 ---
@@ -67,7 +78,9 @@ How capable is our legal system of producing just outcomes in these cases? How d
 Various legal tests for determining if liability waiver is against public policy:
 
 \- Liability waivers are unenforceable
+
 \- Totality of the circumstances
+
 \- Six factors from _Tunkl_
 
 
@@ -75,20 +88,20 @@ Various legal tests for determining if liability waiver is against public policy
 
 # Tort Law Values
 
-| Era | Philosophy |  Primary Goal | Concern
-| --- | --- | --- | --- |
-| Classical | Corrective<br>justice | Individual accountability | Autonomy
-| Neoliberal | Economics |  Maximize<br>utility | Efficiency
+| Era        | Philosophy            | Primary Goal              | Concern    |
+| ---------- | --------------------- | ------------------------- | ---------- |
+| Classical  | Corrective<br>justice | Individual accountability | Autonomy   |
+| Neoliberal | Economics             | Maximize<br>utility       | Efficiency |
 
 ---
 
 # Tort Law Values
 
-| Era | Philosophy |  Primary Goal | Concern
-| --- | --- | --- | --- |
-| Classical | Corrective<br>justice | Individual accountability | Autonomy
-| New Deal | Political Economy | Distributive justice | Power
-| Neoliberal | Economics |  Maximize utility | Efficiency
+| Era        | Philosophy            | Primary Goal              | Concern    |
+| ---------- | --------------------- | ------------------------- | ---------- |
+| Classical  | Corrective<br>justice | Individual accountability | Autonomy   |
+| New Deal   | Political Economy     | Distributive justice      | Power      |
+| Neoliberal | Economics             | Maximize utility          | Efficiency |
 
 
 ---
@@ -98,14 +111,14 @@ Various legal tests for determining if liability waiver is against public policy
 
 ---
 
-# [fit] _volenti non fit injuria_
+# _volenti non fit injuria_
 
 ---
 
 
-# [fit] _volenti non fit injuria_
+# _volenti non fit injuria_
 
-### [fit] “to one who is willing, no wrong is done”
+### “to one who is willing, no wrong is done”
 
 ---
 
