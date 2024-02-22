@@ -36,7 +36,7 @@ The waiver reads:
 
 ### Exercise Version #1
 
-You are an associate working at a firm that represents the Unreliable Construction Company. Lynn, Tito, Tatiana, and Pat have each sued the Unreliable Construction Company for negligence in the State of Loyola.
+You are an associate working at a firm that represents the Unreliable Construction Company. Emily, Lynn, Tito, and Tatiana have each sued the Unreliable Construction Company for negligence in the State of Loyola.
 
 The state of Loyola takes a common law approach to tort defenses. Unlike most jurisdictions in the United States, Loyola is still a contributory negligence regime with joint-and-several liability. Assumption of risk is a complete defense. In determining whether prospective releases of liability violate public policy, Loyola uses a totality of the circumstances test but uses the Tunkl factors as persuasive authority.
 
@@ -46,7 +46,7 @@ A senior associate has asked you to write an email detailing any affirmative def
 
 ### Version #2
 
-You are an associate working at a plaintiff-side firm. Your firm is considering representing Lynn, Tito, Tatiana, and Pat, who each want to sue the Unreliable Construction Company for negligence.
+You are an associate working at a plaintiff-side firm. Your firm is considering representing Emily, Lynn, Tito, and Tatiana, who each want to sue the Unreliable Construction Company for negligence.
 
 The state of Loyola (where this case takes place) takes a modern approach to tort defenses. Loyola is a “not as great as” comparative negligence regime with several liability. Assumption of risk is a complete defense. The Loyola Supreme Court has ruled that all exculpatory agreements purporting to release tortfeasors from future liability for personal injuries are unenforceable.
 
