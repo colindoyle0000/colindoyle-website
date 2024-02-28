@@ -32,6 +32,10 @@ weight: 10
 
 **11 - Assumption of Risk** | [(.pdf)](/../../torts2023-material/slides/11-aor.pdf) | [(webpage)](/../../torts2023-material/slides/s11-aor)
 
+**12 - Negligence Defenses Review** | [(.pdf)](/../../torts2023-material/slides/12-review.pdf) | [(webpage)](/../../torts2023-material/slides/s12-review)
+
+**13 - Strict Liability** | [(.pdf)](/../../torts2023-material/slides/13-strict.pdf) | [(webpage)](/../../torts2023-material/slides/s13-strict)
+
 # Fall Semester
 
 <br>

@@ -1,14 +1,15 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: 10 - Due Process
 
-# [fit] State Constitutional Law
-# [fit] 10 - Due Process
+profile: false
 
-—
+share: false
+
+show_date: false
+
+---
+
 
 # Recap on Due Process
 
@@ -22,12 +23,15 @@ Footer:
 # Procedural Due Process
 
 **State v. Veale**
+
 972 A.2d 1009 (N.H. 2009)
 
 **M.E.K. v. R.L.K.**
+
 921 So.2d 787 (Fla. App. 2006)
 
 **Procedural Due Process Inquiry**
+
 1. Is this a legally protected interest?
 2. If so, what process is due?
 
@@ -38,6 +42,7 @@ Footer:
 **Federal Backdrop**
 
 Due Process Clause of the Fourteenth Amendment protects 
+
 1. Rights specified within the bill of rights 
 2. “Fundamental” rights that are not specified within the Constitution. 
  
@@ -60,7 +65,9 @@ What is it? Do we want a constitutional right to privacy? What should the right 
 842 S.W.2d 588 (Tenn. 1992)
 
 *Supreme Court Precedents:*
+
 Buck v. Bell (1927)
+
 Skinner v. Oklahoma (1942)
 
 —
@@ -83,7 +90,7 @@ Art 1. §2, Tenn. Const.
 
 —
 
-![](images/escalated-quickly-anchorman.gif)
+![inline](images/escalated-quickly-anchorman.gif)
 
 —
 
@@ -94,17 +101,23 @@ Art 1. §2, Tenn. Const.
 # Abortion cases
 
 **In re T.W.**
+
 551 So.2d 1186 (Fla. 1989)
 
 **Hodes & Nauser, MDs, P.A. v. Schmidt**
+
 440 P.3d 461 (Kan. 2019)
 
 **Planned Parenthood of the Heartland Inc. v. Reynolds ex rel. State**
+
 975 N.W.2d 710 (Iowa 2022)
 
 New assigned reading for Thursday:
+
 **Allegheny Reproductive Health Center v. Pennsylvania Department of Human Services** 
+
 (Pa. 2024) (Wecht, concurrence)
+
 Pgs. 40-71
 
 —

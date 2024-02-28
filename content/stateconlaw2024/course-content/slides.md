@@ -26,3 +26,9 @@ weight: 10
 **08 - Equality** | [(.pdf)](/../../stateconlaw2024-material/slides/08-equality.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s08-equality)
 
 **09 - Due Process** | [(.pdf)](/../../stateconlaw2024-material/slides/09-due-process.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s09-due-process)
+
+**10 - Due Process** | [(.pdf)](/../../stateconlaw2024-material/slides/10-due-process.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s10-due-process)
+
+**11 - Due Process** | [(.pdf)](/../../stateconlaw2024-material/slides/11-due-process.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s11-due-process)
+
+**12 - Criminal Procedure** | [(.pdf)](/../../stateconlaw2024-material/slides/12-crim-pro.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s12-crim-pro)
