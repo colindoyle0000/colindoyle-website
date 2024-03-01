@@ -32,3 +32,5 @@ weight: 10
 **11 - Due Process** | [(.pdf)](/../../stateconlaw2024-material/slides/11-due-process.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s11-due-process)
 
 **12 - Criminal Procedure** | [(.pdf)](/../../stateconlaw2024-material/slides/12-crim-pro.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s12-crim-pro)
+
+**13 - Midterm Review** | [(.pdf)](/../../stateconlaw2024-material/slides/13-review.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s13-review)
