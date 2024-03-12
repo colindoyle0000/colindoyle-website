@@ -76,11 +76,7 @@ Pgs. 40-71
 ## Feb. 27, 2024
 Pgs.  409-437, 443-458
 
-
-
-
 ## Feb. 29, 2024
-Pgs. 465-475, 392-405
 
 ## March 5 & 7, 2024
 Spring Break
@@ -88,16 +84,36 @@ Spring Break
 ## March 12, 2024
 _No class_
 
-## Property Rights
 ## March 14, 2024
-Pgs. 483-508
+Pgs. 465-475
+
+Before class, please also review the reading from February 27: Pgs.  409-437, 443-458
+
 ## March 19, 2024
+
+Pgs. 392-405
+
+## Property Rights
+
+## March 21, 2024
+Pgs. 483-508
+
+
+## March 26, 2024
 Pgs. 508-533
+
+
+## March 28, 2024
+_No class_
 
 ## School funding
 
-## March 21, 2024
+## April 2, 2024
 Pgs. 595-627
 
-## March 26, 2024
+## April 4, 2024
+_No class_
+
+## April 9, 2024
 Pgs. 627-650
+
