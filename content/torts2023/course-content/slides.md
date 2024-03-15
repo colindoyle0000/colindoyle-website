@@ -36,6 +36,10 @@ weight: 10
 
 **13 - Strict Liability** | [(.pdf)](/../../torts2023-material/slides/13-strict.pdf) | [(webpage)](/../../torts2023-material/slides/s13-strict)
 
+**14 - Guest Speaker: Products Liability** | No slides
+
+**15 - Products Liability** | [(.pdf)](/../../torts2023-material/slides/15-products.pdf) | [(webpage)](/../../torts2023-material/slides/s15-products)
+
 # Fall Semester
 
 <br>

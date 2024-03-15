@@ -1,10 +1,12 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# Products Liability
+title: Products Liability
+
+profile: false
+
+share: false
+
+show_date: false
 
 ---
 
@@ -15,17 +17,24 @@ Footer:
 # Limits on Strict Liability
 
 Fletcher v. Rylands
+
 --- PWFOPBOHL&C&KTALDMIIE
+
 Rylands v. Fletcher
+
 --- PWFOPBOHL&C&KTA “non-natural” and LDMIIE
+
 First Restatement
+
 --- “ultrahazardous activity”
+
 Second Restatement
+
 --- “abnormally dangerous activity”
 
 ---
 
-# [fit] Indiana Harbor Belt v. American Cyanamid
+# Indiana Harbor Belt v. American Cyanamid
 
 **Strict liability applies for behavior that is:**
 
@@ -37,9 +46,9 @@ AND
 
 ---
 
-# [fit] Tort law is the law of
-# [fit] negligence.
-# [fit] Strict liability is the law of tort law when negligence fails.
+# Tort law is the law of
+# negligence.
+# Strict liability is the law of tort law when negligence fails.
 
 ---
 
@@ -47,7 +56,7 @@ AND
 
 ---
 
-![50%](images/cardozo.jpg)
+![](images/cardozo.jpg)
 
 ---
 
@@ -73,7 +82,7 @@ _Then_ manufacturer has a duty and privity is no defense
 
 ---
 
-![70%](images/traynor.jpg)
+![](images/traynor.jpg)
 
 ---
 
@@ -143,8 +152,8 @@ Two tests:
 
 ---
 
-# [fit] Not at
-# [fit] all clear!
+# Not at
+# all clear!
 It depends upon the  “everyday experience of the product’s users”
 
 ---
@@ -160,4 +169,8 @@ It depends upon the  “everyday experience of the product’s users”
 
 ## “Reasonable Alternative Design” Challenges
 
-![inline](images/vw.jpg)![inline](images/newport.jpeg)![inline](images/pool.jpeg)
+![](images/vw.jpg)
+
+![](images/newport.jpeg)
+
+![](images/pool.jpeg)

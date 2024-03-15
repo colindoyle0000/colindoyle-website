@@ -1,13 +1,15 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# [fit] State Constitutional Law
-# [fit] 14 - Criminal Procedure
+title: 14 - Criminal Procedure
 
-—
+profile: false
+
+share: false
+
+show_date: false
+
+---
+
 
 # Criminal Procedure Topics
 
@@ -34,15 +36,18 @@ How should stare decisis factor into constitutional interpretation, particularly
 # *Probable Cause*
 
 **People v. Griminger**
+
 524 N.E.2d 409 (N.Y. 1988)
 
 **State v. Tuttle**
+
 515 S.W.3d 282 (Tenn. 2017)
 
 —
 
 # Aguilar / Spinelli Test
 To establish probable cause, a search warrant affidavit must demonstrate: 
+
 1. the basis of the informant’s knowledge, and
 2. the credibility of the informant or the reliability of the information.
 
@@ -54,9 +59,11 @@ To determine whether an affidavit establishes probable cause, a magistrate shoul
 # *Good Faith Exception*
 
 **State v. Koivu**
+
 272 P.3d 483 (Idaho 2012)
 
 **Commonwealth v. Edmunds**
+
 586 A.2d 887 (Pa. 1991)
 
 —
@@ -83,9 +90,11 @@ To determine whether an affidavit establishes probable cause, a magistrate shoul
 # Idaho Precedents
 
 **State v. Arregui**
+
 (Idaho 1927)
 
 **State v. Rauch**
+
 (Idaho 1978)
 
 —
@@ -109,12 +118,15 @@ For state constitutional law issues, litigants should analyze:
 # *Warrant Requirement*
 
 **State v. Earls**
+
 70 A.3d 630 (N.J. 2013)
 
 **State v. Bryant**
+
 950 A.2d 467 (Vt. 2008)
 
 **State v. Leonard**
+
 943 N.W.2d 149 (Minn. 2020)
 
 —
@@ -128,11 +140,13 @@ The right of the people to be secure in their persons, houses, papers, and effec
 # Contrast
 
 **State v. Earls**
+
 70 A.3d 630 (N.J. 2013)
 
 with
 
 **United States v. Jones (2012)**
+
 Police installation of a tracking device on defendant’s car constitutes a trespass, therefore a a search warrant was required. 
 
 —
@@ -147,11 +161,13 @@ Police installation of a tracking device on defendant’s car constitutes a tres
 # Contrast
 
 **State v. Bryant**
+
 950 A.2d 467 (Vt. 2008)
 
 with
 
 **Florida v. Riley (1989)**
+
 A defendant has no reasonable expectation of privacy from a police helicopter flying above their home, therefore no search warrant is required.
 
 —
@@ -172,12 +188,15 @@ A defendant has no reasonable expectation of privacy from a police helicopter fl
 # *Automobile Searches*
 
 **State v. Cora**
+
 167 A.3d 633 (N.H. 2017)
 
 **State v. Villela**
+
 450 P.3d 170 (Wash. 2019)
 
 **State v. Arreola-Botello**
+
 451 P.3d 939 (Or. 2019)
 
 —
@@ -186,14 +205,17 @@ A defendant has no reasonable expectation of privacy from a police helicopter fl
 167 A.3d 633 (N.H. 2017)
 
 “Every subject hath a right to be secure from all unreasonable searches and seizures of his person, his houses, his papers, and all his possessions…”
+
 New Hampshire Const., Part I, Art. 19
 
 —
 
 **Federal automobile exception**
+
 If police have probable cause to search a lawfully stopped vehicle, the police can search every part of the vehicle without a warrant.
 
 **New Hampshire’s limited automobile exception**
+
 If police have lawfully stopped a vehicle
 AND have probable cause to believe a plainly visible item is contraband,
 then the police can enter the vehicle to seize the contraband
@@ -206,9 +228,11 @@ then the police can enter the vehicle to seize the contraband
 —
 
 **State statute RCW 46.55.360**
+
 Police must impound a vehicle any time they arrest its driver for driving under the influence.
 
 **Art. 1 §7 Analysis**
+
 1. Did police action constitute a disturbance of one’s private affairs?
 2. Did authority of law justify the intrusion?
 
