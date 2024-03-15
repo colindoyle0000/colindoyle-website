@@ -17,6 +17,18 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## March 15, 2024
+
+### Reasonable Alternative Design Challenges 
+
+**Cigarette Case**
+You are the lawyer for the plaintiff in a case where the plaintiff has smoked cigarettes since she was 16 years old. She's now in her 50s and she has terminal lung cancer, and she is suing the cigarette manufacturers for products liability under a design-defect theory. What do you propose as a reasonable alternative design?
+
+**Pool Case**
+You are the lawyer for the plaintiff in a case where the plaintiff dove into a 3.5 foot, above-ground pool and broke their spine. What do you propose as a reasonable alternative design?
+
+Beyond just proposing a reasonable alternative design, I’d like you to think through the merits of the plaintiff’s argument. Should the plaintiff succeed on this theory? Should the plaintiff succeed on the merits of the case but for different reasons? Should the plaintiff not prevail at all?
+
 ## Feb. 23, 2024
 
 The Vargas family hired the Unreliable Construction Company to renovate their home. One day, after performing some repair work in the home, workers from the Unreliable Construction Company left to work at a different job site. The workers left some equipment plugged in through a series of extension cords. The extension cords overheated and caused an electrical fire.
