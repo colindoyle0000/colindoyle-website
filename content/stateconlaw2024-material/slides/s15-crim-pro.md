@@ -1,13 +1,14 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# [fit] State Constitutional Law
-# [fit] 15 - Criminal Procedure
+title: 15 - Criminal Procedure
 
-—
+profile: false
+
+share: false
+
+show_date: false
+
+---
 
 # Criminal Procedure Topics
 
@@ -36,12 +37,15 @@ How should stare decisis factor into constitutional interpretation, particularly
 **What constitutes a search?**
 
 **State v. Earls** (T-mobile GPS)
+
 70 A.3d 630 (N.J. 2013)
 
 **State v. Bryant** (Helicopter over home)
+
 950 A.2d 467 (Vt. 2008)
 
 **State v. Leonard** (Motel registry)
+
 943 N.W.2d 149 (Minn. 2020)
 
 —
@@ -56,12 +60,15 @@ How should stare decisis factor into constitutional interpretation, particularly
 # *Automobile Searches*
 
 **State v. Cora**
+
 167 A.3d 633 (N.H. 2017)
 
 **State v. Villela**
+
 450 P.3d 170 (Wash. 2019)
 
 **State v. Arreola-Botello**
+
 451 P.3d 939 (Or. 2019)
 
 —
@@ -70,15 +77,19 @@ How should stare decisis factor into constitutional interpretation, particularly
 167 A.3d 633 (N.H. 2017)
 
 “Every subject hath a right to be secure from all unreasonable searches and seizures of his person, his houses, his papers, and all his possessions…”
+
 New Hampshire Const., Part I, Art. 19
 
 —
 
 **Federal automobile exception**
+
 If police have probable cause to search a lawfully stopped vehicle, the police can search every part of the vehicle without a warrant.
 
 **New Hampshire’s limited automobile exception**
+
 If police have lawfully stopped a vehicle
+
 AND have probable cause to believe a plainly visible item is contraband,
 then the police can enter the vehicle to seize the contraband
 
@@ -90,9 +101,11 @@ then the police can enter the vehicle to seize the contraband
 —
 
 **State statute RCW 46.55.360**
+
 Police must impound a vehicle any time they arrest its driver for driving under the influence.
 
 **Art. 1 §7 Analysis**
+
 1. Did police action constitute a disturbance of one’s private affairs?
 2. Did authority of law justify the intrusion?
 
@@ -127,9 +140,11 @@ Blueford v. Arkansas (2012)
 # Death Penalty
 
 **Washington v. Gregory**
+
 427 P.3d 621 (Wash. 2018)
 
 **State v. Santiago**
+
 122 A.3d 1 (Conn. 2015)
 
 —
@@ -137,8 +152,7 @@ Blueford v. Arkansas (2012)
 # Washington v. Gregory
 427 P.3d 621 (Wash. 2018)
 
-“Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.”
-U.S. Const., Amend. VIII.
+“Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.” U.S. Const., Amend. VIII.
 
 “Excessive bail shall not be required, excessive fines imposed, nor cruel punishment inflicted.” Washington Const., Art I. § 14.
 
