@@ -38,3 +38,5 @@ weight: 10
 **14 - Criminal Procedure** | [(.pdf)](/../../stateconlaw2024-material/slides/14-crim-pro.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s14-crim-pro)
 
 **15 - Criminal Procedure** | [(.pdf)](/../../stateconlaw2024-material/slides/15-crim-pro.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s15-crim-pro)
+
+**16 - Criminal Procedure and Property Rights** | [(.pdf)](/../../stateconlaw2024-material/slides/16-property.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s16-property)

@@ -42,6 +42,8 @@ weight: 10
 
 **16 - Warnings & Defenses** | [(.pdf)](/../../torts2023-material/slides/16-products.pdf) | [(webpage)](/../../torts2023-material/slides/s16-products)
 
+**17 - Products Liability Defenses & Review** | [(.pdf)](/../../torts2023-material/slides/17-products.pdf) | [(webpage)](/../../torts2023-material/slides/s17-products)
+
 # Fall Semester
 
 <br>
