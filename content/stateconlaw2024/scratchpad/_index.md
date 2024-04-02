@@ -17,6 +17,13 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+
+# April 2
+
+# Midterm Review
+
+A copy of the midterm exam is available [here](/../../stateconlaw2024-material/scl24midterm.pdf).
+
 # February 20
 
 # Substantive Due Process
