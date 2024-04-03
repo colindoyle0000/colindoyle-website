@@ -1,20 +1,24 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# [fit] State Constitutional Law
-# [fit] 17 - Property Rights
+title: 17 - Property Rights
 
-—
+profile: false
+
+share: false
+
+show_date: false
+
+---
+
 
 # Takings
 
 “…nor shall private property be taken for public use, without just compensation.” U.S. Const. Amend. V.
 
 *Important Precedent:*
+
 **Kelo v. City of New London**
+
 545 U.S. 469 (2005)
 
 —
@@ -28,12 +32,15 @@ Footer:
 # “Public Use” Cases
 
 **City of Norwood v. Horney**
+
 853 N.E.2d 1115 (Ohio 2006)
 
 **Bd. of Cty. Comm’rs of Muskogee Cty. v. Lowery**
+
 136 P.3d 639 (Okla. 2006)
 
 **Goldstein v. New York State Urban Dev. Corp.**
+
 921 N.E.2d 164 (N.Y. 2009)
 
 —
@@ -86,15 +93,19 @@ Private property shall not be taken or damaged for public use without just compe
 # Reconciling “public use” definitions
 
 **Bd. of Cty. Comm’rs of Muskogee Cty. v. Lowery**
+
 136 P.3d 639 (Okla. 2006)
 
 **City of Norwood v. Horney**
+
 853 N.E.2d 1115 (Ohio 2006)
 
 **Goldstein v. New York State Urban Dev. Corp.**
+
 921 N.E.2d 164 (N.Y. 2009)
 
 **Kelo v. City of New London**
+
 545 U.S. 469 (2005)
 
 —
@@ -137,6 +148,7 @@ Texas Const., Art. I, § 19
 # A new standard
 
 To find a statute unconstitutional under Art. I, § 19, plaintiffs must prove either: 
+
 1) the statute’s purpose could not arguably be rationally related to a legitimate governmental interest; or
 2) when considered as a whole, the statute’s actual, real-world effect as applied to the challenging party could not arguably be rationally related to, or is so burdensome as to be oppressive in light of, the government interest
 

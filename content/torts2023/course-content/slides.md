@@ -44,6 +44,10 @@ weight: 10
 
 **17 - Products Liability Defenses & Review** | [(.pdf)](/../../torts2023-material/slides/17-products.pdf) | [(webpage)](/../../torts2023-material/slides/s17-products)
 
+**18 - Intentional Torts** | [(.pdf)](/../../torts2023-material/slides/18-intent.pdf) | [(webpage)](/../../torts2023-material/slides/s18-intent)
+
+**19 - Intentional Torts** | [(.pdf)](/../../torts2023-material/slides/19-intent.pdf) | [(webpage)](/../../torts2023-material/slides/s19-intent)
+
 # Fall Semester
 
 <br>

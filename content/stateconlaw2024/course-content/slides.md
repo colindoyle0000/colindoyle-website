@@ -40,3 +40,7 @@ weight: 10
 **15 - Criminal Procedure** | [(.pdf)](/../../stateconlaw2024-material/slides/15-crim-pro.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s15-crim-pro)
 
 **16 - Criminal Procedure and Property Rights** | [(.pdf)](/../../stateconlaw2024-material/slides/16-property.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s16-property)
+
+**17 - Property Rights** | [(.pdf)](/../../stateconlaw2024-material/slides/17-property.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s17-property)
+
+**18 - Review & School Funding** | [(.pdf)](/../../stateconlaw2024-material/slides/18-school.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s18-school)

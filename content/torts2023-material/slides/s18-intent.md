@@ -1,13 +1,16 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer: 
+---
 
+title: Intentional Torts
 
-# Intentional Torts
+profile: false
+
+share: false
+
+show_date: false
 
 ---
+
+
 
 ![inline](images/culp.jpg)
 
