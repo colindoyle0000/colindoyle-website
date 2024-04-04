@@ -159,6 +159,28 @@ Pgs. 240-258
 ## Apr. 5, 2024
 _No class due to professor's conflict_
 
+## Apr. 10, 2024
+
+17 – Defenses
+
+Pgs. 259-281
+
+## Apr. 12, 2024
+
+Intentional Torts Review and Exercises
+
+No reading
+
+## Alternatives to Tort
+
+## Apr. 17, 2024
+
+18 – Insurance
+
+Pgs. 282-309
+
+
+
 # Fall Semester
 
 ## Aug. 22, 2023

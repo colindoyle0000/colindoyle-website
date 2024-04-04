@@ -117,3 +117,7 @@ _No class_
 ## April 9, 2024
 Pgs. 627-650
 
+## Unique State Rights
+
+## April 11, 2024
+pgs. 701-727
