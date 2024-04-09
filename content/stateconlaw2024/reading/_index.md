@@ -120,4 +120,25 @@ Pgs. 627-650
 ## Unique State Rights
 
 ## April 11, 2024
+
 pgs. 701-727
+
+## April 16, 2024
+
+pgs. 748-766
+
+## Judicial Power
+
+## April 18, 2024
+
+pgs. 865-901
+
+## Constitutional Amendment
+
+## April 25, 2024
+
+pgs. 1027-1045, 1059-1065
+
+## April 26, 2024
+
+Review
