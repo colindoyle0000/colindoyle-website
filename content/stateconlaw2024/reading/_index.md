@@ -135,10 +135,10 @@ pgs. 865-901
 
 ## Constitutional Amendment
 
-## April 25, 2024
+## April 25, 2024 (Make-up class)
 
 pgs. 1027-1045, 1059-1065
 
-## April 26, 2024
+## April 26, 2024 (Make-up class)
 
 Review
