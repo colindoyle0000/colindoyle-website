@@ -184,19 +184,19 @@ Pgs. 282-309
 
 19 - Workers' Compensation
 
-Pgs. 310-327 (supplemental PDF)
+(supplemental PDF)
 
 ## Apr. 23, 2024
 
 20 - No Fault and Beyond
 
-Pgs. 328-345 (supplemental PDF)
+(supplemental PDF)
 
 ## Apr. 25, 2024 (Make-up Class)
 
 21 - No Fault and Beyond
 
-No reading
+(supplemental PDF)
 
 ## Apr. 26, 2024 (Make-up Class)
 
