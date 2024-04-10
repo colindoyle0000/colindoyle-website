@@ -194,7 +194,7 @@ Pgs. 328-345 (supplemental PDF)
 
 ## Apr. 25, 2024 (Make-up Class)
 
-Alternatives to Tort Review and Exercises
+21 - No Fault and Beyond
 
 No reading
 
