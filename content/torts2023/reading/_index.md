@@ -180,6 +180,30 @@ No reading
 Pgs. 282-309
 
 
+## Apr. 19, 2024
+
+19 - Workers' Compensation
+
+Pgs. 310-327 (supplemental PDF)
+
+## Apr. 23, 2024
+
+20 - No Fault and Beyond
+
+Pgs. 328-345 (supplemental PDF)
+
+## Apr. 25, 2024 (Make-up Class)
+
+Alternatives to Tort Review and Exercises
+
+No reading
+
+## Apr. 26, 2024 (Make-up Class)
+
+Final Exam Review
+
+No reading
+
 
 # Fall Semester
 
