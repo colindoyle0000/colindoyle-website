@@ -44,3 +44,7 @@ weight: 10
 **17 - Property Rights** | [(.pdf)](/../../stateconlaw2024-material/slides/17-property.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s17-property)
 
 **18 - Review & School Funding** | [(.pdf)](/../../stateconlaw2024-material/slides/18-school.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s18-school)
+
+**19 - School Funding** | [(.pdf)](/../../stateconlaw2024-material/slides/19-school.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s19-school)
+
+**20 - Unique State Rights** | [(.pdf)](/../../stateconlaw2024-material/slides/20-unique.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s20-unique)

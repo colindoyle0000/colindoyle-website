@@ -1,10 +1,12 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer: 
+---
 
-# Defenses
+title: Defenses
+
+profile: false
+
+share: false
+
+show_date: false
 
 ---
 
@@ -33,8 +35,11 @@ Immediately followed by office hours in the Hall of the 70s.
 # Defenses
 
 Consent
+
 Self Defense
+
 Defense of Property
+
 Necessity
 
 ---
@@ -42,12 +47,15 @@ Necessity
 # Consent
 
 **Hart v. Geysel**
+
 “Consenting to a Prize Fight”
 
 **Hackbart v. Cincinnati Bengals**
+
 “Professional Football Injury”
 
 **O’Brien v. Cunard**
+
 “The Silent Vaccine Objector”
 
 —
@@ -56,13 +64,16 @@ Necessity
 # Self Help Defenses
 
 Self Defense
+
 Defense of Property
+
 Necessity
 
 —
 # Self defense
 
 **Courvoisier v. Raymond**
+
 “Mistaken Self-Defense”
 
 —
@@ -70,6 +81,7 @@ Necessity
 # Defense of property
 
 **Katko v. Briney**
+
 “The Spring-Gun Boobytrap”
 
 —
@@ -77,9 +89,11 @@ Necessity
 # Necessity
 
 **Ploof v. Putnam**
+
 “The Private Island in a Storm”
 
 **Vincent v. Lake Erie Transportation Company**
+
 “The Boat Slamming Against the Dock”
 
 —

@@ -48,6 +48,10 @@ weight: 10
 
 **19 - Intentional Torts** | [(.pdf)](/../../torts2023-material/slides/19-intent.pdf) | [(webpage)](/../../torts2023-material/slides/s19-intent)
 
+**20 - Defenses** | [(.pdf)](/../../torts2023-material/slides/20-defenses.pdf) | [(webpage)](/../../torts2023-material/slides/s20-defenses)
+
+**21 - Review** | [(.pdf)](/../../torts2023-material/slides/21-review.pdf) | [(webpage)](/../../torts2023-material/slides/s21-review)
+
 # Fall Semester
 
 <br>

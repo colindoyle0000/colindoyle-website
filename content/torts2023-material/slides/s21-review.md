@@ -1,10 +1,12 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer: 
+---
 
-# Review
+title: Review
+
+profile: false
+
+share: false
+
+show_date: false
 
 ---
 
@@ -12,9 +14,11 @@ Footer:
 # Makeup Classes
 
 Thursday, April 25th
+
 10:00am until 11:15am in the Hall of the 70s.
 
 Friday April 26th
+
 *Tentatively* 8:45am until 10:00am in the Hall of the 70s.
 Office hours at noon.
 
@@ -65,15 +69,23 @@ Annie did not call the cops. But she did sue Bob for assault. Bob has now hired 
 # Structure for this Part of the Course
 
 Intentional Torts:
+
 --- Battery
+
 --- Assault
+
 --- False imprisonment
+
 --- Intentional infliction of emotional distress
 
 Defenses:
+
 --- Consent
+
 --- Self-defense
+
 --- Defense of property
+
 --- Necessity
 
 ---
@@ -84,8 +96,11 @@ Defenses:
 
 
 **Abridged Definition from Restatement (Third) of Torts**
+
 A person acts with the intent to produce a consequence if:
+
 (a) the person acts with the purpose of producing that consequence; or
+
 (b) the person acts knowing that the consequence is substantially certain to result.
 
 ---
@@ -93,6 +108,7 @@ A person acts with the intent to produce a consequence if:
 ![inline, 80%](images/battery.jpg)
 
 **Abridged Definition from Restatement (Second) of Torts**
+
 An actor is subject to liability to another for battery if he acts intending to cause a harmful or offensive contact with the person of the other or a third person, or an imminent apprehension of such a contact, and a harmful or offensive contact with the person of the other directly or indirectly results.
 
 ---
@@ -100,8 +116,11 @@ An actor is subject to liability to another for battery if he acts intending to 
 ![inline, 80%](images/assault.jpg)
 
 **Abridged Definition from Restatement (Second) of Torts**
+
 An actor is subject to liability to another for assault if
+
 (a) he acts intending to cause a harmful or offensive contact with the person of the other or a third person, or an imminent apprehension of such a contact, and
+
 (b) the other is thereby put in such imminent apprehension.
 
 ---
@@ -109,9 +128,13 @@ An actor is subject to liability to another for assault if
 ![inline, 50%](images/false.jpg)
 
 **Abridged Definition from Restatement (Second) of Torts**
+
 An actor is subject to liability to another for false imprisonment if
+
 (a) he acts intending to confine the other or a third person within boundaries fixed by the actor, and
+
 (b) his act directly or indirectly results in such a confinement of the other, and
+
 (c) the other is conscious of the confinement or is harmed by it.
 
 ---
@@ -126,8 +149,11 @@ One who by extreme and outrageous conduct intentionally or recklessly causes sev
 # Defenses
 
 --- Consent
+
 --- Self-defense
+
 --- Defense of property
+
 --- Necessity
 
 —
@@ -148,15 +174,19 @@ One who by extreme and outrageous conduct intentionally or recklessly causes sev
 ## The legal interest that each intentional tort addresses
 
 **Battery**
+
 Freedom from harmful or offensive contact
 
 **Assault**
+
 Freedom from apprehension of harmful or offensive contact
 
 **False Imprisonment**
+
 Freedom from confinement
 
 **IIED**
+
 Freedom from severe emotional distress
 
 
@@ -165,10 +195,15 @@ Freedom from severe emotional distress
 # Example outline excerpt
 
 **False Imprisonment**
+
 Legal interest:
+
 Requirements:
+
 — Defendant:
+
 — Plaintiff:
+
 — Objective:
 
 Nuances:
@@ -179,9 +214,13 @@ Nuances:
 
 **False Imprisonment**
 Legal interest: Freedom from confinement
+
 Requirements:
+
 — Defendant: Intentional act to confine
+
 — Plaintiff: Aware of confinement (or harmed by it)
+
 — Objective: Plaintiff confined
 
 Nuances:
@@ -191,13 +230,21 @@ Nuances:
 # Example outline excerpt
 
 **False Imprisonment**
+
 Legal interest: Freedom from confinement
+
 Requirements:
+
 — Defendant: Intentional act to confine
+
 —— Threats or physical force / barriers or assertion of legal authority
+
 — Plaintiff: Aware of confinement (or harmed by it)
+
 — Objective: Plaintiff confined
+
 —— Restricted area
+
 —— No reasonable way to escape
 
 Nuances:
@@ -206,19 +253,31 @@ Nuances:
 # Example outline excerpt
 
 **False Imprisonment**
+
 Legal interest: Freedom from confinement
+
 Requirements:
+
 — Defendant: Intentional act to confine
+
 —— Threats or physical force / barriers or assertion of legal authority
+
 — Plaintiff: Aware of confinement (or harmed by it)
+
 — Objective: Plaintiff confined
+
 —— Restricted area
+
 —— No reasonable way to escape
 
 Nuances:
+
 *Lopez v. Winchell’s Donut House* 
+
 [Insert notes on legal reasoning that may apply to circumstances that don’t neatly fit within the rules]
+
 *Shen v. Leo A. Daly Co.*
+
 [Insert notes on legal reasoning that may apply to circumstances that don’t neatly fit within the rules]
 
 —
@@ -226,13 +285,21 @@ Nuances:
 # Example outline structure
 
 Intentional Torts:
+
 --- Battery
+
 --- Assault
+
 --- False imprisonment
+
 --- Intentional infliction of emotional distress
 
 Defenses:
+
 --- Consent
+
 --- Self-defense
+
 --- Defense of property
+
 --- Necessity

@@ -1,11 +1,14 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# [fit] State Constitutional Law
-# [fit] 20 - Unique State Rights
+title: Unique State Rights
+
+profile: false
+
+share: false
+
+show_date: false
+
+
 
 —
 
@@ -33,12 +36,15 @@ Footer:
 # *Adequacy Cases*
 
 **Edgewood Independent School Dist. v. Kirby**
+
 777 S.W.2d 391 (Tex. 1989)
 
 **DeRolph v. State**
+
 677 N.E.2d 733 (Ohio 1997)
 
 **DeRolph v. State**
+
 754 N.E.2d 1184 (Ohio 2001)
 
 —
@@ -46,12 +52,15 @@ Footer:
 # *Adequacy Cases*
 
 **Columbia Falls Elementary Sch. Dist. No. 6 v. State**
+
 109 P.3d 257 (Mont. 2005)
 
 **Abbott v. Burke**
+
 971 A.2d 989 (N.J. 2009)
 
 **Citizens for Strong Schools Inc. v. Florida State Board of Ed.**
+
 262 So.3d 127 (Fla. 2019)
 
 —
@@ -66,6 +75,7 @@ Footer:
 # *Uniformity Clauses*
 
 **Bush v. Holmes**
+
 919 So.2d 392 (Fla. 2006)
 
 “The education of children is a fundamental value of the people of the State of Florida. It is, therefore, a paramount duty of the state to make adequate provision for the education of all children residing within its borders. Adequate provision shall be made by law for a uniform, efficient, safe, secure, and high quality system of free public schools that allows students to obtain a high quality education.” Florida Const. Art. IX, § 1(a)
@@ -75,6 +85,7 @@ Footer:
 # *Teacher Tenure*
 
 **Vergara v. California**
+
 209 Cal. Rptr. 3d 558 (2016)
 
 —
@@ -82,12 +93,15 @@ Footer:
 # *Remedy*
 
 **Hoke County Board of Ed. v. State**
+
 599 S.E.2d 365 (N.C. 2004)
 
 **Claremont School District v. Governor**
+
 794 A.2d 744 (N.H. 2002)
 
 **Neeley v. West Orange-Cove Consol. Indep. Sch. Dist.**
+
 176 S.W.3d 746 (Tex. 2005)
 
 —
@@ -96,6 +110,7 @@ Footer:
 599 S.E.2d 365 (N.C. 2004)
 
 Trial court order:
+
 (1) that “every classroom be staffed with a competent, certified, well-trained teacher”
 (2) “that every school be led by a well-trained competent principal”
 (3) “that every school be provided, in the most cost effective manner, the resources necessary to support the effective instructional program within that school so that the educational needs of all children, including at-risk children, to have the equal opportunity to obtain a sound basic education, can be met.
@@ -139,6 +154,7 @@ Trial court order:
 “No person shall be disturbed in his private affairs, or his home invaded, without authority of law.” Wash. Const. Art. I, § 7.
 
 **Two-part analysis**
+
 1. Was this a disturbance of one’s private affairs?
 2. If so, does authority of law justify the intrusion?
 
@@ -173,6 +189,7 @@ Protestors want to distribute leaflets near the store, discouraging people from 
 —
 
 ***State v. Stummer* test for constitutionality of content-based secondary effects regulation**
+
 1. To qualify for intermediate scrutiny, State must demonstrate regulation directed at secondary effects, not speech suppression.
 2. To survive intermediate scrutiny, State must show regulation does not sweep too broadly. Court must examine 1) whether regulation protects substantial government interest and 2) whether it significantly reduces secondary effects without unduly interfering with protected speech.
 
