@@ -20,6 +20,8 @@ You can download a pdf of your fall reading assignments [here](https://brightspa
 
 You can download a pdf of your spring reading assignments [here](https://brightspace.lmu.edu/d2l/le/content/231506/viewContent/2917870/View).
 
+You can download a pdf of your spring reading supplement [here](https://brightspace.lmu.edu/d2l/le/content/231506/viewContent/3011145/View).
+
 Please note that you will need to log in to Brightspace to access this material.
 
 The reading assignments listed below are also available as a [Google calendar](https://calendar.google.com/calendar/embed?src=vtu22g9khnc4acg3plvuaarptc%40group.calendar.google.com&ctz=America%2FLos_Angeles). You can [subscribe to the calendar](https://calendar.google.com/calendar/u/5?cid=dnR1MjJnOWtobmM0YWNnM3BsdnVhYXJwdGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) and receive notifications when I post new reading assignments.
