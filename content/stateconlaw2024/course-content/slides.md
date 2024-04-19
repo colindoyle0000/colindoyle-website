@@ -48,3 +48,7 @@ weight: 10
 **19 - School Funding** | [(.pdf)](/../../stateconlaw2024-material/slides/19-school.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s19-school)
 
 **20 - Unique State Rights** | [(.pdf)](/../../stateconlaw2024-material/slides/20-unique.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s20-unique)
+
+**21 - Unique State Rights** | [(.pdf)](/../../stateconlaw2024-material/slides/21-unique.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s21-unique)
+
+**22 - Unique State Rights & Justiciability in State Courts** | [(.pdf)](/../../stateconlaw2024-material/slides/22-unique.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s22-unique)

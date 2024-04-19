@@ -52,6 +52,10 @@ weight: 10
 
 **21 - Review** | [(.pdf)](/../../torts2023-material/slides/21-review.pdf) | [(webpage)](/../../torts2023-material/slides/s21-review)
 
+**22 - Insurance** | [(.pdf)](/../../torts2023-material/slides/22-insurance.pdf) | [(webpage)](/../../torts2023-material/slides/s22-insurance)
+
+**23 - Workers' Compensation** | [(.pdf)](/../../torts2023-material/slides/23-workers.pdf) | [(webpage)](/../../torts2023-material/slides/s23-workers)
+
 # Fall Semester
 
 <br>

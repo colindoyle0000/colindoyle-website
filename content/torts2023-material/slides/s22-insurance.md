@@ -1,10 +1,15 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer: 
+---
 
-# Alternatives to Tort Law
+title: Alternatives to Tort Law
+
+profile: false
+
+share: false
+
+show_date: false
+
+---
+
 
 ## *Insurance*
 
@@ -32,31 +37,55 @@ Office hours immediately following the end of class.
 
 —
 
+# Supplemental Reading
+
+—
+
 # The Big Picture
 
 ~~Torts~~
+
 ~~--- Remedies~~
+
 ~~--- Negligence~~
+
 ~~------ Breach~~
+
 ~~------ Duty~~
+
 ~~------ Causation~~
+
 ~~------ Defenses~~
+
 ~~--- Strict Liability~~
+
 ~~------ Traditional view~~
+
 ~~------ Products liability~~
+
 ~~--- Intentional Torts~~
+
 Not Torts
+
 ------ Insurance
+
 ------ Workers’ Compensation
+
 ------ Alternatives to Tort
 
 ---
-# [fit] 1) Positive and Negative Space
+
+# Why are we learning this?
+
+—
+
+# 1) Positive and Negative Space
  
 _Napoleon Leading the Army over the Alps_
+
 Kehinde Wiley
 
-![right](images/nap.jpg)
+![inline](images/nap.jpg)
 
 ---
 
@@ -72,45 +101,22 @@ Kehinde Wiley
 
 ---
 
-# First party insurance
+## First party insurance
+## *versus*
+## Third party (liability) insurance
 
-Collateral source rule
-Subrogation
+—
 
----
+# Insurance-related rules in tort suits
 
-# Three possibilities
-
-1) Imagine that there is no subrogation. A defendant injures a plaintiff. The plaintiff’s health insurance provider covers most of the plaintiff’s medical bills. The plaintiff wins a lawsuit against the defendant and pockets the damages awarded for the part of the medical bills that insurance covered.
-
----
-
-# Three possibilities
-
-2) Imagine that there is no collateral source rule. The defendant only has to compensate the plaintiff for the plaintiff’s actual out of pocket medical expenses — not what health insurance covered.
+- Collateral source rule
+- Subrogation
 
 ---
-
-# Three possibilities
-
-3) Subrogation and collateral source combined. The defendant has to fully compensate the plaintiff, but the insurance provider and the plaintiff each take their share of the damages.
-
----
-
-# Frost v. Porter Leasing Corp.
-
----
-
-![inline](images/fine.jpg)
-
----
-
 
 ## Understanding these rules in combination
 
-A defendant injures a plaintiff. The plaintiff’s health insurance provider covers most of the plaintiff’s medical bills. The plaintiff wins a lawsuit against the defendant.
-
-Consider the process and outcomes for this case under three different legal regimes:
+A defendant injures a plaintiff. The plaintiff’s health insurance provider covers most of the plaintiff’s medical bills. The plaintiff wins a lawsuit against the defendant. Consider the process and outcomes for this case under three different legal regimes. What potential problems arise?
 
 1. Only the collateral source rule exists — no subrogation
 
@@ -137,12 +143,6 @@ Consider the process and outcomes for this case under three different legal regi
 
 ---
 
-## First party insurance
-## *versus*
-## Third party (liability) insurance
-
----
-
 # How does liability insurance affect tort law?
 
 1. Changes how damages are paid.
@@ -151,6 +151,7 @@ Consider the process and outcomes for this case under three different legal regi
 4. Can affect policy rationale / justification for legal rules.
 
 ---
+
 # Remember the Rowland Factors?
 
 - foreseeability of harm
@@ -164,15 +165,18 @@ Consider the process and outcomes for this case under three different legal regi
 
 ---
 
-# Pavia v. State Farm
-
----
-
 # Hypos on Impact of Insurance
 
 First party insurance for plaintiff in
+
 _Vincent v. Lake Erie Transport Co._
 
 Liability insurance for defendants in
+
 _Randi W. v. Muroc Joint Unified School District_
+
+---
+
+# Pavia v. State Farm
+“Insurance Bad Faith”
 
