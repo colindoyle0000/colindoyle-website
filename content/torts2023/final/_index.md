@@ -20,9 +20,9 @@ The final exam will count for 75% of your grade. The final exam has five parts a
 
 Included below are links to PDF versions of the instructions and appendices you will receive when you take the exam. I am providing them here so that you can familiarize yourself with the material before taking the exam.
 
-**Final Instructions** | [(.pdf)](/../../torts-material2023/final/instructions_torts_final_sp24.pdf) 
+**Final Instructions** | [(.pdf)](/../../torts2023-material/final/instructions_torts_final_sp24.pdf) 
 
 
-**Final Appendices** | [(.pdf)](/../../torts-material/appendices_torts_final_sp24.pdf) 
+**Final Appendices** | [(.pdf)](/../../torts2023-material/appendices_torts_final_sp24.pdf) 
 
 Appendix A is a list of cases discussed in-depth during class. Appendix B is a list of legal rules that you are not expected to have memorized. When you take the final exam, you will receive a copy of these appendices as part of your exam packet. You are allowed to consult those appendices while you take your exam.
