@@ -16,7 +16,13 @@ toc: false
 ---
 
 
-The final exam will count for 75% of your grade and will consist of a combination of short answer and essay questions.
+The final exam will count for 75% of your grade. The final exam has five parts and two appendices. Parts I, II, III, and IV are essay questions that involve the same fact pattern. Part IV has a separate fact pattern and essay question. 
 
-As the exam instructions and appendices are completed, I will post them here.
+Included below are links to PDF versions of the instructions and appendices you will receive when you take the exam. I am providing them here so that you can familiarize yourself with the material before taking the exam.
 
+**Final Instructions** | [(.pdf)](/../../torts-material2023/final/instructions_torts_final_sp24.pdf) 
+
+
+**Final Appendices** | [(.pdf)](/../../torts-material/appendices_torts_final_sp24.pdf) 
+
+Appendix A is a list of cases discussed in-depth during class. Appendix B is a list of legal rules that you are not expected to have memorized. When you take the final exam, you will receive a copy of these appendices as part of your exam packet. You are allowed to consult those appendices while you take your exam.
