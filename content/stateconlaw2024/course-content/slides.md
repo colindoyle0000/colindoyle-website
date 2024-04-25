@@ -52,3 +52,5 @@ weight: 10
 **21 - Unique State Rights** | [(.pdf)](/../../stateconlaw2024-material/slides/21-unique.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s21-unique)
 
 **22 - Unique State Rights & Justiciability in State Courts** | [(.pdf)](/../../stateconlaw2024-material/slides/22-unique.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s22-unique)
+
+**23 - Review Session** | [(.pdf)](/../../stateconlaw2024-material/slides/23-review.pdf) | [(webpage)](/../../stateconlaw2024-material/slides/s23-review)
