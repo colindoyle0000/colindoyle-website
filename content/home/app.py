@@ -1,5 +1,6 @@
 from flask import Flask, request, send_file
 import fitz  # PyMuPDF
+import io
 
 app = Flask(__name__)
 
@@ -36,10 +37,11 @@ def process_pdf():
         )
 
     # Save the modified PDF to a bytes buffer
-    modified_pdf = pdf_document.write()
+    pdf_bytes = pdf_document.write()
+    pdf_buffer = io.BytesIO(pdf_bytes)
 
     return send_file(
-        io.BytesIO(modified_pdf),
+        pdf_buffer,
         mimetype='application/pdf',
         as_attachment=True,
         download_name='modified.pdf'
