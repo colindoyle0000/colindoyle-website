@@ -8,6 +8,8 @@ toc: true
 
 ---
 
+The following course websites are available to the public. The websites contain course materials, including syllabi, slides, past exams, and other resources. Class recordings and other sensitive materials are only available to students enrolled in the course. The course materials are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/), which means that you are free to copy and adapt the materials for non-commercial purposes, as long as you give appropriate credit and distribute your contributions under the same license.
+
 ## Current Courses:
 
 ### Torts  <br>
