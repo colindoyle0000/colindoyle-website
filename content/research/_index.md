@@ -10,10 +10,19 @@ toc: true
 
 ## Academic publications and works in progress <br>
 
+Automated Legal Reasoning (work in progress)
+
+If You Give an LLM a Legal Practice Guide... (with Aaron Tucker) (work in progress)
+
+Restatements (Artificial) of Law (work in progress)
 
 Jobs in the Judiciary (for Robots) (work in progress)
 
 [How Algorithms Expose the Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3894617#:~:text=By%20generating%20models%20that%20capture,to%20predict%20a%20particular%20outcome.) (work in progress)
+
+[LLMs as Method Actors: A Model for Prompt Engineering and Architecture](https://arxiv.org/abs/2411.05778v1) (arXiv preprint) (2024)
+
+[Reparations of the horse? Algorithmic reparation and overspecialized remedies](https://journals.sagepub.com/doi/10.1177/20539517241270670) Big Data & Society, Sept. 2024, at 1 (with Melissa Alvarez-Garcia, Pelle Tracey, Gabriel Grill, Cedric Whitney, and Lauren M. Chambers)
 
 [All Models Are Wrong, But Are Risk Assessments Useful?](https://www.routledge.com/Handbook-on-Pretrial-Justice/Scott-Hayward-Copp-Demuth/p/book/9780367712181) American Society of Criminology Division on Corrections and Sentencing: Handbook on Pretrial Justice (2021) (invited contribution)
 
@@ -53,6 +62,15 @@ Note, [Bail Reform and Risk Assessment: The Cautionary Tale of Federal Sentencin
 
 
 ## Selected presentations
+
+“Is Risk of Dangerousness a Probabilistic Inquiry?” The Moral and Practical Dimensions of AI in the Law, School of Law, Loyola University Chicago, 2024
+
+“Restatements (Artificial) of Law,” Syracuse University College of Law, 2024
+
+“Guiding large language models to write legal treatises,” ACM Computer Science and Law Symposium, 2024
+
+[“The Restatement (Artificial) of Torts,”](https://blog.genlaw.org/CameraReady/15.pdf) Generative AI + Law Workshop at the International Conference on Machine Learning, 2023
+
 “How Algorithms Expose the Law,” Information Society Project, Yale Law School, 2021 
 
 “Criminal justice by algorithm (Part II): pre-trial detention, sentencing, probation,” Fair Trials, 2020
