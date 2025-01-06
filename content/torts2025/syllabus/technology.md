@@ -9,15 +9,7 @@ toc: false
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 40
 ---
-## No Laptops or Electronics in Class
 
-This class has a no laptops or electronics policy.
-
-Students are expected to take notes by hand. A student may take notes using an electronic tablet and stylus provided that the student uses the tablet as they would use a physical notebook and does not use other features of the device during class.
-
-Two students in the class will be designated notetakers. These students are allowed to use their laptops exclusively for taking notes. After each class, the designated notetakers’ notes will posted on the class website for other students to use as a reference. 
-
-Cellphones should not be used during class. If life circumstances require you to take a phone call or send a text message, quietly step out of class to do so.
 
 ## Class Recordings
 The Instructional Technology Department will post video recordings of class on [brightspace](https://brightspace.lmu.edu/d2l/home/263272) as soon as the video files have been received and processed.

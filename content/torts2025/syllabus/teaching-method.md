@@ -15,6 +15,16 @@ Class attendance is required.[^1] Class starts exactly on time. Don’t be late.
 
 If illness or exigent circumstances prevent you from being able to attend class, you must [email me](mailto:Colin.Doyle@lls.edu?subject=Absent%20from%20Class) or contact the [Office of Student Affairs](https://studentaffairs.lls.edu/) at [studentaffairs@lls.edu](mailto:studentaffairs@lls.edu).
 
+## No Laptops and No Electronics in Class
+
+This class has a no laptops and no electronics policy. This policy was not chosen as a paternalistic restriction on student autonomy but as a way to foster a particular learning environment that promotes engagement and critical thinking over transcription and passive listening.
+
+Students are expected to take notes by hand. A student may take notes using an electronic tablet and stylus provided that the student uses the tablet as they would use a physical notebook and does not use other features of the device during class.
+
+Some students may be concerned about their ability to keep pace with the class when taking notes by hand. I've put in place a number of measures to assure that all students have access to the information presented in class. The Instructional Technology Department will post video recordings of every class on [brightspace](https://brightspace.lmu.edu/d2l/home/263272). Separate from the Instructional Technology Department, I maintain audio recordings and AI-generated transcripts of every class that are available [here](https://otter.ai/group/17087677). A few students in the class will also be designated notetakers. These students are allowed to use their laptops exclusively for taking notes. After each class, the designated notetakers’ notes will posted on the class website for other students to use as a reference. 
+
+Cellphones should not be used during class. If life circumstances require you to take a phone call or send a text message, quietly step out of class to do so.
+
 ## Preparation & Participation
 Class preparation is also required. According to ABA Standard 310, for a five-credit two-semester course, you are expected to spend at least five hours per week on course-related work outside of class. I expect that you will come to class having completed the reading and ready to speak about the cases and materials assigned for that day. 
 
