@@ -27,6 +27,8 @@ I will post a copy of my [slides](/torts2025/course-content/slides) to this webs
 ## Course Website
 You're on the [course website](http://www.colin-doyle.net/torts2025/) right now. I may also use our course [Brightspace page](https://brightspace.lmu.edu/d2l/home/263272) to make announcements and to host content that cannot be shared publicly.
 
+## Generative A.I. Policy
+Students are not allowed to use generative A.I. tools for help on the midterm exam, final exam, or class exercises. Students are allowed and encouraged to use generative A.I. tools for help with studying class materials and preparing for exams, but students should only use these tools after having read the class material and taken thoughtful notes. I use generative A.I. to help with my own research and writing, and I am happy to take time during office hours to discuss ways that you can use these tools to help with your own work.
 
 ## Technical Assistance
 Should you encounter any hardware or software issues during this course, please contact the ITS Service Desk at [helpdesk@lls.edu](mailto:helpdesk@lls.edu?subject=IT%20Help%20Re%3A%20Torts%20w%2F%20Prof.%20Doyle) or by calling 310-338-7777, option 2.
