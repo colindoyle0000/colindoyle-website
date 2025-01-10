@@ -52,27 +52,30 @@ pgs. 63-92
 
 pgs. 93-116
 
-## Jan. 24, 2025
+
+## Jan. 27, 2025
 06 - Punitive Damages
 
 pgs. 117-125
 
-## Jan. 27, 2025
+
+## Jan. 29, 2025
 07 - Reasonable Care
 
 pgs. 126-143
 
-## Jan. 29, 2025
+
+## Jan. 31, 2025
 08 - Reasonable Care
 
 pgs. 144-174
 
-## Jan. 31, 2025
+## Feb. 3, 2025
 09 - Rolse of Judge & Jury
 
 pgs. 175-184
 
-## Feb. 3, 2025
+## Feb. 5, 2025
 10 - Customs & Statutes
 
 pgs. 185-197
