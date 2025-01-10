@@ -71,7 +71,7 @@ pgs. 126-143
 pgs. 144-174
 
 ## Feb. 3, 2025
-09 - Rolse of Judge & Jury
+09 - Roles of Judge & Jury
 
 pgs. 175-184
 
