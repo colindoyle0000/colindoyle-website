@@ -10,5 +10,5 @@ weight: 10
 ---
 
 
-I will post a copy of my slides to this webpage in the afternoon following each class.
+**01 - Welcome to Torts!** | [(.pdf)](/../../torts2025-material/slides/01-welcome-to-torts.pdf) | [(webpage)](/../../torts2025-material/slides/01-welcome-to-torts)
 
