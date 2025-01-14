@@ -1,6 +1,6 @@
 ---
 
-title: # Welcome to Torts!
+title: Welcome to Torts!
 
 profile: false
 
