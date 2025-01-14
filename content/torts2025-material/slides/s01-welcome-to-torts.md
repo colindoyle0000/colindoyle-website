@@ -1,14 +1,20 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
+
+title: # Welcome to Torts!
+
+profile: false
+
+share: false
+
+show_date: false
+
+---
 
 
 
 
 
-# Welcome to Torts!
+
 
 
 
@@ -37,7 +43,9 @@ Please find your seat according to the seating chart available at the front of t
 # Contact information
 
 Colin.Doyle@lls.edu
+
 Office: Burns 315
+
 Telephone: 213-736-1148
 
 ---
@@ -47,12 +55,15 @@ Telephone: 213-736-1148
 # Class schedule
 
 Monday, 8:00am - 9:40am
+
 Robinson Moot Courtroon
 
 Wednesday, 10:10am - 11:50am
+
 Robinson Moot Courtoom
 
 Friday, 10:10am - 11:50am
+
 Robinson Moot Courtroom
 
 ---
@@ -62,7 +73,9 @@ Robinson Moot Courtroom
 # Open office hours
 
 Tentative Schedule:
+
 Wednesdays from 12:00pm to 1:30pm
+
 Outside the Robinson Moot Courtroom
 
 ---
