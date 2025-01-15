@@ -12,3 +12,4 @@ weight: 10
 
 **01 - Welcome to Torts!** | [(.pdf)](/../../torts2025-material/slides/01-welcome-to-torts.pdf) | [(webpage)](/../../torts2025-material/slides/s01-welcome-to-torts)
 
+**02 - How to Read a Case** | [(.pdf)](/../../torts2025-material/slides/02-how-to-read-a-case.pdf) | [(webpage)](/../../torts2025-material/slides/s02-how-to-read-a-case)

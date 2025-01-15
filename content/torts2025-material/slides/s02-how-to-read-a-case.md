@@ -1,12 +1,21 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
+
+title: How to Read a Case
+profile: false
+
+share: false
+
+show_date: false
+
+---
 
 
 
-# How to Read a Case
+
+
+
+
+Hard copies of Reading Assignments 01 are available at the front of the room. Please pick up a copy.
 
 ---
 
