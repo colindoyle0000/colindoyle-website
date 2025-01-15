@@ -10,6 +10,52 @@ Footer:
 
 ---
 
+# In-Class Exercise
+
+---
+
+# The Questions
+
+Why should this defendant be held liable or not held liable?
+
+What remedy does the defendant owe Ms. Hammontree?
+
+What would you like to know that wasn’t in the fact pattern? Why?
+
+
+
+---
+
+# The Driver
+
+Why should this defendant be held liable or not held liable?
+
+What remedy does the defendant owe Ms. Hammontree?
+
+What would you like to know that wasn’t in the fact pattern? Why?
+
+---
+
+# The Doctor
+
+Why should this defendant be held liable or not held liable?
+
+What remedy does the defendant owe Ms. Hammontree?
+
+What would you like to know that wasn’t in the fact pattern? Why?
+
+---
+
+# The Car Manufacturer
+
+Why should this defendant be held liable or not held liable?
+
+What remedy does the defendant owe Ms. Hammontree?
+
+What would you like to know that wasn’t in the fact pattern? Why?
+
+---
+
 # Today’s Agenda
 
 Hammontree v. Jenner
@@ -42,14 +88,16 @@ Discerning a goal allows you to focus your attention on what matters.
 
 ---
 
-# Purpose
+# Purpose connects our daily work with our deepest values.
 
-Reading _Hammontree v. Jenner_ for your 1L Torts Class
+
 
 
 ---
 
-## Goals determine what we pay attention to
+## Goals determine what we pay attention to.
+
+
 
 ---
 
@@ -93,6 +141,16 @@ Reading _Hammontree v. Jenner_ for your 1L Torts Class
 5. Reasoning(s) behind the holding
 
 ---
+
+
+
+# Holding
+
+
+
+---
+
+
 
 # Three lines of reasoning
 
