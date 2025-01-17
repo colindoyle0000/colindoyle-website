@@ -54,11 +54,11 @@ Before you begin your law school assignments:
 
 ---
 
-![](/Users/colindoyle/Documents/Loyola/Torts/2024_2025/slides/images/cases_are_tools1.jpg)
+![](images/cases_are_tools1.jpg)
 
 ---
 
-![](/Users/colindoyle/Documents/Loyola/Torts/2024_2025/slides/images/cases_are_tools2.jpg)
+![](images/cases_are_tools2.jpg)
 
 ---
 
