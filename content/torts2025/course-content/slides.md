@@ -15,3 +15,11 @@ weight: 10
 **02 - How to Read a Case** | [(.pdf)](/../../torts2025-material/slides/02-how-to-read-a-case.pdf) | [(webpage)](/../../torts2025-material/slides/s02-how-to-read-a-case)
 
 **03 - Course Overview** | [(.pdf)](/../../torts2025-material/slides/03-course-overview.pdf) | [(webpage)](/../../torts2025-material/slides/s03-course-overview)
+
+**04 - Compensatory Damages** | [(.pdf)](/../../torts2025-material/slides/04-compensatory-damages.pdf) | [(webpage)](/../../torts2025-material/slides/s04-compensatory-damages)
+
+**05 - Punitive Damages** | [(.pdf)](/../../torts2025-material/slides/05-punitive-damages.pdf) | [(webpage)](/../../torts2025-material/slides/s05-punitive-damages)
+
+**06 - Punitive Damages** | [(.pdf)](/../../torts2025-material/slides/06-punitive-damages.pdf) | [(webpage)](/../../torts2025-material/slides/s06-punitive-damages)
+
+**07 - Welcome to Negligence!** | [(.pdf)](/../../torts2025-material/slides/07-negligence.pdf) | [(webpage)](/../../torts2025-material/slides/s07-negligence)
