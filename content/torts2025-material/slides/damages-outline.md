@@ -1,4 +1,13 @@
-# Damages Outline
+---
+
+title: Damages Outline
+profile: false
+
+share: false
+
+show_date: false
+
+---
 
 ## Cases
 
@@ -22,7 +31,7 @@ Mathias
 
 ## Legal Issues
 
-# *ON**LY IF the defendant is found liable***
+# *ONLY IF the defendant is found liable***
 
 
 
