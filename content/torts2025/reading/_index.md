@@ -80,4 +80,56 @@ pgs. 175-184
 
 pgs. 185-197
 
+## Feb. 7, 2025
+11 - Custom & Statutes
+
+(Start of Reading Assignments 02)
+
+pgs. 6-17
+
+## Feb. 10, 2025
+12 - Economic Theory of Negligence
+
+pgs. 18-32
+
+## Feb. 12, 2025
+13 - Res Ipsa Loquitur
+
+pgs. 33-45
+
+## Feb. 14, 2025
+14 - Res Ipsa Loquitur
+
+pgs. 46-56
+
+## Feb. 17, 2025
+15 - No Duty to Rescue or Protect
+
+pgs. 57-74
+
+## Feb. 19, 2025
+16 - Duties to Third Parties
+
+pgs. 75-90
+
+## Feb. 21, 2025
+17 - Policy Bases for Invoking No Duty
+
+pgs. 91-102
+
+## Feb. 24, 2025
+18 - Duties of Landowners and Occupiers
+
+pgs. 103-115
+
+## Feb. 26, 2025
+19 - Medical Malpractice
+pgs. 116-135
+
+## Feb. 28, 2025
+Midterm Review
+
+## Mar. 3, 2025
+_**Midterm Exam**_
+
 
