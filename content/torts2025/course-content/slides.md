@@ -25,3 +25,7 @@ weight: 10
 **Damages Outline** | [(webpage)](/../../torts2025-material/slides/damages-outline)
 
 **07 - Welcome to Negligence!** | [(.pdf)](/../../torts2025-material/slides/07-negligence.pdf) | [(webpage)](/../../torts2025-material/slides/s07-negligence)
+
+**08 - Negligence** | [(.pdf)](/../../torts2025-material/slides/08-negligence.pdf) | [(webpage)](/../../torts2025-material/slides/s08-negligence)
+
+**09 - Judge & Jury** | [(.pdf)](/../../torts2025-material/slides/09-judge-jury.pdf) | [(webpage)](/../../torts2025-material/slides/s09-judge-jury)
