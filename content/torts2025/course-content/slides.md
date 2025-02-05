@@ -29,3 +29,5 @@ weight: 10
 **08 - Negligence** | [(.pdf)](/../../torts2025-material/slides/08-negligence.pdf) | [(webpage)](/../../torts2025-material/slides/s08-negligence)
 
 **09 - Judge & Jury** | [(.pdf)](/../../torts2025-material/slides/09-judge-jury.pdf) | [(webpage)](/../../torts2025-material/slides/s09-judge-jury)
+
+**10 - Customs & Statutes** | [(.pdf)](/../../torts2025-material/slides/10-customs-statutes.pdf) | [(webpage)](/../../torts2025-material/slides/s10-customs-statutes)
