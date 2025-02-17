@@ -35,3 +35,7 @@ weight: 10
 **11 - Customs & Statutes** | [(.pdf)](/../../torts2025-material/slides/11-customs-statutes.pdf) | [(webpage)](/../../torts2025-material/slides/s11-customs-statutes)
 
 **12 - Economic Theory of Negligence** | [(.pdf)](/../../torts2025-material/slides/12-econ.pdf) | [(webpage)](/../../torts2025-material/slides/s12-econ)
+
+**13 - Res Ipsa Loquitur** | [(.pdf)](/../../torts2025-material/slides/13-res-ipsa.pdf) | [(webpage)](/../../torts2025-material/slides/s13-res-ipsa)
+
+**14 - Res Ipsa Loquitur** | [(.pdf)](/../../torts2025-material/slides/14-res-ipsa.pdf) | [(webpage)](/../../torts2025-material/slides/s14-res-ipsa)
