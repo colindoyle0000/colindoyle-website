@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-linktitle: Past Midterm Exam & Memo
-summary: Past Midterm Exam & Memo
+linktitle: Past Midterm Exams & Memo
+summary: Past Midterm Exams & Memo
 weight: 20
 # icon: book
 # icon\_pack: fas
