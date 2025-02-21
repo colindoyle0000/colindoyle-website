@@ -15,7 +15,7 @@ draft: false
 toc: false
 ---
 
-The midterm exam will count for 25% of your grade, and the final exam will count for 75%.  The midterm is purposefully weighted less than the final exam to give you the opportunity to improve your work in this class over time. At the start of the spring semester, I’ll provide feedback on the exam and offer advice for studying for the final exam.
+The midterm exam will count for 25% of your grade, and the final exam will count for 75%.  The midterm is purposefully weighted less than the final exam to give you the opportunity to improve your work in this class over time.
 
 The midterm exam has three parts and two appendices. Each of the three parts consists of a fact pattern and an essay question. The three parts are equally weighted at one-third of your total grade.
 
