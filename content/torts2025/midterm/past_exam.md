@@ -7,14 +7,22 @@ weight: 20
 # icon\_pack: fas
 
 # Page metadata.
-title: Past Midterm Exam & Memo
+title: Past Midterm Exams & Memos
 date: '2022-08-14T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 type: book # Do not modify.
-draft: true
+draft: false
 toc: false
 ---
 
-Last year’s midterm exam is available [here](/../../torts2023-material/past-exam/midterm.pdf). I would encourage you to use the questions on the exam as practice problems as you prepare for the midterm. Keep in mind that last year’s class did not cover exactly the same cases and material.
+The 2022 midterm exam is available [here](/../../torts2025-material/past-exam/midterm2022.pdf).
 
-The midterm review memo is available [here](/../../torts2023-material/past-exam/midterm-memo.pdf). The memo includes my commentary on the questions along with strong student answers.
+The 2022 midterm review memo is available [here](/../../torts2023-material/past-exam/midterm-memo2022.pdf). 
+
+The 2023 midterm exam is available [here](/../../torts2023-material/past-exam/midterm2023.pdf).
+
+The 2023 midterm review memo is available [here](/../../torts2023-material/past-exam/midterm-memo2023.pdf). 
+
+The memos include my commentary on the questions along with strong student answers.
+
+I would encourage you to use the questions on the exam as practice problems as you prepare for the midterm. Keep in mind that previous years' classes did not cover exactly the same cases and material.

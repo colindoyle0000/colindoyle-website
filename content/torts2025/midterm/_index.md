@@ -11,16 +11,14 @@ title: Midterm Information
 date: '2022-08-14T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 type: book # Do not modify.
-draft: true
+draft: false
 toc: false
 ---
 
-This course is worth five credits. As required by Loyola Law School policy, this course will be graded anonymously according to a mandatory curve.
+The midterm exam will count for 25% of your grade, and the final exam will count for 75%.  The midterm is purposefully weighted less than the final exam to give you the opportunity to improve your work in this class over time. At the start of the spring semester, I’ll provide feedback on the exam and offer advice for studying for the final exam.
 
-Your grade will be based on a midterm exam and a final exam. The midterm exam will count for 25% of your grade, and the final exam will count for 75%. The final exam will be cumulative. The midterm is purposefully weighted less than the final exam to give you the opportunity to improve your work in this class over time. After the grading the midterm exams, I will provide feedback on the exam and offer advice for studying for the final exam and for other law school exams in the future. For those eager to start studying for finals now, a super-secret way to perform perfectly on any kind of law school exam, regardless of subject matter, format, or difficulty, can be accessed [at this link.](https://www.youtube.com/watch?v=eBGIQ7ZuuiU)
+The midterm exam has three parts and two appendices. Each of the three parts consists of a fact pattern and an essay question. The three parts are equally weighted at one-third of your total grade.
 
-We will discuss the details of the exams later in the semester. 
+Your exam packet will include two appendices. Appendix A is a list of cases discussed in-depth during class. Appendix B is a list of legal rules that you are not expected to have memorized. You are allowed to consult the appendix while you take the exam. 
 
-Exam logistics are handled by the [Office of the Registrar](https://www.lls.edu/academics/officeoftheregistrar/), not by me. Because grading is anonymous, the law school has adopted rules and procedures to protect student anonymity during the grading process. Under these rules, I am prohibited from learning about any logistical issues related to your exams. Please avoid making comments that would jeopardize your anonymity and do not include your student identification number on any communication with me. If you have questions about exam scheduling and accommodations, or if any problem arises during the administration of an exam, contact the Registrar at [registrar@lls.edu](mailto:registrar@lls.edu) or 213-736-1130 and **do not** include me in this communication.
-
-I reserve the right to reduce grades by one-third of a letter grade for poor class participation due to repeated instances of unpreparedness, lack of attention in class, refusal to participate in good faith, and absences. Any decision to reduce a grade for poor class participation is at my discretion and is non-negotiable.
+A copy of the [exam instructions](/../../torts2025-material/midterm/midterm_instructions.pdf) and a copy of the [appendices](/../../torts2025-material/midterm/midterm_appendices.pdf) are available for you to use as you study. These are identical to the instructions and appendices you will receive in your exam packet when you take the exam.
