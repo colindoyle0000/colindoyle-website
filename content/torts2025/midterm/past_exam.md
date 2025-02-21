@@ -17,11 +17,11 @@ toc: false
 
 The 2022 midterm exam is available [here](/../../torts2025-material/past-exam/midterm2022.pdf).
 
-The 2022 midterm review memo is available [here](/../../torts2023-material/past-exam/midterm-memo2022.pdf). 
+The 2022 midterm review memo is available [here](/../../torts2025-material/past-exam/midterm-memo2022.pdf). 
 
-The 2023 midterm exam is available [here](/../../torts2023-material/past-exam/midterm2023.pdf).
+The 2023 midterm exam is available [here](/../../torts2025-material/past-exam/midterm2023.pdf).
 
-The 2023 midterm review memo is available [here](/../../torts2023-material/past-exam/midterm-memo2023.pdf). 
+The 2023 midterm review memo is available [here](/../../torts2025-material/past-exam/midterm-memo2023.pdf). 
 
 The memos include my commentary on the questions along with strong student answers.
 
