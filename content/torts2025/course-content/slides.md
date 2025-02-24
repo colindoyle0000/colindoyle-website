@@ -43,3 +43,5 @@ weight: 10
 **15 - No Duty to Rescue or Protect** | [(.pdf)](/../../torts2025-material/slides/15-no-duty.pdf) | [(webpage)](/../../torts2025-material/slides/s15-no-duty)
 
 **16 - Duty to Third Parties** | [(.pdf)](/../../torts2025-material/slides/16-3rd-party.pdf) | [(webpage)](/../../torts2025-material/slides/s16-3rd-party)
+
+**17 - Policy Bases for No Duty** | [(.pdf)](/../../torts2025-material/slides/17-policy.pdf) | [(webpage)](/../../torts2025-material/slides/s17-policy)
