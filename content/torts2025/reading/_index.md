@@ -14,11 +14,13 @@ type: book # Do not modify.
 toc: false
 ---
 
-You do not need to purchase a casebook for this class. Your reading assignments will be distributed in hardcopy in class. You can also access the reading assignments digitally.
+You do not need to purchase a casebook for this class. You can request a hardcopy version of the reading assignments from the graphics department by filling out [this form](https://onlineforms.lls.edu/form/graphics-request-form). You can also access the reading assignments digitally.
 
 You can download a pdf of _Reading Assignments 01_ [here](https://brightspace.lmu.edu/d2l/le/content/263272/viewContent/3331852/View).
 
 You can download a pdf of _Reading Assignments 02_ [here](https://brightspace.lmu.edu/d2l/le/content/263272/viewContent/3331853/View). 
+
+You can download a pdf of _Reading Assignments 03_ [here](https://brightspace.lmu.edu/d2l/le/content/263272/viewContent/3463224/View).
 
 Please note that you will need to log in to Brightspace to access this material.
 

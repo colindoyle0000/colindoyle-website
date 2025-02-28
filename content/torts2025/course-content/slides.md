@@ -45,3 +45,5 @@ weight: 10
 **16 - Duty to Third Parties** | [(.pdf)](/../../torts2025-material/slides/16-3rd-party.pdf) | [(webpage)](/../../torts2025-material/slides/s16-3rd-party)
 
 **17 - Policy Bases for No Duty** | [(.pdf)](/../../torts2025-material/slides/17-policy.pdf) | [(webpage)](/../../torts2025-material/slides/s17-policy)
+
+**18 - Duties of Landowners and Occupiers** | [(.pdf)](/../../torts2025-material/slides/18-landowners.pdf) | [(webpage)](/../../torts2025-material/slides/s18-landowners)
