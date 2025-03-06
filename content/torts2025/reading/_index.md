@@ -138,3 +138,70 @@ _**Midterm Exam**_
 19 - Medical Malpractice
 
 pgs. 116-135
+
+## Mar. 12, 2025
+20 - Purely Emotional Harm
+
+pgs. 136-156
+
+## Mar. 14, 2025
+21 - Causation
+
+(start of Reading Assignments 03)
+
+pgs. 6-18
+
+22 - Multiple Defendants
+
+pgs. 19-28
+
+## Mar. 17, 2025
+23 - Toxic Harms
+
+pgs. 29-62
+
+## Mar. 19, 2025
+24 - Proximate Cause
+
+pgs. 63-67
+
+25 - Unexpected Harm
+
+pgs. 68-73
+
+26 - Intervening Causes & Unexpected Victims
+
+pgs. 74-87
+
+## Mar. 21, 2025
+27 - Vicarious Liability
+
+pgs. 88-105
+
+## Mar. 24, 2025
+_**No class, due to professor's conflict.**_
+
+## Mar. 26, 2025
+_**No class, due to professor's conflict.**_
+
+## Mar. 28, 2025
+_**No class, due to professor's conflict.**_
+
+## Mar. 31, 2025
+_**No law school classes, in observance of Cesar Chavez Day.**_
+
+## Apr. 2, 2025
+28 - Contributory Negligence and Comparative Negligence
+
+pgs. 106-121
+
+29 - Comparative Negligence
+
+pgs. 122-141
+
+## Apr. 4, 2025
+30 - Assumption of Risk
+
+pgs. 142-163
+
+
