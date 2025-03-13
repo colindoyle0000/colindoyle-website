@@ -49,3 +49,7 @@ weight: 10
 **18 - Duties of Landowners and Occupiers** | [(.pdf)](/../../torts2025-material/slides/18-landowners.pdf) | [(webpage)](/../../torts2025-material/slides/s18-landowners)
 
 **19 - Midterm Review** | [(.pdf)](/../../torts2025-material/slides/19-midterm.pdf) | [(webpage)](/../../torts2025-material/slides/s19-midterm)
+
+**20 - Medical Malpractice** | [(.pdf)](/../../torts2025-material/slides/20-medical.pdf) | [(webpage)](/../../torts2025-material/slides/s20-medical)
+
+**21 - Purely Emotional Harm** | [(.pdf)](/../../torts2025-material/slides/21-nied.pdf) | [(webpage)](/../../torts2025-material/slides/s21-nied)
