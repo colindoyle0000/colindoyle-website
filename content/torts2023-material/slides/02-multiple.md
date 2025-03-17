@@ -5,10 +5,10 @@ header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Gallia
 Footer:
 
 ## _Factual Causation:_
+
 # Multiple Defendants
 
 —
-
 
 # Causation
 
@@ -44,10 +44,9 @@ Two different tests for factual causation
 
 ---
 
-
 # [fit] What about multiple possible causes?
 
-—
+---
 
 # Anderson v. Minneapolis, St. Paul & Sault Ste. Marie Railway Co.
 “Multiple Fires Whodunnit”
@@ -91,5 +90,4 @@ Three reasons for alternative liability:
 
 # Garcia v. Joseph Vince Co.
 “Fencing Sabre Whodunnit”
-
 

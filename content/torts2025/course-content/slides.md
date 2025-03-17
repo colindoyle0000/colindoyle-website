@@ -53,3 +53,7 @@ weight: 10
 **20 - Medical Malpractice** | [(.pdf)](/../../torts2025-material/slides/20-medical.pdf) | [(webpage)](/../../torts2025-material/slides/s20-medical)
 
 **21 - Purely Emotional Harm** | [(.pdf)](/../../torts2025-material/slides/21-nied.pdf) | [(webpage)](/../../torts2025-material/slides/s21-nied)
+
+**22 - Causation** | [(.pdf)](/../../torts2025-material/slides/22-causation.pdf) | [(webpage)](/../../torts2025-material/slides/s22-causation)
+
+**23 - Causation** | [(.pdf)](/../../torts2025-material/slides/23-causation.pdf) | [(webpage)](/../../torts2025-material/slides/s23-causation)

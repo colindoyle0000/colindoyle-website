@@ -34,6 +34,7 @@ If the plaintiff has made out a prima facie case, then the question should go to
 —
 
 # Sindell v. Abbott Laboratories
+
 “Toxic Harms”
 
 —
