@@ -57,3 +57,7 @@ weight: 10
 **22 - Causation** | [(.pdf)](/../../torts2025-material/slides/22-causation.pdf) | [(webpage)](/../../torts2025-material/slides/s22-causation)
 
 **23 - Causation** | [(.pdf)](/../../torts2025-material/slides/23-causation.pdf) | [(webpage)](/../../torts2025-material/slides/s23-causation)
+
+**24 - Proximate Cause** | [(.pdf)](/../../torts2025-material/slides/24-proximate.pdf) | [(webpage)](/../../torts2025-material/slides/s24-proximate)
+
+**25 - Vicarious Liability** | [(.pdf)](/../../torts2025-material/slides/25-vicarious-liability.pdf) | [(webpage)](/../../torts2025-material/slides/s25-vicarious-liability)

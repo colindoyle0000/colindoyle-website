@@ -9,6 +9,7 @@ Footer:
 —
 
 # Benn v. Thomas
+
 “The Time-Delayed Heart Attack”
 
 —
@@ -19,6 +20,7 @@ Footer:
 —
 
 # Gibson v. Garcia
+
 “The Rotten Telephone Pole that Fell on the Car”
 
 —
