@@ -22,6 +22,8 @@ You can download a pdf of _Reading Assignments 02_ [here](https://brightspace.lm
 
 You can download a pdf of _Reading Assignments 03_ [here](https://brightspace.lmu.edu/d2l/le/content/263272/viewContent/3463224/View).
 
+You can download a pdf of _Reading Assignments 04_ [here](https://brightspace.lmu.edu/d2l/le/content/263272/viewContent/3480853/View).
+
 Please note that you will need to log in to Brightspace to access this material.
 
 The reading assignments listed below are also available as a [Google calendar](https://calendar.google.com/calendar/embed?src=vtu22g9khnc4acg3plvuaarptc%40group.calendar.google.com&ctz=America%2FLos_Angeles). You can [subscribe to the calendar](https://calendar.google.com/calendar/u/5?cid=dnR1MjJnOWtobmM0YWNnM3BsdnVhYXJwdGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) and receive notifications when I post new reading assignments.
@@ -204,4 +206,64 @@ pgs. 122-141
 
 pgs. 142-163
 
+## Apr. 7, 2025 
+31 – Strict Liability: Traditional View 
 
+32 – Products liability: Manufacturing and Design Defects 
+
+(start of Reading Assignments 03)
+
+pgs. 1-33
+
+## Apr. 9, 2025
+33 – Products Liability: Warnings & Defenses 
+
+pgs. 34-51
+
+## Apr. 14, 2025
+34 – Intentional Torts 
+
+pgs. 52-76
+
+## Apr. 16, 2025
+35 – Intentional Torts 
+
+pgs. 77-95
+
+## Apr. 17, 2025
+
+Makeup class
+
+36 – Defenses 
+
+pgs. 96-118
+
+## Apr. 18, 2025
+_**No law school classes, in observance of Good Friday.**_
+
+
+## Apr. 21, 2025
+
+37 – Insurance 
+
+pgs. 119-146
+
+## Apr. 22, 2025
+
+38 – Workers Compensation 
+
+pgs. 147-183
+
+## Apr. 23, 2025
+
+39 – No-Fault and Beyond
+
+pgs. 184-229
+
+## Apr. 24, 2025
+
+Makeup class
+
+39 – No-Fault and Beyond
+
+pgs. 230-271

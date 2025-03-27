@@ -98,10 +98,6 @@ _**No law school classes, in observance of Cesar Chavez Day.**_
 
 ## Apr. 9, 2025
 
-## Apr. 11, 2025
-
-Makeup class at 1:00pm:
-
 ## Apr. 14, 2025
 
 ## Apr. 16, 2025
@@ -121,6 +117,8 @@ _**No law school classes, in observance of Good Friday.**_
 ## Apr. 23, 2025
 
 ## Apr. 24, 2025
+
+Makeup class
 
 Last year:
 
