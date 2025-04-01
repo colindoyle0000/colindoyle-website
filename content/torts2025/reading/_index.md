@@ -211,7 +211,7 @@ pgs. 142-163
 
 32 – Products liability: Manufacturing and Design Defects 
 
-(start of Reading Assignments 03)
+(start of Reading Assignments 04)
 
 pgs. 1-33
 
