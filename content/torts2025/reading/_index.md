@@ -231,13 +231,9 @@ pgs. 52-76
 ## Apr. 16, 2025
 35 – Intentional Torts 
 
-pgs. 77-95
-
-## Apr. 17, 2025
-
-Makeup class
-
 36 – Defenses 
+
+pgs. 77-95
 
 pgs. 96-118
 
