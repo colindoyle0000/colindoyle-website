@@ -61,3 +61,7 @@ weight: 10
 **24 - Proximate Cause** | [(.pdf)](/../../torts2025-material/slides/24-proximate-cause.pdf) | [(webpage)](/../../torts2025-material/slides/s24-proximate-cause)
 
 **25 - Vicarious Liability** | [(.pdf)](/../../torts2025-material/slides/25-vicarious-liability.pdf) | [(webpage)](/../../torts2025-material/slides/s25-vicarious-liability)
+
+**26 - Contributory Negligence** | [(.pdf)](/../../torts2025-material/slides/26-contributory-negligence.pdf) | [(webpage)](/../../torts2025-material/slides/s26-contributory-negligence)
+
+**27 - Assumption of Risk** | [(.pdf)](/../../torts2025-material/slides/27-assumption.pdf) | [(webpage)](/../../torts2025-material/slides/s27-assumption)

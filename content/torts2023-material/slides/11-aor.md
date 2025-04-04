@@ -44,6 +44,7 @@ How capable is our legal system of producing just outcomes in these cases? How d
 ---
 
 # [fit] Hanks v. Powder Ridge Restaurant Corp.
+
 “Snowtubing Waiver”
 
 ---
