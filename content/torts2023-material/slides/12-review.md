@@ -156,8 +156,7 @@ _volenti non fit injuria_
 
 # In-Class Exercise
 
-
-—
+---
 
 # Contributory Negligence
 

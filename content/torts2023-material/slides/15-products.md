@@ -94,7 +94,7 @@ Cost spreading / insurance
 
 Deterrence
 
---- 
+---
 
 # Extensions of Liability
 

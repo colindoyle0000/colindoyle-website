@@ -65,3 +65,5 @@ weight: 10
 **26 - Contributory Negligence** | [(.pdf)](/../../torts2025-material/slides/26-contributory-negligence.pdf) | [(webpage)](/../../torts2025-material/slides/s26-contributory-negligence)
 
 **27 - Assumption of Risk** | [(.pdf)](/../../torts2025-material/slides/27-assumption.pdf) | [(webpage)](/../../torts2025-material/slides/s27-assumption)
+
+**28 - Strict Liability** | [(.pdf)](/../../torts2025-material/slides/28-strict-liability.pdf) | [(webpage)](/../../torts2025-material/slides/s28-strict-liability)
