@@ -67,3 +67,5 @@ weight: 10
 **27 - Assumption of Risk** | [(.pdf)](/../../torts2025-material/slides/27-assumption.pdf) | [(webpage)](/../../torts2025-material/slides/s27-assumption)
 
 **28 - Strict Liability** | [(.pdf)](/../../torts2025-material/slides/28-strict-liability.pdf) | [(webpage)](/../../torts2025-material/slides/s28-strict-liability)
+
+**29 - Products Liability** | [(.pdf)](/../../torts2025-material/slides/29-products-liability.pdf) | [(webpage)](/../../torts2025-material/slides/s29-products-liability)
