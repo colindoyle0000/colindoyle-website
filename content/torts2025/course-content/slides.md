@@ -71,3 +71,5 @@ weight: 10
 **29 - Products Liability** | [(.pdf)](/../../torts2025-material/slides/29-products-liability.pdf) | [(webpage)](/../../torts2025-material/slides/s29-products-liability)
 
 **30 - Products Liability Review** | [(.pdf)](/../../torts2025-material/slides/30-review.pdf) | [(webpage)](/../../torts2025-material/slides/s30-review)
+
+**31 - Intentional Torts** | [(.pdf)](/../../torts2025-material/slides/31-intentional-torts.pdf) | [(webpage)](/../../torts2025-material/slides/s31-intentional-torts)
