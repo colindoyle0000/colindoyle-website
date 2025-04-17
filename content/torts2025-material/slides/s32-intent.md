@@ -186,7 +186,7 @@ An actor is subject to liability to another for false imprisonment if
 
 ---
 
-![inline](images/NIED.jpg)
+![inline](images/nied.jpg)
 
 ---
 
