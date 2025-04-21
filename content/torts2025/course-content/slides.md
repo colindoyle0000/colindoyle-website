@@ -75,3 +75,5 @@ weight: 10
 **31 - Intentional Torts** | [(.pdf)](/../../torts2025-material/slides/31-intent.pdf) | [(webpage)](/../../torts2025-material/slides/s31-intent)
 
 **32 - Intentional Torts** | [(.pdf)](/../../torts2025-material/slides/32-intent.pdf) | [(webpage)](/../../torts2025-material/slides/s32-intent)
+
+**33 - Insurance** | [(.pdf)](/../../torts2025-material/slides/33-insurance.pdf) | [(webpage)](/../../torts2025-material/slides/s33-insurance)
