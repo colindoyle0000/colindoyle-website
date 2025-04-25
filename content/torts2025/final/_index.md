@@ -20,4 +20,4 @@ The final exam will count for 75% of your grade.
 
 Your exam packet will include two appendices. Appendix A is a list of cases discussed in-depth during class. Appendix B is a list of legal rules that you are not expected to have memorized. You are allowed to consult the appendices while you take the exam.
 
-When the exam instructions and appendices are completed, copies of both will be provided on this webpage.
+A copy of the [exam instructions](/../../torts2025-material/final/final_instructions.pdf) and a copy of the [appendices](/../../torts2025-material/final/final_appendices.pdf) are available for you to use as you study. These are identical to the instructions and appendices you will receive in your exam packet when you take the exam.
