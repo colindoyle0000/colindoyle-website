@@ -81,7 +81,7 @@ _If you play with dynamite, you pay damages_
 - Assault and battery
 - False imprisonment
 - Intentional infliction of emotional distress
-- 
+  
 ## C. Defenses
 
 - Consent
