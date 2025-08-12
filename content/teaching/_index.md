@@ -13,13 +13,18 @@ The following course websites are available to the public. The websites contain 
 ## Current Courses:
 
 ### Torts  <br>
-Spring 2025 <br>
+Fall 2025 <br>
 Loyola Law School, Los Angeles <br>
-[Course Website](/torts2025)
+[Course Website](/torts2025fall)
 
 ---
 
 ## Archive:
+
+### Torts  <br>
+Spring 2025 <br>
+Loyola Law School, Los Angeles <br>
+[Course Website](/torts2025)
 
 ### Torts  <br>
 Fall 2023 to Spring 2024 <br>
