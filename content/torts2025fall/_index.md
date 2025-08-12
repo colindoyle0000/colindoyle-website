@@ -1,6 +1,6 @@
 ---
 linktitle: Welcome to Torts
-title: Torts (Spring 2025)
+title: Torts (Fall 2025)
 type: book # Do not modify.
 toc: false
 ---
