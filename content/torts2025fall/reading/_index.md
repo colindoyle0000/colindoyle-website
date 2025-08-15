@@ -16,7 +16,7 @@ toc: false
 
 You do not need to purchase a casebook for this class. I will distribute a hardcopy version of _Reading Assignments 01_ on the first day of class. You can also access the reading assignments digitally.
 
-You can download a pdf of _Reading Assignments 01_ [here](https://brightspace.lmu.edu/d2l/le/content/280846/viewContent/3588029/View).
+You can download a pdf of _Reading Assignments 01_ [here](https://brightspace.lmu.edu/d2l/le/content/280846/viewContent/3602081/View).
 
 Please note that you will need to log in to Brightspace to access this material.
 
