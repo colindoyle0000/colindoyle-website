@@ -9,6 +9,8 @@ date: '2022-08-16T00:00:00+01:00'
 weight: 10
 ---
 
-This page will contain the slides for the course in .html and .pdf formats. 
+**01 - Welcome to Torts!** | [(.pdf)](/../../torts2025fall-material/slides/01-welcome-to-torts.pdf) | [(webpage)](/../../torts2025fall-material/slides/s01-welcome-to-torts)
 
-They will be made available as the course progresses.
+**02 - How to Read a Case** | [(.pdf)](/../../torts2025fall-material/slides/02-how-to-read-a-case.pdf) | [(webpage)](/../../torts2025fall-material/slides/s02-how-to-read-a-case)
+
+**03 - Course Overview** | [(.pdf)](/../../torts2025fall-material/slides/03-course-overview.pdf) | [(webpage)](/../../torts2025fall-material/slides/s03-course-overview)
