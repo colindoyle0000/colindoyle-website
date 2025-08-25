@@ -1,10 +1,11 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# Course Overview
+title: Course Overview
+profile: false
+
+share: false
+
+show_date: false
 
 ---
 
@@ -51,11 +52,11 @@ Before you begin your law school assignments:
 
 ---
 
-![](/Users/colindoyle/Documents/Loyola/Torts/2024_2025/slides/images/cases_are_tools1.jpg)
+![](images/cases_are_tools1.jpg)
 
 ---
 
-![](/Users/colindoyle/Documents/Loyola/Torts/2024_2025/slides/images/cases_are_tools2.jpg)
+![](images/cases_are_tools2.jpg)
 
 ---
 
