@@ -14,3 +14,11 @@ weight: 10
 **02 - How to Read a Case** | [(.pdf)](/../../torts2025fall-material/slides/02-how-to-read-a-case.pdf) | [(webpage)](/../../torts2025fall-material/slides/02-how-to-read-a-case)
 
 **03 - Course Overview** | [(.pdf)](/../../torts2025fall-material/slides/03-course-overview.pdf) | [(webpage)](/../../torts2025fall-material/slides/03-course-overview)
+
+**04 - Compensatory Damages** | [(.pdf)](/../../torts2025fall-material/slides/04-compensatory-damages.pdf) | [(webpage)](/../../torts2025fall-material/slides/04-compensatory-damages)
+
+**05 - Punitive Damages** | [(.pdf)](/../../torts2025fall-material/slides/05-punitive-damages.pdf) | [(webpage)](/../../torts2025fall-material/slides/05-punitive-damages)
+
+**06 - Punitive Damages** | [(.pdf)](/../../torts2025fall-material/slides/06-punitive-damages.pdf) | [(webpage)](/../../torts2025fall-material/slides/06-punitive-damages)
+
+**Damages Outline** | [(webpage)](/../../torts2025fall-material/slides/damages_outline)
