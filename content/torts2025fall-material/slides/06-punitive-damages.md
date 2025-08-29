@@ -1,14 +1,15 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Punitive Damages
+profile: false
 
+share: false
 
-# Punitive Damages
+show_date: false
 
 ---
+
+
 
 ![fill](images/posner.jpg)
 
