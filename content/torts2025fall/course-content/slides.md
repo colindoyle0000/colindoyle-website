@@ -22,3 +22,5 @@ weight: 10
 **06 - Punitive Damages** | [(.pdf)](/../../torts2025fall-material/slides/06-punitive-damages.pdf) | [(webpage)](/../../torts2025fall-material/slides/06-punitive-damages)
 
 **Damages Outline** | [(webpage)](/../../torts2025fall-material/slides/damages_outline)
+
+**07 - Welcome to Negligence!** | [(.pdf)](/../../torts2025fall-material/slides/07-negligence.pdf) | [(webpage)](/../../torts2025fall-material/slides/07-negligence)

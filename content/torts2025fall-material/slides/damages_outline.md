@@ -1,4 +1,14 @@
-# Damages
+---
+
+title: Damages Outline
+profile: false
+
+share: false
+
+show_date: false
+
+---
+
 
 Seffert
 McDougald
