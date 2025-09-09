@@ -78,39 +78,47 @@ pgs. 178-190
 
 ## Friday, September 12
 
-TBD
+(Start of Reading Assignments 02)
+
+pgs. 1-12
 
 ## Monday, September 15
 
-TBD
+pgs. 13-27
+
 
 ## Wednesday, September 17
 
-TBD
+pgs. 28-40
+
 
 ## Friday, September 19
 
-TBD
+pgs. 41-51
+
 
 ## Monday, September 22
 
-TBD
+pgs. 52-69
+
 
 ## Wednesday, September 24
 
-TBD
+pgs. 70-85
+
 
 ## Friday, September 26
 
-TBD
+pgs. 86-97
+
 
 ## Monday, September 29
 
-TBD
+pgs. 98-110
 
 ## Wednesday, October 1
 
-TBD
+Midterm Review
 
 ## Friday, October 3
 
@@ -122,11 +130,13 @@ No class - 1L Midterm Examinations
 
 ## Wednesday, October 8
 
-TBD
+pgs. 111-130
+
 
 ## Friday, October 10
 
-TBD
+pgs. 131-151
+
 
 ## Monday, October 13
 
