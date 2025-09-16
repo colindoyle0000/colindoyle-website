@@ -15,6 +15,10 @@ draft: true
 toc: false
 ---
 
+I would encourage you to use the questions on past midterm exams as practice problems as you prepare for the midterm. Keep in mind that previous classes did not cover exactly the same cases and material.
+
+The memos include my commentary on the questions along with strong student answers.
+
 The 2022 midterm exam is available [here](/../../torts2025-material/past-exam/midterm2022.pdf).
 
 The 2022 midterm review memo is available [here](/../../torts2025-material/past-exam/midterm-memo2022.pdf). 
@@ -23,6 +27,8 @@ The 2023 midterm exam is available [here](/../../torts2025-material/past-exam/mi
 
 The 2023 midterm review memo is available [here](/../../torts2025-material/past-exam/midterm-memo2023.pdf). 
 
-The memos include my commentary on the questions along with strong student answers.
+The Spring 2025 midterm exam is available [here](/../../torts2025-material/past-exam/midterm2025.pdf).
 
-I would encourage you to use the questions on the exam as practice problems as you prepare for the midterm. Keep in mind that previous years' classes did not cover exactly the same cases and material.
+The Spring 2025 midterm review memo is available [here](/../../torts2025-material/past-exam/midterm-memo2025.pdf).
+
+
