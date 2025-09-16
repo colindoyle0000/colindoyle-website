@@ -24,3 +24,13 @@ weight: 10
 **Damages Outline** | [(webpage)](/../../torts2025fall-material/slides/damages_outline)
 
 **07 - Welcome to Negligence!** | [(.pdf)](/../../torts2025fall-material/slides/07-negligence.pdf) | [(webpage)](/../../torts2025fall-material/slides/07-negligence)
+
+**08 - Negligence** | [(.pdf)](/../../torts2025fall-material/slides/08-negligence.pdf) | [(webpage)](/../../torts2025fall-material/slides/08-negligence)
+
+**09 - Judge & Jury** | [(.pdf)](/../../torts2025fall-material/slides/09-judge-jury.pdf) | [(webpage)](/../../torts2025fall-material/slides/09-judge-jury)
+
+**10 - Customs & Statutes** | [(.pdf)](/../../torts2025fall-material/slides/10-customs-statutes.pdf) | [(webpage)](/../../torts2025fall-material/slides/10-customs-statutes)
+
+**11 - Customs & Statutes** | [(.pdf)](/../../torts2025fall-material/slides/11-customs-statutes.pdf) | [(webpage)](/../../torts2025fall-material/slides/11-customs-statutes)
+
+**12 - Economic Theory of Negligence** | [(.pdf)](/../../torts2025fall-material/slides/12-econ.pdf) | [(webpage)](/../../torts2025fall-material/slides/12-econ)

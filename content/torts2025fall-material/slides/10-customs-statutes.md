@@ -1,18 +1,18 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Customs & Statutes
+profile: false
 
+share: false
 
-
-
-# Customs & Statutes
-
-
+show_date: false
 
 ---
+
+
+
+
+
 
 
 

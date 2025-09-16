@@ -1,14 +1,16 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Roles of Judge & Jury
+profile: false
 
+share: false
 
-# Roles of Judge & Jury
+show_date: false
 
 ---
+
+
+
 
 # Reading Assignments 02
 
