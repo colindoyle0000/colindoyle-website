@@ -1,14 +1,14 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: No Duty to Rescue or Protect
+profile: false
 
+share: false
 
-# No Duty to Rescue or Protect
+show_date: false
 
 ---
+
 
 # In-Class Exercse for Res Ipsa Loquitur
 
@@ -88,7 +88,7 @@ As Gregor Samsa (“Samsa”) awoke ~~one morning~~ on Sunday, August 9, 1926 fr
 
 # Because they treat the reader like a big, golden baby.
 
-![right](/Users/colindoyle/Documents/Loyola/Torts/2023_2024/torts-slides-2023/old/images/IMG_5099.jpeg)
+![](/Users/colindoyle/Documents/Loyola/Torts/2023_2024/torts-slides-2023/old/images/IMG_5099.jpeg)
 
 ---
 
@@ -104,7 +104,7 @@ As Gregor Samsa (“Samsa”) awoke ~~one morning~~ on Sunday, August 9, 1926 fr
 
 ---
 
-# [fit] The modern rule for non-negligent creation of injury
+# [] The modern rule for non-negligent creation of injury
 
 **Maldonado v. Southern Pacific Transp. Co. (Ariz. App. 1981)**
 
