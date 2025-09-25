@@ -40,3 +40,5 @@ weight: 10
 **14 - Res Ipsa Loquitur** | [(.pdf)](/../../torts2025fall-material/slides/14-res-ipsa.pdf) | [(webpage)](/../../torts2025fall-material/slides/14-res-ipsa)
 
 **15 - No Duty to Rescue or Protect** | [(.pdf)](/../../torts2025fall-material/slides/15-no-duty.pdf) | [(webpage)](/../../torts2025fall-material/slides/15-no-duty)
+
+**16 - Duty to Third Parties** | [(.pdf)](/../../torts2025fall-material/slides/16-3rd-party.pdf) | [(webpage)](/../../torts2025fall-material/slides/16-3rd-party)

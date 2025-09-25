@@ -1,24 +1,28 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Duty to Third Parties
+profile: false
 
+share: false
 
-
-
-# Duty to Third Parties
+show_date: false
 
 ---
+
+
 
 # Upcoming Schedule
 
 Wed. Sept. 24 - Duty to Third Parties
+
 Fri. Sept. 26 - Policy Bases for No Duty & Office Hours
+
 Mon. Sept. 29 - Duty of Landowners and Occupiers
+
 Wed. Oct. 1 - Midterm Review & Office Hours
+
 Fri. Oct. 3 - No class
+
 Mon. Oct. 6 - Midterm Exam
 
 ---
@@ -91,13 +95,13 @@ I will not respond to substantive questions after Oct. 1
 
 ---
 
-# [fit] Tarasoff v. Regents of the University of California
+# Tarasoff v. Regents of the University of California
 
 “The Psychiatrist Who Didn’t Warn the Murder Victim”
 
 
 
-# [fit] Randi W. v. Muroc Joint Unified School District
+# Randi W. v. Muroc Joint Unified School District
 
 “The Alleged Sexual Predator’s Recommenders”
 
