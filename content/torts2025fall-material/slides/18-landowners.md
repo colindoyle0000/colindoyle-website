@@ -1,16 +1,14 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Duties of Landowners & Occupiers
+profile: false
 
+share: false
 
-# Duties of Landowners & Occupiers
-
-
+show_date: false
 
 ---
+
 
 
 
@@ -64,7 +62,7 @@ give or otherwise supply liquor to any person under the age of twenty-one years 
 
 ---
 
-# [fit] What the heck?
+# [] What the heck?
 
 ---
 
