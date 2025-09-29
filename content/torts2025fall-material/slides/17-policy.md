@@ -1,34 +1,31 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Policy Bases for No Duty
+profile: false
 
+share: false
 
-
-
-# Duty to Third Parties
-
-# &
-
-# Policy Bases for No Duty
-
-
+show_date: false
 
 ---
+
+
+
+
+
+
 
 ![inline](images/duty-5.jpg)
 
 ---
 
-# [fit] Tarasoff v. Regents of the University of California
+# Tarasoff v. Regents of the University of California
 
 “The Psychiatrist Who Didn’t Warn the Murder Victim”
 
 
 
-# [fit] Randi W. v. Muroc Joint Unified School District
+# Randi W. v. Muroc Joint Unified School District
 
 “The Alleged Sexual Predator’s Recommenders”
 
@@ -97,7 +94,7 @@ give or otherwise supply liquor to any person under the age of twenty-one years 
 
 ---
 
-# [fit] What the heck?
+# What the heck?
 
 ---
 
