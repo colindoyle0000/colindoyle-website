@@ -1,16 +1,18 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Midterm Review
+profile: false
 
+share: false
 
-# Midterm Review
+show_date: false
 
 ---
 
-# [fit] You should be worried.
+
+
+
+# You should be worried.
 
 ---
 
@@ -63,9 +65,9 @@ If the call to action asks if Res Ipsa can be applied, or if Negligence Per Se i
 
 ---
 
-# [fit] Compensatory
+# Compensatory
 
-# [fit] Damages
+# Damages
 
 ### and punitive damages
 

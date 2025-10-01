@@ -46,3 +46,5 @@ weight: 10
 **17 - Policy Bases for No Duty** | [(.pdf)](/../../torts2025fall-material/slides/17-policy.pdf) | [(webpage)](/../../torts2025fall-material/slides/17-policy)
 
 **18 - Duties of Landowners and Occupiers** | [(.pdf)](/../../torts2025fall-material/slides/18-landowners.pdf) | [(webpage)](/../../torts2025fall-material/slides/18-landowners)
+
+**19 - Midterm Exam Review** | [(.pdf)](/../../torts2025fall-material/slides/19-midterm.pdf) | [(webpage)](/../../torts2025fall-material/slides/19-midterm)
