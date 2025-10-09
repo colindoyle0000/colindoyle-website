@@ -22,3 +22,34 @@ You can download a pdf of _Reading Assignments 02_ [here](https://brightspace.lm
 You can download a pdf of _Reading Assignments 03_ [here](https://brightspace.lmu.edu/d2l/le/content/263272/viewContent/3463224/View).
 
 You can download a pdf of _Reading Assignments 04_ [here](https://brightspace.lmu.edu/d2l/le/content/263272/viewContent/3480853/View).
+
+
+pgs. 6-28
+
+pgs. 29-62
+
+pgs. 63-87
+
+pgs. 88-105
+
+pgs. 106--141
+
+pgs. 142-163
+
+(start of Reading Assignments 04)
+
+pgs. 1-33
+
+pgs. 34-51
+
+pgs. 52-76
+
+pgs. 77-118
+
+pgs. 119-146
+
+pgs. 147-183
+
+pgs. 184-229
+
+pgs. 230-271

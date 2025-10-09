@@ -140,69 +140,100 @@ pgs. 131-151
 
 ## Monday, October 13
 
-TBD
+(Start of Reading Assignments 03)
+
+pgs. 1-23
+
 
 ## Wednesday, October 15
 
-TBD
+pgs. 24-57
+
 
 ## Friday, October 17
 
-TBD
+pgs. 58-82
+
 
 ## Monday, October 20
 
-TBD
+pgs. 83-100
+
 
 ## Wednesday, October 22
 
-TBD
+pgs. 101-135
+
 
 ## Friday, October 24
 
-TBD
+pgs. 136-157
+
 
 ## Monday, October 27
 
-TBD
+Review
+
+
 
 ## Wednesday, October 29
 
-TBD
+(start of Reading Assignments 04)
+
+pgs. 1-33
+
 
 ## Friday, October 31
 
-TBD
+pgs. 34-51
+
 
 ## Monday, November 3
 
-TBD
+pgs. 52-76
+
+
 
 ## Wednesday, November 5
 
-TBD
+pgs. 77-95
+
+
 
 ## Friday, November 7
 
-TBD
+pgs. 96-118
+
+
 
 ## Monday, November 10
 
-TBD
+Review
+
+
 
 ## Wednesday, November 12
 
-TBD
+pgs. 119-146
+
+
 
 ## Friday, November 14
 
-TBD
+pgs. 147-183
+
+
 
 ## Monday, November 17
 
-TBD
+pgs. 184-229
+
+
 
 ## Friday, November 21 (Flex day on academic calendar)
+
+pgs. 230-271
+
 
 ## Monday, November 24
 
