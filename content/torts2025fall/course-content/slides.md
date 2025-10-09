@@ -48,3 +48,5 @@ weight: 10
 **18 - Duties of Landowners and Occupiers** | [(.pdf)](/../../torts2025fall-material/slides/18-landowners.pdf) | [(webpage)](/../../torts2025fall-material/slides/18-landowners)
 
 **19 - Midterm Exam Review** | [(.pdf)](/../../torts2025fall-material/slides/19-midterm.pdf) | [(webpage)](/../../torts2025fall-material/slides/19-midterm)
+
+**20 - Medical Malpractice** | [(.pdf)](/../../torts2025fall-material/slides/20-medical.pdf) | [(webpage)](/../../torts2025fall-material/slides/20-medical)

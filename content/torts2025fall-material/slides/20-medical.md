@@ -1,14 +1,17 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Medical Malpractice
+profile: false
 
+share: false
 
-# Medical Malpractice
+show_date: false
 
 ---
+
+
+
+
 
 ![inline](images/duty-6a.jpg)
 
@@ -40,7 +43,7 @@ Footer:
 
 In medical malpractice, the ultimate question is still:
 
-# [fit] Reasonable Care
+# Reasonable Care
 
 ---
 
