@@ -50,3 +50,5 @@ weight: 10
 **19 - Midterm Exam Review** | [(.pdf)](/../../torts2025fall-material/slides/19-midterm.pdf) | [(webpage)](/../../torts2025fall-material/slides/19-midterm)
 
 **20 - Medical Malpractice** | [(.pdf)](/../../torts2025fall-material/slides/20-medical.pdf) | [(webpage)](/../../torts2025fall-material/slides/20-medical)
+
+**21 - Purely Emotional Harm** | [(.pdf)](/../../torts2025fall-material/slides/21-nied.pdf) | [(webpage)](/../../torts2025fall-material/slides/21-nied)

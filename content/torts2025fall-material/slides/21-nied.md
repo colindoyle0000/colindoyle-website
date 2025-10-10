@@ -1,12 +1,14 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# Purely Emotional Harm
+title: Purely Emotional Harm
+profile: false
+
+share: false
+
+show_date: false
 
 ---
+
 
 # Review Exercise
 
@@ -42,11 +44,11 @@ Requires a reasonable fear of immediate physical injury
 
 ---
 
-## [fit] Few notions anywhere in the law are more vague than
+## Few notions anywhere in the law are more vague than
 
-## [fit] the fundamental concept of the law of negligence:
+## the fundamental concept of the law of negligence:
 
-## [fit]  the duty of reasonable care.
+## the duty of reasonable care.
 
 
 
