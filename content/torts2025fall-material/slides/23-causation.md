@@ -1,16 +1,16 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Causation
 
+profile: false
 
+share: false
 
-
-# Causation
+show_date: false
 
 ---
+
+
 
 # Causation
 
