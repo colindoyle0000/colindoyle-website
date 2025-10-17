@@ -56,3 +56,5 @@ weight: 10
 **22 - Causation** | [(.pdf)](/../../torts2025fall-material/slides/22-causation.pdf) | [(webpage)](/../../torts2025fall-material/slides/22-causation)
 
 **23 - Causation** | [(.pdf)](/../../torts2025fall-material/slides/23-causation.pdf) | [(webpage)](/../../torts2025fall-material/slides/23-causation)
+
+**24 - Proximate Cause** | [(.pdf)](/../../torts2025fall-material/slides/24-proximate-cause.pdf) | [(webpage)](/../../torts2025fall-material/slides/24-proximate-cause)

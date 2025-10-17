@@ -1,14 +1,15 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Proximate Cause
 
+profile: false
 
-# Proximate Cause
+share: false
+
+show_date: false
 
 ---
+
 
 # Market Share Liability
 
@@ -171,7 +172,7 @@ VI. Alternatives to Tort
 
 ---
 
-![fit](/Users/colindoyle/Documents/Loyola/Torts/2023_2024/torts-slides-2023/images/danger-invites-rescue.jpg)
+![](/Users/colindoyle/Documents/Loyola/Torts/2023_2024/torts-slides-2023/images/danger-invites-rescue.jpg)
 
 
 —
