@@ -58,3 +58,5 @@ weight: 10
 **23 - Causation** | [(.pdf)](/../../torts2025fall-material/slides/23-causation.pdf) | [(webpage)](/../../torts2025fall-material/slides/23-causation)
 
 **24 - Proximate Cause** | [(.pdf)](/../../torts2025fall-material/slides/24-proximate-cause.pdf) | [(webpage)](/../../torts2025fall-material/slides/24-proximate-cause)
+
+**25 - Vicarious Liability** | [(.pdf)](/../../torts2025fall-material/slides/25-vicarious-liability.pdf) | [(webpage)](/../../torts2025fall-material/slides/25-vicarious-liability)
