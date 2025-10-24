@@ -62,3 +62,5 @@ weight: 10
 **25 - Vicarious Liability** | [(.pdf)](/../../torts2025fall-material/slides/25-vicarious-liability.pdf) | [(webpage)](/../../torts2025fall-material/slides/25-vicarious-liability)
 
 **26 - Contributory Negligence** | [(.pdf)](/../../torts2025fall-material/slides/26-contributory-negligence.pdf) | [(webpage)](/../../torts2025fall-material/slides/26-contributory-negligence)
+
+**27 - Assumption of Risk** | [(.pdf)](/../../torts2025fall-material/slides/27-assumption.pdf) | [(webpage)](/../../torts2025fall-material/slides/27-assumption)

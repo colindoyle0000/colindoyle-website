@@ -1,14 +1,17 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Assumption of Risk
 
+profile: false
 
-# Assumption of Risk
+share: false
+
+show_date: false
 
 ---
+
+
+
 
 # Midterm Review
 
