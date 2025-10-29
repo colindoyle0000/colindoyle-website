@@ -1,14 +1,16 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Strict Liability
 
+profile: false
 
-# Strict Liability
+share: false
+
+show_date: false
 
 ---
+
+
 
 # Office Hours
 
@@ -268,14 +270,23 @@ Sage Club v. Hunt: “The Violent Bartender”
 # Contributory Negligence in General:
 
 **The defendant is not liable**
+
 **If** the plaintiff was also negligent 
+
 --- Duty,
+
 --- Breach,
+
 --- Causation, and
+
 --- Harm
+
 **Unless** an exception applies:
+
 --- Last clear chance,
+
 --- Recklessness or willfulness of defendant, or
+
 --- Statute
 
 ---
@@ -300,9 +311,11 @@ Two versions:
 # Order of operations with multiple injuries and multiple liable defendants
 
 **First step:**
+
 Separate injuries based on factual cause.
 
 **Second step:**
+
 For injuries that multiple defendants caused, sort out liability based on the contribution rule in the jurisdiction.
 
 ---
@@ -394,12 +407,19 @@ A person who for his own purpose brings onto his land and collects and keeps the
 # Limits on Strict Liability
 
 Fletcher v. Rylands
+
 --- PWFOPBOHL&C&KTALDMIIE
+
 Rylands v. Fletcher
+
 --- PWFOPBOHL&C&KTA “non-natural” and LDMIIE
+
 First Restatement
+
 --- “ultrahazardous activity”
+
 Second Restatement
+
 --- “abnormally dangerous activity”
 
 ---
@@ -408,7 +428,7 @@ Second Restatement
 
 ---
 
-![](/Users/colindoyle/Documents/Loyola/Torts/2023_2024/torts-slides-2023/old/images/posner.jpg)
+![](images/posner.jpg)
 
 ---
 
@@ -458,7 +478,7 @@ AND
 
 ---
 
-![70%](/Users/colindoyle/Documents/Loyola/Torts/2023_2024/torts-slides-2023/images/traynor.jpg)
+![70%](images/traynor.jpg)
 
 ---
 

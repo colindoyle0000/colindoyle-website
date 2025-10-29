@@ -66,3 +66,5 @@ weight: 10
 **27 - Assumption of Risk** | [(.pdf)](/../../torts2025fall-material/slides/27-assumption.pdf) | [(webpage)](/../../torts2025fall-material/slides/27-assumption)
 
 **28 - Review** | [(.pdf)](/../../torts2025fall-material/slides/28-review.pdf) | [(webpage)](/../../torts2025fall-material/slides/28-review)
+
+**29 - Strict Liability** | [(.pdf)](/../../torts2025fall-material/slides/29-strict-liability.pdf) | [(webpage)](/../../torts2025fall-material/slides/29-strict-liability)
