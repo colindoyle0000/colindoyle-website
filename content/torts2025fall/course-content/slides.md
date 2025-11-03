@@ -68,3 +68,7 @@ weight: 10
 **28 - Review** | [(.pdf)](/../../torts2025fall-material/slides/28-review.pdf) | [(webpage)](/../../torts2025fall-material/slides/28-review)
 
 **29 - Strict Liability** | [(.pdf)](/../../torts2025fall-material/slides/29-strict-liability.pdf) | [(webpage)](/../../torts2025fall-material/slides/29-strict-liability)
+
+**30 - Products Liability** | [(.pdf)](/../../torts2025fall-material/slides/30-products-liability.pdf) | [(webpage)](/../../torts2025fall-material/slides/30-products-liability)
+
+**31 - Products Liability & Intentional Torts** | [(.pdf)](/../../torts2025fall-material/slides/31-products-liability-intent.pdf) | [(webpage)](/../../torts2025fall-material/slides/31-products-liability-intent)
