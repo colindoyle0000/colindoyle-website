@@ -1,16 +1,16 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# Products Liability
+title: Products Liability & Intentional Torts
 
-# &
+profile: false
 
-# Intentional Torts
+share: false
+
+show_date: false
 
 ---
+
+
 
 
 
@@ -26,15 +26,8 @@ Footer:
 
 ---
 
-# In-Class Performance
 
-Rueben the bear → Alex
-Raccoon → Hannah
-Turtle → Jack
-Bigfoot → Cooper
-Dog → Amarachi
 
----
 
 ![100%](images/wp02.jpeg)
 

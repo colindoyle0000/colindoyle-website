@@ -1,12 +1,16 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# Products Liability
+title: Products Liability
+
+profile: false
+
+share: false
+
+show_date: false
 
 ---
+
+
 
 # Strict Liability
 
@@ -25,7 +29,7 @@ Second Restatement
 
 ---
 
-# [fit] Indiana Harbor Belt v. American Cyanamid
+# Indiana Harbor Belt v. American Cyanamid
 
 **Strict liability applies for behavior that is:**
 
@@ -37,9 +41,9 @@ AND
 
 ---
 
-# [fit] Tort law is the law of
-# [fit] negligence.
-# [fit] Strict liability is the law of tort law when negligence fails.
+# Tort law is the law of
+# negligence.
+# Strict liability is the law of tort law when negligence fails.
 
 ---
 
@@ -160,9 +164,9 @@ Two tests:
 
 ---
 
-# [fit] Not at
+# Not at
 
-# [fit] all clear!
+# all clear!
 
 It depends upon the  “everyday experience of the product’s users”
 
@@ -176,7 +180,7 @@ It depends upon the  “everyday experience of the product’s users”
 
 
 
-# [fit]“Reasonable Alternative Design”
+# “Reasonable Alternative Design”
 
 ---
 
@@ -237,17 +241,9 @@ Warnings can’t overcome design defects
 
 “Refrigerator Fire”
 
----
 
-# Plaintiff’s failure to discover a defect
 
-**Restatement (Second) of Torts**
-Contributory negligence of the plaintiff is not a defense when such negligence consists merely in a failure to discover the defect in the product, or to guard against the possibility of its existence.
-
-**Restatement Third**
-[W]hen the defendant claims that the plaintiff failed to discover a defect, there must be evidence that the plaintiff’s conduct in failing to discover a defect did, in fact, fail to meet a standard of reasonable care. In general, a plaintiff has no reason to expect that a new product contains a defect and would have little reason to be on guard to discover it.
-
-—
+—--
 
 # Comparative Responsibility is Hard
 
