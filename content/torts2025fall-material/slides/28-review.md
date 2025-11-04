@@ -1,9 +1,14 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Review
+
+profile: false
+
+share: false
+
+show_date: false
+
+---
 
 
 # Assumption of Risk
@@ -12,7 +17,7 @@ Footer:
 
 ---
 
-# [fit] Hanks v. Powder Ridge Restaurant Corp.
+# Hanks v. Powder Ridge Restaurant Corp.
 
 “Snowtubing Waiver”
 
