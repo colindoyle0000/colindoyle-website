@@ -1,12 +1,15 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# Intentional Torts
+title: Intentional Torts
+
+profile: false
+
+share: false
+
+show_date: false
 
 ---
+
 
 # Intent
 
@@ -35,15 +38,19 @@ A person acts with the intent to produce a consequence if:
 ## The legal interest that each intentional tort addresses
 
 **Battery**
+
 Freedom from harmful or offensive contact
 
 **Assault**
+
 Freedom from apprehension of harmful or offensive contact
 
 **False Imprisonment**
+
 Freedom from confinement
 
 **IIED**
+
 Freedom from severe emotional distress
 
 
@@ -74,8 +81,11 @@ An actor is subject to liability to another for battery if he acts intending to 
 **Interest Protected:** Freedom from apprehension of harmful or offensive contact
 
 **Abridged Definition from Restatement (Second) of Torts**
+
 An actor is subject to liability to another for assault if
+
 (a) he acts intending to cause a harmful or offensive contact with the person of the other or a third person, or an imminent apprehension of such a contact, and
+
 (b) the other is thereby put in such imminent apprehension.
 
 ---
@@ -111,9 +121,13 @@ An actor is subject to liability to another for assault if
 **Interest Protected:** Freedom from confinement
 
 **Abridged Definition from Restatement (Second) of Torts**
+
 An actor is subject to liability to another for false imprisonment if
+
 (a) he acts intending to confine the other or a third person within boundaries fixed by the actor, and
+
 (b) his act directly or indirectly results in such a confinement of the other, and
+
 (c) the other is conscious of the confinement or is harmed by it.
 
 ---
@@ -139,6 +153,7 @@ An actor is subject to liability to another for false imprisonment if
 **Interest Protected:** Freedom from severe emotional distress
 
 **Second Restatement Definition**
+
 “One who by extreme and outrageous conduct intentionally or recklessly causes severe emotional distress to another is subject to liability for such emotional distress, and if bodily harm to the other results from it, for such bodily harm.”
 
 ---
@@ -187,15 +202,19 @@ An actor is subject to liability to another for false imprisonment if
 ## The legal interest that each intentional tort addresses
 
 **Battery**
+
 Freedom from harmful or offensive contact
 
 **Assault**
+
 Freedom from apprehension of harmful or offensive contact
 
 **False Imprisonment**
+
 Freedom from confinement
 
 **IIED**
+
 Freedom from severe emotional distress
 
 
