@@ -1,8 +1,14 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer: 
+---
+
+title: Review
+
+profile: false
+
+share: false
+
+show_date: false
+
+---
 
 # Intentional Torts
 
@@ -99,12 +105,19 @@ Lack of informed consent
 # Limits on Strict Liability
 
 Fletcher v. Rylands
+
 --- PWFOPBOHL&C&KTALDMIIE
+
 Rylands v. Fletcher
+
 --- PWFOPBOHL&C&KTA “non-natural” and LDMIIE
+
 First Restatement
+
 --- “ultrahazardous activity”
+
 Second Restatement
+
 --- “abnormally dangerous activity”
 
 ---
@@ -122,6 +135,7 @@ Second Restatement
 ## Affirmative Defenses
 
 Comparative Negligence
+
 Assumption of Risk
 
 ---
@@ -129,15 +143,23 @@ Assumption of Risk
 # Intentional Torts
 
 Intentional Torts:
+
 --- Battery
+
 --- Assault
+
 --- False imprisonment
+
 --- Intentional infliction of emotional distress
 
 Defenses:
+
 --- Consent
+
 --- Self-defense
+
 --- Defense of property
+
 --- Necessity
 
 ----
@@ -154,15 +176,19 @@ Defenses:
 ## The legal interest that each intentional tort addresses
 
 **Battery**
+
 Freedom from harmful or offensive contact
 
 **Assault**
+
 Freedom from apprehension of harmful or offensive contact
 
 **False Imprisonment**
+
 Freedom from confinement
 
 **IIED**
+
 Freedom from severe emotional distress
 
 
@@ -170,8 +196,11 @@ Freedom from severe emotional distress
 ---
 
 **Abridged Definition from Restatement (Third) of Torts**
+
 A person acts with the intent to produce a consequence if:
+
 (a) the person acts with the purpose of producing that consequence; or
+
 (b) the person acts knowing that the consequence is substantially certain to result.
 
 ---
@@ -190,7 +219,7 @@ An actor is subject to liability to another for battery if he acts intending to 
 
 ---
 
-![inline](/Users/colindoyle/Documents/Loyola/Torts/2025-2026/slides/images/battery.jpg)
+![inline](images/battery.jpg)
 
 
 
@@ -199,13 +228,16 @@ An actor is subject to liability to another for battery if he acts intending to 
 # Assault
 
 **Abridged Definition from Restatement (Second) of Torts**
+
 An actor is subject to liability to another for assault if
+
 (a) he acts intending to cause a harmful or offensive contact with the person of the other or a third person, or an imminent apprehension of such a contact, and
+
 (b) the other is thereby put in such imminent apprehension.
 
 ---
 
-![inline](/Users/colindoyle/Documents/Loyola/Torts/2025-2026/slides/images/assault.jpg)
+![inline](images/assault.jpg)
 
 ---
 
@@ -221,7 +253,7 @@ An actor is subject to liability to another for false imprisonment if
 
 ---
 
-![inline](/Users/colindoyle/Documents/Loyola/Torts/2025-2026/slides/images/false.jpg)
+![inline](images/false.jpg)
 
 
 ---
