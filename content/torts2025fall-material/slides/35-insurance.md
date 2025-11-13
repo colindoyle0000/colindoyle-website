@@ -1,9 +1,14 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer: 
+---
 
+title: Insurance
+
+profile: false
+
+share: false
+
+show_date: false
+
+---
 ### Products Liability Exercise
 
 You are a junior associate at a plaintiff-side firm. A partner at the firm has brought you in to work on an interesting new case. The potential plaintiff, a nine-year-old boy named Augustus Gloop, choked on a hot dog during lunch in his elementary school cafeteria. The child survived — thanks to a gym teacher’s training in first aid and CPR — but suffered serious injuries. His family is now interested in suing Oscar Meyer Weiner, the company that produced this hot dog.
@@ -22,19 +27,33 @@ The partner at your firm doesn’t typically litigate products liability cases, 
 # The Big Picture
 
 ~~Torts~~
+
 ~~--- Remedies~~
+
 ~~--- Negligence~~
+
 ~~------ Breach~~
+
 ~~------ Duty~~
+
 ~~------ Causation~~
+
 ~~------ Defenses~~
+
 ~~--- Strict Liability~~
+
 ~~------ Traditional view~~
+
 ~~------ Products liability~~
+
 ~~--- Intentional Torts~~
+
 Not Torts
+
 ------ Insurance
+
 ------ Workers’ Compensation
+
 ------ Alternatives to Tort
 
 ---
@@ -43,12 +62,13 @@ Not Torts
 
 —
 
-# [fit] 1) Positive and Negative Space
+# 1) Positive and Negative Space
 
 _Napoleon Leading the Army over the Alps_
+
 Kehinde Wiley
 
-![right](images/nap.jpg)
+![](images/nap.jpg)
 
 ---
 
@@ -141,9 +161,11 @@ A defendant injures a plaintiff. The plaintiff’s health insurance provider cov
 # Hypos on Impact of Insurance
 
 First party insurance for dock owner in
+
 _Vincent v. Lake Erie Transport Co._
 
 Liability insurance for recommendation writers in
+
 _Randi W. v. Muroc Joint Unified School District_
 
 ---
