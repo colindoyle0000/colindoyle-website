@@ -80,3 +80,7 @@ weight: 10
 **34 - Review** | [(.pdf)](/../../torts2025fall-material/slides/34-review.pdf) | [(webpage)](/../../torts2025fall-material/slides/34-review)
 
 **35 - Insurance** | [(.pdf)](/../../torts2025fall-material/slides/35-insurance.pdf) | [(webpage)](/../../torts2025fall-material/slides/35-insurance)
+
+**36 - Workers' Compensation** | [(.pdf)](/../../torts2025fall-material/slides/36-workers-comp.pdf) | [(webpage)](/../../torts2025fall-material/slides/36-workers-comp)
+
+**37 - Workers' Compensation & No-Fault Systems** | [(.pdf)](/../../torts2025fall-material/slides/37-wc-no-fault.pdf) | [(webpage)](/../../torts2025fall-material/slides/37-wc-no-fault)
