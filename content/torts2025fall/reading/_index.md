@@ -230,13 +230,13 @@ pgs. 184-229
 
 
 
-## Friday, November 21 (Flex day on academic calendar)
+## Wednesday, November 19 (Flex day on academic calendar)
 
 pgs. 230-271
 
 
-## Monday, November 24
+## Final Review Class (Optional) 
 
-No class due to professor conflict
+Friday, December 5
 
-## Final Review Class Date TBD
+1:30pm Merrifield Hall
