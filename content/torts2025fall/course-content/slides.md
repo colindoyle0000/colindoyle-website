@@ -84,3 +84,5 @@ weight: 10
 **36 - Workers' Compensation** | [(.pdf)](/../../torts2025fall-material/slides/36-workers-comp.pdf) | [(webpage)](/../../torts2025fall-material/slides/36-workers-comp)
 
 **37 - Workers' Compensation & No-Fault Systems** | [(.pdf)](/../../torts2025fall-material/slides/37-wc-no-fault.pdf) | [(webpage)](/../../torts2025fall-material/slides/37-wc-no-fault)
+
+**38 - No-Fault Systems** | [(.pdf)](/../../torts2025fall-material/slides/38-no-fault.pdf) | [(webpage)](/../../torts2025fall-material/slides/38-no-fault)

@@ -1,13 +1,16 @@
-theme: Colin
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer: 
+---
 
+title: No-Fault and Beyond
 
-# No-Fault and Beyond
+profile: false
+
+share: false
+
+show_date: false
 
 ---
+
+
 
 
 
@@ -174,7 +177,7 @@ Proposal:
 
 —
 
-# [fit] Muss Es Sein? Not Necessarily, Says Tort Law
+# Muss Es Sein? Not Necessarily, Says Tort Law
 Anita Bernstein
 
 A defense of tort law as progressive. How so?
