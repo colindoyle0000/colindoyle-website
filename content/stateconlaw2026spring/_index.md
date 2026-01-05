@@ -1,6 +1,6 @@
 ---
 linktitle: Welcome to State Constitutional Law!
-title: State Constitutional Law (Spring 2024)
+title: State Constitutional Law (Spring 2026)
 type: book # Do not modify.
 toc: false
 ---
