@@ -5,7 +5,7 @@ summary: Assigned reading for class, organized chronologically.
 weight: 20
 # icon: book-reader
 # icon\_pack: fas
-draft: false
+draft: true
 # Page metadata.
 title: Reading Assignments
 date: '2022-08-14T00:00:00Z'
