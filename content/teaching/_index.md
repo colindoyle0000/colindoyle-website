@@ -12,6 +12,11 @@ The following course websites are available to the public. The websites contain 
 
 ## Current Courses:
 
+### Law and AI Lab  <br>
+Spring 2026 <br>
+Loyola Law School, Los Angeles <br>
+[Course Website](../lawailab2026spring)
+
 ### State Constitutional Law  <br>
 Spring 2026 <br>
 Loyola Law School, Los Angeles <br>
