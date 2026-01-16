@@ -53,7 +53,42 @@ Colin Cornaby, [In the Future All Food Will Be Cooked in a Microwave, and if You
 
 ## Jan. 21, 2026
 
-To be determined.
+This week, we will continue our discussion of generative AI and the legal profession, starting close to home with law school by finishing our drafts and discussion of generative AI policies for law school classes.
+
+The assignments for the groups assigned at the end of last class are:
+
+Groups 1, 3: Draft a generative AI policy for this class
+
+Groups 2, 4: Draft a default generative AI policy for seminar classes
+
+Group 5: Draft a default generative AI policy for doctrinal classes
+
+To prepare for class on Wednesday, students should take notes that address the following questions:
+
+- What problems arise, if any, from a policy that allows unrestricted use of generative AI?
+- What problems arise, if any, from a policy that bans all use of generative AI?
+- How might these problems be mitigated through policy design?
+- To design a better policy, what information, skills, or resources would be helpful?
+
+At the start of class, each group will have 15 minutes to share notes with one another and create a draft policy. Each group will then present their draft policy to the class, along with their answers to the questions above.
+
+Each of the first few weeks of class will also include some time dedicated to learning about how machine learning and generative AI tools are built and function under the hood.
+
+The rest of the class will be devoted to a broader discussion of generative AI rules and policies for the legal profession. Included in the readings below are websites that have collected examples of lawyers filing court documents that included AI-generated hallucinations, as well as examples of courts issuing standing orders and local rules regarding the use of AI by lawyers. For class, you're not expected to read through all of the examples on these websites. Instead, try to skim through a random selection of examples to get a sense of the types of issues that have arisen so far. Take notes on what stands out to you, what questions you have, what patterns you notice, and what additional information you would like to learn. Our discussion will start with students being randomly called on to share their notes and observations so that we can collectively get a better sense of the landscape of the issues and responses that have arisen so far.
+
+
+_Readings:_
+
+Damien Charlotin, Website, [AI Hallucination Cases](https://www.damiencharlotin.com/hallucinations/)
+
+Ropes & Gray, [Standing Orders and Local Rules on the Use of AI](https://www.ropesgray.com/en/sites/artificial-intelligence-court-order-tracker)
+
+The State Bar of California Standing Committee on Professional Responsibility and Conduct, [Practical Guidance for the Use of Generative Artificial Intelligence in the Practice of Law](https://www.calbar.ca.gov/sites/default/files/portals/0/documents/ethics/Generative-AI-Practical-Guidance.pdf)
+
+Colin Doyle, [Automation and Access to Justice](https://watermark02.silverchair.com/ajle.a.6.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAyMwggMfBgkqhkiG9w0BBwagggMQMIIDDAIBADCCAwUGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMD6Dy4uhf265jT-_XAgEQgIIC1uywYgO8B-P18jsGm0MdWrwzFLvUCWvDmsf8VQU-pOJ73l25GORb08Q4aSv-Tv7FmObQ7U2hiKhqjiay769QRZP8LrH-M2VsbG66aVtF9V0SPs_gCCi68RVTPPFkUYrtJOU8Vh6cznwUYFEJIMXBhbCnUSo-t8acmk4sO2L5q8fd8G_bbQvG1CuozZTfP_jOdJ7SeFJHiKWuI14DBKz_GyIxOuw7BTqe-yKvQf6n_UsE8VzyzJ9Sc4_ckZzeqioynQ7JDLt9ZqFv5bpM3zC_Bn2MDghoi9jfocmLcW-82K5z9Adxj3bymD4HtIwAL8jeLPjZAfGMW3YQEwVx2KF4g3P0xU_59gh4UnZiAgLmUkcVGmgLNxUkv-aojp_y6Tcv8dhA-xFuIckqA9rihMmGSAiTbcUKQ8XlmELkFnQTYw7x-pZRbPKXP3xFDC5C_cDjHzfZNcX9bRDaXUe8SSeEB1Hw8Re920yemx9fW0In56gVuSbQ9_voi3PgwcgngMVro6x6bzEoPhuLYknb463fn4ot9VOc99JZ2545czSdv7u2u-dIPJp1Mf6xRNIYXLXdTBgaGHw838fkQluAmC7wiPueKHfYytpig7vmYMuKtRw1Mu749TTS7S6q1WaB45UjGyOkgXutkUTSDBy5BmFPQugcVbs6-LUx6TLZwmlScc0yu3hZyf0RKvq24AFez3hGVN5oNjl0RMR8fmhQ6pu5NdynajPooHTu2xinGjKtu5qfxjKNCE1lb5DCkUhooUfYs40rdr0OTaC3YN7DABHO-eUPPZy4e5e0qA4jnlRe9JtGJai2ozVHMk5Isdi-BQPFzJ6HrxzEoIZ_chCavNwEaoCvaZ08vJy9VQXsPFgiLPuiF5aUT5610Z9B-0oJ0F5441mpkV5gRMI8wqwGnEMz01QsKsMbr3TC-X9jePZJ5nowX9sqXeMhBBMQ9slwVaO4FNCvy7nYmw), pgs. 61-75 (2025).
+I'm a little sheepish about assigning my own work as reading, but this passage is just a succinct, accessible introduction to how LLMs work and their limitations for legal reasoning. Anything I assign in class that I've written should be open to challenge and critique as much as anyone else's work. I imagine (or at least hope) that I am my own worst critic.
+
+
 
 ## Jan. 28, 2026
 
