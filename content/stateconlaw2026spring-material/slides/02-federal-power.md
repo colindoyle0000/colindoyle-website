@@ -1,17 +1,15 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Limited Federal Powers
+profile: false
 
+share: false
 
-
-
-# [fit] State Constitutional Law
-# [fit] Limited Federal Powers
+show_date: false
 
 ---
+
+
 
 # Why take state constitutional law?
 
@@ -95,11 +93,15 @@ To exercise exclusive Legislation in all Cases whatsoever, over such District (n
 # The Commerce Clause
 
 **Gonzales v. Raich**
+
 545 U.S. 1 (2005)
 
 *Important prior cases:*
+
 Wickard v. Filburn (1942)
+
 United States v. Morrison (1994)
+
 United States v. Lopez (1995)
 
 ---
@@ -129,6 +131,9 @@ The case makes its way to the U.S. Supreme Court. You are Supreme Court justices
 Consider the following hypothetical federal laws:
 
 Criminalization of shoplifting.
+
 Criminalization of murder.
+
 Criminalization of abortion.
+
 Ban on gay marriage.

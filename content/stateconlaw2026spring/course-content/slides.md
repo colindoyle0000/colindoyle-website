@@ -10,3 +10,7 @@ weight: 10
 ---
 
 The slides for each class session will be made available here in both PDF and webpage format.
+
+**01 - Welcome to State Constitutional Law!** | [(.pdf)](/../../stateconlaw2026spring-material/slides/01-welcome.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/01-welcome)
+
+**02 - Federal Power** | [(.pdf)](/../../stateconlaw2026spring-material/slides/02-federal-power.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/02-federal-power)

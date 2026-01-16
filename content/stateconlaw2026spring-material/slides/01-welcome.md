@@ -1,16 +1,17 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Welcome to State Constitutional Law!
+profile: false
 
+share: false
 
-
-
-# [fit] Welcome to State Constitutional Law!
+show_date: false
 
 ---
+
+
+
+
 
 # Syllabus highlights
 
@@ -19,15 +20,21 @@ Footer:
 # Logistics
 
 **Contact information**
+
 Colin.Doyle@lls.edu
+
 Office: Burns 315
+
 Telephone: 213-736-1148
 
 **Class schedule**
+
 Tuesdays & Thursdays from 10:20am to 11:50am  
+
 Burns 220
 
 **Office hours**
+
 By appointment in Burns 315.
 
 ---
@@ -112,33 +119,46 @@ Open book final exam.
 # Unique Features of State Constitutions
 
 \- Easy to amend
+
 \- Long
+
 \- Positive rights and unique rights
 
 ---
 
 # Topics for State Constitutional Law
 
-[.column]
 
 \- Federal and State power
+
 \- Equality (Race, Gender, Age, Sexual orientation, Economic)
+
 \- Voting Rights
+
 \- Due Process
+
 \- Reproductive Rights
+
 \- Privacy
+
 \- Intimate Relationships
+
 \- Marriage
 
-[.column]
-
 \- Criminal Procedure
+
 \- Property Rights
+
 \- Religion
+
 \- School Funding
+
 \- Unique states rights
+
 \- Organization of state government
+
 \- Local government
+
 \- Admin law
 
 ---
@@ -197,11 +217,15 @@ To make all Laws which shall be necessary and proper for carrying into Execution
 # The Commerce Clause
 
 **Gonzales v. Raich**
+
 545 U.S. 1 (2005)
 
 *Important prior cases:*
+
 Wickard v. Filburn (1942)
+
 United States v. Morrison (1994)
+
 United States v. Lopez (1995)
 
 ---
@@ -209,7 +233,9 @@ United States v. Lopez (1995)
 # The Spending Power
 
 **NFIB v. Sebelius**
+
 567 U.S. 519 (2012)
 
 *Important prior cases:*
+
 South Dakota v. Dole (1987)
