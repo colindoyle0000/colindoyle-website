@@ -19,7 +19,6 @@ show_date: false
 
 # http://bit.ly/4jIeodB
 
-![inline](images/qr_code.png)
 
 ---
 # State and Federal Power
