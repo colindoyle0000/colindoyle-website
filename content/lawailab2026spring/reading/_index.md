@@ -95,6 +95,9 @@ I'm a little sheepish about assigning my own work as reading, but this passage i
 In class this week, we will start by continuing our discussion from last week regarding generative AI policies for the law schools and the legal profession. Then, we will take a moment to understand the fundamentals of what machine learing is and how machine learning models are trained. Finally, we will turn to the topic of experimental design and how to design experiments to test hypotheses about AI and law. It's an information-dense week, but it will provide a foundation that will enrich our discussions in the weeks to come.
 
 _Readings:_
+
+[**DOWNLOAD ALL READINGS FOR JAN. 28 HERE**](jan28_readings.zip)
+
 Machine Learning: A Primer: an introduction for both technical and non-technical readers
 <br> Lizzie Turner, Medium: Artificial Intelligence (May 26, 2018)
 <br> Read all.
