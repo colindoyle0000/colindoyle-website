@@ -92,7 +92,22 @@ I'm a little sheepish about assigning my own work as reading, but this passage i
 
 ## Jan. 28, 2026
 
-To be determined.
+In class this week, we will start by continuing our discussion from last week regarding generative AI policies for the law schools and the legal profession. Then, we will take a moment to understand the fundamentals of what machine learing is and how machine learning models are trained. Finally, we will turn to the topic of experimental design and how to design experiments to test hypotheses about AI and law. It's an information-dense week, but it will provide a foundation that will enrich our discussions in the weeks to come.
+
+_Readings:_
+Machine Learning: A Primer: an introduction for both technical and non-technical readers
+<br> Lizzie Turner, Medium: Artificial Intelligence (May 26, 2018)
+<br> Read all.
+
+An Introduction to Statistical Learning with Applications in R
+<br> Gareth James, Daniela Witten, Trevor Hastie, & Robert Tibshirani (2021)
+<br> Read Introduction pages 1-9 (stop at “Who Should Read This Book?), 15-42.
+
+Teaching Empirical Legal Research Study Design: Topics & Resources (2015)
+<br> Sarah E. Ryan
+<br> Read all.
+
+
 
 ## Feb. 4, 2026
 
