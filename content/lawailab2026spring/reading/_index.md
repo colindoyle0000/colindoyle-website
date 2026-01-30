@@ -114,7 +114,42 @@ Teaching Empirical Legal Research Study Design: Topics & Resources (2015)
 
 ## Feb. 4, 2026
 
-To be determined.
+This week, we will continue our discussion of experimental design and how to design experiments to test hypotheses about AI and law. The readings for this week are light because your main assignment is to design a small, informal experiment to test a hypothesis about generative AI and the law.
+
+_Readings:_
+
+To inspire you to do great work:
+[Richard Hamming, *You and Your Research* (1986)](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf)
+
+To give you a sense of structure for experimental design and reporting (along with citations to related literature that you might find useful):
+[Matthew Dahl, *Bye-bye, Bluebook? Automating Legal Procedure with Large Language Models* (2025)](https://arxiv.org/abs/2505.02763)
+
+_Assignment:_
+
+**Informal Experiment Design**
+
+Due on Tuesday, February 3 by midnight, the night before class via email. Please attach your experiment design notes as a Word document or PDF.
+
+Your assignment is to design a small, informal experiment about language models and law. Think of it as a prototype for a publishable study idea: you’re kicking the tires on a research question and testing out ideas for experimental design. In class on Wednesday, we will workshop some of your experiment designs together and conduct at least one of the experiments live as a class.
+
+Your design document should include the following:
+Title (give your experiment a name)
+Research question
+Hypothesis
+Experimental design
+Limitations and Future Directions
+
+Some notes:
+
+**Research Question:** Select a research question that genuinely interests you. What is a question about generative AI and the law that you want answered? What do you wonder about? Do not use generative AI to come up with your research question as it should be something that *you* care about.
+
+**Hypothesis:** Your hypothesis should be a clear, testable statement that predicts an outcome.
+
+**Experiment Design:** Describe how you will test your hypothesis, including the language models you will use and the interactions you will have with them. 
+
+You may use generative AI to help you think through experimental design. This is a new kind of task for most people. Language models can be useful for pointing out blind spots, suggesting controls, or helping you see alternative designs you hadn’t considered. But engage critically with any suggestions the model makes. You are responsible for the final design of your experiment. You should not include any experimental design or analysis choice that you cannot fully explain and defend.
+
+**Limitations and Future Directions** This is really important! Your experiment won’t be able to fully answer your research question. What are the limitations of your design? What might complicate your findings? How might your results *not* provide a full explanation of the question you’re trying to ask? How could future work build on your experiment to provide a more complete answer to your research question?
 
 ## Feb. 11, 2026
 
