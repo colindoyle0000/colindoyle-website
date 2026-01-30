@@ -139,6 +139,8 @@ Hypothesis
 Experimental design
 Limitations and Future Directions
 
+I have created a sample design document to illustrate what is expected. You can find it [here](sample_design.md).
+
 Some notes:
 
 **Research Question:** Select a research question that genuinely interests you. What is a question about generative AI and the law that you want answered? What do you wonder about? Do not use generative AI to come up with your research question as it should be something that *you* care about.
