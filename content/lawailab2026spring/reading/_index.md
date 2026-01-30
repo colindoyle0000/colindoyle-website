@@ -139,7 +139,7 @@ Hypothesis
 Experimental design
 Limitations and Future Directions
 
-I have created a sample design document to illustrate what is expected. You can find it [here](sample_design.md).
+I have created a sample design document to illustrate what is expected. You can find it [here](sample_design).
 
 Some notes:
 
