@@ -133,10 +133,15 @@ Due on Tuesday, February 3 by midnight, the night before class via email. Please
 Your assignment is to design a small, informal experiment about language models and law. Think of it as a prototype for a publishable study idea: you’re kicking the tires on a research question and testing out ideas for experimental design. In class on Wednesday, we will workshop some of your experiment designs together and conduct at least one of the experiments live as a class.
 
 Your design document should include the following:
+
 Title (give your experiment a name)
+
 Research question
+
 Hypothesis
+
 Experimental design
+
 Limitations and Future Directions
 
 I have created a sample design document to illustrate what is expected. You can find it [here](sample_design).
