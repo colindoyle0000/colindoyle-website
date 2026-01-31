@@ -13,8 +13,8 @@ toc: false
 draft: false
 ---
 
-[Class 01 Slides](/content/lawailab2026spring/course-content/01.pdf)
+[Class 01 Slides](/../../lawailab2026spring-material/01.pdf)
 
-[Class 02 Slides](/content/lawailab2026spring/course-content/02.pdf)
+[Class 02 Slides](/../../lawailab2026spring-material/02.pdf)
 
-[Class 03 Slides](/content/lawailab2026spring/course-content/03.pdf)
+[Class 03 Slides](/../../lawailab2026spring-material/03.pdf)
