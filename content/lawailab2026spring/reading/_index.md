@@ -160,7 +160,24 @@ You may use generative AI to help you think through experimental design. This is
 
 ## Feb. 11, 2026
 
-To be determined.
+This week, we'll turn to AI tools that have been built specifically for doing legal work and consider how to engage with these tools in a critical way to expose their vulnerabilities. The purpose of this lesson is to introduce you to red teaming as a philosophy for critically understanding and engaging with legal tech.
+
+As you do this week's readings, keep in mind that your role for this week's class is to be a member of a red team that maliciously and benevolently stress-tests legal AI software, trying to discover weaknesses.
+
+_Readings:_
+
+Blake Bullwinkel, et al., [_Lessons From Red Teaming 100 Generative
+AI Products_](https://arxiv.org/pdf/2501.07238v1), arXiv preprint, (2025).
+
+Varun Magesh, et al., [_Hallucination-Free? Assessing the Reliability of Leading AI
+Legal Research Tools_](https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf), J. Emp. L. Studies (2025).
+
+
+_Assignment:_
+
+After finishing this week's reading, your job is to get onto WestLaw and LexisNexis and start red-teamin on your own, trying to get their generative AI tools to fail by drawing erroneous conclusions, hallucinating information, or otherwise making errors or misbehaving. Take notes on any methods that produce an interesting or unexpected result. In class, students will be selected at random to share their methods, and the class will collectively try to replicate their results and test out alternatives.
+
+
 
 ## Feb. 18, 2026
 
