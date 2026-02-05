@@ -175,7 +175,7 @@ Legal Research Tools_](https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hal
 
 _Assignment:_
 
-After finishing this week's reading, your job is to get onto WestLaw and LexisNexis and start red-teamin on your own, trying to get their generative AI tools to fail by drawing erroneous conclusions, hallucinating information, or otherwise making errors or misbehaving. Take notes on any methods that produce an interesting or unexpected result. In class, students will be selected at random to share their methods, and the class will collectively try to replicate their results and test out alternatives.
+After finishing this week's reading, your job is to get onto WestLaw and LexisNexis and start red-teaming on your own, trying to get their generative AI tools to fail by drawing erroneous conclusions, hallucinating information, or otherwise making errors or misbehaving. Take notes on any methods that produce an interesting or unexpected result. In class, students will be selected at random to share their methods, and the class will collectively try to replicate their results and test out alternatives.
 
 
 
