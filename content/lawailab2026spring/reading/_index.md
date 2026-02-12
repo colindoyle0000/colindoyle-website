@@ -193,7 +193,7 @@ the Needs of Law Schools,
 Students, and Employers_](https://brightspace.lmu.edu/d2l/le/content/292887/viewContent/3934325/View)(2025).
 
 Thomas Reuters Institute, [_2025 Generative AI in
-Professional Services Report_](https://legal.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/2025-generative-ai-in-professional-services-report-tr5433489-rgb.pdf)(2025).
+Professional Services Report_](https://legal.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/2025-generative-ai-in-professional-services-report-tr5433489-rgb.pdf) (2025).
 
 ## Feb. 25, 2026
 
