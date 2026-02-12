@@ -181,7 +181,19 @@ After finishing this week's reading, your job is to get onto WestLaw and LexisNe
 
 ## Feb. 18, 2026
 
-To be determined.
+This week, we will focus on the technology of language models and how the legal profession is engaging with AI.
+
+_Readings:_
+
+Cole Stryker, [_What are large language models?_](https://www.ibm.com/think/topics/large-language-models), IBM.
+
+LexisNexis, Aspen Publishing, & Themis Bar Review, [_Bridging the AI Readiness Gap:
+A 360-Degree Assessment of
+the Needs of Law Schools,
+Students, and Employers_](https://brightspace.lmu.edu/d2l/le/content/292887/viewContent/3934325/View)(2025).
+
+Thomas Reuters Institute, [_2025 Generative AI in
+Professional Services Report_](https://legal.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/2025-generative-ai-in-professional-services-report-tr5433489-rgb.pdf)(2025).
 
 ## Feb. 25, 2026
 
