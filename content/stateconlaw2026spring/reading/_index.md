@@ -64,16 +64,25 @@ Pgs. 333-351
 
 Pgs. 135-142
 
-## Criminal Procedure
 
 
 
 ## Feb. 12, 2026
 
-Pgs. 415-443
+Class rescheduled due to professor illness.
+
+
+## Criminal Procedure
 
 
 ## Feb. 17, 2026
+
+
+
+Pgs. 415-443
+
+
+## Feb. 19, 2026
 
 Pgs. 444-463
 
@@ -81,20 +90,15 @@ Pgs. 444-463
 ## School Funding
 
 
-## Feb. 19, 2026
-
-Pgs. 677-690
-
 ## Feb. 24, 2026
 
-Pgs. 691-709
 
-## Voting Rights
+Pgs. 677-690
 
 
 ## Feb. 26, 2026
 
-Pgs. 237-265
+Pgs. 691-709
 
 ## Mar. 3, 2026
 
@@ -104,63 +108,86 @@ No class (Spring Break).
 
 No class (Spring Break).
 
+## Voting Rights
+
 ## Mar. 10, 2026
 
-Pgs. 265-289
+Pgs. 237-265
 
-## Unique State Rights
 
 ## Mar. 12, 2026
 
-Pgs. 611-627
+Pgs. 265-289
+
+
+## Unique State Rights
+
 
 ## Mar. 17, 2026
 
-Pgs. 662-674
+Pgs. 611-627
 
-## Environmental Protection
 
 ## Mar. 19, 2026
 
-Pgs. 733-748
+Pgs. 662-674
+
+
+## Environmental Protection
+
 
 ## Mar. 24, 2026
 
-Pgs. 748-768
+Pgs. 733-748
 
-## Administrative Law
 
 ## Mar. 26, 2026
 
-Pgs. 877-896
+Pgs. 748-768
+
 
 ## Mar. 31, 2026
 
 No class (Cesar Chavez Day).
 
+## Administrative Law
+
 ## Apr. 2, 2026
 
-Pgs. 897-917
+Pgs. 877-896
+
 
 ## Apr. 7, 2026
 
-Pgs. 918-937
+Pgs. 897-917
 
-## Local Government
+
 ## Apr. 9, 2026
 
-Pgs. 1071-1101
+Pgs. 918-937
+
+
+## Local Government
+
 
 ## Apr. 14, 2026
 
-Pgs. 1101-1127
+Pgs. 1071-1101
 
-## Amendment Procedures
 
 ## Apr. 16, 2026
 
-Pgs. 1133-1160
+Pgs. 1101-1127
+
+
+## Amendment Procedures
+
 
 ## Apr. 21, 2026
+
+Pgs. 1133-1160
+
+
+## Makeup Class (Date TBD)
 
 Pgs. 1182-1196
