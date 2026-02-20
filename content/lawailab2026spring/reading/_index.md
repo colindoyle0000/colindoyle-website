@@ -197,7 +197,51 @@ Professional Services Report_](https://legal.thomsonreuters.com/content/dam/ewp-
 
 ## Feb. 25, 2026
 
-To be determined.
+Going forward for the semester, we will have fewer reading assignments as students are expected to begin doing their own independent research and reading for their projects and papers. As you explore potential research questions and topics, I encourage you to reach out to me for help finding relevant literature and resources. I will also be available to help you think through your research questions and design your projects. We will continue to dedicate time at the start of each class for students to share their research questions, ideas, and progress with one another. This will be an opportunity for you to get feedback from your peers and to learn about what others are working on.
+
+This week, you will be programming your first computer applications. How exciting! The term ”vibe coding” is a bit of a pejorative term, and ”vibe coders” are often rightly criticized for mindlessly using LLMs to create programs that they think work but that are laden with errors and vulnerabilities. But just because coding with AI assistance can be done in a mindless way doesn’t mean that it can’t be done in a thoughtful way. This is the same issue we've confronted with lawyers use of generative AI more generally. When used thoughtfully and critically, generative AI can be a helpful tool for making basic programming more accessible. 
+
+My goal in this lesson is to set you up with the skills -- and an example portfolio project -- that will set you apart as you apply for jobs and enter the legal profession. As we learned in our readings last week, employers are eager to hire candidates with AI skills and eager to integrate AI tools into their work, but they are disappointed by the lack of AI skills among law school graduates. This week, we will start to address that gap by learning how to use generative AI tools to create simple applications that can be used in legal work. We will also discuss how to critically evaluate and test the applications you create to ensure that they are reliable and secure.
+
+Class this week will be broken up into two parts. The first part will be a demonstration in which I will use generative AI to create a simple, useful application. The second part will be a workshop in which you will use generative AI to create your own simple application, either independently or with a partner. I will be available to help you troubleshoot and think through your projects as you work on them.
+
+_Readings:_
+
+Ethan Mollick, [*A Guide to Which AI to Use in the Agentic Era*](https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the), One Useful Thing (Feb. 17, 2026)
+
+Anthropic, [*How Claude Code Works*](https://code.claude.com/docs/en/how-claude-code-works)
+
+Anthropic, [*Best Practice*](https://code.claude.com/docs/en/best-practices)
+
+_Assignment:_
+
+You need to install some software on your computer before class. I will send out instructions for how to do this in a separate email. Please make sure to complete the installation before class so that you can participate in the workshop portion of the lesson.
+
+You should also decide on an application that you want to create for the workshop. The application should be useful. The goal is to create something that can solve a *real* problem. But limit the scope to doing one thing. Even if you have plans to build out a larger application over time, you want to focuse on creating one feature or function and then building from there. Some examples of applications that came up from our class discussion include:
+
+Tracking weather data and event from calendar and make outfit suggestions
+
+Intake process - alternative to web form or initial interview
+
+To-do list organizer based on your actual performance vs. expectations
+
+Save sources and then retrieve relevant information
+
+Quick social media scroll for information about a person
+
+App that optimizes search queries based on website / overcome navigation issues
+
+Deposition summaries - with pincites to transcript that are also hyperlinks to the exact text moment or quote, closing down reference to any sources, has to be able to parse through nonsense
+
+Deposition reducer
+
+Automatically organize folders or emails
+
+Interactive audio flashcards
+
+Gather resources related to a concept to understand
+
+
 
 ## Mar. 4, 2026
 
