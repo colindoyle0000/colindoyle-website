@@ -211,7 +211,7 @@ Ethan Mollick, [*A Guide to Which AI to Use in the Agentic Era*](https://www.one
 
 Anthropic, [*How Claude Code Works*](https://code.claude.com/docs/en/how-claude-code-works)
 
-Anthropic, [*Best Practice*](https://code.claude.com/docs/en/best-practices)
+Anthropic, [*Best Practices*](https://code.claude.com/docs/en/best-practices)
 
 _Assignment:_
 
