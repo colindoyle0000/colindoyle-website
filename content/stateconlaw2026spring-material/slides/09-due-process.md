@@ -1,12 +1,11 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-#  Due Process
+title: Due Process
+profile: false
 
-# Criminal Procedure
+share: false
+
+show_date: false
 
 ---
 
@@ -61,6 +60,7 @@ To survive judicial review,  the law must further a *compelling* government inte
 ---
 
 **Malabed v. North Slope Borough**
+
 70 P.3d 416 (Alaska 2003)
 
 **Three-step sliding scale test**
@@ -72,11 +72,13 @@ To survive judicial review,  the law must further a *compelling* government inte
 ---
 
 **Commonwealth v. Penn. Interscholastic Athletic Ass’n**
+
 334 A.2d 839 (Pa. Commw. Ct. 1975)
 
 “Sex may longer be accepted as an exclusive classifying tool”
 
 **State v. Rivera** 
+
 612 P.2d 526 (Haw. 1980)
 
 “Not even the ERA, however, forbids all classifications”
@@ -84,11 +86,13 @@ To survive judicial review,  the law must further a *compelling* government inte
 ---
 
 **Driscoll v. Corbett**
+
 69 A.3d 197 (Pa. 2013)
 
 Rational basis
 
 **Arneson v. State**
+
 864 P.2d 1245 (Mont. 1993)
 
 Rational basis
@@ -96,6 +100,7 @@ Rational basis
 ---
 
 **Gartner v. Iowa Dep’t of Public Health**
+
 830 N.W.2s 335 (Iowa 2013)
 
 Heightened scrutiny
@@ -103,6 +108,7 @@ Heightened scrutiny
 
 
 **AFSCME Iowa Council 61 v. State**
+
 928 N.W.2d 21 (Iowa 2019)
 
 Rational basis
@@ -110,6 +116,7 @@ Rational basis
 ---
 
 **Aztec Municipal Schools v. Cardenas**
+
 549 P.3d 488 (N.M. 2024)
 
 Intermediate
@@ -127,7 +134,9 @@ If the government is going to deny someone a life, liberty, or property interest
 972 A.2d 1009 (N.H. 2009)
 
 *Important Precedent:*
+
 Paul v. Davis 
+
 424 U.S. 693 (1976)
 
 —
@@ -155,12 +164,17 @@ If so, what process is due?
 —
 
 # M.E.K. v. R.L.K.
+
 921 So.2d 787 (Fla. App. 2006)
 
 *Supreme Court Precedent:*
+
 Lassiter v. Dep’t of Social Serv. of Durham County, N.C. (1981)
+
 *Florida Precedents:*
+
 O.A.H. v. R.L.A. (1998)
+
 In the Interest of M.C. (2005)
 
 —
@@ -182,15 +196,19 @@ In the Interest of M.C. (2005)
 # Review of Crim Pro Cases
 
 **Sitz v. Department of State Police**
+
 506 N.W.2d 209 (Mich. 1993)
 
 **State v. Hempele**
+
 576 A.2d 793 (N.J. 1990)
 
 **State v. Wright**
+
 961 N.W.2d 396 (Iowa 2021)
 
 **Ohio v. Robinette**
+
 653 N.E.2d 695 (Ohio 1995)
 
 —
@@ -218,9 +236,11 @@ How should stare decisis factor into constitutional interpretation, particularly
 # *Probable Cause*
 
 **People v. Griminger**
+
 524 N.E.2d 409 (N.Y. 1988)
 
 **State v. Tuttle**
+
 515 S.W.3d 282 (Tenn. 2017)
 
 —
@@ -241,9 +261,11 @@ To determine whether an affidavit establishes probable cause, a magistrate shoul
 # *Good Faith Exception*
 
 **State v. Koivu**
+
 272 P.3d 483 (Idaho 2012)
 
 **Commonwealth v. Edmunds**
+
 586 A.2d 887 (Pa. 1991)
 
 —
@@ -251,18 +273,23 @@ To determine whether an affidavit establishes probable cause, a magistrate shoul
 # History of federal exclusionary rule
 
 **Weeks v. United States (1914)**
+
 Federal exclusionary rule.
 
 **Wolf v. Colorado (1949)**
+
 Fourth Amendment applies to states, but remedy up to states to decide.
 
 **Mapp v. Ohio (1961)**
+
 Exclusionary rule applies to the states.
 
 **Stone v. Powell (1976)**
+
 Exclusionary rule not a constitutional right but designed to deter police misconduct.
 
 **United States v. Leon (1984)**
+
 Good faith exception
 
 —
@@ -270,9 +297,11 @@ Good faith exception
 # Idaho Precedents
 
 **State v. Arregui**
+
 (Idaho 1927)
 
 **State v. Rauch**
+
 (Idaho 1978)
 
 —
@@ -286,4 +315,3 @@ For state constitutional law issues, litigants should analyze:
 3. Related case law from other states
 4. Policy considerations
 
----

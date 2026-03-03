@@ -1,12 +1,15 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
+
+title: Criminal Procedure
+profile: false
+
+share: false
+
+show_date: false
+
+---
 
 
-
-# Criminal Procedure
 
 ## *Search and Seizure*
 
@@ -47,9 +50,11 @@ OR IF it’s not a search
 # *Probable Cause*
 
 **People v. Griminger**
+
 524 N.E.2d 409 (N.Y. 1988)
 
 **State v. Tuttle**
+
 515 S.W.3d 282 (Tenn. 2017)
 
 —
@@ -70,9 +75,11 @@ To determine whether an affidavit establishes probable cause, a magistrate shoul
 # *Good Faith Exception*
 
 **State v. Koivu**
+
 272 P.3d 483 (Idaho 2012)
 
 **Commonwealth v. Edmunds**
+
 586 A.2d 887 (Pa. 1991)
 
 —
@@ -80,18 +87,23 @@ To determine whether an affidavit establishes probable cause, a magistrate shoul
 # History of federal exclusionary rule
 
 **Weeks v. United States (1914)**
+
 Federal exclusionary rule.
 
 **Wolf v. Colorado (1949)**
+
 Fourth Amendment applies to states, but remedy up to states to decide.
 
 **Mapp v. Ohio (1961)**
+
 Exclusionary rule applies to the states.
 
 **Stone v. Powell (1976)**
+
 Exclusionary rule not a constitutional right but designed to deter police misconduct.
 
 **United States v. Leon (1984)**
+
 Good faith exception
 
 —
@@ -99,9 +111,11 @@ Good faith exception
 # Idaho Precedents
 
 **State v. Arregui**
+
 (Idaho 1927)
 
 **State v. Rauch**
+
 (Idaho 1978)
 
 ---
@@ -130,15 +144,19 @@ For state constitutional law issues, litigants should analyze:
 # *Warrant Requirement*
 
 **State v. Earls**
+
 70 A.3d 630 (N.J. 2013)
 
 **State v. Bryant**
+
 950 A.2d 467 (Vt. 2008)
 
 **State v. McKelvey**
+
 544 P.3d 632 (Alaska 2024)
 
 **State v. Leonard**
+
 943 N.W.2d 149 (Minn. 2020)
 
 —
@@ -174,11 +192,13 @@ OR IF it’s not a search
 # Contrast
 
 **State v. Earls**
+
 70 A.3d 630 (N.J. 2013)
 
 with
 
 **United States v. Jones (2012)**
+
 Police installation of a tracking device on defendant’s car constitutes a trespass, therefore a a search warrant was required. 
 
 —
@@ -193,11 +213,13 @@ Police installation of a tracking device on defendant’s car constitutes a tres
 # Contrast
 
 **State v. Bryant**
+
 950 A.2d 467 (Vt. 2008)
 
 with
 
 **Florida v. Riley (1989)**
+
 A defendant has no reasonable expectation of privacy from a police helicopter flying above their home, therefore no search warrant is required.
 
 ---
@@ -242,4 +264,3 @@ The defendant had an expectation of privacy, and this expectation of privacy is 
 1. Defendant had an expectation of privacy
 2. This expectation of privacy is one that society finds reasonable
 
----

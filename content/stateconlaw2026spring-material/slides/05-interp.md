@@ -1,18 +1,23 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# [fit] Theories for Construing State Constitutions
+title: Theories for Construing State Constitutions
+profile: false
 
-# [fit] Similarly Worded Provisions
+share: false
+
+show_date: false
+
+---
+
+
+# Similarly Worded Provisions
 
 ---
 
 # Federal and State Power Recap
 
 Federal power - limited and enumerated
+
 State power - open ended (but can be preempted by federal law)
 
 ---
@@ -29,7 +34,7 @@ State power - open ended (but can be preempted by federal law)
 
 ---
 
-# [fit] Similarly Worded Provisions
+# Similarly Worded Provisions
 
 —
 
@@ -72,9 +77,11 @@ State power - open ended (but can be preempted by federal law)
 ---
 
 **U.S. Constitution, Fourth Amendment**
+
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
 
 **New Jersey Constitution, Article I, Paragraph 4**
+
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated; and no warrant shall issue except upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched and the papers and things to be seized.
 
 —
@@ -86,9 +93,11 @@ The right of the people to be secure in their persons, houses, papers, and effec
 —
 
 **U.S. Constitution, Fourth Amendment**
+
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
 
 **Iowa Constitution, Article I, § 8**
+
 The right of the people to be secure in their persons, houses, papers and effects, against unreasonable seizures and searches shall not be violated; and no warrant shall issue but on probable cause, supported by oath or affirmation, particularly describing the place to be searched, and the persons and things to be seized.
 
 ---
@@ -100,9 +109,11 @@ The right of the people to be secure in their persons, houses, papers and effect
 ---
 
 **U.S. Constitution, Sixth Amendment**
+
 In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence.
 
 **Pennsylvania Constitution, Article I, §6**
+
 Trial by jury shall be as heretofore, and the right thereof remain inviolate. The General Assembly may provide, however, by law, that a verdict may be rendered by not less than five-sixths of the jury in any civil case. Furthermore, in criminal cases the Commonwealth shall have the same right to trial by jury as does the accused.
 
 —
@@ -119,15 +130,19 @@ Trial by jury shall be as heretofore, and the right thereof remain inviolate. Th
 # Cases - Similarly Worded Provisions
 
 **Sitz v. Department of State Police**
+
 506 N.W.2d 209 (Mich. 1993)
 
 **State v. Hempele**
+
 576 A.2d 793 (N.J. 1990)
 
 **State v. Wright**
+
 961 N.W.2d 396 (Iowa 2021)
 
 **Blum v. Merrell Dow Pharmaceuticals Inc.**
+
 626 A.2d 537 (Penn. 1993)
 
 ---
@@ -135,22 +150,26 @@ Trial by jury shall be as heretofore, and the right thereof remain inviolate. Th
 # Cases - Differently Worded Provisions
 
 **Racing Association of Central Iowa v. Fitzgerald**
+
 675 N.W.2d 1 (Iowa 2004)
 
 **State v. Brown**
+
 930 N.W.2d 840 (Iowa 2019)
 
 —
 
-# [fit] Racing Association of Central Iowa v. Fitzgerald
+# Racing Association of Central Iowa v. Fitzgerald
 675 N.W.2d 1 (Iowa 2004)
 
 —
 
 **U.S. Constitution, Fourteenth Amendment**
+
 No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State … deny to any person within its jurisdiction the equal protection of the laws.
 
 **Iowa Constitution, Article 1, § 6**
+
 All laws of a general nature shall have a uniform operation; the general assembly shall not grant to any citizen, or class of citizens, privileges or immunities, which, upon the same terms shall not apply equally to all citizens.
 
 ---
@@ -174,7 +193,9 @@ All laws of a general nature shall have a uniform operation; the general assembl
 685 N.E.2d 762 (Ohio 1997)
 
 *Important Precedent:*
+
 Michigan v. Long
+
 463 U.S. 1032 (1982)
 
 —
@@ -182,9 +203,11 @@ Michigan v. Long
 # Compare & Contrast
 
 **Racing Association of Central Iowa v. Fitzgerald**
+
 675 N.W.2d 1 (Iowa 2004)
 
 **Ohio v. Robinette**
+
 685 N.E.2d 762 (Ohio 1997)
 
 ---

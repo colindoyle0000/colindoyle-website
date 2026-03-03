@@ -1,29 +1,36 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# Differently Worded Provisions
+title: Differently Worded Provisions
+profile: false
+
+share: false
+
+show_date: false
+
+---
 
 **Racing Association of Central Iowa v. Fitzgerald**
+
 675 N.W.2d 1 (Iowa 2004)
 
 **State v. Brown**
+
 930 N.W.2d 840 (Iowa 2019)
 
 ---
 
-# [fit] Racing Association of Central Iowa v. Fitzgerald
+# Racing Association of Central Iowa v. Fitzgerald
 
 675 N.W.2d 1 (Iowa 2004)
 
 —
 
 **U.S. Constitution, Fourteenth Amendment**
+
 No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State … deny to any person within its jurisdiction the equal protection of the laws.
 
 **Iowa Constitution, Article 1, § 6**
+
 All laws of a general nature shall have a uniform operation; the general assembly shall not grant to any citizen, or class of citizens, privileges or immunities, which, upon the same terms shall not apply equally to all citizens.
 
 ---
@@ -47,7 +54,9 @@ All laws of a general nature shall have a uniform operation; the general assembl
 685 N.E.2d 762 (Ohio 1997)
 
 *Important Precedent:*
+
 Michigan v. Long
+
 463 U.S. 1032 (1982)
 
 —
@@ -55,9 +64,11 @@ Michigan v. Long
 # Compare & Contrast
 
 **Racing Association of Central Iowa v. Fitzgerald**
+
 675 N.W.2d 1 (Iowa 2004)
 
 **Ohio v. Robinette**
+
 685 N.E.2d 762 (Ohio 1997)
 
 ---
@@ -151,7 +162,9 @@ To survive judicial review,  the law must further a *compelling* government inte
 70 P.3d 416 (Alaska 2003)
 
 *Important Precedent:*
+
 Morton v. Mancari
+
 417 U.S. 535 (1974)
 
 ---
@@ -179,7 +192,7 @@ Article I, § 3, Alaska Const.
 
 —
 
-# [fit] Commonwealth v. Penn. Interscholastic Athletic Ass’n
+# Commonwealth v. Penn. Interscholastic Athletic Ass’n
 
 334 A.2d 839 (Pa. Commw. Ct. 1975)
 

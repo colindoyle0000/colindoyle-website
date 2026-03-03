@@ -1,12 +1,17 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# [fit] Theories for Construing State Constitutions
+title: Theories for Construing State Constitutions
+profile: false
 
-# [fit] Similarly Worded Provisions
+share: false
+
+show_date: false
+
+---
+
+
+
+# Similarly Worded Provisions
 
 ---
 
@@ -19,6 +24,7 @@ But first… a wrap-up on
 ## Spending Power, Briefly
 
 **NFIB v. Sebelius**
+
 567 U.S. 519 (2012)
 
 ---
@@ -26,10 +32,13 @@ But first… a wrap-up on
 # Anti-commandeering principle
 
 **Printz v. United States**
+
 521 U.S. 898 (1997)
 
 *Other important cases:*
+
 New York v. United States (1992)
+
 Murphy v. NCAA (2018)
 
 ---
@@ -47,6 +56,7 @@ The Senators and Representatives before mentioned, and the members of the severa
 # Federal Limitations on State Power
 
 **U.S. Term Limits Inc. v. Thornton**
+
 514 U.S. 779 (1995)
 
 ---
@@ -78,6 +88,7 @@ The powers not delegated to the United States by the Constitution, nor prohibite
 # Federal Limitations on State Power
 
 **Gregory v. Ashcroft**
+
 501 U.S. 452 (1991)
 
 ---
@@ -87,11 +98,11 @@ Makes it unlawful for an “employer” “to discharge any individual” who is
 
 ---
 
-# [fit] Theories for Construing State Constitutions
+# Theories for Construing State Constitutions
 
 
 
-# [fit] Similarly Worded Provisions
+# Similarly Worded Provisions
 
 ---
 
@@ -135,15 +146,19 @@ The right of the people to be secure in their persons, houses, papers, and effec
 # Four related cases
 
 **Sitz v. Department of State Police**
+
 506 N.W.2d 209 (Mich. 1993)
 
 **State v. Hempele**
+
 576 A.2d 793 (N.J. 1990)
 
 **State v. Wright**
+
 961 N.W.2d 396 (Iowa 2021)
 
 **Blum v. Merrell Dow Pharmaceuticals Inc.**
+
 626 A.2d 537 (Penn. 1993)
 
 ---
@@ -155,9 +170,11 @@ The right of the people to be secure in their persons, houses, papers, and effec
 ---
 
 **U.S. Constitution, Fourth Amendment**
+
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
 
 **Michigan Constitution, Article 1, § 11**
+
 The person, houses, papers and possessions of every person shall be secure from unreasonable searches and seizures. No warrant to search any place or to seize any person or things shall issue without describing them, nor without probable cause, supported by oath or affirmation. The provisions of this section shall not be construed to bar from evidence in any criminal proceeding any narcotic drug, firearm, bomb, explosive or any other dangerous weapon, seized by a peace officer outside the curtilage of any dwelling house in this state.
 
 —
@@ -174,9 +191,11 @@ In sum, the balance of the State’s interest in preventing drunken driving, the
 —
 
 **U.S. Constitution, Fourth Amendment**
+
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
 
 **New Jersey Constitution, Article I, Paragraph 4**
+
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated; and no warrant shall issue except upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched and the papers and things to be seized.
 
 —
@@ -186,9 +205,11 @@ The right of the people to be secure in their persons, houses, papers, and effec
 —
 
 **U.S. Constitution, Fourth Amendment**
+
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
 
 **Iowa Constitution, Article I, § 8**
+
 The right of the people to be secure in their persons, houses, papers and effects, against unreasonable seizures and searches shall not be violated; and no warrant shall issue but on probable cause, supported by oath or affirmation, particularly describing the place to be searched, and the persons and things to be seized.
 
 ---
@@ -199,9 +220,11 @@ The right of the people to be secure in their persons, houses, papers and effect
 ---
 
 **U.S. Constitution, Sixth Amendment**
+
 In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence.
 
 **Pennsylvania Constitution, Article I, §6**
+
 Trial by jury shall be as heretofore, and the right thereof remain inviolate. The General Assembly may provide, however, by law, that a verdict may be rendered by not less than five-sixths of the jury in any civil case. Furthermore, in criminal cases the Commonwealth shall have the same right to trial by jury as does the accused.
 
 —

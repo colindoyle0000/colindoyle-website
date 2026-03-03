@@ -1,14 +1,14 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: Criminal Procedure
+profile: false
 
+share: false
 
-# Criminal Procedure
+show_date: false
 
 ---
+
 
 # Questions to guide us for search and seizure
 
@@ -25,15 +25,19 @@ How should stare decisis factor into constitutional interpretation, particularly
 # *Warrant Requirement*
 
 **State v. Earls**
+
 70 A.3d 630 (N.J. 2013)
 
 **State v. Bryant**
+
 950 A.2d 467 (Vt. 2008)
 
 **State v. McKelvey**
+
 544 P.3d 632 (Alaska 2024)
 
 **State v. Leonard**
+
 943 N.W.2d 149 (Minn. 2020)
 
 —
@@ -69,11 +73,13 @@ OR IF it’s not a search
 # Contrast
 
 **State v. Earls**
+
 70 A.3d 630 (N.J. 2013)
 
 with
 
 **United States v. Jones (2012)**
+
 Police installation of a tracking device on defendant’s car constitutes a trespass, therefore a a search warrant was required. 
 
 —
@@ -88,11 +94,13 @@ Police installation of a tracking device on defendant’s car constitutes a tres
 # Contrast
 
 **State v. Bryant**
+
 950 A.2d 467 (Vt. 2008)
 
 with
 
 **Florida v. Riley (1989)**
+
 A defendant has no reasonable expectation of privacy from a police helicopter flying above their home, therefore no search warrant is required.
 
 ---
@@ -157,9 +165,11 @@ The defendant had an expectation of privacy, and this expectation of privacy is 
 # *Probable Cause*
 
 **People v. Griminger**
+
 524 N.E.2d 409 (N.Y. 1988) (Stick with Aguilar/Spinelli)
 
 **State v. Tuttle**
+
 515 S.W.3d 282 (Tenn. 2017) (Adopting Gates)
 
 ---
@@ -167,9 +177,11 @@ The defendant had an expectation of privacy, and this expectation of privacy is 
 # *Good Faith Exception*
 
 **State v. Koivu**
+
 272 P.3d 483 (Idaho 2012) (Rejecting good faith exception)
 
 **Commonwealth v. Edmunds**
+
 586 A.2d 887 (Pa. 1991) (Rejecting good faith exception)
 
 ---
@@ -177,15 +189,19 @@ The defendant had an expectation of privacy, and this expectation of privacy is 
 # *Warrant Requirement*
 
 **State v. Earls**
+
 70 A.3d 630 (N.J. 2013) (cellphone towers)
 
 **State v. Bryant**
+
 950 A.2d 467 (Vt. 2008) (helicopter over property)
 
 **State v. McKelvey**
+
 544 P.3d 632 (Alaska 2024) (airplane and telephoto camera)
 
 **State v. Leonard**
+
 943 N.W.2d 149 (Minn. 2020) (motel registry)
 
 
@@ -218,6 +234,7 @@ How should a court determine whether school funding laws are unequal, inadequate
 # Federal Backdrop
 
 **Rodriguez v. San Antonio Indep. Sch. Dist.**
+
 406 U.S. 966 (1972)
 
 Two theories:
@@ -241,12 +258,15 @@ Fundamental rights are only recognized if they are “deeply rooted in our histo
 # *Equality Cases*
 
 **Hornbeck v. Somerset County Board of Education**
+
 458 A.2d 758 (Md. 1983)
 
 **Horton v. Meskill**
+
 376 A.2d 358 (Conn. 1977)
 
 **Vincent v. Voight**
+
 614 N.W.2d 388 (Wis. 2000)
 
 ---
@@ -272,6 +292,4 @@ The school fund “shall be inviolably appropriated to the support and encourage
 614 N.W.2d 388 (Wis. 2000)
 
 “The legislature shall provide by law for the establishment of district schools, hwich shall be as nearly uniform as practicable; and such schools shall be free and without charge for tuition to all children between the ages of 4 and 20 years.” Wisc. Const. Art. X § 3.
-
----
 

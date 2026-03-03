@@ -1,12 +1,15 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
-# Equality
+title: Equality
+profile: false
+
+share: false
+
+show_date: false
 
 ---
+
+
 
 # What does “equality” mean?
 
@@ -55,14 +58,13 @@ To survive judicial review,  the law must further a *compelling* government inte
 70 P.3d 416 (Alaska 2003)
 
 *Important Precedent:*
+
 Morton v. Mancari
+
 417 U.S. 535 (1974)
 
 ---
 
-![inline](/Users/colindoyle/Documents/Loyola/StateConLaw/2026 Spring/conlaw_slides/images/northslope.png)
-
-—
 
 “[A]ll persons are equal and entitled to equal rights, opportunities, and protection under the law.” 
 
@@ -83,7 +85,7 @@ Article I, § 3, Alaska Const.
 
 —
 
-# [fit] Commonwealth v. Penn. Interscholastic Athletic Ass’n
+# Commonwealth v. Penn. Interscholastic Athletic Ass’n
 
 334 A.2d 839 (Pa. Commw. Ct. 1975)
 
@@ -153,6 +155,7 @@ IF not retired AND receiving disability or survivorship benefits
 —
 
 “The dignity of the human being is inviolable. No person shall be denied the equal protection of the laws.”
+
 Art II. § IV Montana Const.
 
 —
@@ -164,9 +167,11 @@ Art II. § IV Montana Const.
 —
 
 “All men and women are, by nature, free and equal.”
+
 Iowa Const. Art 1. § 1
 
 “All laws of a general nature shall have a uniform operation; the general assembly shall not grant to any citizen, or class of citizens, privileges or immunities, which, upon the same terms shall not equally belong to all citizens.”
+
 Iowa Const. Art 1. § 6
 
 —
@@ -186,9 +191,11 @@ Iowa Const. Art 1. § 6
 —
 
 “All men and women are, by nature, free and equal.”
+
 Iowa Const. Art 1. § 1
 
 “All laws of a general nature shall have a uniform operation; the general assembly shall not grant to any citizen, or class of citizens, privileges or immunities, which, upon the same terms shall not equally belong to all citizens.”
+
 Iowa Const. Art 1. § 6
 
 —

@@ -1,14 +1,14 @@
-theme: Colin Fall 2022
-autoscale: true
-slidenumbers: true
-header: #373737, alignment(left), line-height(150%), text-scale(1.0), ITC Galliard Pro Bold
-Footer:
+---
 
+title: School Funding
+profile: false
 
+share: false
 
-# School Funding
+show_date: false
 
 ---
+
 
 # Basis for school funding litigation:
 
@@ -30,12 +30,15 @@ How should a court determine whether school funding laws are unequal, inadequate
 # *Equality Cases*
 
 **Hornbeck v. Somerset County Board of Education**
+
 458 A.2d 758 (Md. 1983)
 
 **Horton v. Meskill**
+
 376 A.2d 358 (Conn. 1977)
 
 **Vincent v. Voight**
+
 614 N.W.2d 388 (Wis. 2000)
 
 ---
@@ -67,23 +70,29 @@ The school fund “shall be inviolably appropriated to the support and encourage
 # *Adequacy Cases*
 
 **Edgewood Independent School Dist. v. Kirby**
+
 777 S.W.2d 391 (Tex. 1989)
 
 **DeRolph v. State**
+
 677 N.E.2d 733 (Ohio 1997)
 
 **DeRolph v. State**
+
 754 N.E.2d 1184 (Ohio 2001)
 
 ---
 
 **Columbia Falls Elementary Sch. Dist. No. 6 v. State**
+
 109 P.3d 257 (Mont. 2005)
 
 **Abbott v. Burke**
+
 971 A.2d 989 (N.J. 2009)
 
 **Citizens for Strong Schools Inc. v. Florida State Board of Ed.**
+
 262 So.3d 127 (Fla. 2019)
 
 ---
