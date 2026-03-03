@@ -14,3 +14,24 @@ The slides for each class session will be made available here in both PDF and we
 **01 - Welcome to State Constitutional Law!** | [(.pdf)](/../../stateconlaw2026spring-material/slides/01-welcome.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/01-welcome)
 
 **02 - Federal Power** | [(.pdf)](/../../stateconlaw2026spring-material/slides/02-federal-power.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/02-federal-power)
+
+**03 - Federal and State Power** | [(.pdf)](/../../stateconlaw2026spring-material/slides/03-fed-state-power.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/03-fed-state-power)
+
+
+**04 - State Court Interpretation of State Constitutions** | [(.pdf)](/../../stateconlaw2026spring-material/slides/04-interp.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/04-interp)
+
+**05 - State Court Interpretation of State Constitutions (cont.)** | [(.pdf)](/../../stateconlaw2026spring-material/slides/05-interp.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/05-interp)
+
+**06 - State Court Interpretation of State Constitutions (cont.)** | [(.pdf)](/../../stateconlaw2026spring-material/slides/06-interp.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/06-interp)
+
+**07 - Equality** | [(.pdf)](/../../stateconlaw2026spring-material/slides/07-equality.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/07-equality)
+
+**08 - Equality (cont.)** | [(.pdf)](/../../stateconlaw2026spring-material/slides/08-equality.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/08-equality)
+
+**09 - Due Process** | [(.pdf)](/../../stateconlaw2026spring-material/slides/09-due-process.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/09-due-process)
+
+**10 - Criminal Procedure** | [(.pdf)](/../../stateconlaw2026spring-material/slides/10-crim-pro.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/10-crim-pro)
+
+**11 - School Funding** | [(.pdf)](/../../stateconlaw2026spring-material/slides/11-school.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/11-school)
+
+**12 - School Funding (cont.)** | [(.pdf)](/../../stateconlaw2026spring-material/slides/12-school.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/12-school)
