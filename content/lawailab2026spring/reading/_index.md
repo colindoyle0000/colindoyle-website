@@ -249,7 +249,18 @@ No class (Spring Break).
 
 ## Mar. 11, 2026
 
-To be determined.
+As previously discussed, we will have fewer reading assignments for the rest of the semester as students are expected to be doing more independent research and reading for their projects and papers. This week, we will have a discussion about how to find relevant literature and resources for your research projects. We will continue to discuss the role of legal technology in the legal profession.
+
+_Readings:_
+
+[The Claude-AI Native Law Firm](https://x.com/zackbshapiro/status/2027389987444957625)
+
+This is a Twitter post that went viral recently. Many of you may have seen it already. Before class, I would like you to read through it and take a pause to reflect (and take notes!) on the following thoughts and questions:
+
+For a moment, forget about any ideas of what the future will be or how AI will evolve. Instead, let's assume that the technological developments that we've seen so far this semester are all that there will be. With that in mind, what skills will you need to learn that previous generations of lawyers didn’t need to learn? What will law firms and legal departments need to do? What are the risks and benefits of these changes?
+
+It is very important for this exercise that you don't imagine AI capabalities that don't exist yet. The point of this exercise is to think critically about the changes that are already here and how to adapt to them, not to speculate about what might be possible in the future.
+
 
 ## Mar. 18, 2026
 
