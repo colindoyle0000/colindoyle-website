@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #0a0a1a;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-family: "Press Start 2P", monospace;
+  user-select: none;
+}
+
+#gameCanvas {
+  display: block;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  cursor: pointer;
+  border: 3px solid #29adff;
+  box-shadow: 0 0 30px rgba(41, 173, 255, 0.4);
+  /* Scale up 1.5x via CSS — logical size stays 640×420 */
+  width: 640px;
+  height: 420px;
+}
+
+#hint {
+  margin-top: 10px;
+  color: #5f574f;
+  font-size: 8px;
+  letter-spacing: 1px;
+}
