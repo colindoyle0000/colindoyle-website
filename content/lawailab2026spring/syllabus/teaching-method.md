@@ -18,9 +18,11 @@ If illness or exigent circumstances prevent you from being able to attend class,
 ## Preparation & Participation
 Class preparation is also required. I expect that you will come to class having completed the reading and ready to speak about the materials assigned for that day. 
 
-## Generative A.I. Policy
+## Generative AI Policy
 
-Our class will work out a policy on the use of generative AI tools together during the first weeks of class. We will discuss the ethics of using generative AI for law school assignments, and we will establish guidelines for their use in this course.
+For the final papers and presentations, students may use generative AI tools as a research assistant. Students should not rely on generative AI outputs as a substitute for their own thinking and analysis. Students are expected to engage critically with these tools and remain responsible for their work in its entirety, including any AI-generated content.
+
+Students who use generative AI should include a short reflection statement of 500 words or less as an addendum to their final paper. The reflection statement should address how the student engaged with generative AI for this assignment and how this experience has shaped their thinking about generative AI and law. Students do not need to disclose specific prompts or transcripts of their interactions with AI tools. Students should not use generative AI to assist with writing this reflection statement. If students work in pairs or groups for the final paper and presentation, each student should submit their own reflection statement that addresses their individual engagement with generative AI for the assignment.
 
 ## Classroom Norms
 To foster an environment that supports curious critical thinking, our class has a set of norms that I ask you each to follow.
