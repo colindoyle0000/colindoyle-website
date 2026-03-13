@@ -264,7 +264,15 @@ It is very important for this exercise that you don't imagine AI capabalities th
 
 ## Mar. 18, 2026
 
-To be determined.
+_Assignment:_
+
+This week, you should focus on doing research related to your final paper and presentation. By midnight on Tuesday, March 17, please email me a research update that includes the following:
+
+- A description of the current draft of your research question. At this stage, you are not expected to have a final thesis or argument, but you should have a clear sense of the question you are trying to answer and why it is important.
+
+- A research plan. Please do not treat this as busy work. Write this up primarily as a document for yourself, not for me. The purpose of this assignment is to help you think through how you will go about doing research for your paper. By reading your plan, I should be able to help direct you to relevant literature and resources, and I should be able to give you feedback on how to improve your research plan.
+
+If you are working with a partner or in a group for your final paper and presentation, please submit one research update per group rather than one per person.
 
 ## Mar. 25, 2026
 
