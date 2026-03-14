@@ -311,15 +311,15 @@ function renderTitle() {
 
 function drawToggle(x, y, label, active, key) {
   ctx.fillStyle = active ? '#00e436' : '#5f574f';
-  ctx.fillRect(x, y, 22, 18);
+  ctx.fillRect(x, y, 34, 18);
   ctx.fillStyle = '#000';
   ctx.font = px(9);
   ctx.textAlign = 'left';
-  ctx.fillText(active ? 'ON' : 'OF', x + 2, y + 14);
+  ctx.fillText(active ? 'ON' : 'OFF', x + 2, y + 14);
   ctx.fillStyle = '#c2c3c7';
-  ctx.fillText(label, x + 30, y + 14);
+  ctx.fillText(label, x + 42, y + 14);
   ctx.fillStyle = '#83769c';
-  ctx.fillText('[' + key + ']', x + 220, y + 14);
+  ctx.fillText('[' + key + ']', x + 230, y + 14);
 }
 
 function drawButton(x, y, w, h, label, bg, fg) {
@@ -828,8 +828,8 @@ function handleClick(e) {
   if (game.state === STATE.TITLE) {
     if (x >= 155 && x <= 305 && y >= 330 && y <= 366) { startGame(); return; }
     if (x >= 335 && x <= 485 && y >= 330 && y <= 366) { openWordEditor(); return; }
-    if (x >= 60 && x <= 82 && y >= 275 && y <= 293) { game.settings.audio = !game.settings.audio; render(); return; }
-    if (x >= 60 && x <= 82 && y >= 300 && y <= 318) { game.settings.peek  = !game.settings.peek;  render(); return; }
+    if (x >= 60 && x <= 94 && y >= 275 && y <= 293) { game.settings.audio = !game.settings.audio; render(); return; }
+    if (x >= 60 && x <= 94 && y >= 300 && y <= 318) { game.settings.peek  = !game.settings.peek;  render(); return; }
   }
 
   if (game.state === STATE.BATTLE) {
