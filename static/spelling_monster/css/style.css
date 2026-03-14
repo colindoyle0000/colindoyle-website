@@ -25,13 +25,141 @@ body {
   border: 3px solid #29adff;
   box-shadow: 0 0 30px rgba(41, 173, 255, 0.4);
   /* Scale up 1.5x via CSS — logical size stays 640×420 */
-  width: 640px;
-  height: 420px;
+  width: 960px;
+  height: 630px;
 }
 
 #hint {
   margin-top: 10px;
   color: #5f574f;
-  font-size: 8px;
+  font-size: 12px;
   letter-spacing: 1px;
 }
+
+/* ── Word Editor Overlay ─────────────────────────────────────── */
+#wordEditor {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(10, 10, 26, 0.92);
+  z-index: 100;
+  align-items: center;
+  justify-content: center;
+}
+#wordEditor.open {
+  display: flex;
+}
+#wordEditorPanel {
+  background: #1a1a2e;
+  border: 3px solid #29adff;
+  box-shadow: 0 0 30px rgba(41, 173, 255, 0.4);
+  padding: 28px;
+  width: 460px;
+  max-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+#wordEditorPanel h2 {
+  color: #ffec27;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+#wordEditorPanel p {
+  color: #83769c;
+  font-size: 9px;
+  text-align: center;
+}
+#wordRows {
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  max-height: 340px;
+}
+.word-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #0f3460;
+  padding: 6px 10px;
+}
+.word-row span {
+  color: #83769c;
+  font-family: "Press Start 2P", monospace;
+  font-size: 9px;
+  min-width: 24px;
+}
+.word-row input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  color: #fff1e8;
+  font-family: "Press Start 2P", monospace;
+  font-size: 11px;
+  outline: none;
+  min-width: 0;
+}
+.word-row button {
+  background: #ff004d;
+  border: none;
+  color: #fff;
+  font-family: "Press Start 2P", monospace;
+  font-size: 10px;
+  cursor: pointer;
+  padding: 4px 9px;
+  flex-shrink: 0;
+}
+.word-row button:hover { background: #ff3377; }
+#wordEditorAddRow {
+  display: flex;
+  gap: 8px;
+}
+#wordEditorNewInput {
+  flex: 1;
+  background: #1d2b53;
+  border: 2px solid #29adff;
+  color: #fff1e8;
+  font-family: "Press Start 2P", monospace;
+  font-size: 11px;
+  padding: 8px 10px;
+  outline: none;
+  min-width: 0;
+}
+#wordEditorAddBtn {
+  background: #29adff;
+  border: none;
+  color: #000;
+  font-family: "Press Start 2P", monospace;
+  font-size: 10px;
+  cursor: pointer;
+  padding: 8px 14px;
+  white-space: nowrap;
+}
+#wordEditorAddBtn:hover { background: #5bc8ff; }
+#wordEditorButtons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+#wordEditorSave {
+  background: #00e436;
+  border: none;
+  color: #000;
+  font-family: "Press Start 2P", monospace;
+  font-size: 10px;
+  cursor: pointer;
+  padding: 12px 22px;
+}
+#wordEditorSave:hover { background: #33ff66; }
+#wordEditorCancel {
+  background: #5f574f;
+  border: none;
+  color: #fff1e8;
+  font-family: "Press Start 2P", monospace;
+  font-size: 10px;
+  cursor: pointer;
+  padding: 12px 22px;
+}
+#wordEditorCancel:hover { background: #7a7068; }

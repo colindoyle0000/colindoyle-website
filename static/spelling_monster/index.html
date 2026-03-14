@@ -10,6 +10,22 @@
   <canvas id="gameCanvas" width="640" height="420"></canvas>
   <div id="hint">Click canvas or press keys to play</div>
 
+  <div id="wordEditor">
+    <div id="wordEditorPanel">
+      <h2>WORD LIST</h2>
+      <p>Edit, add, or remove spelling words</p>
+      <div id="wordRows"></div>
+      <div id="wordEditorAddRow">
+        <input id="wordEditorNewInput" type="text" placeholder="add a word..." maxlength="20" />
+        <button id="wordEditorAddBtn">+ ADD</button>
+      </div>
+      <div id="wordEditorButtons">
+        <button id="wordEditorSave">SAVE &amp; CLOSE</button>
+        <button id="wordEditorCancel">CANCEL</button>
+      </div>
+    </div>
+  </div>
+
   <script src="js/words.js"></script>
   <script src="js/sprites.js"></script>
   <script src="js/audio.js"></script>

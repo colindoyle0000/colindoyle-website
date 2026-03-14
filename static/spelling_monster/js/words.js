@@ -1,7 +1,7 @@
 const WORDS = [
   'yelled', 'yarn', 'yellow', 'yes', 'myth',
   'symbol', 'system', 'cry', 'frying', 'satisfy',
-  'yawn', 'sticky', 'lying', 'energy'
+  'yawn', 'sticky', 'lying', 'energy', 'edge',
 ];
 
 function shuffleWords(arr) {

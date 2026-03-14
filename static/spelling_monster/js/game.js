@@ -16,11 +16,12 @@ const ITEMS = [
 ];
 
 let game = {};
+let activeWords = WORDS.slice();
 
 function initGame() {
   game = {
     state: STATE.TITLE,
-    words: shuffleWords(WORDS),
+    words: shuffleWords(activeWords),
     currentIndex: 0,
     knightHP: 5,
     maxKnightHP: 5,
@@ -293,31 +294,32 @@ function renderTitle() {
   drawMonster(ctx, 0, W - 160, H / 2 - 50, 5);
 
   ctx.fillStyle = '#c2c3c7';
-  ctx.font = px(7);
+  ctx.font = px(9);
   ctx.textAlign = 'left';
   ctx.fillText('SETTINGS:', 60, 260);
   drawToggle(60, 275, 'Audio Preview', game.settings.audio, 'A');
   drawToggle(60, 300, 'Sneak Peek',    game.settings.peek,  'S');
 
-  drawButton(W / 2 - 80, 330, 160, 36, 'PLAY GAME', '#00e436', '#000000');
+  drawButton(155, 330, 150, 36, 'PLAY GAME',  '#00e436', '#000000');
+  drawButton(335, 330, 150, 36, 'EDIT WORDS', '#29adff', '#000000');
 
   ctx.fillStyle = '#83769c';
-  ctx.font = px(6);
+  ctx.font = px(9);
   ctx.textAlign = 'center';
   ctx.fillText('Press ENTER or click PLAY to start', W / 2, H - 20);
 }
 
 function drawToggle(x, y, label, active, key) {
   ctx.fillStyle = active ? '#00e436' : '#5f574f';
-  ctx.fillRect(x, y, 18, 14);
+  ctx.fillRect(x, y, 22, 18);
   ctx.fillStyle = '#000';
-  ctx.font = px(6);
+  ctx.font = px(9);
   ctx.textAlign = 'left';
-  ctx.fillText(active ? 'ON' : 'OF', x + 2, y + 11);
+  ctx.fillText(active ? 'ON' : 'OF', x + 2, y + 14);
   ctx.fillStyle = '#c2c3c7';
-  ctx.fillText('          ' + label, x + 22, y + 11);
+  ctx.fillText(label, x + 30, y + 14);
   ctx.fillStyle = '#83769c';
-  ctx.fillText('[' + key + ']', x + 180, y + 11);
+  ctx.fillText('[' + key + ']', x + 220, y + 14);
 }
 
 function drawButton(x, y, w, h, label, bg, fg) {
@@ -343,7 +345,7 @@ function renderPreview() {
   drawMonster(ctx, monsterType, W / 2 - 50, 120, 6);
 
   ctx.fillStyle = '#ff77a8';
-  ctx.font = px(8);
+  ctx.font = px(10);
   ctx.fillText(MONSTER_NAMES[monsterType % 4] + '!', W / 2, 235);
 
   if (game.peekVisible) {
@@ -351,11 +353,11 @@ function renderPreview() {
     ctx.font = px(14);
     ctx.fillText(word.toUpperCase(), W / 2, 285);
     ctx.fillStyle = '#c2c3c7';
-    ctx.font = px(7);
+    ctx.font = px(9);
     ctx.fillText('Remember this word!', W / 2, 310);
   } else {
     ctx.fillStyle = '#c2c3c7';
-    ctx.font = px(7);
+    ctx.font = px(9);
     ctx.fillText('Get ready...', W / 2, 285);
   }
 }
@@ -372,7 +374,7 @@ function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster =
 
   // Progress counter
   ctx.fillStyle = '#83769c';
-  ctx.font = px(6);
+  ctx.font = px(9);
   ctx.textAlign = 'left';
   ctx.fillText(`Monster ${game.currentIndex + 1} of ${game.words.length}`, 10, 20);
 
@@ -398,7 +400,7 @@ function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster =
   if (!hideMonster) {
     drawMonster(ctx, monsterType, monsterX, monsterY, SCALE);
     ctx.fillStyle = '#ff77a8';
-    ctx.font = px(7);
+    ctx.font = px(9);
     ctx.textAlign = 'center';
     ctx.fillText(MONSTER_NAMES[monsterType % 4], monsterX + Math.round((mW * SCALE) / 2), monsterY - 10);
   }
@@ -420,26 +422,26 @@ function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster =
   ctx.textAlign = 'center';
   if (game.wildActive && game.wildRemaining > 0) {
     ctx.fillStyle = '#ffec27';
-    ctx.font = px(7);
+    ctx.font = px(9);
     ctx.fillText(`⚡ Wild: ${game.wildRemaining} left`, W / 2, H - 10);
   } else {
     ctx.fillStyle = '#c2c3c7';
-    ctx.font = px(6);
+    ctx.font = px(9);
     ctx.fillText('Type the next letter!', W / 2, H - 10);
   }
 }
 
 function drawReplayButton() {
-  const bx = W - 120, by = 7, bw = 115, bh = 22;
+  const bx = W - 130, by = 5, bw = 125, bh = 28;
   ctx.fillStyle = '#1d2b53';
   ctx.fillRect(bx, by, bw, bh);
   ctx.strokeStyle = '#29adff';
   ctx.lineWidth = 1;
   ctx.strokeRect(bx, by, bw, bh);
   ctx.fillStyle = '#29adff';
-  ctx.font = px(6);
+  ctx.font = px(9);
   ctx.textAlign = 'center';
-  ctx.fillText('\u266a HEAR WORD', bx + bw / 2, by + bh / 2 + 3);
+  ctx.fillText('\u266a HEAR WORD', bx + bw / 2, by + bh / 2 + 4);
 }
 
 function drawLetterBar(word, typed) {
@@ -494,13 +496,13 @@ function renderBonus() {
   ctx.fillText('BONUS ITEM!', W / 2, 60);
 
   ctx.fillStyle = '#c2c3c7';
-  ctx.font = px(7);
+  ctx.font = px(9);
   ctx.fillText('Choose your reward:', W / 2, 90);
 
   game.bonusItems.forEach((item, i) => drawItemCard(60 + i * 190, 120, 170, 160, item, i + 1));
 
   ctx.fillStyle = '#83769c';
-  ctx.font = px(6);
+  ctx.font = px(9);
   ctx.textAlign = 'center';
   ctx.fillText('Press 1, 2, or 3 to choose', W / 2, H - 20);
 }
@@ -518,15 +520,15 @@ function drawItemCard(x, y, w, h, item, num) {
   ctx.fillText(item.icon, x + w / 2, y + 60);
 
   ctx.fillStyle = '#fff1e8';
-  ctx.font = px(7);
+  ctx.font = px(8);
   ctx.fillText(item.label, x + w / 2, y + 90);
 
   ctx.fillStyle = '#83769c';
-  ctx.font = px(6);
-  ctx.fillText(item.desc, x + w / 2, y + 110);
+  ctx.font = px(8);
+  ctx.fillText(item.desc, x + w / 2, y + 112);
 
   ctx.fillStyle = '#ffa300';
-  ctx.font = px(8);
+  ctx.font = px(10);
   ctx.fillText(`[${num}]`, x + w / 2, y + 140);
 }
 
@@ -539,7 +541,7 @@ function renderVictory() {
   ctx.fillText('YOU WIN!', W / 2, 100);
 
   ctx.fillStyle = '#00e436';
-  ctx.font = px(9);
+  ctx.font = px(11);
   ctx.fillText('All monsters defeated!', W / 2, 140);
 
   if (game.perfectScore) {
@@ -547,7 +549,7 @@ function renderVictory() {
     ctx.font = px(11);
     ctx.fillText('PERFECT SCORE!', W / 2, 185);
     ctx.fillStyle = '#ff77a8';
-    ctx.font = px(7);
+    ctx.font = px(9);
     ctx.fillText('No hearts lost - Amazing!', W / 2, 210);
   }
 
@@ -562,11 +564,11 @@ function renderDefeat() {
   ctx.fillText('GAME OVER', W / 2, 120);
 
   ctx.fillStyle = '#c2c3c7';
-  ctx.font = px(7);
+  ctx.font = px(9);
   ctx.fillText('The knight has fallen!', W / 2, 160);
 
   ctx.fillStyle = '#83769c';
-  ctx.font = px(6);
+  ctx.font = px(9);
   ctx.fillText(`${game.monstersDefeated} of ${game.words.length} monsters defeated`, W / 2, 190);
 
   drawButton(W / 2 - 80, 310, 160, 36, 'TRY AGAIN', '#ff004d', '#fff');
@@ -824,14 +826,15 @@ function handleClick(e) {
   const y = (e.clientY - rect.top)  * scaleY;
 
   if (game.state === STATE.TITLE) {
-    if (x >= W/2-80 && x <= W/2+80 && y >= 330 && y <= 366) { startGame(); return; }
-    if (x >= 60 && x <= 78 && y >= 275 && y <= 289) { game.settings.audio = !game.settings.audio; render(); return; }
-    if (x >= 60 && x <= 78 && y >= 300 && y <= 314) { game.settings.peek  = !game.settings.peek;  render(); return; }
+    if (x >= 155 && x <= 305 && y >= 330 && y <= 366) { startGame(); return; }
+    if (x >= 335 && x <= 485 && y >= 330 && y <= 366) { openWordEditor(); return; }
+    if (x >= 60 && x <= 82 && y >= 275 && y <= 293) { game.settings.audio = !game.settings.audio; render(); return; }
+    if (x >= 60 && x <= 82 && y >= 300 && y <= 318) { game.settings.peek  = !game.settings.peek;  render(); return; }
   }
 
   if (game.state === STATE.BATTLE) {
     // Replay button: top right
-    if (x >= W - 120 && x <= W - 5 && y >= 7 && y <= 29) {
+    if (x >= W - 130 && x <= W - 5 && y >= 5 && y <= 33) {
       Audio.speakWord(game.words[game.currentIndex]);
       return;
     }
@@ -848,6 +851,84 @@ function handleClick(e) {
     if (x >= W/2-80 && x <= W/2+80 && y >= 340 && y <= 376) { initGame(); render(); }
   }
 }
+
+// ─── Word Editor ──────────────────────────────────────────────────────────────
+
+function getCurrentEditorWords() {
+  return Array.from(document.querySelectorAll('#wordRows input'))
+    .map(inp => inp.value.trim().toLowerCase())
+    .filter(w => w.length > 0);
+}
+
+function buildWordRows() {
+  const container = document.getElementById('wordRows');
+  container.innerHTML = '';
+  activeWords.forEach((word, i) => {
+    const row = document.createElement('div');
+    row.className = 'word-row';
+
+    const num = document.createElement('span');
+    num.textContent = `${i + 1}.`;
+
+    const input = document.createElement('input');
+    input.type = 'text';
+    input.value = word;
+    input.maxLength = 20;
+
+    const del = document.createElement('button');
+    del.textContent = '×';
+    del.addEventListener('click', () => {
+      activeWords = getCurrentEditorWords();
+      activeWords.splice(i, 1);
+      buildWordRows();
+    });
+
+    row.appendChild(num);
+    row.appendChild(input);
+    row.appendChild(del);
+    container.appendChild(row);
+  });
+}
+
+function openWordEditor() {
+  buildWordRows();
+  document.getElementById('wordEditorNewInput').value = '';
+  document.getElementById('wordEditor').classList.add('open');
+  document.getElementById('wordEditorNewInput').focus();
+}
+
+document.getElementById('wordEditorSave').addEventListener('click', () => {
+  const words = getCurrentEditorWords();
+  if (words.length > 0) activeWords = words;
+  document.getElementById('wordEditor').classList.remove('open');
+  render();
+});
+
+document.getElementById('wordEditorCancel').addEventListener('click', () => {
+  document.getElementById('wordEditor').classList.remove('open');
+  render();
+});
+
+document.getElementById('wordEditorAddBtn').addEventListener('click', () => {
+  const input = document.getElementById('wordEditorNewInput');
+  const word = input.value.trim().toLowerCase();
+  if (!word) return;
+  activeWords = getCurrentEditorWords();
+  activeWords.push(word);
+  buildWordRows();
+  input.value = '';
+  // scroll to bottom so new word is visible
+  const rows = document.getElementById('wordRows');
+  rows.scrollTop = rows.scrollHeight;
+});
+
+// Enter key in new-word input triggers Add
+document.getElementById('wordEditorNewInput').addEventListener('keydown', e => {
+  if (e.key === 'Enter') document.getElementById('wordEditorAddBtn').click();
+});
+
+// Stop all keystrokes inside the overlay from reaching the game
+document.getElementById('wordEditor').addEventListener('keydown', e => e.stopPropagation());
 
 // ─── Boot ─────────────────────────────────────────────────────────────────────
 
