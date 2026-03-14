@@ -28,7 +28,7 @@ function initGame() {
     typedSoFar: '',
     monstersDefeated: 0,
     perfectScore: true,
-    settings: { audio: true, peek: false },
+    settings: { audio: true, peek: true },
     extraPeekActive: false,
     wildActive: false,
     wildRemaining: 0,
@@ -36,6 +36,7 @@ function initGame() {
     peekTimeoutId: null,
     wildTimeoutId: null,
     bonusItems: [],
+    pendingKeys: [],
   };
 }
 
@@ -85,6 +86,7 @@ function animTick(ts) {
     anim = null;
     if (cb) cb();
     else render();
+    drainPendingKeys();
   }
 }
 
@@ -591,9 +593,14 @@ function handleKey(e) {
   if (game.state === STATE.PREVIEW) return;
 
   if (game.state === STATE.BATTLE) {
-    if (anim !== null) return;                               // anim in progress
     if (game.wildActive && game.wildRemaining > 0) return;  // auto-typing
-    if (/^[a-zA-Z]$/.test(key)) handleLetterInput(key.toLowerCase());
+    if (/^[a-zA-Z]$/.test(key)) {
+      if (anim !== null) {
+        game.pendingKeys.push(key.toLowerCase());           // buffer for after anim
+      } else {
+        handleLetterInput(key.toLowerCase());
+      }
+    }
     return;
   }
 
@@ -659,6 +666,14 @@ function handleLetterInput(letter) {
   }
 }
 
+function drainPendingKeys() {
+  if (game.state !== STATE.BATTLE || anim !== null) return;
+  if (game.wildActive && game.wildRemaining > 0) { game.pendingKeys = []; return; }
+  if (game.pendingKeys.length > 0) {
+    handleLetterInput(game.pendingKeys.shift());
+  }
+}
+
 // ─── Game Flow ────────────────────────────────────────────────────────────────
 
 function startGame() {
@@ -669,6 +684,7 @@ function startGame() {
 function startPreview() {
   game.peekVisible = false;
   game.typedSoFar  = '';
+  game.pendingKeys = [];
   const word = game.words[game.currentIndex];
   SFX.appear();
   render();
