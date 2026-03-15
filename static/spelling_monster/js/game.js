@@ -37,6 +37,7 @@ function initGame() {
     wildTimeoutId: null,
     bonusItems: [],
     pendingKeys: [],
+    inventory: [],
   };
 }
 
@@ -388,6 +389,9 @@ function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster =
     drawHeart(ctx, 10 + i * 22, 30, 3, i < game.knightHP);
   }
 
+  // Inventory slots
+  drawInventory();
+
   // Knight (shifted right during lunge)
   const knightX = 30 + knightOffsetX;
   const knightY = H - 60 - KNIGHT_SPRITE.length * SCALE + knightOffsetY;
@@ -489,6 +493,36 @@ function drawLetterBar(word, typed) {
   });
 }
 
+function drawInventory() {
+  const slotSize = 28;
+  const gap = 4;
+  const startX = 10;
+  const startY = 54;
+
+  for (let i = 0; i < 3; i++) {
+    const x = startX + i * (slotSize + gap);
+    const itemId = game.inventory[i];
+
+    ctx.fillStyle = '#1d2b53';
+    ctx.fillRect(x, startY, slotSize, slotSize);
+    ctx.strokeStyle = itemId ? '#ffa300' : '#3a3535';
+    ctx.lineWidth = 1;
+    ctx.strokeRect(x, startY, slotSize, slotSize);
+
+    if (itemId) {
+      const item = ITEMS.find(it => it.id === itemId);
+      ctx.font = px(14);
+      ctx.textAlign = 'center';
+      ctx.fillText(item.icon, x + slotSize / 2, startY + slotSize / 2 + 5);
+    }
+
+    ctx.fillStyle = itemId ? '#ffa300' : '#5f574f';
+    ctx.font = px(6);
+    ctx.textAlign = 'center';
+    ctx.fillText(`[${i + 1}]`, x + slotSize / 2, startY + slotSize + 8);
+  }
+}
+
 // ─── Bonus Screen ─────────────────────────────────────────────────────────────
 
 function renderBonus() {
@@ -497,9 +531,13 @@ function renderBonus() {
   ctx.textAlign = 'center';
   ctx.fillText('BONUS ITEM!', W / 2, 60);
 
-  ctx.fillStyle = '#c2c3c7';
+  const inventoryFull = game.inventory.length >= 3;
+  ctx.fillStyle = inventoryFull ? '#ff77a8' : '#c2c3c7';
   ctx.font = px(9);
-  ctx.fillText('Choose your reward:', W / 2, 90);
+  ctx.fillText(
+    inventoryFull ? 'Inventory full - activates now!' : `Choose a reward (${game.inventory.length}/3 slots used):`,
+    W / 2, 90
+  );
 
   game.bonusItems.forEach((item, i) => drawItemCard(60 + i * 190, 120, 170, 160, item, i + 1));
 
@@ -593,6 +631,9 @@ function handleKey(e) {
   if (game.state === STATE.PREVIEW) return;
 
   if (game.state === STATE.BATTLE) {
+    if (key === '1') { useInventoryItem(0); return; }
+    if (key === '2') { useInventoryItem(1); return; }
+    if (key === '3') { useInventoryItem(2); return; }
     if (game.wildActive && game.wildRemaining > 0) return;  // auto-typing
     if (/^[a-zA-Z]$/.test(key)) {
       if (anim !== null) {
@@ -767,13 +808,10 @@ function applyBonus(idx) {
   const item = game.bonusItems[idx];
   if (!item) return;
 
-  if (item.id === 'health') {
-    game.knightHP = Math.min(game.maxKnightHP, game.knightHP + 2);
-  } else if (item.id === 'peek') {
-    game.extraPeekActive = true;
-  } else if (item.id === 'wild') {
-    game.wildActive = true;
-    game.wildRemaining = 3;
+  if (game.inventory.length < 3) {
+    game.inventory.push(item.id);
+  } else {
+    activateItemNow(item.id);
   }
 
   if (game.currentIndex >= game.words.length) {
@@ -782,6 +820,38 @@ function applyBonus(idx) {
   } else {
     game.state = STATE.PREVIEW;
     startPreview();
+  }
+}
+
+function activateItemNow(itemId) {
+  if (itemId === 'health') {
+    game.knightHP = Math.min(game.maxKnightHP, game.knightHP + 2);
+  } else if (itemId === 'peek') {
+    game.extraPeekActive = true;
+  } else if (itemId === 'wild') {
+    game.wildActive = true;
+    game.wildRemaining = 3;
+  }
+}
+
+function useInventoryItem(index) {
+  if (game.state !== STATE.BATTLE) return;
+  if (index >= game.inventory.length) return;
+  if (game.wildActive && game.wildRemaining > 0) return;
+
+  const itemId = game.inventory.splice(index, 1)[0];
+  SFX.bonus();
+
+  if (itemId === 'health') {
+    game.knightHP = Math.min(game.maxKnightHP, game.knightHP + 2);
+    render();
+  } else if (itemId === 'peek') {
+    showPeek(3000);
+  } else if (itemId === 'wild') {
+    game.wildActive = true;
+    game.wildRemaining = 3;
+    render();
+    setTimeout(maybeAutoWild, 200);
   }
 }
 
@@ -853,6 +923,15 @@ function handleClick(e) {
     if (x >= W - 130 && x <= W - 5 && y >= 5 && y <= 33) {
       Audio.speakWord(game.words[game.currentIndex]);
       return;
+    }
+    // Inventory slots: top left below hearts
+    const slotSize = 28, gap = 4, startX = 10, startY = 54;
+    for (let i = 0; i < 3; i++) {
+      const sx = startX + i * (slotSize + gap);
+      if (x >= sx && x <= sx + slotSize && y >= startY && y <= startY + slotSize) {
+        useInventoryItem(i);
+        return;
+      }
     }
   }
 
