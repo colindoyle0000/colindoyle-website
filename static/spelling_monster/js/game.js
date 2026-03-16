@@ -138,34 +138,86 @@ function drawInjuryFrame(t) {
   ctx.fillRect(0, 0, W, H);
 }
 
-// Fatality: monster explodes into particles + "DEFEATED!" text
+// Fatality: knight charges a blue energy beam that obliterates the monster
 function drawFatalityFrame(t) {
-  renderBattleScene({ hideMonster: true });
+  const SCALE = 14;
+  const CHARGE_T = 0.18;   // beam starts extending
+  const IMPACT_T = 0.42;   // beam hits monster; flash + particles
+  const FADE_T   = 0.68;   // beam begins fading
 
-  // Particles
-  const dt = (t * anim.duration) / 1000;
-  ctx.save();
-  anim.particles.forEach(p => {
-    ctx.globalAlpha = Math.max(0, 1 - t * 1.3);
-    ctx.fillStyle = p.color;
-    ctx.fillRect(
-      Math.round(p.x + p.vx * dt),
-      Math.round(p.y + p.vy * dt + 80 * dt * dt), // slight gravity
-      p.size, p.size
-    );
-  });
-  ctx.globalAlpha = 1;
-  ctx.restore();
+  const hideMonster = t >= IMPACT_T;
+  renderBattleScene({ hideMonster });
 
-  // "DEFEATED!" text flies up and fades
-  const textAlpha = t < 0.25 ? t / 0.25 : t > 0.65 ? Math.max(0, 1 - (t - 0.65) / 0.25) : 1;
-  if (textAlpha > 0) {
+  const knightX  = 70;
+  const knightY  = H - 110 - SPRITE_DEFS.knight.h * SCALE;
+  const beamX    = knightX + 9 * SCALE;                              // sword tip x
+  const beamY    = knightY + Math.round(SPRITE_DEFS.knight.h * SCALE * 0.50); // mid-body height
+
+  // ── Charge glow (expanding blue squares around sword tip) ──────────────
+  if (t < CHARGE_T + 0.05) {
+    const p = Math.min(1, t / CHARGE_T);
     ctx.save();
-    ctx.globalAlpha = textAlpha;
-    ctx.fillStyle = '#ffec27';
-    ctx.font = px(11);
-    ctx.textAlign = 'center';
-    ctx.fillText('DEFEATED!', anim.cx, Math.round(anim.cy - 15 - t * 55));
+    for (let ring = 0; ring < 5; ring++) {
+      const phase = (p * 1.5 + ring * 0.2) % 1;
+      ctx.globalAlpha = (1 - phase) * 0.55 * p;
+      ctx.fillStyle = '#29adff';
+      const half = Math.round(phase * 50);
+      ctx.fillRect(beamX - half, beamY - half, half * 2, half * 2);
+    }
+    ctx.restore();
+  }
+
+  // ── Beam ───────────────────────────────────────────────────────────────
+  if (t >= CHARGE_T) {
+    const extendP = t < IMPACT_T ? (t - CHARGE_T) / (IMPACT_T - CHARGE_T) : 1;
+    const fadeP   = t < FADE_T   ? 1 : 1 - (t - FADE_T) / (1 - FADE_T);
+    const beamEndX = Math.round(beamX + (W - beamX + 80) * extendP);
+    const pulse    = 1 + Math.sin(t * 55) * 0.08;
+    const bw       = beamEndX - beamX;
+
+    ctx.save();
+    ctx.globalAlpha = 0.28 * fadeP;
+    ctx.fillStyle = '#1d2b53';
+    ctx.fillRect(beamX, Math.round(beamY - 40 * pulse), bw, Math.round(80 * pulse));
+
+    ctx.globalAlpha = 0.60 * fadeP;
+    ctx.fillStyle = '#29adff';
+    ctx.fillRect(beamX, Math.round(beamY - 22 * pulse), bw, Math.round(44 * pulse));
+
+    ctx.globalAlpha = 0.85 * fadeP;
+    ctx.fillStyle = '#c2c3c7';
+    ctx.fillRect(beamX, Math.round(beamY - 11 * pulse), bw, Math.round(22 * pulse));
+
+    ctx.globalAlpha = fadeP;
+    ctx.fillStyle = '#fff1e8';
+    ctx.fillRect(beamX, beamY - 4, bw, 8);
+    ctx.restore();
+  }
+
+  // ── Screen flash on impact ─────────────────────────────────────────────
+  if (t >= IMPACT_T && t < IMPACT_T + 0.12) {
+    const flashP = 1 - (t - IMPACT_T) / 0.12;
+    ctx.save();
+    ctx.globalAlpha = flashP * 0.80;
+    ctx.fillStyle = '#29adff';
+    ctx.fillRect(0, 0, W, H);
+    ctx.restore();
+  }
+
+  // ── Particles ──────────────────────────────────────────────────────────
+  if (t >= IMPACT_T) {
+    const dt    = ((t - IMPACT_T) * anim.duration) / 1000;
+    const fadeP = Math.max(0, 1 - (t - IMPACT_T) / (1 - IMPACT_T) * 1.15);
+    ctx.save();
+    ctx.globalAlpha = fadeP;
+    anim.particles.forEach(p => {
+      ctx.fillStyle = p.color;
+      ctx.fillRect(
+        Math.round(p.x + p.vx * dt),
+        Math.round(p.y + p.vy * dt + 140 * dt * dt),
+        p.size, p.size
+      );
+    });
     ctx.restore();
   }
 }
@@ -186,16 +238,16 @@ function drawSlash(x, y, alpha) {
 }
 
 function generateParticles(cx, cy) {
-  const colors = ['#ff004d','#ffa300','#ffec27','#00e436','#29adff','#ff77a8','#fff1e8','#7e2553'];
-  return Array.from({ length: 28 }, (_, i) => {
-    const angle = (i / 28) * Math.PI * 2 + (Math.random() - 0.5) * 0.4;
-    const speed = 70 + Math.random() * 150;
+  const colors = ['#29adff','#29adff','#fff1e8','#1d2b53','#83769c','#c2c3c7','#fff1e8'];
+  return Array.from({ length: 36 }, () => {
+    const angle = Math.random() * Math.PI * 2;
+    const speed = 130 + Math.random() * 240;
     return {
       x: cx, y: cy,
       vx: Math.cos(angle) * speed,
-      vy: Math.sin(angle) * speed - 40,
-      color: colors[i % colors.length],
-      size: 4 + Math.floor(Math.random() * 9),
+      vy: Math.sin(angle) * speed - 50,
+      color: colors[Math.floor(Math.random() * colors.length)],
+      size: 8 + Math.floor(Math.random() * 14),
     };
   });
 }
@@ -674,7 +726,7 @@ function handleLetterInput(letter) {
       const cx = monsterX + Math.round((mW * SCALE) / 2);
       const cy = monsterY + Math.round((mH * SCALE) / 2);
       SFX.defeat();
-      startAnim('fatality', 950, {
+      startAnim('fatality', 1400, {
         particles: generateParticles(cx, cy),
         cx, cy,
       }, () => wordComplete());
