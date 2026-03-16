@@ -405,10 +405,7 @@ function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster =
 
   if (!hideMonster) {
     drawMonster(ctx, monsterType, monsterX, monsterY, SCALE);
-    ctx.fillStyle = '#ff77a8';
-    ctx.font = px(9);
     ctx.textAlign = 'center';
-    ctx.fillText(MONSTER_NAMES[monsterType % 4], monsterX + Math.round((mW * SCALE) / 2), monsterY - 10);
   }
 
   // Peek overlay
