@@ -753,6 +753,7 @@ function handleLetterInput(letter) {
     startAnim('injury', 500, {}, () => {
       if (game.knightHP <= 0) {
         game.state = STATE.DEFEAT;
+        Music.stop();
         SFX.gameOver();
       }
       render();
@@ -786,6 +787,7 @@ function startPreview() {
   const doTransition = () => {
     setTimeout(() => {
       game.state = STATE.BATTLE;
+      Music.playBattle();
       game.peekVisible = false;
       if (game.extraPeekActive) {
         game.extraPeekActive = false;
@@ -835,6 +837,7 @@ function wordComplete() {
 
   if (game.monstersDefeated % 3 === 0 && game.currentIndex + 1 < game.words.length) {
     game.currentIndex++;
+    Music.playVictory();
     showBonusScreen();
     return;
   }
@@ -842,9 +845,11 @@ function wordComplete() {
   game.currentIndex++;
   if (game.currentIndex >= game.words.length) {
     game.state = STATE.VICTORY;
+    Music.stop();
     SFX.victory();
     render();
   } else {
+    Music.playVictory();
     game.state = STATE.PREVIEW;
     startPreview();
   }
@@ -869,6 +874,7 @@ function applyBonus(idx) {
 
   if (game.currentIndex >= game.words.length) {
     game.state = STATE.VICTORY;
+    Music.stop();
     render();
   } else {
     game.state = STATE.PREVIEW;
