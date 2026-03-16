@@ -104,7 +104,7 @@ function drawAttackFrame(t) {
       ? (t - (impactT - before)) / before
       : 1 - (t - impactT) / after;
     const { monsterX, monsterY, mW, mH } = anim;
-    const SCALE = 5;
+    const SCALE = 14;
     drawSlash(monsterX - 5, monsterY + Math.round((mH * SCALE) / 2) - 12,
               Math.min(1, Math.max(0, slashAlpha)));
 
@@ -220,10 +220,10 @@ function getAttackConfig() {
 function getAttackOffsets(t, type, impactT) {
   switch (type) {
     case 'lunge': {
-      // Steps back 14px, then lunges forward 84px, then retreats
+      // Steps back 20px, then lunges forward 200px, then retreats
       const x = t < 0.18
-        ? -14 * (t / 0.18)
-        : -14 + 84 * Math.sin(((t - 0.18) / 0.82) * Math.PI);
+        ? -20 * (t / 0.18)
+        : -20 + 200 * Math.sin(((t - 0.18) / 0.82) * Math.PI);
       return { x: Math.round(x), y: 0 };
     }
     case 'jump': {
@@ -231,11 +231,11 @@ function getAttackOffsets(t, type, impactT) {
       let x, y;
       if (t <= impactT) {
         const p = t / impactT;
-        x = p * 70;
-        y = -Math.sin(p * Math.PI) * 92; // up then crash down
+        x = p * 180;
+        y = -Math.sin(p * Math.PI) * 130;
       } else {
         const p = (t - impactT) / (1 - impactT);
-        x = (1 - p) * 70;
+        x = (1 - p) * 180;
         y = 0;
       }
       return { x: Math.round(x), y: Math.round(y) };
@@ -243,8 +243,8 @@ function getAttackOffsets(t, type, impactT) {
     case 'dash': {
       // Very fast forward, slower return
       const x = t < impactT
-        ? (t / impactT) * 94
-        : (1 - (t - impactT) / (1 - impactT)) * 94;
+        ? (t / impactT) * 220
+        : (1 - (t - impactT) / (1 - impactT)) * 220;
       return { x: Math.round(x), y: 0 };
     }
     default:
@@ -280,7 +280,7 @@ function drawBackground() {
     }
   }
   ctx.fillStyle = '#5f574f';
-  ctx.fillRect(0, H - 60, W, 4);
+  ctx.fillRect(0, H - 110, W, 4);
 }
 
 // ─── Title Screen ─────────────────────────────────────────────────────────────
@@ -293,8 +293,8 @@ function renderTitle() {
   ctx.fillStyle = '#ff004d';
   ctx.fillText('MONSTER', W / 2, 130);
 
-  drawKnight(ctx, 80, H / 2 - 60, 5);
-  drawMonster(ctx, 0, W - 160, H / 2 - 50, 5);
+  drawKnight(ctx, 60, H / 2 - 50, 8);
+  drawMonster(ctx, 0, W - 60 - getMonsterWidth(0) * 8, H / 2 - 40, 8);
 
   ctx.fillStyle = '#c2c3c7';
   ctx.font = px(9);
@@ -345,7 +345,7 @@ function renderPreview() {
   ctx.textAlign = 'center';
   ctx.fillText('A new monster appears!', W / 2, 80);
 
-  drawMonster(ctx, monsterType, W / 2 - 50, 120, 6);
+  drawMonster(ctx, monsterType, W / 2 - Math.round(getMonsterWidth(monsterType) * 10 / 2), 100, 10);
 
   ctx.fillStyle = '#ff77a8';
   ctx.font = px(10);
@@ -373,7 +373,7 @@ function renderPreview() {
 function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster = false } = {}) {
   const word = game.words[game.currentIndex];
   const monsterType = game.currentIndex % 4;
-  const SCALE = 5;
+  const SCALE = 14;
 
   // Progress counter
   ctx.fillStyle = '#83769c';
@@ -393,15 +393,15 @@ function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster =
   drawInventory();
 
   // Knight (shifted right during lunge)
-  const knightX = 30 + knightOffsetX;
-  const knightY = H - 60 - SPRITE_DEFS.knight.h * SCALE + knightOffsetY;
+  const knightX = 70 + knightOffsetX;
+  const knightY = H - 110 - SPRITE_DEFS.knight.h * SCALE + knightOffsetY;
   drawKnight(ctx, knightX, knightY, SCALE);
 
   // Monster
   const mW = getMonsterWidth(monsterType);
   const mH = getMonsterHeight(monsterType);
-  const monsterX = W - 60 - mW * SCALE;
-  const monsterY = H - 60 - mH * SCALE;
+  const monsterX = W - 70 - mW * SCALE;
+  const monsterY = H - 110 - mH * SCALE;
 
   if (!hideMonster) {
     drawMonster(ctx, monsterType, monsterX, monsterY, SCALE);
@@ -452,7 +452,7 @@ function drawLetterBar(word, typed) {
   const gap = 6;
   const totalW = word.length * (tileSize + gap) - gap;
   const startX = Math.round((W - totalW) / 2);
-  const y = H - 132;
+  const y = H - 80;
 
   word.split('').forEach((letter, i) => {
     const x = startX + i * (tileSize + gap);
@@ -662,12 +662,12 @@ function handleLetterInput(letter) {
     game.typedSoFar += letter;
 
     // Compute monster position for the animation
-    const SCALE = 5;
+    const SCALE = 14;
     const monsterType = game.currentIndex % 4;
     const mW = getMonsterWidth(monsterType);
     const mH = getMonsterHeight(monsterType);
-    const monsterX = W - 60 - mW * SCALE;
-    const monsterY = H - 60 - mH * SCALE;
+    const monsterX = W - 70 - mW * SCALE;
+    const monsterY = H - 110 - mH * SCALE;
 
     if (game.typedSoFar === word) {
       // FATALITY — explode the monster
@@ -864,12 +864,12 @@ function maybeAutoWild() {
   game.typedSoFar += letter;
   game.wildRemaining--;
 
-  const SCALE = 5;
+  const SCALE = 14;
   const monsterType = game.currentIndex % 4;
   const mW = getMonsterWidth(monsterType);
   const mH = getMonsterHeight(monsterType);
-  const monsterX = W - 60 - mW * SCALE;
-  const monsterY = H - 60 - mH * SCALE;
+  const monsterX = W - 70 - mW * SCALE;
+  const monsterY = H - 110 - mH * SCALE;
 
   if (game.typedSoFar === word) {
     const cx = monsterX + Math.round((mW * SCALE) / 2);
