@@ -15,7 +15,7 @@ const Music = (() => {
 
   function play(src, loop) {
     stop();
-    const audio = new Audio(src);
+    const audio = new window.Audio(src);
     audio.loop = loop;
     audio.volume = 0.5;
     audio.play().catch(() => {});
