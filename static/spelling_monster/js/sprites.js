@@ -1,151 +1,62 @@
-// PICO-8 palette
-const P = [
-  '#000000', // 0  black
-  '#1d2b53', // 1  dark-blue
-  '#7e2553', // 2  dark-purple
-  '#008751', // 3  dark-green
-  '#ab5236', // 4  brown
-  '#5f574f', // 5  dark-grey
-  '#c2c3c7', // 6  light-grey
-  '#fff1e8', // 7  white
-  '#ff004d', // 8  red
-  '#ffa300', // 9  orange
-  '#ffec27', // 10 yellow
-  '#00e436', // 11 green
-  '#29adff', // 12 light-blue
-  '#83769c', // 13 lavender
-  '#ff77a8', // 14 pink
-  '#ffccaa', // 15 peach
-];
+// Sprite sheet: img/sprites.png
+//
+// Layout: 7 sprites in a horizontal strip, each occupying a 16px-wide cell.
+// Sprites are drawn top-left within their cell.
+// Sheet dimensions: 112 × 16 px
+//
+//  Cell x=0   knight      8 × 12 px
+//  Cell x=16  goblin      7 × 8  px
+//  Cell x=32  skeleton    7 × 8  px
+//  Cell x=48  bat         7 × 7  px
+//  Cell x=64  slime       7 × 7  px
+//  Cell x=80  heart       7 × 6  px
+//  Cell x=96  heart_empty 7 × 6  px
 
-// Each sprite: 2D array of palette indices, 0 = transparent (skip)
-// Use -1 for transparent
+const SPRITE_DEFS = {
+  knight:      { x:  0, y: 0, w: 8, h: 12 },
+  goblin:      { x: 16, y: 0, w: 7, h: 8  },
+  skeleton:    { x: 32, y: 0, w: 7, h: 8  },
+  bat:         { x: 48, y: 0, w: 7, h: 7  },
+  slime:       { x: 64, y: 0, w: 7, h: 7  },
+  heart:       { x: 80, y: 0, w: 7, h: 6  },
+  heart_empty: { x: 96, y: 0, w: 7, h: 6  },
+};
 
-const KNIGHT_SPRITE = [
-  [-1,-1, 6, 6, 6,-1,-1,-1],
-  [-1, 6, 7, 7, 7, 6,-1,-1],
-  [-1, 6, 7,12, 7, 6,-1,-1],
-  [-1, 6, 6, 6, 6, 6,-1,-1],
-  [-1,-1, 1, 6, 1,-1,-1,-1],
-  [-1, 6, 1, 6, 1, 6,-1,-1],
-  [-1, 6, 1, 6, 1, 6,-1,-1],
-  [ 6, 6, 1, 6, 1, 6, 6,-1],
-  [ 6, 6, 6, 6, 6, 6, 6,-1],
-  [-1, 6, 6,-1, 6, 6,-1,-1],
-  [-1, 6, 6,-1, 6, 6,-1,-1],
-  [-1, 6,-1,-1,-1, 6,-1,-1],
-];
-
-// Knight sword (drawn separately, to the right)
-const SWORD_SPRITE = [
-  [-1,-1, 6],
-  [-1, 6,-1],
-  [ 6,-1,-1],
-  [ 7,-1,-1],
-  [ 9,-1,-1],
-];
-
-// Goblin (green monster)
-const GOBLIN_SPRITE = [
-  [-1,-1, 3, 3, 3,-1,-1],
-  [-1, 3,11, 3,11, 3,-1],
-  [-1, 3, 3, 3, 3, 3,-1],
-  [ 3, 3, 8,-1, 8, 3, 3],
-  [ 3, 3, 3, 7, 3, 3, 3],
-  [-1, 3, 3, 3, 3, 3,-1],
-  [-1, 3,-1,-1,-1, 3,-1],
-  [-1, 4, 4,-1, 4, 4,-1],
-];
-
-// Skeleton (bone white)
-const SKELETON_SPRITE = [
-  [-1, 7, 7, 7, 7, 7,-1],
-  [-1, 7, 5, 7, 5, 7,-1],
-  [-1, 7, 7, 7, 7, 7,-1],
-  [-1,-1, 7, 7, 7,-1,-1],
-  [-1, 7, 7, 7, 7, 7,-1],
-  [ 7,-1, 7,-1, 7,-1, 7],
-  [ 7,-1, 7,-1, 7,-1, 7],
-  [ 6,-1, 6,-1, 6,-1, 6],
-];
-
-// Bat (dark purple/blue)
-const BAT_SPRITE = [
-  [ 2,-1,-1, 2,-1,-1, 2],
-  [ 2, 2,-1, 2,-1, 2, 2],
-  [ 2, 2, 2, 2, 2, 2, 2],
-  [-1, 2,14, 2,14, 2,-1],
-  [-1,-1, 2, 2, 2,-1,-1],
-  [-1,-1,-1, 2,-1,-1,-1],
-  [-1,-1, 2,-1, 2,-1,-1],
-];
-
-// Slime (blue-green)
-const SLIME_SPRITE = [
-  [-1,-1,12,12,12,-1,-1],
-  [-1,12,12,12,12,12,-1],
-  [12,12, 7,12, 7,12,12],
-  [12,12,12,12,12,12,12],
-  [12,12, 8,12, 8,12,12],
-  [-1,12,12,12,12,12,-1],
-  [-1,-1,12,12,12,-1,-1],
-];
-
-// Heart sprite (7x6)
-const HEART_SPRITE = [
-  [-1, 8, 8,-1, 8, 8,-1],
-  [ 8, 8, 8, 8, 8, 8, 8],
-  [ 8, 8, 8, 8, 8, 8, 8],
-  [-1, 8, 8, 8, 8, 8,-1],
-  [-1,-1, 8, 8, 8,-1,-1],
-  [-1,-1,-1, 8,-1,-1,-1],
-];
-
-// Empty heart
-const HEART_EMPTY_SPRITE = [
-  [-1, 5, 5,-1, 5, 5,-1],
-  [ 5,-1,-1, 5,-1,-1, 5],
-  [ 5,-1,-1,-1,-1,-1, 5],
-  [-1, 5,-1,-1,-1, 5,-1],
-  [-1,-1, 5,-1, 5,-1,-1],
-  [-1,-1,-1, 5,-1,-1,-1],
-];
-
-const MONSTER_SPRITES = [GOBLIN_SPRITE, SKELETON_SPRITE, BAT_SPRITE, SLIME_SPRITE];
+const MONSTER_SPRITE_KEYS = ['goblin', 'skeleton', 'bat', 'slime'];
 const MONSTER_NAMES = ['Goblin', 'Skeleton', 'Bat', 'Slime'];
 
-function drawPixelSprite(ctx, sprite, x, y, scale) {
-  for (let row = 0; row < sprite.length; row++) {
-    for (let col = 0; col < sprite[row].length; col++) {
-      const idx = sprite[row][col];
-      if (idx === -1) continue;
-      ctx.fillStyle = P[idx];
-      ctx.fillRect(
-        Math.round(x + col * scale),
-        Math.round(y + row * scale),
-        scale, scale
-      );
-    }
-  }
+let spriteSheet = null;
+
+function loadSpriteSheet(src, callback) {
+  const img = new Image();
+  img.onload = () => { spriteSheet = img; callback(); };
+  img.src = src;
+}
+
+function drawSprite(ctx, key, x, y, scale) {
+  if (!spriteSheet) return;
+  const s = SPRITE_DEFS[key];
+  ctx.imageSmoothingEnabled = false;
+  ctx.drawImage(spriteSheet, s.x, s.y, s.w, s.h,
+    Math.round(x), Math.round(y), s.w * scale, s.h * scale);
 }
 
 function drawKnight(ctx, x, y, scale) {
-  drawPixelSprite(ctx, KNIGHT_SPRITE, x, y, scale);
-  drawPixelSprite(ctx, SWORD_SPRITE, x + 8 * scale, y + 2 * scale, scale);
+  drawSprite(ctx, 'knight', x, y, scale);
 }
 
 function drawMonster(ctx, type, x, y, scale) {
-  drawPixelSprite(ctx, MONSTER_SPRITES[type % 4], x, y, scale);
+  drawSprite(ctx, MONSTER_SPRITE_KEYS[type % 4], x, y, scale);
 }
 
 function drawHeart(ctx, x, y, scale, filled) {
-  drawPixelSprite(ctx, filled ? HEART_SPRITE : HEART_EMPTY_SPRITE, x, y, scale);
+  drawSprite(ctx, filled ? 'heart' : 'heart_empty', x, y, scale);
 }
 
 function getMonsterHeight(type) {
-  return MONSTER_SPRITES[type % 4].length;
+  return SPRITE_DEFS[MONSTER_SPRITE_KEYS[type % 4]].h;
 }
 
 function getMonsterWidth(type) {
-  return MONSTER_SPRITES[type % 4][0].length;
+  return SPRITE_DEFS[MONSTER_SPRITE_KEYS[type % 4]].w;
 }

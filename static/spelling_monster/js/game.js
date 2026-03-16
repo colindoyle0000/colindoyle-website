@@ -394,7 +394,7 @@ function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster =
 
   // Knight (shifted right during lunge)
   const knightX = 30 + knightOffsetX;
-  const knightY = H - 60 - KNIGHT_SPRITE.length * SCALE + knightOffsetY;
+  const knightY = H - 60 - SPRITE_DEFS.knight.h * SCALE + knightOffsetY;
   drawKnight(ctx, knightX, knightY, SCALE);
 
   // Monster
@@ -1024,5 +1024,7 @@ document.getElementById('wordEditor').addEventListener('keydown', e => e.stopPro
 
 // ─── Boot ─────────────────────────────────────────────────────────────────────
 
-initGame();
-render();
+loadSpriteSheet('img/sprites.png', () => {
+  initGame();
+  render();
+});
