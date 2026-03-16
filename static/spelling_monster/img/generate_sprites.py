@@ -101,6 +101,14 @@ HEART_EMPTY_SPRITE = [
     [-1,-1,-1, 5,-1,-1,-1],
 ]
 
+SWORD_SPRITE = [
+    [-1,-1, 6],
+    [-1, 6,-1],
+    [ 6,-1,-1],
+    [ 7,-1,-1],
+    [ 9,-1,-1],
+]
+
 # Must match SPRITE_DEFS in sprites.js
 SPRITES = [
     (KNIGHT_SPRITE,      0),
@@ -110,9 +118,10 @@ SPRITES = [
     (SLIME_SPRITE,       64),
     (HEART_SPRITE,       80),
     (HEART_EMPTY_SPRITE, 96),
+    (SWORD_SPRITE,       112),
 ]
 
-img = Image.new('RGBA', (112, 16), (0, 0, 0, 0))
+img = Image.new('RGBA', (128, 16), (0, 0, 0, 0))
 
 for sprite, cell_x in SPRITES:
     for row_i, row in enumerate(sprite):
@@ -122,4 +131,4 @@ for sprite, cell_x in SPRITES:
             img.putpixel((cell_x + col_i, row_i), P[idx])
 
 img.save('sprites.png')
-print('sprites.png written (112x16)')
+print('sprites.png written (128x16)')
