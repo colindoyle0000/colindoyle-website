@@ -70,6 +70,10 @@ function animTick(ts) {
     anim.hitSoundPlayed = true;
     SFX.hit();
   }
+  if (anim.type === 'fatality' && !anim.hitSoundPlayed && t >= 0.42) {
+    anim.hitSoundPlayed = true;
+    SFX.defeat();
+  }
 
   ctx.clearRect(0, 0, W, H);
   drawBackground();
@@ -178,19 +182,19 @@ function drawFatalityFrame(t) {
     ctx.save();
     ctx.globalAlpha = 0.28 * fadeP;
     ctx.fillStyle = '#1d2b53';
-    ctx.fillRect(beamX, Math.round(beamY - 40 * pulse), bw, Math.round(80 * pulse));
+    ctx.fillRect(beamX, Math.round(beamY - 120 * pulse), bw, Math.round(240 * pulse));
 
     ctx.globalAlpha = 0.60 * fadeP;
     ctx.fillStyle = '#29adff';
-    ctx.fillRect(beamX, Math.round(beamY - 22 * pulse), bw, Math.round(44 * pulse));
+    ctx.fillRect(beamX, Math.round(beamY - 66 * pulse), bw, Math.round(132 * pulse));
 
     ctx.globalAlpha = 0.85 * fadeP;
     ctx.fillStyle = '#c2c3c7';
-    ctx.fillRect(beamX, Math.round(beamY - 11 * pulse), bw, Math.round(22 * pulse));
+    ctx.fillRect(beamX, Math.round(beamY - 33 * pulse), bw, Math.round(66 * pulse));
 
     ctx.globalAlpha = fadeP;
     ctx.fillStyle = '#fff1e8';
-    ctx.fillRect(beamX, beamY - 4, bw, 8);
+    ctx.fillRect(beamX, beamY - 12, bw, 24);
     ctx.restore();
   }
 
@@ -725,9 +729,9 @@ function handleLetterInput(letter) {
       // FATALITY — explode the monster
       const cx = monsterX + Math.round((mW * SCALE) / 2);
       const cy = monsterY + Math.round((mH * SCALE) / 2);
-      SFX.defeat();
       startAnim('fatality', 1400, {
         particles: generateParticles(cx, cy),
+        hitSoundPlayed: false,
         cx, cy,
       }, () => wordComplete());
     } else {
@@ -926,8 +930,7 @@ function maybeAutoWild() {
   if (game.typedSoFar === word) {
     const cx = monsterX + Math.round((mW * SCALE) / 2);
     const cy = monsterY + Math.round((mH * SCALE) / 2);
-    SFX.defeat();
-    startAnim('fatality', 950, {
+    startAnim('fatality', 1400, {
       particles: generateParticles(cx, cy),
       cx, cy,
     }, () => wordComplete());
