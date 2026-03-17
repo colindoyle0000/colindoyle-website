@@ -24,9 +24,9 @@ body {
   cursor: pointer;
   border: 3px solid #29adff;
   box-shadow: 0 0 30px rgba(41, 173, 255, 0.4);
-  /* Scale up 1.5x via CSS — logical size stays 640×420 */
-  width: 960px;
-  height: 630px;
+  /* Scale up 3x via CSS — logical size is 256×240 (NES) */
+  width: 768px;
+  height: 720px;
 }
 
 #hint {
