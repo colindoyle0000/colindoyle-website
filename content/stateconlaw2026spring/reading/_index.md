@@ -133,12 +133,12 @@ Pgs. 611-627
 Pgs. 661-674
 
 
-## Environmental Protection
+## Judicial Power and Environmental Protection
 
 
 ## Mar. 24, 2026
 
-Pgs. 733-748
+Pgs. 957-960, 978-988, 733-748
 
 
 ## Mar. 26, 2026
