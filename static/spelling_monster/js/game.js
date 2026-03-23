@@ -345,7 +345,7 @@ function renderTitle() {
   ctx.fillStyle = '#ff004d';
   ctx.fillText('MONSTER', W / 2, 56);
 
-  drawKnight(ctx, 16, H / 2 - 24, 5);
+  drawKnight(ctx, 16, 68, 5);
   drawMonster(ctx, 0, W - 16 - getMonsterWidth(0) * 5, H / 2 - 20, 5);
 
   ctx.fillStyle = '#c2c3c7';

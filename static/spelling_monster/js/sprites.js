@@ -53,7 +53,8 @@ function drawSprite(ctx, key, x, y, scale) {
 function drawKnight(ctx, x, y, scale) {
   if (knightImage) {
     ctx.imageSmoothingEnabled = false;
-    ctx.drawImage(knightImage, Math.round(x), Math.round(y));
+    ctx.drawImage(knightImage, Math.round(x), Math.round(y),
+      SPRITE_DEFS.knight.w * scale, SPRITE_DEFS.knight.h * scale);
   } else {
     drawSprite(ctx, 'knight', x, y, scale);
     drawSprite(ctx, 'sword', x + 8 * scale, y + 2 * scale, scale);
