@@ -19,14 +19,9 @@ body {
 
 #gameCanvas {
   display: block;
-  image-rendering: pixelated;
-  image-rendering: crisp-edges;
   cursor: pointer;
   border: 3px solid #29adff;
   box-shadow: 0 0 30px rgba(41, 173, 255, 0.4);
-  /* Scale up 3x via CSS — logical size is 256×240 (NES) */
-  width: 768px;
-  height: 720px;
 }
 
 #hint {

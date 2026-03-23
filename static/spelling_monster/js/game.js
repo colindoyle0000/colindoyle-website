@@ -45,8 +45,14 @@ function initGame() {
 
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
-const W = canvas.width;   // 256
-const H = canvas.height;  // 240
+// Logical game resolution
+const W = 256;
+const H = 240;
+// Render at 3x into a physical 768×720 canvas so text is drawn at full
+// display resolution — no CSS upscaling of anti-aliased text bitmaps.
+canvas.width  = W * 3;
+canvas.height = H * 3;
+ctx.scale(3, 3);
 
 // Global sprite scale for battle scenes. At SCALE=8, knight (12px tall) = 96px = 40% of 240px height.
 const SCALE = 8;
