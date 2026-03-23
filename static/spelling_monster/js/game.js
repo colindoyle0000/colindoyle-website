@@ -1077,6 +1077,8 @@ document.getElementById('wordEditor').addEventListener('keydown', e => e.stopPro
 // ─── Boot ─────────────────────────────────────────────────────────────────────
 
 loadSpriteSheet('img/sprites.png', () => {
-  initGame();
-  render();
+  loadKnightImage('img/knight.png', () => {
+    initGame();
+    render();
+  });
 });

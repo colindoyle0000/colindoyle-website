@@ -28,10 +28,17 @@ const MONSTER_SPRITE_KEYS = ['goblin', 'skeleton', 'bat', 'slime'];
 const MONSTER_NAMES = ['Goblin', 'Skeleton', 'Bat', 'Slime'];
 
 let spriteSheet = null;
+let knightImage = null;
 
 function loadSpriteSheet(src, callback) {
   const img = new Image();
   img.onload = () => { spriteSheet = img; callback(); };
+  img.src = src;
+}
+
+function loadKnightImage(src, callback) {
+  const img = new Image();
+  img.onload = () => { knightImage = img; callback(); };
   img.src = src;
 }
 
@@ -44,8 +51,13 @@ function drawSprite(ctx, key, x, y, scale) {
 }
 
 function drawKnight(ctx, x, y, scale) {
-  drawSprite(ctx, 'knight', x, y, scale);
-  drawSprite(ctx, 'sword', x + 8 * scale, y + 2 * scale, scale);
+  if (knightImage) {
+    ctx.imageSmoothingEnabled = false;
+    ctx.drawImage(knightImage, Math.round(x), Math.round(y));
+  } else {
+    drawSprite(ctx, 'knight', x, y, scale);
+    drawSprite(ctx, 'sword', x + 8 * scale, y + 2 * scale, scale);
+  }
 }
 
 function drawMonster(ctx, type, x, y, scale) {
