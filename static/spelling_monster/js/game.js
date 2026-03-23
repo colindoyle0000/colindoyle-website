@@ -53,7 +53,7 @@ const SCALE = 8;
 // Y coordinate of the ground line
 const GROUND = H - 50;  // 190
 
-function px(size) { return `${size}px "Press Start 2P", monospace`; }
+function px(size) { return `${size}px VT323, monospace`; }
 
 // ─── Animation System ─────────────────────────────────────────────────────────
 
@@ -122,7 +122,7 @@ function drawAttackFrame(t) {
       ctx.save();
       ctx.globalAlpha = Math.max(0, 1 - lt);
       ctx.fillStyle = '#ffec27';
-      ctx.font = px(8);
+      ctx.font = px(16);
       ctx.textAlign = 'center';
       ctx.fillText(
         anim.letter.toUpperCase(),
@@ -339,7 +339,7 @@ function drawBackground() {
 
 function renderTitle() {
   ctx.fillStyle = '#ffec27';
-  ctx.font = px(12);
+  ctx.font = px(24);
   ctx.textAlign = 'center';
   ctx.fillText('SPELLING', W / 2, 38);
   ctx.fillStyle = '#ff004d';
@@ -349,7 +349,7 @@ function renderTitle() {
   drawMonster(ctx, 0, W - 16 - getMonsterWidth(0) * 5, H / 2 - 20, 5);
 
   ctx.fillStyle = '#c2c3c7';
-  ctx.font = px(6);
+  ctx.font = px(12);
   ctx.textAlign = 'left';
   ctx.fillText('SETTINGS:', 22, 148);
   drawToggle(22, 158, 'Audio Preview', game.settings.audio, 'A');
@@ -359,7 +359,7 @@ function renderTitle() {
   drawButton(134, 202, 110, 22, 'EDIT WORDS', '#29adff', '#000000');
 
   ctx.fillStyle = '#83769c';
-  ctx.font = px(5);
+  ctx.font = px(10);
   ctx.textAlign = 'center';
   ctx.fillText('ENTER or click PLAY to start', W / 2, H - 8);
 }
@@ -368,7 +368,7 @@ function drawToggle(x, y, label, active, key) {
   ctx.fillStyle = active ? '#00e436' : '#5f574f';
   ctx.fillRect(x, y, 22, 12);
   ctx.fillStyle = '#000';
-  ctx.font = px(5);
+  ctx.font = px(10);
   ctx.textAlign = 'left';
   ctx.fillText(active ? 'ON' : 'OFF', x + 2, y + 9);
   ctx.fillStyle = '#c2c3c7';
@@ -381,9 +381,9 @@ function drawButton(x, y, w, h, label, bg, fg) {
   ctx.fillStyle = bg;
   ctx.fillRect(x, y, w, h);
   ctx.fillStyle = fg;
-  ctx.font = px(6);
+  ctx.font = px(12);
   ctx.textAlign = 'center';
-  ctx.fillText(label, x + w / 2, y + h / 2 + 3);
+  ctx.fillText(label, x + w / 2, y + h / 2 + 5);
 }
 
 // ─── Preview Screen ───────────────────────────────────────────────────────────
@@ -393,7 +393,7 @@ function renderPreview() {
   const monsterType = game.currentIndex % 4;
 
   ctx.fillStyle = '#ffec27';
-  ctx.font = px(7);
+  ctx.font = px(14);
   ctx.textAlign = 'center';
   ctx.fillText('A new monster appears!', W / 2, 28);
 
@@ -401,14 +401,14 @@ function renderPreview() {
 
   if (game.peekVisible) {
     ctx.fillStyle = '#ffec27';
-    ctx.font = px(10);
+    ctx.font = px(20);
     ctx.fillText(word.toUpperCase(), W / 2, 162);
     ctx.fillStyle = '#c2c3c7';
-    ctx.font = px(6);
+    ctx.font = px(12);
     ctx.fillText('Remember this word!', W / 2, 178);
   } else {
     ctx.fillStyle = '#c2c3c7';
-    ctx.font = px(6);
+    ctx.font = px(12);
     ctx.fillText('Get ready...', W / 2, 162);
   }
 }
@@ -424,7 +424,7 @@ function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster =
 
   // Progress counter
   ctx.fillStyle = '#83769c';
-  ctx.font = px(6);
+  ctx.font = px(12);
   ctx.textAlign = 'left';
   ctx.fillText(`${game.currentIndex + 1}/${game.words.length}`, 10, 10);
 
@@ -459,7 +459,7 @@ function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster =
     ctx.fillStyle = 'rgba(0,0,0,0.75)';
     ctx.fillRect(W / 2 - 70, H / 2 - 16, 140, 26);
     ctx.fillStyle = '#ffec27';
-    ctx.font = px(8);
+    ctx.font = px(16);
     ctx.textAlign = 'center';
     ctx.fillText(word.toUpperCase(), W / 2, H / 2 + 5);
   }
@@ -471,11 +471,11 @@ function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster =
   ctx.textAlign = 'center';
   if (game.wildActive && game.wildRemaining > 0) {
     ctx.fillStyle = '#ffec27';
-    ctx.font = px(6);
+    ctx.font = px(12);
     ctx.fillText(`⚡ Wild: ${game.wildRemaining} left`, W / 2, H - 6);
   } else {
     ctx.fillStyle = '#c2c3c7';
-    ctx.font = px(6);
+    ctx.font = px(12);
     ctx.fillText('Type the next letter!', W / 2, H - 6);
   }
 }
@@ -488,9 +488,9 @@ function drawReplayButton() {
   ctx.lineWidth = 1;
   ctx.strokeRect(bx, by, bw, bh);
   ctx.fillStyle = '#29adff';
-  ctx.font = px(6);
+  ctx.font = px(12);
   ctx.textAlign = 'center';
-  ctx.fillText('\u266a HEAR WORD', bx + bw / 2, by + bh / 2 + 3);
+  ctx.fillText('\u266a HEAR WORD', bx + bw / 2, by + bh / 2 + 5);
 }
 
 function drawLetterBar(word, typed) {
@@ -511,27 +511,27 @@ function drawLetterBar(word, typed) {
       ctx.fillStyle = '#00e436';
       ctx.fillRect(x + 1, y + 1, tileSize - 2, tileSize - 2);
       ctx.fillStyle = '#fff1e8';
-      ctx.font = px(8);
+      ctx.font = px(16);
       ctx.textAlign = 'center';
-      ctx.fillText(letter.toUpperCase(), x + tileSize / 2, y + tileSize / 2 + 4);
+      ctx.fillText(letter.toUpperCase(), x + tileSize / 2, y + tileSize / 2 + 6);
     } else if (isCurrent) {
       ctx.fillStyle = '#ffa300';
       ctx.fillRect(x - 1, y - 1, tileSize + 2, tileSize + 2);
       ctx.fillStyle = '#1d2b53';
       ctx.fillRect(x, y, tileSize, tileSize);
       ctx.fillStyle = '#ffec27';
-      ctx.font = px(8);
+      ctx.font = px(16);
       ctx.textAlign = 'center';
-      ctx.fillText('?', x + tileSize / 2, y + tileSize / 2 + 4);
+      ctx.fillText('?', x + tileSize / 2, y + tileSize / 2 + 6);
     } else {
       ctx.fillStyle = '#5f574f';
       ctx.fillRect(x, y, tileSize, tileSize);
       ctx.fillStyle = '#3a3535';
       ctx.fillRect(x + 1, y + 1, tileSize - 2, tileSize - 2);
       ctx.fillStyle = '#83769c';
-      ctx.font = px(8);
+      ctx.font = px(16);
       ctx.textAlign = 'center';
-      ctx.fillText('?', x + tileSize / 2, y + tileSize / 2 + 4);
+      ctx.fillText('?', x + tileSize / 2, y + tileSize / 2 + 6);
     }
   });
 }
@@ -554,13 +554,13 @@ function drawInventory() {
 
     if (itemId) {
       const item = ITEMS.find(it => it.id === itemId);
-      ctx.font = px(8);
+      ctx.font = px(16);
       ctx.textAlign = 'center';
       ctx.fillText(item.icon, x + slotSize / 2, startY + slotSize / 2 + 4);
     }
 
     ctx.fillStyle = itemId ? '#ffa300' : '#5f574f';
-    ctx.font = px(5);
+    ctx.font = px(10);
     ctx.textAlign = 'center';
     ctx.fillText(`[${i + 1}]`, x + slotSize / 2, startY + slotSize + 6);
   }
@@ -570,13 +570,13 @@ function drawInventory() {
 
 function renderBonus() {
   ctx.fillStyle = '#ffec27';
-  ctx.font = px(8);
+  ctx.font = px(16);
   ctx.textAlign = 'center';
   ctx.fillText('BONUS ITEM!', W / 2, 28);
 
   const inventoryFull = game.inventory.length >= 3;
   ctx.fillStyle = inventoryFull ? '#ff77a8' : '#c2c3c7';
-  ctx.font = px(5);
+  ctx.font = px(10);
   ctx.fillText(
     inventoryFull ? 'Inventory full - activates now!' : `Choose a reward (${game.inventory.length}/3 slots used):`,
     W / 2, 42
@@ -585,7 +585,7 @@ function renderBonus() {
   game.bonusItems.forEach((item, i) => drawItemCard(17 + i * 76, 54, 70, 104, item, i + 1));
 
   ctx.fillStyle = '#83769c';
-  ctx.font = px(5);
+  ctx.font = px(10);
   ctx.textAlign = 'center';
   ctx.fillText('Press 1, 2, or 3 to choose', W / 2, H - 8);
 }
@@ -598,20 +598,20 @@ function drawItemCard(x, y, w, h, item, num) {
   ctx.strokeRect(x, y, w, h);
 
   ctx.fillStyle = '#ffec27';
-  ctx.font = px(16);
+  ctx.font = px(28);
   ctx.textAlign = 'center';
   ctx.fillText(item.icon, x + w / 2, y + 34);
 
   ctx.fillStyle = '#fff1e8';
-  ctx.font = px(5);
+  ctx.font = px(10);
   ctx.fillText(item.label, x + w / 2, y + 56);
 
   ctx.fillStyle = '#83769c';
-  ctx.font = px(5);
+  ctx.font = px(10);
   ctx.fillText(item.desc, x + w / 2, y + 70);
 
   ctx.fillStyle = '#ffa300';
-  ctx.font = px(7);
+  ctx.font = px(14);
   ctx.fillText(`[${num}]`, x + w / 2, y + 90);
 }
 
@@ -619,20 +619,20 @@ function drawItemCard(x, y, w, h, item, num) {
 
 function renderVictory() {
   ctx.fillStyle = '#ffec27';
-  ctx.font = px(14);
+  ctx.font = px(28);
   ctx.textAlign = 'center';
   ctx.fillText('YOU WIN!', W / 2, 50);
 
   ctx.fillStyle = '#00e436';
-  ctx.font = px(7);
+  ctx.font = px(14);
   ctx.fillText('All monsters defeated!', W / 2, 72);
 
   if (game.perfectScore) {
     ctx.fillStyle = '#ffa300';
-    ctx.font = px(8);
+    ctx.font = px(16);
     ctx.fillText('PERFECT SCORE!', W / 2, 100);
     ctx.fillStyle = '#ff77a8';
-    ctx.font = px(6);
+    ctx.font = px(12);
     ctx.fillText('No hearts lost - Amazing!', W / 2, 116);
   }
 
@@ -642,16 +642,16 @@ function renderVictory() {
 
 function renderDefeat() {
   ctx.fillStyle = '#ff004d';
-  ctx.font = px(14);
+  ctx.font = px(28);
   ctx.textAlign = 'center';
   ctx.fillText('GAME OVER', W / 2, 65);
 
   ctx.fillStyle = '#c2c3c7';
-  ctx.font = px(6);
+  ctx.font = px(12);
   ctx.fillText('The knight has fallen!', W / 2, 88);
 
   ctx.fillStyle = '#83769c';
-  ctx.font = px(6);
+  ctx.font = px(12);
   ctx.fillText(`${game.monstersDefeated}/${game.words.length} monsters defeated`, W / 2, 104);
 
   drawButton(W / 2 - 55, 160, 110, 22, 'TRY AGAIN', '#ff004d', '#fff');

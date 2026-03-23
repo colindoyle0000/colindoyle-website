@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 *, *::before, *::after {
   box-sizing: border-box;
@@ -13,7 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  font-family: "Press Start 2P", monospace;
+  font-family: VT323, monospace;
   user-select: none;
 }
 
@@ -87,7 +87,7 @@ body {
 }
 .word-row span {
   color: #83769c;
-  font-family: "Press Start 2P", monospace;
+  font-family: VT323, monospace;
   font-size: 9px;
   min-width: 24px;
 }
@@ -96,7 +96,7 @@ body {
   background: transparent;
   border: none;
   color: #fff1e8;
-  font-family: "Press Start 2P", monospace;
+  font-family: VT323, monospace;
   font-size: 11px;
   outline: none;
   min-width: 0;
@@ -105,7 +105,7 @@ body {
   background: #ff004d;
   border: none;
   color: #fff;
-  font-family: "Press Start 2P", monospace;
+  font-family: VT323, monospace;
   font-size: 10px;
   cursor: pointer;
   padding: 4px 9px;
@@ -121,7 +121,7 @@ body {
   background: #1d2b53;
   border: 2px solid #29adff;
   color: #fff1e8;
-  font-family: "Press Start 2P", monospace;
+  font-family: VT323, monospace;
   font-size: 11px;
   padding: 8px 10px;
   outline: none;
@@ -131,7 +131,7 @@ body {
   background: #29adff;
   border: none;
   color: #000;
-  font-family: "Press Start 2P", monospace;
+  font-family: VT323, monospace;
   font-size: 10px;
   cursor: pointer;
   padding: 8px 14px;
@@ -147,7 +147,7 @@ body {
   background: #00e436;
   border: none;
   color: #000;
-  font-family: "Press Start 2P", monospace;
+  font-family: VT323, monospace;
   font-size: 10px;
   cursor: pointer;
   padding: 12px 22px;
@@ -157,7 +157,7 @@ body {
   background: #5f574f;
   border: none;
   color: #fff1e8;
-  font-family: "Press Start 2P", monospace;
+  font-family: VT323, monospace;
   font-size: 10px;
   cursor: pointer;
   padding: 12px 22px;
