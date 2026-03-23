@@ -276,7 +276,7 @@ If you are working with a partner or in a group for your final paper and present
 
 ## Mar. 25, 2026
 
-Because of cancellation of last week’s class, there is no new reading assignment for this week. Students can revise and resend their research update from last week if they have continued to make progress.
+Because last week’s class was cancelled, there is no new reading assignment for this week. Students can revise and resend their research update from last week if they have continued to make progress.
 
 ## Apr. 1, 2026
 
