@@ -81,11 +81,7 @@ function animTick(ts) {
     anim.hitSoundPlayed = true;
     SFX.hit();
   }
-  // Second hit for double-strike attack
-  if (anim.type === 'attack' && anim.attackType === 'double' && !anim.hit2SoundPlayed && t >= 0.75) {
-    anim.hit2SoundPlayed = true;
-    SFX.hit();
-  }
+
   if (anim.type === 'fatality' && !anim.hitSoundPlayed && t >= 0.42) {
     anim.hitSoundPlayed = true;
     SFX.defeat();
@@ -141,17 +137,6 @@ function drawAttackFrame(t) {
         Math.round(monsterY - 6 - lt * 16)
       );
       ctx.restore();
-    }
-  }
-  // Second slash for double-strike attack
-  if (anim.attackType === 'double') {
-    const t2 = 0.75, before2 = 0.12, after2 = 0.18;
-    if (t > t2 - before2 && t < t2 + after2) {
-      const a2 = t < t2
-        ? (t - (t2 - before2)) / before2
-        : 1 - (t - t2) / after2;
-      drawSlash(monsterX + 4, monsterY + Math.round((mH * SCALE) / 2) + 3,
-                Math.min(1, Math.max(0, a2)));
     }
   }
 }
@@ -292,10 +277,8 @@ function getAttackConfig() {
     return { type: 'dash',      duration: 200 + Math.floor(Math.random() * 55),  impactT: 0.24 + Math.random() * 0.07 };
   } else if (r < 0.78) {
     return { type: 'high_jump', duration: 650 + Math.floor(Math.random() * 100), impactT: 0.60 + Math.random() * 0.08 };
-  } else if (r < 0.90) {
-    return { type: 'spin',      duration: 380 + Math.floor(Math.random() * 80),  impactT: 0.50 + Math.random() * 0.10 };
   } else {
-    return { type: 'double',    duration: 500 + Math.floor(Math.random() * 80),  impactT: 0.35 + Math.random() * 0.05 };
+    return { type: 'spin',      duration: 380 + Math.floor(Math.random() * 80),  impactT: 0.50 + Math.random() * 0.10 };
   }
 }
 
@@ -350,17 +333,6 @@ function getAttackOffsets(t, type, impactT) {
         ? -Math.sin((t / 0.5) * Math.PI * 2) * 14
         : 0;
       return { x: Math.round(x), y: Math.round(y) };
-    }
-    case 'double': {
-      // Two quick strikes: forward-back-forward-back
-      const x = t < 0.35
-        ? (t / 0.35) * 64                              // First strike in
-        : t < 0.55
-        ? (1 - (t - 0.35) / 0.20) * 64                // First strike out
-        : t < 0.75
-        ? ((t - 0.55) / 0.20) * 48                    // Second strike in (closer)
-        : (1 - (t - 0.75) / 0.25) * 48;               // Second strike out
-      return { x: Math.round(x), y: 0 };
     }
     default:
       return { x: Math.round(Math.sin(t * Math.PI) * 28), y: 0 };
