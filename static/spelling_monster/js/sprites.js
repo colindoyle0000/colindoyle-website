@@ -57,8 +57,8 @@ function drawKnight(ctx, x, y, scale) {
       SPRITE_DEFS.knight.w * scale, SPRITE_DEFS.knight.h * scale);
   } else {
     drawSprite(ctx, 'knight', x, y, scale);
-    drawSprite(ctx, 'sword', x + 8 * scale, y + 2 * scale, scale);
   }
+  drawSprite(ctx, 'sword', x + 8 * scale, y + 2 * scale, scale);
 }
 
 function drawMonster(ctx, type, x, y, scale) {

@@ -81,6 +81,11 @@ function animTick(ts) {
     anim.hitSoundPlayed = true;
     SFX.hit();
   }
+  // Second hit for double-strike attack
+  if (anim.type === 'attack' && anim.attackType === 'double' && !anim.hit2SoundPlayed && t >= 0.75) {
+    anim.hit2SoundPlayed = true;
+    SFX.hit();
+  }
   if (anim.type === 'fatality' && !anim.hitSoundPlayed && t >= 0.42) {
     anim.hitSoundPlayed = true;
     SFX.defeat();
@@ -114,11 +119,11 @@ function drawAttackFrame(t) {
 
   // Slash starburst visible in a window centred on impactT
   const before = 0.20, after = 0.32;
+  const { monsterX, monsterY, mW, mH } = anim;
   if (t > impactT - before && t < impactT + after) {
     const slashAlpha = t < impactT
       ? (t - (impactT - before)) / before
       : 1 - (t - impactT) / after;
-    const { monsterX, monsterY, mW, mH } = anim;
     drawSlash(monsterX - 2, monsterY + Math.round((mH * SCALE) / 2) - 5,
               Math.min(1, Math.max(0, slashAlpha)));
 
@@ -136,6 +141,17 @@ function drawAttackFrame(t) {
         Math.round(monsterY - 6 - lt * 16)
       );
       ctx.restore();
+    }
+  }
+  // Second slash for double-strike attack
+  if (anim.attackType === 'double') {
+    const t2 = 0.75, before2 = 0.12, after2 = 0.18;
+    if (t > t2 - before2 && t < t2 + after2) {
+      const a2 = t < t2
+        ? (t - (t2 - before2)) / before2
+        : 1 - (t - t2) / after2;
+      drawSlash(monsterX + 4, monsterY + Math.round((mH * SCALE) / 2) + 3,
+                Math.min(1, Math.max(0, a2)));
     }
   }
 }
@@ -268,12 +284,18 @@ function generateParticles(cx, cy) {
 
 function getAttackConfig() {
   const r = Math.random();
-  if (r < 0.40) {
-    return { type: 'lunge', duration: 300 + Math.floor(Math.random() * 80), impactT: 0.54 + Math.random() * 0.06 };
-  } else if (r < 0.75) {
-    return { type: 'jump',  duration: 450 + Math.floor(Math.random() * 100), impactT: 0.58 + Math.random() * 0.10 };
+  if (r < 0.25) {
+    return { type: 'lunge',     duration: 300 + Math.floor(Math.random() * 80),  impactT: 0.54 + Math.random() * 0.06 };
+  } else if (r < 0.45) {
+    return { type: 'jump',      duration: 450 + Math.floor(Math.random() * 100), impactT: 0.58 + Math.random() * 0.10 };
+  } else if (r < 0.60) {
+    return { type: 'dash',      duration: 200 + Math.floor(Math.random() * 55),  impactT: 0.24 + Math.random() * 0.07 };
+  } else if (r < 0.78) {
+    return { type: 'high_jump', duration: 650 + Math.floor(Math.random() * 100), impactT: 0.60 + Math.random() * 0.08 };
+  } else if (r < 0.90) {
+    return { type: 'spin',      duration: 380 + Math.floor(Math.random() * 80),  impactT: 0.50 + Math.random() * 0.10 };
   } else {
-    return { type: 'dash',  duration: 200 + Math.floor(Math.random() * 55),  impactT: 0.24 + Math.random() * 0.07 };
+    return { type: 'double',    duration: 500 + Math.floor(Math.random() * 80),  impactT: 0.35 + Math.random() * 0.05 };
   }
 }
 
@@ -303,6 +325,41 @@ function getAttackOffsets(t, type, impactT) {
       const x = t < impactT
         ? (t / impactT) * 88
         : (1 - (t - impactT) / (1 - impactT)) * 88;
+      return { x: Math.round(x), y: 0 };
+    }
+    case 'high_jump': {
+      // Soaring leap — much higher arc, overshoots slightly then lands on monster
+      let x, y;
+      if (t <= impactT) {
+        const p = t / impactT;
+        x = p * 80;
+        y = -Math.sin(p * Math.PI) * 90;
+      } else {
+        const p = (t - impactT) / (1 - impactT);
+        x = (1 - p) * 80;
+        // Bounce: small hop on landing
+        y = p < 0.3 ? Math.sin((p / 0.3) * Math.PI) * 10 : 0;
+      }
+      return { x: Math.round(x), y: Math.round(y) };
+    }
+    case 'spin': {
+      // Rush forward with a spin: knight moves toward monster in a tight spiral
+      const progress = Math.sin(t * Math.PI);
+      const x = progress * 76;
+      const y = t < 0.5
+        ? -Math.sin((t / 0.5) * Math.PI * 2) * 14
+        : 0;
+      return { x: Math.round(x), y: Math.round(y) };
+    }
+    case 'double': {
+      // Two quick strikes: forward-back-forward-back
+      const x = t < 0.35
+        ? (t / 0.35) * 64                              // First strike in
+        : t < 0.55
+        ? (1 - (t - 0.35) / 0.20) * 64                // First strike out
+        : t < 0.75
+        ? ((t - 0.55) / 0.20) * 48                    // Second strike in (closer)
+        : (1 - (t - 0.75) / 0.25) * 48;               // Second strike out
       return { x: Math.round(x), y: 0 };
     }
     default:
@@ -338,7 +395,7 @@ function drawBackground() {
     }
   }
   ctx.fillStyle = '#5f574f';
-  ctx.fillRect(0, GROUND, W, 2);
+  ctx.fillRect(0, GROUND, W, H - GROUND);
 }
 
 // ─── Title Screen ─────────────────────────────────────────────────────────────
@@ -351,8 +408,8 @@ function renderTitle() {
   ctx.fillStyle = '#ff004d';
   ctx.fillText('MONSTER', W / 2, 56);
 
-  drawKnight(ctx, 16, 68, 5);
-  drawMonster(ctx, 0, W - 16 - getMonsterWidth(0) * 5, H / 2 - 20, 5);
+  drawKnight(ctx, 16, 80, 5);
+  drawMonster(ctx, 0, W - 16 - getMonsterWidth(0) * 5, 100, 5);
 
   ctx.fillStyle = '#c2c3c7';
   ctx.font = px(12);
@@ -596,6 +653,23 @@ function renderBonus() {
   ctx.fillText('Press 1, 2, or 3 to choose', W / 2, H - 8);
 }
 
+function wrapText(ctx, text, maxWidth) {
+  const words = text.split(' ');
+  const lines = [];
+  let line = '';
+  for (const word of words) {
+    const test = line ? line + ' ' + word : word;
+    if (ctx.measureText(test).width > maxWidth && line) {
+      lines.push(line);
+      line = word;
+    } else {
+      line = test;
+    }
+  }
+  if (line) lines.push(line);
+  return lines;
+}
+
 function drawItemCard(x, y, w, h, item, num) {
   ctx.fillStyle = '#1d2b53';
   ctx.fillRect(x, y, w, h);
@@ -604,21 +678,24 @@ function drawItemCard(x, y, w, h, item, num) {
   ctx.strokeRect(x, y, w, h);
 
   ctx.fillStyle = '#ffec27';
-  ctx.font = px(28);
+  ctx.font = px(18);
   ctx.textAlign = 'center';
-  ctx.fillText(item.icon, x + w / 2, y + 34);
+  ctx.fillText(item.icon, x + w / 2, y + 26);
 
   ctx.fillStyle = '#fff1e8';
-  ctx.font = px(10);
-  ctx.fillText(item.label, x + w / 2, y + 56);
+  ctx.font = px(8);
+  const labelLines = wrapText(ctx, item.label, w - 6);
+  labelLines.forEach((ln, i) => ctx.fillText(ln, x + w / 2, y + 42 + i * 10));
 
   ctx.fillStyle = '#83769c';
-  ctx.font = px(10);
-  ctx.fillText(item.desc, x + w / 2, y + 70);
+  ctx.font = px(8);
+  const descLines = wrapText(ctx, item.desc, w - 6);
+  const descY = y + 42 + labelLines.length * 10 + 4;
+  descLines.forEach((ln, i) => ctx.fillText(ln, x + w / 2, descY + i * 10));
 
   ctx.fillStyle = '#ffa300';
   ctx.font = px(14);
-  ctx.fillText(`[${num}]`, x + w / 2, y + 90);
+  ctx.fillText(`[${num}]`, x + w / 2, y + h - 8);
 }
 
 // ─── Victory / Defeat Screens ────────────────────────────────────────────────
