@@ -29,6 +29,16 @@ This page serves as a kind of blackboard/whiteboard for in-class instruction. I 
 - Am I trying to do too many things at once?
 - Is there a narrower intervention that would make the project stronger?
 
+## Peer Review Exercise
+
+- What exactly is this paper adding?
+- Is the question too broad?
+- What problem is the paper addressing?
+- Who is the audience for this paper?
+- What would make this paper useful to someone else?
+- Is the paper trying to do too many things at once?
+- Is there a narrower intervention that would make the project stronger?
+
 ## February 18
 
 
