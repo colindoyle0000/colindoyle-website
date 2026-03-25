@@ -17,6 +17,18 @@ toc: false
 
 This page serves as a kind of blackboard/whiteboard for in-class instruction. I will use this page when it would be helpful for students to have text available outside of the slides that I am presenting.
 
+## March 25
+
+## In-Class Exercise
+
+- What exactly is my paper adding?
+- Is my question too broad?
+- What problem am I actually addressing?
+- Who is the audience for this paper?
+- What would make this paper useful to someone else?
+- Am I trying to do too many things at once?
+- Is there a narrower intervention that would make the project stronger?
+
 ## February 18
 
 
