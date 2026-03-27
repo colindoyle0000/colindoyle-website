@@ -13,8 +13,16 @@ toc: false
 draft: false
 ---
 
-[Class 01 Slides](/../../lawailab2026spring-material/01.pdf)
+[Slides - Welcome](/../../lawailab2026spring-material/01.pdf)
 
-[Class 02 Slides](/../../lawailab2026spring-material/02.pdf)
+[Slides - GenAI Policy](/../../lawailab2026spring-material/02.pdf)
 
-[Class 03 Slides](/../../lawailab2026spring-material/03.pdf)
+[Slides - Court Rules](/../../lawailab2026spring-material/03.pdf)
+
+[Slides - Research Design](/../../lawailab2026spring-material/04.pdf)
+
+[Slides - Red Teaming](/../../lawailab2026spring-material/05.pdf)
+
+[Slides - Project Templates](/../../lawailab2026spring-material/06.pdf)
+
+[Slides - Refining Research Questions](/../../lawailab2026spring-material/07.pdf)
