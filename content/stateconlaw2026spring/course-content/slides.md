@@ -35,3 +35,15 @@ The slides for each class session will be made available here in both PDF and we
 **11 - School Funding** | [(.pdf)](/../../stateconlaw2026spring-material/slides/11-school.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/11-school)
 
 **12 - School Funding (cont.)** | [(.pdf)](/../../stateconlaw2026spring-material/slides/12-school.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/12-school)
+
+**13 - Voting Rights** | [(.pdf)](/../../stateconlaw2026spring-material/slides/13-voting.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/13-voting)
+
+**14 - Voting Rights (cont.)** | [(.pdf)](/../../stateconlaw2026spring-material/slides/14-voting.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/14-voting)
+
+**15 - Unique State Rights** | [(.pdf)](/../../stateconlaw2026spring-material/slides/15-unique_rights.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/15-unique_rights)
+
+**16 - Unique State Rights (cont.)** | [(.pdf)](/../../stateconlaw2026spring-material/slides/16-unique_rights.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/16-unique_rights)
+
+**17 - Justiciability in State Courts** | [(.pdf)](/../../stateconlaw2026spring-material/slides/17-environmental.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/17-environmental)
+
+**18 - Environmental Rights** | [(.pdf)](/../../stateconlaw2026spring-material/slides/18-environmental.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/18-environmental)
