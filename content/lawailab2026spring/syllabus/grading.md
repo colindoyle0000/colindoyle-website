@@ -43,4 +43,4 @@ To help formulate your final project, students are _highly_ encouraged to schedu
 
 Student presentations will be held on our final three weeks of class. You are encouraged to use the questions and reactions to your in-class presentations to refine your final paper.
 
-Final papers are due on Friday, May 8, 2026 and should be submitted to me via email.
+Final papers are due by 5:00 pm PT on Wednesday, May 13, 2026 and should be submitted to me via email.

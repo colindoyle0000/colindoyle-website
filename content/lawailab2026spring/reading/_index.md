@@ -280,7 +280,9 @@ Because last week’s class was cancelled, there is no new reading assignment fo
 
 ## Apr. 1, 2026
 
-Student Presentations (No reading assignment)
+You should continue to work on your research and writing for your final paper and presentation.
+
+
 
 ## Apr. 8, 2026
 
