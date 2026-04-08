@@ -1096,11 +1096,24 @@ function openWordEditor() {
   document.getElementById('wordEditorNewInput').focus();
 }
 
+const SAVED_WORDS_KEY = 'spellingMonster_savedWords';
+
 document.getElementById('wordEditorSave').addEventListener('click', () => {
   const words = getCurrentEditorWords();
-  if (words.length > 0) activeWords = words;
+  if (words.length > 0) {
+    activeWords = words;
+    localStorage.setItem(SAVED_WORDS_KEY, JSON.stringify(words));
+  }
   document.getElementById('wordEditor').classList.remove('open');
   render();
+});
+
+document.getElementById('wordEditorReset').addEventListener('click', () => {
+  localStorage.removeItem(SAVED_WORDS_KEY);
+  fetchDefaultWords().then(words => {
+    activeWords = words;
+    buildWordRows();
+  });
 });
 
 document.getElementById('wordEditorCancel').addEventListener('click', () => {
@@ -1131,9 +1144,38 @@ document.getElementById('wordEditor').addEventListener('keydown', e => e.stopPro
 
 // ─── Boot ─────────────────────────────────────────────────────────────────────
 
+function parseWordsMd(text) {
+  return text.split('\n')
+    .map(line => line.trim().toLowerCase())
+    .filter(line => line.length > 0 && !line.startsWith('#'));
+}
+
+function fetchDefaultWords() {
+  return fetch('data/words.md')
+    .then(r => r.text())
+    .then(parseWordsMd)
+    .catch(() => WORDS.slice());
+}
+
+function loadActiveWords() {
+  const saved = localStorage.getItem(SAVED_WORDS_KEY);
+  if (saved) {
+    try {
+      const words = JSON.parse(saved);
+      if (Array.isArray(words) && words.length > 0) {
+        return Promise.resolve(words);
+      }
+    } catch (e) { /* fall through */ }
+  }
+  return fetchDefaultWords();
+}
+
 loadSpriteSheet('img/sprites.png', () => {
   loadKnightImage('img/knight.png', () => {
-    initGame();
-    render();
+    loadActiveWords().then(words => {
+      activeWords = words;
+      initGame();
+      render();
+    });
   });
 });
