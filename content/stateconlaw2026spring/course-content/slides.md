@@ -47,3 +47,9 @@ The slides for each class session will be made available here in both PDF and we
 **17 - Justiciability in State Courts** | [(.pdf)](/../../stateconlaw2026spring-material/slides/17-environmental.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/17-environmental)
 
 **18 - Environmental Rights** | [(.pdf)](/../../stateconlaw2026spring-material/slides/18-environmental.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/18-environmental)
+
+**19 - Environmental Rights (cont.)** | [(.pdf)](/../../stateconlaw2026spring-material/slides/19-admin.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/19-admin)
+
+**20 - Administrative Law** | [(.pdf)](/../../stateconlaw2026spring-material/slides/20-admin.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/20-admin)
+
+**21 - Administrative Law (cont.)** | [(.pdf)](/../../stateconlaw2026spring-material/slides/21-admin.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/21-admin)
