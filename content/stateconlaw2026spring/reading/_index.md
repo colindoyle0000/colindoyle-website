@@ -185,9 +185,13 @@ Pgs. 1101-1127
 
 ## Apr. 21, 2026
 
-Pgs. 1133-1160
+~~Pgs. 1133-1160~~
+
+No reading assigned. We will discuss state constitutional amendment procedures in class, but it will not be a topic on the final exam.
 
 
 ## Makeup Class (Date TBD)
 
-Pgs. 1182-1196
+~~Pgs. 1182-1196~~
+
+Review Session. No new reading assigned.
