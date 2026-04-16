@@ -10,9 +10,9 @@ const STATE = {
 };
 
 const ITEMS = [
-  { id: 'health', label: '+ Health Boost', icon: '♥', desc: 'Restore 2 hearts' },
-  { id: 'peek',   label: '+ Extra Peek',   icon: '👁', desc: 'See the word for 3s' },
-  { id: 'wild',   label: '+ Wild Letters', icon: '⚡', desc: 'Auto-type 3 letters' },
+  { id: 'health', label: 'HEALTH BOOST', icon: 'H', desc: 'Restore 2 hearts' },
+  { id: 'peek',   label: 'EXTRA PEEK',   icon: 'P', desc: 'See the word for 3s' },
+  { id: 'wild',   label: 'WILD LETTERS', icon: 'W', desc: 'Auto-type 3 letters' },
 ];
 
 let game = {};
@@ -49,18 +49,95 @@ const ctx = canvas.getContext('2d');
 // Logical game resolution
 const W = 256;
 const H = 240;
-// Render at 3x into a physical 768×720 canvas so text is drawn at full
-// display resolution — no CSS upscaling of anti-aliased text bitmaps.
-canvas.width  = W * 3;
-canvas.height = H * 3;
-ctx.scale(3, 3);
+const MAX_RENDER_SCALE = 3;
+const HUD_PANEL = { x: 8, y: 8, w: 104, h: 42 };
+const LETTER_PANEL = { x: 16, y: H - 46, w: W - 32, h: 30 };
+const BATTLE_LAYOUT = {
+  knightScale: 6,
+  monsterScale: 6,
+  knightX: 20,
+  monsterRight: 26,
+  previewMonsterScale: 6,
+  titleKnightScale: 6,
+  titleMonsterScale: 5,
+};
+const GROUND = H - 68;
 
-// Global sprite scale for battle scenes. At SCALE=8, knight (12px tall) = 96px = 40% of 240px height.
-const SCALE = 8;
-// Y coordinate of the ground line
-const GROUND = H - 50;  // 190
+let renderScale = 1;
+let ambientTime = 0;
+let ambientRafId = null;
 
 function px(size) { return `${size}px VT323, monospace`; }
+
+function oscillate(periodMs, amplitude, phase = 0) {
+  return Math.round(Math.sin((ambientTime / periodMs) * Math.PI * 2 + phase) * amplitude);
+}
+
+function pulse(periodMs, min = 0, max = 1, phase = 0) {
+  const t = (Math.sin((ambientTime / periodMs) * Math.PI * 2 + phase) + 1) * 0.5;
+  return min + (max - min) * t;
+}
+
+function ensureAmbientLoop() {
+  if (ambientRafId !== null) return;
+
+  function tick(ts) {
+    ambientTime = ts;
+    if (!anim && game.state) render();
+    ambientRafId = requestAnimationFrame(tick);
+  }
+
+  ambientRafId = requestAnimationFrame(tick);
+}
+
+function setCanvasScale() {
+  const availableWidth = Math.max(W, window.innerWidth - 32);
+  const availableHeight = Math.max(H, window.innerHeight - 120);
+  const nextScale = Math.max(
+    1,
+    Math.min(MAX_RENDER_SCALE, Math.floor(Math.min(availableWidth / W, availableHeight / H)))
+  );
+
+  renderScale = nextScale;
+  canvas.width = W * renderScale;
+  canvas.height = H * renderScale;
+  canvas.style.width = `${W * renderScale}px`;
+  canvas.style.height = `${H * renderScale}px`;
+  ctx.setTransform(renderScale, 0, 0, renderScale, 0, 0);
+  ctx.imageSmoothingEnabled = false;
+}
+
+function getKnightBounds(offsetX = 0, offsetY = 0) {
+  const scale = BATTLE_LAYOUT.knightScale;
+  return {
+    x: BATTLE_LAYOUT.knightX + offsetX,
+    y: GROUND - SPRITE_DEFS.knight.h * scale + offsetY,
+    w: SPRITE_DEFS.knight.w * scale,
+    h: SPRITE_DEFS.knight.h * scale,
+    scale,
+  };
+}
+
+function getMonsterBounds(monsterType) {
+  const scale = BATTLE_LAYOUT.monsterScale;
+  const w = getMonsterWidth(monsterType);
+  const h = getMonsterHeight(monsterType);
+  return {
+    x: W - BATTLE_LAYOUT.monsterRight - w * scale,
+    y: GROUND - h * scale,
+    w: w * scale,
+    h: h * scale,
+    scale,
+  };
+}
+
+function drawPanel(x, y, w, h, fill = '#1d2b53', border = '#29adff') {
+  ctx.fillStyle = fill;
+  ctx.fillRect(x, y, w, h);
+  ctx.strokeStyle = border;
+  ctx.lineWidth = 1;
+  ctx.strokeRect(x, y, w, h);
+}
 
 // ─── Animation System ─────────────────────────────────────────────────────────
 
@@ -116,12 +193,12 @@ function drawAttackFrame(t) {
 
   // Slash starburst visible in a window centred on impactT
   const before = 0.20, after = 0.32;
-  const { monsterX, monsterY, mW, mH } = anim;
+  const { monsterX, monsterY, mW, mH, monsterScale } = anim;
   if (t > impactT - before && t < impactT + after) {
     const slashAlpha = t < impactT
       ? (t - (impactT - before)) / before
       : 1 - (t - impactT) / after;
-    drawSlash(monsterX - 2, monsterY + Math.round((mH * SCALE) / 2) - 5,
+    drawSlash(monsterX - 2, monsterY + Math.round((mH * monsterScale) / 2) - 5,
               Math.min(1, Math.max(0, slashAlpha)));
 
     // Letter floats up from the monster after impact
@@ -134,7 +211,7 @@ function drawAttackFrame(t) {
       ctx.textAlign = 'center';
       ctx.fillText(
         anim.letter.toUpperCase(),
-        monsterX + Math.round((mW * SCALE) / 2),
+        monsterX + Math.round((mW * monsterScale) / 2),
         Math.round(monsterY - 6 - lt * 16)
       );
       ctx.restore();
@@ -162,10 +239,9 @@ function drawFatalityFrame(t) {
   const hideMonster = t >= IMPACT_T;
   renderBattleScene({ hideMonster });
 
-  const knightX  = 18;
-  const knightY  = GROUND - SPRITE_DEFS.knight.h * SCALE;
-  const beamX    = knightX + 9 * SCALE;
-  const beamY    = knightY + Math.round(SPRITE_DEFS.knight.h * SCALE * 0.50);
+  const knight = getKnightBounds();
+  const beamX  = knight.x + 9 * knight.scale;
+  const beamY  = knight.y + Math.round(knight.h * 0.50);
 
   // ── Charge glow (expanding blue squares around sword tip) ──────────────
   if (t < CHARGE_T + 0.05) {
@@ -357,65 +433,165 @@ function render() {
 }
 
 function drawBackground() {
-  ctx.fillStyle = '#1a1a2e';
+  ctx.fillStyle = '#14142b';
   ctx.fillRect(0, 0, W, H);
-  ctx.strokeStyle = '#0f3460';
-  ctx.lineWidth = 1;
-  for (let x = 0; x < W; x += 16) {
-    for (let y = 0; y < H; y += 8) {
-      const offset = (Math.floor(y / 8) % 2) * 8;
-      ctx.strokeRect(x + offset, y, 16, 8);
-    }
-  }
+
+  ctx.fillStyle = '#1d2b53';
+  ctx.fillRect(0, 0, W, 64);
+  ctx.fillStyle = '#23386b';
+  ctx.fillRect(0, 64, W, 44);
+  ctx.fillStyle = '#16213f';
+  ctx.fillRect(0, 108, W, GROUND - 108);
+
+  drawCloud(26 + oscillate(12000, 3, 0.4), 20 + oscillate(2600, 1, 0.2));
+  drawCloud(170 + oscillate(15000, 4, 1.2), 30 + oscillate(3000, 1, 0.8));
+  drawCloud(102 + oscillate(10000, 2, 2.1), 52 + oscillate(2400, 1, 1.4));
+
+  ctx.fillStyle = '#0f1731';
+  drawMountainRange([
+    [0, 136, 48, 32],
+    [30, 124, 60, 44],
+    [82, 132, 56, 36],
+    [128, 120, 66, 48],
+    [182, 132, 52, 36],
+    [214, 126, 42, 42],
+  ]);
+
+  ctx.fillStyle = '#1d2b53';
+  drawMountainRange([
+    [0, 148, 32, 20],
+    [24, 140, 46, 28],
+    [66, 152, 40, 16],
+    [100, 142, 48, 26],
+    [142, 150, 42, 18],
+    [176, 140, 46, 28],
+    [214, 148, 42, 20],
+  ]);
+
   ctx.fillStyle = '#5f574f';
   ctx.fillRect(0, GROUND, W, H - GROUND);
+  ctx.fillStyle = '#7a7068';
+  ctx.fillRect(0, GROUND, W, 6);
+  ctx.fillStyle = '#4b443d';
+  ctx.fillRect(0, GROUND + 6, W, H - GROUND - 6);
+
+  ctx.fillStyle = '#00e436';
+  for (let x = 0; x < W; x += 16) {
+    ctx.fillRect(x, GROUND - 2, 8, 2);
+  }
+
+  ctx.fillStyle = '#83769c';
+  for (let x = 10; x < W; x += 34) {
+    ctx.fillRect(x, GROUND + 14, 6, 4);
+    ctx.fillRect(x + 2, GROUND + 10, 2, 4);
+  }
+}
+
+function drawCloud(x, y) {
+  ctx.fillStyle = '#c2c3c7';
+  ctx.fillRect(x + 8, y, 24, 8);
+  ctx.fillRect(x, y + 8, 40, 8);
+  ctx.fillRect(x + 8, y + 16, 24, 8);
+  ctx.fillStyle = '#fff1e8';
+  ctx.fillRect(x + 8, y + 8, 24, 8);
+}
+
+function drawMountainRange(mountains) {
+  mountains.forEach(([x, y, w, h]) => {
+    for (let row = 0; row < h; row += 8) {
+      const inset = Math.floor((row / 8) * 0.5) * 8;
+      const width = Math.max(8, w - inset * 2);
+      ctx.fillRect(x + inset, y + row, width, 8);
+    }
+  });
 }
 
 // ─── Title Screen ─────────────────────────────────────────────────────────────
 
 function renderTitle() {
+  const knightBob = oscillate(1800, 2, 0.4);
+  const monsterBob = oscillate(1500, 2, 1.6);
+  const swordTilt = oscillate(1200, 1, 2.2);
+
   ctx.fillStyle = '#ffec27';
   ctx.font = px(24);
   ctx.textAlign = 'center';
-  ctx.fillText('SPELLING', W / 2, 38);
+  ctx.fillText('SPELLING', W / 2, 24 + oscillate(2200, 1, 0.2));
   ctx.fillStyle = '#ff004d';
-  ctx.fillText('MONSTER', W / 2, 56);
+  ctx.fillText('MONSTER', W / 2, 42 + oscillate(2000, 1, 1.1));
 
-  drawKnight(ctx, 16, 80, 5);
-  drawMonster(ctx, 0, W - 16 - getMonsterWidth(0) * 5, 100, 5);
+  drawTitleRidge();
+
+  drawKnight(ctx, 42, 68 + knightBob, BATTLE_LAYOUT.titleKnightScale);
+  ctx.fillStyle = '#fff1e8';
+  ctx.fillRect(121, 92 + swordTilt, 2, 6);
+  drawMonster(
+    ctx,
+    0,
+    W - 56 - getMonsterWidth(0) * BATTLE_LAYOUT.titleMonsterScale,
+    78 + monsterBob,
+    BATTLE_LAYOUT.titleMonsterScale
+  );
 
   ctx.fillStyle = '#c2c3c7';
-  ctx.font = px(12);
+  ctx.font = px(11);
   ctx.textAlign = 'left';
-  ctx.fillText('SETTINGS:', 22, 148);
+  ctx.fillText('SETTINGS', 22, 150);
   drawToggle(22, 158, 'Audio Preview', game.settings.audio, 'A');
   drawToggle(22, 176, 'Sneak Peek',    game.settings.peek,  'S');
   drawToggle(22, 194, 'Music',         musicEnabled,        'M');
 
-  drawButton(22,  214, 100, 22, 'PLAY GAME',  '#00e436', '#000000');
-  drawButton(134, 214, 110, 22, 'EDIT WORDS', '#29adff', '#000000');
+  drawButton(22,  214, 100, 16, 'PLAY GAME',  '#00e436', '#000000');
+  drawButton(134, 214, 100, 16, 'EDIT WORDS', '#29adff', '#000000');
+}
+
+function drawTitleRidge() {
+  ctx.fillStyle = '#00e436';
+  ctx.fillRect(20, 136, 216, 3);
+
+  const ridgeRows = [
+    [28, 132, 28],
+    [20, 136, 216],
+    [28, 140, 200],
+    [38, 144, 180],
+    [50, 148, 156],
+  ];
+
+  ctx.fillStyle = '#7a7068';
+  ridgeRows.forEach(([x, y, w]) => ctx.fillRect(x, y, w, 4));
+
+  ctx.fillStyle = '#5f574f';
+  [
+    [28, 152, 200],
+    [40, 156, 176],
+    [56, 160, 144],
+  ].forEach(([x, y, w]) => ctx.fillRect(x, y, w, 4));
+
+  ctx.fillStyle = '#83769c';
+  [48, 76, 170, 198].forEach(x => {
+    ctx.fillRect(x, 148, 4, 4);
+    ctx.fillRect(x + 2, 144, 2, 4);
+  });
 }
 
 function drawToggle(x, y, label, active, key) {
-  ctx.fillStyle = active ? '#00e436' : '#5f574f';
-  ctx.fillRect(x, y, 22, 12);
+  drawPanel(x, y, 24, 14, active ? '#00e436' : '#5f574f', active ? '#00e436' : '#83769c');
   ctx.fillStyle = '#000';
   ctx.font = px(10);
   ctx.textAlign = 'left';
-  ctx.fillText(active ? 'ON' : 'OFF', x + 2, y + 9);
+  ctx.fillText(active ? 'ON' : 'OFF', x + 3, y + 10);
   ctx.fillStyle = '#c2c3c7';
-  ctx.fillText(label, x + 28, y + 9);
+  ctx.fillText(label, x + 32, y + 10);
   ctx.fillStyle = '#83769c';
-  ctx.fillText('[' + key + ']', x + 148, y + 9);
+  ctx.fillText('[' + key + ']', x + 134, y + 10);
 }
 
 function drawButton(x, y, w, h, label, bg, fg) {
-  ctx.fillStyle = bg;
-  ctx.fillRect(x, y, w, h);
+  drawPanel(x, y, w, h, bg, '#fff1e8');
   ctx.fillStyle = fg;
-  ctx.font = px(12);
+  ctx.font = px(11);
   ctx.textAlign = 'center';
-  ctx.fillText(label, x + w / 2, y + h / 2 + 5);
+  ctx.fillText(label, x + w / 2, y + h / 2 + 4);
 }
 
 // ─── Preview Screen ───────────────────────────────────────────────────────────
@@ -423,25 +599,52 @@ function drawButton(x, y, w, h, label, bg, fg) {
 function renderPreview() {
   const word = game.words[game.currentIndex];
   const monsterType = game.currentIndex % 4;
+  const monsterScale = BATTLE_LAYOUT.previewMonsterScale + (pulse(1200, 0, 0.7, 1.3) > 0.4 ? 1 : 0);
+  const monsterY = 60 + oscillate(900, 2, 0.9);
+
+  ctx.fillStyle = '#2b0f54';
+  ctx.fillRect(0, 0, W, H);
+
+  ctx.save();
+  ctx.globalAlpha = pulse(1100, 0.18, 0.34, 0.5);
+  ctx.fillStyle = '#ff004d';
+  ctx.fillRect(56, 54, W - 112, 6);
+  ctx.fillRect(48, 62, W - 96, 6);
+  ctx.fillRect(40, 70, W - 80, 6);
+  ctx.restore();
+
+  ctx.save();
+  ctx.globalAlpha = pulse(1400, 0.20, 0.40, 1.2);
+  ctx.fillStyle = '#ffa300';
+  ctx.fillRect(68, 108, W - 136, 6);
+  ctx.fillRect(58, 116, W - 116, 6);
+  ctx.restore();
 
   ctx.fillStyle = '#ffec27';
   ctx.font = px(14);
   ctx.textAlign = 'center';
-  ctx.fillText('A new monster appears!', W / 2, 28);
+  ctx.fillText('A NEW MONSTER APPEARS!', W / 2, 28 + oscillate(1800, 1, 0.6));
 
-  drawMonster(ctx, monsterType, W / 2 - Math.round(getMonsterWidth(monsterType) * 9 / 2), 44, 9);
+  drawMonster(
+    ctx,
+    monsterType,
+    W / 2 - Math.round(getMonsterWidth(monsterType) * monsterScale / 2),
+    monsterY,
+    monsterScale
+  );
 
   if (game.peekVisible) {
+    drawPanel(36, 148, W - 72, 38, '#111111', '#ffec27');
     ctx.fillStyle = '#ffec27';
     ctx.font = px(20);
-    ctx.fillText(word.toUpperCase(), W / 2, 162);
+    ctx.fillText(word.toUpperCase(), W / 2, 166);
     ctx.fillStyle = '#c2c3c7';
-    ctx.font = px(12);
-    ctx.fillText('Remember this word!', W / 2, 178);
+    ctx.font = px(10);
+    ctx.fillText('Remember this word!', W / 2, 182);
   } else {
     ctx.fillStyle = '#c2c3c7';
     ctx.font = px(12);
-    ctx.fillText('Get ready...', W / 2, 162);
+    ctx.fillText('Get ready...', W / 2, 170);
   }
 }
 
@@ -453,12 +656,21 @@ function renderPreview() {
 function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster = false } = {}) {
   const word = game.words[game.currentIndex];
   const monsterType = game.currentIndex % 4;
+  const idlePhase = (game.currentIndex % 4) * 0.7;
+  const knight = getKnightBounds(
+    knightOffsetX,
+    knightOffsetY + (anim ? 0 : oscillate(1600, 1, 0.2))
+  );
+  const monster = getMonsterBounds(monsterType);
+  const monsterIdleY = anim ? 0 : oscillate(1300, 2, idlePhase);
+  const monsterIdleX = anim ? 0 : oscillate(2200, 1, idlePhase + 1.1);
 
-  // Progress counter
+  drawPanel(HUD_PANEL.x, HUD_PANEL.y, HUD_PANEL.w, HUD_PANEL.h, '#141f3d', '#0f3460');
+
   ctx.fillStyle = '#83769c';
-  ctx.font = px(12);
+  ctx.font = px(10);
   ctx.textAlign = 'left';
-  ctx.fillText(`${game.currentIndex + 1}/${game.words.length}`, 10, 10);
+  ctx.fillText(`ROUND ${game.currentIndex + 1}/${game.words.length}`, 16, 18);
 
   // Replay audio button and music toggle — always visible during battle
   drawReplayButton();
@@ -466,85 +678,69 @@ function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster =
 
   // Knight HP hearts
   for (let i = 0; i < game.maxKnightHP; i++) {
-    drawHeart(ctx, 10 + i * 16, 14, 2, i < game.knightHP);
+    drawHeart(ctx, 16 + i * 14, 30, 2, i < game.knightHP);
   }
 
   // Inventory slots
   drawInventory();
 
-  // Knight (shifted right during lunge)
-  const knightX = 18 + knightOffsetX;
-  const knightY = GROUND - SPRITE_DEFS.knight.h * SCALE + knightOffsetY;
-  drawKnight(ctx, knightX, knightY, SCALE);
-
-  // Monster
-  const mW = getMonsterWidth(monsterType);
-  const mH = getMonsterHeight(monsterType);
-  const monsterX = W - 18 - mW * SCALE;
-  const monsterY = GROUND - mH * SCALE;
+  drawKnight(ctx, knight.x, knight.y, knight.scale);
 
   if (!hideMonster) {
-    drawMonster(ctx, monsterType, monsterX, monsterY, SCALE);
+    drawMonster(ctx, monsterType, monster.x + monsterIdleX, monster.y + monsterIdleY, monster.scale);
   }
 
   // Peek overlay
   if (game.peekVisible) {
-    ctx.fillStyle = 'rgba(0,0,0,0.75)';
-    ctx.fillRect(W / 2 - 70, H / 2 - 16, 140, 26);
+    drawPanel(W / 2 - 72, H / 2 - 18, 144, 30, '#111111', '#ffec27');
     ctx.fillStyle = '#ffec27';
     ctx.font = px(16);
     ctx.textAlign = 'center';
-    ctx.fillText(word.toUpperCase(), W / 2, H / 2 + 5);
+    ctx.fillText(word.toUpperCase(), W / 2, H / 2 + 4);
   }
 
   // Letter health bar
   drawLetterBar(word, game.typedSoFar);
 
   // Bottom hint
+  ctx.fillStyle = '#83769c';
+  ctx.font = px(10);
   ctx.textAlign = 'center';
   if (game.wildActive && game.wildRemaining > 0) {
     ctx.fillStyle = '#ffec27';
-    ctx.font = px(12);
-    ctx.fillText(`⚡ Wild: ${game.wildRemaining} left`, W / 2, H - 6);
+    ctx.fillText(`WILD LETTERS: ${game.wildRemaining} LEFT`, W / 2, H - 12);
   } else {
     ctx.fillStyle = '#c2c3c7';
-    ctx.font = px(12);
-    ctx.fillText('Type the next letter!', W / 2, H - 6);
+    ctx.fillText('TYPE THE NEXT LETTER', W / 2, H - 12);
   }
 }
 
 function drawReplayButton() {
-  const bx = W - 84, by = 3, bw = 81, bh = 18;
-  ctx.fillStyle = '#1d2b53';
-  ctx.fillRect(bx, by, bw, bh);
-  ctx.strokeStyle = '#29adff';
-  ctx.lineWidth = 1;
-  ctx.strokeRect(bx, by, bw, bh);
+  const bx = W - 76, by = 8, bw = 68, bh = 16;
+  drawPanel(bx, by, bw, bh);
   ctx.fillStyle = '#29adff';
-  ctx.font = px(12);
+  ctx.font = px(10);
   ctx.textAlign = 'center';
-  ctx.fillText('\u266a HEAR WORD', bx + bw / 2, by + bh / 2 + 5);
+  ctx.fillText('HEAR WORD', bx + bw / 2, by + bh / 2 + 4);
 }
 
 function drawBattleMusicButton() {
-  const bx = W - 84, by = 23, bw = 81, bh = 14;
-  ctx.fillStyle = '#1d2b53';
-  ctx.fillRect(bx, by, bw, bh);
-  ctx.strokeStyle = musicEnabled ? '#00e436' : '#5f574f';
-  ctx.lineWidth = 1;
-  ctx.strokeRect(bx, by, bw, bh);
+  const bx = W - 76, by = 28, bw = 68, bh = 14;
+  drawPanel(bx, by, bw, bh, '#1d2b53', musicEnabled ? '#00e436' : '#5f574f');
   ctx.fillStyle = musicEnabled ? '#00e436' : '#5f574f';
   ctx.font = px(10);
   ctx.textAlign = 'center';
-  ctx.fillText('\u266a MUSIC ' + (musicEnabled ? 'ON' : 'OFF'), bx + bw / 2, by + bh / 2 + 4);
+  ctx.fillText('MUSIC ' + (musicEnabled ? 'ON' : 'OFF'), bx + bw / 2, by + bh / 2 + 4);
 }
 
 function drawLetterBar(word, typed) {
-  const tileSize = 20;
-  const gap = 3;
+  const tileSize = word.length > 8 ? 16 : 18;
+  const gap = 4;
   const totalW = word.length * (tileSize + gap) - gap;
   const startX = Math.round((W - totalW) / 2);
-  const y = H - 44;
+  const y = LETTER_PANEL.y + 6;
+
+  drawPanel(LETTER_PANEL.x, LETTER_PANEL.y, LETTER_PANEL.w, LETTER_PANEL.h, '#141f3d', '#0f3460');
 
   word.split('').forEach((letter, i) => {
     const x = startX + i * (tileSize + gap);
@@ -557,36 +753,37 @@ function drawLetterBar(word, typed) {
       ctx.fillStyle = '#00e436';
       ctx.fillRect(x + 1, y + 1, tileSize - 2, tileSize - 2);
       ctx.fillStyle = '#fff1e8';
-      ctx.font = px(16);
+      ctx.font = px(tileSize === 16 ? 13 : 14);
       ctx.textAlign = 'center';
-      ctx.fillText(letter.toUpperCase(), x + tileSize / 2, y + tileSize / 2 + 6);
+      ctx.fillText(letter.toUpperCase(), x + tileSize / 2, y + tileSize / 2 + 5);
     } else if (isCurrent) {
+      const pulseGrow = Math.round(pulse(850, 0, 2, 0.3));
       ctx.fillStyle = '#ffa300';
-      ctx.fillRect(x - 1, y - 1, tileSize + 2, tileSize + 2);
+      ctx.fillRect(x - 1 - pulseGrow, y - 1 - pulseGrow, tileSize + 2 + pulseGrow * 2, tileSize + 2 + pulseGrow * 2);
       ctx.fillStyle = '#1d2b53';
       ctx.fillRect(x, y, tileSize, tileSize);
       ctx.fillStyle = '#ffec27';
-      ctx.font = px(16);
+      ctx.font = px(tileSize === 16 ? 13 : 14);
       ctx.textAlign = 'center';
-      ctx.fillText('?', x + tileSize / 2, y + tileSize / 2 + 6);
+      ctx.fillText('?', x + tileSize / 2, y + tileSize / 2 + 5 + oscillate(900, 1, 0.8));
     } else {
       ctx.fillStyle = '#5f574f';
       ctx.fillRect(x, y, tileSize, tileSize);
       ctx.fillStyle = '#3a3535';
       ctx.fillRect(x + 1, y + 1, tileSize - 2, tileSize - 2);
       ctx.fillStyle = '#83769c';
-      ctx.font = px(16);
+      ctx.font = px(tileSize === 16 ? 13 : 14);
       ctx.textAlign = 'center';
-      ctx.fillText('?', x + tileSize / 2, y + tileSize / 2 + 6);
+      ctx.fillText('?', x + tileSize / 2, y + tileSize / 2 + 5);
     }
   });
 }
 
 function drawInventory() {
-  const slotSize = 18;
-  const gap = 3;
-  const startX = 10;
-  const startY = 26;
+  const slotSize = 16;
+  const gap = 4;
+  const startX = 14;
+  const startY = 54;
 
   for (let i = 0; i < 3; i++) {
     const x = startX + i * (slotSize + gap);
@@ -600,15 +797,16 @@ function drawInventory() {
 
     if (itemId) {
       const item = ITEMS.find(it => it.id === itemId);
-      ctx.font = px(16);
+      ctx.fillStyle = '#ffec27';
+      ctx.font = px(13);
       ctx.textAlign = 'center';
-      ctx.fillText(item.icon, x + slotSize / 2, startY + slotSize / 2 + 4);
+      ctx.fillText(item.icon, x + slotSize / 2, startY + slotSize / 2 + 4 + oscillate(1800, 1, i * 0.9));
     }
 
     ctx.fillStyle = itemId ? '#ffa300' : '#5f574f';
-    ctx.font = px(10);
+    ctx.font = px(8);
     ctx.textAlign = 'center';
-    ctx.fillText(`[${i + 1}]`, x + slotSize / 2, startY + slotSize + 6);
+    ctx.fillText(`[${i + 1}]`, x + slotSize / 2, startY + slotSize + 8);
   }
 }
 
@@ -616,7 +814,7 @@ function drawInventory() {
 
 function renderBonus() {
   ctx.fillStyle = '#ffec27';
-  ctx.font = px(16);
+  ctx.font = px(18);
   ctx.textAlign = 'center';
   ctx.fillText('BONUS ITEM!', W / 2, 28);
 
@@ -624,16 +822,16 @@ function renderBonus() {
   ctx.fillStyle = inventoryFull ? '#ff77a8' : '#c2c3c7';
   ctx.font = px(10);
   ctx.fillText(
-    inventoryFull ? 'Inventory full - activates now!' : `Choose a reward (${game.inventory.length}/3 slots used):`,
+    inventoryFull ? 'Inventory full - activates now!' : `Choose a reward (${game.inventory.length}/3 slots used)`,
     W / 2, 42
   );
 
-  game.bonusItems.forEach((item, i) => drawItemCard(17 + i * 76, 54, 70, 104, item, i + 1));
+  game.bonusItems.forEach((item, i) => drawItemCard(17 + i * 76, 56 + oscillate(1800, 2, i * 0.9), 70, 98, item, i + 1));
 
   ctx.fillStyle = '#83769c';
   ctx.font = px(10);
   ctx.textAlign = 'center';
-  ctx.fillText('Press 1, 2, or 3 to choose', W / 2, H - 8);
+  ctx.fillText('Press 1, 2, or 3 to choose', W / 2, 200);
 }
 
 function wrapText(ctx, text, maxWidth) {
@@ -654,31 +852,27 @@ function wrapText(ctx, text, maxWidth) {
 }
 
 function drawItemCard(x, y, w, h, item, num) {
-  ctx.fillStyle = '#1d2b53';
-  ctx.fillRect(x, y, w, h);
-  ctx.strokeStyle = '#29adff';
-  ctx.lineWidth = 2;
-  ctx.strokeRect(x, y, w, h);
+  drawPanel(x, y, w, h, '#1d2b53', '#29adff');
 
   ctx.fillStyle = '#ffec27';
-  ctx.font = px(18);
+  ctx.font = px(16);
   ctx.textAlign = 'center';
-  ctx.fillText(item.icon, x + w / 2, y + 26);
+  ctx.fillText(item.icon, x + w / 2, y + 24);
 
   ctx.fillStyle = '#fff1e8';
-  ctx.font = px(8);
-  const labelLines = wrapText(ctx, item.label, w - 6);
-  labelLines.forEach((ln, i) => ctx.fillText(ln, x + w / 2, y + 42 + i * 10));
+  ctx.font = px(9);
+  const labelLines = wrapText(ctx, item.label, w - 10);
+  labelLines.forEach((ln, i) => ctx.fillText(ln, x + w / 2, y + 38 + i * 10));
 
   ctx.fillStyle = '#83769c';
   ctx.font = px(8);
-  const descLines = wrapText(ctx, item.desc, w - 6);
-  const descY = y + 42 + labelLines.length * 10 + 4;
+  const descLines = wrapText(ctx, item.desc, w - 10);
+  const descY = y + 42 + labelLines.length * 10 + 6;
   descLines.forEach((ln, i) => ctx.fillText(ln, x + w / 2, descY + i * 10));
 
   ctx.fillStyle = '#ffa300';
   ctx.font = px(14);
-  ctx.fillText(`[${num}]`, x + w / 2, y + h - 8);
+  ctx.fillText(`[${num}]`, x + w / 2, y + h - 10);
 }
 
 // ─── Victory / Defeat Screens ────────────────────────────────────────────────
@@ -687,40 +881,41 @@ function renderVictory() {
   ctx.fillStyle = '#ffec27';
   ctx.font = px(28);
   ctx.textAlign = 'center';
-  ctx.fillText('YOU WIN!', W / 2, 50);
+  ctx.fillText('YOU WIN!', W / 2, 40);
 
   ctx.fillStyle = '#00e436';
   ctx.font = px(14);
-  ctx.fillText('All monsters defeated!', W / 2, 72);
+  ctx.fillText('All monsters defeated!', W / 2, 64);
 
   if (game.perfectScore) {
     ctx.fillStyle = '#ffa300';
     ctx.font = px(16);
-    ctx.fillText('PERFECT SCORE!', W / 2, 100);
+    ctx.fillText('PERFECT SCORE!', W / 2, 90);
     ctx.fillStyle = '#ff77a8';
-    ctx.font = px(12);
-    ctx.fillText('No hearts lost - Amazing!', W / 2, 116);
+    ctx.font = px(11);
+    ctx.fillText('No hearts lost - amazing!', W / 2, 108);
   }
 
-  drawKnight(ctx, W / 2 - 20, 130, 4);
-  drawButton(W / 2 - 55, 192, 110, 22, 'PLAY AGAIN', '#00e436', '#000');
+  drawKnight(ctx, W / 2 - 18, 128 + oscillate(1400, 2, 0.4), 4);
+  drawButton(W / 2 - 55, 194, 110, 18, 'PLAY AGAIN', '#00e436', '#000');
 }
 
 function renderDefeat() {
   ctx.fillStyle = '#ff004d';
   ctx.font = px(28);
   ctx.textAlign = 'center';
-  ctx.fillText('GAME OVER', W / 2, 65);
+  ctx.fillText('GAME OVER', W / 2, 54);
 
   ctx.fillStyle = '#c2c3c7';
   ctx.font = px(12);
-  ctx.fillText('The knight has fallen!', W / 2, 88);
+  ctx.fillText('The knight has fallen!', W / 2, 82);
 
   ctx.fillStyle = '#83769c';
   ctx.font = px(12);
-  ctx.fillText(`${game.monstersDefeated}/${game.words.length} monsters defeated`, W / 2, 104);
+  ctx.fillText(`${game.monstersDefeated}/${game.words.length} monsters defeated`, W / 2, 100);
 
-  drawButton(W / 2 - 55, 160, 110, 22, 'TRY AGAIN', '#ff004d', '#fff');
+  drawMonster(ctx, game.currentIndex % 4, W / 2 - 24, 122 + oscillate(1700, 2, 1.1), 6);
+  drawButton(W / 2 - 55, 184, 110, 18, 'TRY AGAIN', '#ff004d', '#fff');
 }
 
 // ─── Input Handling ───────────────────────────────────────────────────────────
@@ -775,15 +970,14 @@ function handleLetterInput(letter) {
     game.typedSoFar += letter;
 
     const monsterType = game.currentIndex % 4;
+    const monster = getMonsterBounds(monsterType);
     const mW = getMonsterWidth(monsterType);
     const mH = getMonsterHeight(monsterType);
-    const monsterX = W - 18 - mW * SCALE;
-    const monsterY = GROUND - mH * SCALE;
 
     if (game.typedSoFar === word) {
       // FATALITY — explode the monster
-      const cx = monsterX + Math.round((mW * SCALE) / 2);
-      const cy = monsterY + Math.round((mH * SCALE) / 2);
+      const cx = monster.x + Math.round(monster.w / 2);
+      const cy = monster.y + Math.round(monster.h / 2);
       startAnim('fatality', 1400, {
         particles: generateParticles(cx, cy),
         hitSoundPlayed: false,
@@ -796,7 +990,11 @@ function handleLetterInput(letter) {
         attackType: cfg.type,
         impactT: cfg.impactT,
         hitSoundPlayed: false,
-        monsterX, monsterY, mW, mH,
+        monsterX: monster.x,
+        monsterY: monster.y,
+        mW,
+        mH,
+        monsterScale: monster.scale,
         letter,
       });
     }
@@ -992,14 +1190,13 @@ function maybeAutoWild() {
   game.wildRemaining--;
 
   const monsterType = game.currentIndex % 4;
+  const monster = getMonsterBounds(monsterType);
   const mW = getMonsterWidth(monsterType);
   const mH = getMonsterHeight(monsterType);
-  const monsterX = W - 18 - mW * SCALE;
-  const monsterY = GROUND - mH * SCALE;
 
   if (game.typedSoFar === word) {
-    const cx = monsterX + Math.round((mW * SCALE) / 2);
-    const cy = monsterY + Math.round((mH * SCALE) / 2);
+    const cx = monster.x + Math.round(monster.w / 2);
+    const cy = monster.y + Math.round(monster.h / 2);
     startAnim('fatality', 1400, {
       particles: generateParticles(cx, cy),
       cx, cy,
@@ -1011,7 +1208,12 @@ function maybeAutoWild() {
   const cfg = getAttackConfig();
   startAnim('attack', cfg.duration, {
     attackType: cfg.type, impactT: cfg.impactT, hitSoundPlayed: false,
-    monsterX, monsterY, mW, mH, letter,
+    monsterX: monster.x,
+    monsterY: monster.y,
+    mW,
+    mH,
+    monsterScale: monster.scale,
+    letter,
   }, () => {
     render();
     if (game.wildRemaining > 0) {
@@ -1034,26 +1236,26 @@ function handleClick(e) {
   const y = (e.clientY - rect.top)  * scaleY;
 
   if (game.state === STATE.TITLE) {
-    if (x >= 22  && x <= 122 && y >= 214 && y <= 236) { startGame();      return; }
-    if (x >= 134 && x <= 244 && y >= 214 && y <= 236) { openWordEditor(); return; }
-    if (x >= 22  && x <= 44  && y >= 158 && y <= 170) { game.settings.audio = !game.settings.audio; render(); return; }
-    if (x >= 22  && x <= 44  && y >= 176 && y <= 188) { game.settings.peek  = !game.settings.peek;  render(); return; }
-    if (x >= 22  && x <= 44  && y >= 194 && y <= 206) { toggleMusic(); return; }
+    if (x >= 22  && x <= 122 && y >= 214 && y <= 230) { startGame();      return; }
+    if (x >= 134 && x <= 234 && y >= 214 && y <= 230) { openWordEditor(); return; }
+    if (x >= 22  && x <= 46  && y >= 158 && y <= 172) { game.settings.audio = !game.settings.audio; render(); return; }
+    if (x >= 22  && x <= 46  && y >= 176 && y <= 190) { game.settings.peek  = !game.settings.peek;  render(); return; }
+    if (x >= 22  && x <= 46  && y >= 194 && y <= 208) { toggleMusic(); return; }
   }
 
   if (game.state === STATE.BATTLE) {
     // Replay button: top right
-    if (x >= W - 84 && x <= W - 3 && y >= 3 && y <= 21) {
+    if (x >= W - 76 && x <= W - 8 && y >= 8 && y <= 24) {
       Audio.speakWord(game.words[game.currentIndex]);
       return;
     }
     // Music toggle button: below replay button
-    if (x >= W - 84 && x <= W - 3 && y >= 23 && y <= 37) {
+    if (x >= W - 76 && x <= W - 8 && y >= 28 && y <= 42) {
       toggleMusic();
       return;
     }
     // Inventory slots: top left below hearts
-    const slotSize = 18, gap = 3, startX = 10, startY = 26;
+    const slotSize = 16, gap = 4, startX = 14, startY = 54;
     for (let i = 0; i < 3; i++) {
       const sx = startX + i * (slotSize + gap);
       if (x >= sx && x <= sx + slotSize && y >= startY && y <= startY + slotSize) {
@@ -1066,16 +1268,16 @@ function handleClick(e) {
   if (game.state === STATE.BONUS) {
     [0, 1, 2].forEach(i => {
       const cx = 17 + i * 76;
-      if (x >= cx && x <= cx + 70 && y >= 54 && y <= 158) applyBonus(i);
+      if (x >= cx && x <= cx + 70 && y >= 56 && y <= 154) applyBonus(i);
     });
   }
 
   if (game.state === STATE.VICTORY) {
-    if (x >= W/2-55 && x <= W/2+55 && y >= 192 && y <= 214) { initGame(); render(); }
+    if (x >= W/2-55 && x <= W/2+55 && y >= 194 && y <= 212) { initGame(); render(); }
   }
 
   if (game.state === STATE.DEFEAT) {
-    if (x >= W/2-55 && x <= W/2+55 && y >= 160 && y <= 182) { initGame(); render(); }
+    if (x >= W/2-55 && x <= W/2+55 && y >= 184 && y <= 202) { initGame(); render(); }
   }
 }
 
@@ -1198,12 +1400,17 @@ function loadActiveWords() {
   return fetchDefaultWords();
 }
 
-loadSpriteSheet('img/sprites.png', () => {
-  loadKnightImage('img/knight.png', () => {
-    loadActiveWords().then(words => {
-      activeWords = words;
-      initGame();
-      render();
-    });
+window.addEventListener('resize', () => {
+  setCanvasScale();
+  if (game.state) render();
+});
+
+loadSprites(() => {
+  loadActiveWords().then(words => {
+    activeWords = words;
+    initGame();
+    setCanvasScale();
+    ensureAmbientLoop();
+    render();
   });
 });

@@ -1,9 +1,13 @@
 """
-Generates sprites.png from the original pixel art data.
+Generates the UI sprite sheet plus larger monster sprite PNGs.
 Run once: python3 generate_sprites.py
 """
 
+from pathlib import Path
 from PIL import Image
+
+UPSCALE = 8
+OUT_DIR = Path(__file__).parent
 
 # PICO-8 palette (index -> RGBA)
 P = [
@@ -42,45 +46,56 @@ KNIGHT_SPRITE = [
 ]
 
 GOBLIN_SPRITE = [
-    [-1,-1, 3, 3, 3,-1,-1],
-    [-1, 3,11, 3,11, 3,-1],
-    [-1, 3, 3, 3, 3, 3,-1],
-    [ 3, 3, 8,-1, 8, 3, 3],
-    [ 3, 3, 3, 7, 3, 3, 3],
-    [-1, 3, 3, 3, 3, 3,-1],
-    [-1, 3,-1,-1,-1, 3,-1],
-    [-1, 4, 4,-1, 4, 4,-1],
+    [-1, 3,-1,-1,-1,-1, 3,-1],
+    [-1, 3, 3, 3, 3, 3, 3,-1],
+    [ 3, 3,11, 3, 3,11, 3, 3],
+    [ 3, 3, 3, 8, 8, 3, 3, 3],
+    [-1, 3, 3, 3, 3, 3, 3,-1],
+    [-1, 4, 3, 3, 3, 3, 4,-1],
+    [-1, 4, 4, 3, 3, 4, 4,-1],
+    [-1, 4, 4, 4, 4, 4, 4,-1],
+    [-1, 3, 3, 4, 4, 3, 3,-1],
+    [-1, 3,-1, 4, 4,-1, 3,-1],
+    [ 4, 4,-1, 4, 4,-1, 4, 4],
+    [ 4,-1,-1, 4, 4,-1,-1, 4],
 ]
 
 SKELETON_SPRITE = [
-    [-1, 7, 7, 7, 7, 7,-1],
-    [-1, 7, 5, 7, 5, 7,-1],
-    [-1, 7, 7, 7, 7, 7,-1],
-    [-1,-1, 7, 7, 7,-1,-1],
-    [-1, 7, 7, 7, 7, 7,-1],
-    [ 7,-1, 7,-1, 7,-1, 7],
-    [ 7,-1, 7,-1, 7,-1, 7],
-    [ 6,-1, 6,-1, 6,-1, 6],
+    [-1,-1, 7, 7, 7, 7,-1,-1],
+    [-1, 7, 5, 7, 7, 5, 7,-1],
+    [-1, 7, 7, 7, 7, 7, 7,-1],
+    [-1,-1, 7, 5, 5, 7,-1,-1],
+    [-1, 7, 7, 7, 7, 7, 7,-1],
+    [ 7,-1, 7,-1,-1, 7,-1, 7],
+    [ 7,-1, 7, 7, 7, 7,-1, 7],
+    [-1, 7,-1, 7, 7,-1, 7,-1],
+    [-1, 7,-1, 7, 7,-1, 7,-1],
+    [-1, 6,-1, 7, 7,-1, 6,-1],
+    [ 6,-1,-1, 7, 7,-1,-1, 6],
+    [ 6,-1,-1, 7, 7,-1,-1, 6],
 ]
 
 BAT_SPRITE = [
-    [ 2,-1,-1, 2,-1,-1, 2],
-    [ 2, 2,-1, 2,-1, 2, 2],
-    [ 2, 2, 2, 2, 2, 2, 2],
-    [-1, 2,14, 2,14, 2,-1],
-    [-1,-1, 2, 2, 2,-1,-1],
-    [-1,-1,-1, 2,-1,-1,-1],
-    [-1,-1, 2,-1, 2,-1,-1],
+    [ 2,-1,-1,-1,-1, 2, 2,-1,-1,-1,-1, 2],
+    [ 2, 2,-1,-1, 2, 2, 2, 2,-1,-1, 2, 2],
+    [ 2, 2, 2, 2, 2,14,14, 2, 2, 2, 2, 2],
+    [-1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2,-1],
+    [-1,-1, 2,14, 2, 7, 7, 2,14, 2,-1,-1],
+    [-1,-1,-1, 2, 2, 2, 2, 2, 2,-1,-1,-1],
+    [-1, 2, 2,-1, 2, 2, 2, 2,-1, 2, 2,-1],
+    [ 2, 2,-1,-1,-1, 2, 2,-1,-1,-1, 2, 2],
+    [-1,-1,-1,-1, 2,-1,-1, 2,-1,-1,-1,-1],
 ]
 
 SLIME_SPRITE = [
-    [-1,-1,12,12,12,-1,-1],
-    [-1,12,12,12,12,12,-1],
-    [12,12, 7,12, 7,12,12],
-    [12,12,12,12,12,12,12],
-    [12,12, 8,12, 8,12,12],
-    [-1,12,12,12,12,12,-1],
-    [-1,-1,12,12,12,-1,-1],
+    [-1,-1,12,12,12,12,12,12,-1,-1],
+    [-1,12,12,12,12,12,12,12,12,-1],
+    [12,12, 7,12,12,12,12, 7,12,12],
+    [12,12,12,12,12,12,12,12,12,12],
+    [12,12,12, 8,12,12, 8,12,12,12],
+    [12,12,12,12,12,12,12,12,12,12],
+    [-1,12,12,12,12,12,12,12,12,-1],
+    [-1,-1,12,12,-1,-1,12,12,-1,-1],
 ]
 
 HEART_SPRITE = [
@@ -121,14 +136,39 @@ SPRITES = [
     (SWORD_SPRITE,       112),
 ]
 
-img = Image.new('RGBA', (128, 16), (0, 0, 0, 0))
+LARGE_SPRITES = {
+    'goblin': GOBLIN_SPRITE,
+    'skeleton': SKELETON_SPRITE,
+    'bat': BAT_SPRITE,
+    'slime': SLIME_SPRITE,
+}
 
-for sprite, cell_x in SPRITES:
+
+def put_sprite(img, sprite, offset_x=0):
     for row_i, row in enumerate(sprite):
         for col_i, idx in enumerate(row):
             if idx == -1:
                 continue
-            img.putpixel((cell_x + col_i, row_i), P[idx])
+            img.putpixel((offset_x + col_i, row_i), P[idx])
 
-img.save('sprites.png')
+
+def write_scaled_sprite(filename, sprite):
+    width = len(sprite[0])
+    height = len(sprite)
+    base = Image.new('RGBA', (width, height), TRANSPARENT)
+    put_sprite(base, sprite)
+    scaled = base.resize((width * UPSCALE, height * UPSCALE), Image.Resampling.NEAREST)
+    scaled.save(OUT_DIR / filename)
+
+
+img = Image.new('RGBA', (128, 16), TRANSPARENT)
+
+for sprite, cell_x in SPRITES:
+    put_sprite(img, sprite, offset_x=cell_x)
+
+img.save(OUT_DIR / 'sprites.png')
 print('sprites.png written (128x16)')
+
+for name, sprite in LARGE_SPRITES.items():
+    write_scaled_sprite(f'{name}.png', sprite)
+    print(f'{name}.png written ({len(sprite[0]) * UPSCALE}x{len(sprite) * UPSCALE})')

@@ -1,5 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
+:root {
+  --bg-top: #12122a;
+  --bg-bottom: #070712;
+  --panel: #1a1a2e;
+  --panel-alt: #141f3d;
+  --line: #29adff;
+  --line-muted: #0f3460;
+  --text: #fff1e8;
+  --text-dim: #83769c;
+  --text-muted: #5f574f;
+  --accent-yellow: #ffec27;
+  --accent-green: #00e436;
+  --accent-red: #ff004d;
+}
+
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
@@ -7,28 +22,38 @@
 }
 
 body {
-  background: #0a0a1a;
+  min-height: 100vh;
+  padding: 20px 16px 28px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
+  gap: 12px;
   font-family: VT323, monospace;
   user-select: none;
+  background:
+    radial-gradient(circle at top, rgba(41, 173, 255, 0.16), transparent 30%),
+    linear-gradient(180deg, var(--bg-top), var(--bg-bottom));
 }
 
 #gameCanvas {
   display: block;
   cursor: pointer;
-  border: 3px solid #29adff;
-  box-shadow: 0 0 30px rgba(41, 173, 255, 0.4);
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  border: 4px solid var(--line);
+  background: var(--panel);
+  box-shadow:
+    0 0 0 4px rgba(15, 52, 96, 0.75),
+    0 0 30px rgba(41, 173, 255, 0.28);
 }
 
 #hint {
-  margin-top: 10px;
-  color: #5f574f;
-  font-size: 12px;
+  color: var(--text-muted);
+  font-size: 28px;
+  line-height: 1;
   letter-spacing: 1px;
+  text-align: center;
 }
 
 /* ── Word Editor Overlay ─────────────────────────────────────── */
@@ -36,125 +61,226 @@ body {
   display: none;
   position: fixed;
   inset: 0;
-  background: rgba(10, 10, 26, 0.92);
+  padding: 18px;
+  background: rgba(8, 8, 18, 0.94);
   z-index: 100;
   align-items: center;
   justify-content: center;
 }
+
 #wordEditor.open {
   display: flex;
 }
+
 #wordEditorPanel {
-  background: #1a1a2e;
-  border: 3px solid #29adff;
-  box-shadow: 0 0 30px rgba(41, 173, 255, 0.4);
-  padding: 28px;
-  width: 460px;
-  max-height: 85vh;
+  width: min(560px, 100%);
+  max-height: min(88vh, 760px);
+  padding: 24px;
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 16px;
+  background:
+    linear-gradient(180deg, rgba(41, 173, 255, 0.09), transparent 24px),
+    var(--panel);
+  border: 4px solid var(--line);
+  box-shadow:
+    0 0 0 4px rgba(15, 52, 96, 0.75),
+    0 0 30px rgba(41, 173, 255, 0.22);
 }
+
 #wordEditorPanel h2 {
-  color: #ffec27;
-  font-size: 14px;
+  color: var(--accent-yellow);
+  font-size: 34px;
+  line-height: 0.9;
   text-align: center;
   letter-spacing: 1px;
 }
+
 #wordEditorPanel p {
-  color: #83769c;
-  font-size: 9px;
+  color: var(--text-dim);
+  font-size: 22px;
+  line-height: 1;
   text-align: center;
 }
+
 #wordRows {
   overflow-y: auto;
   display: flex;
   flex-direction: column;
-  gap: 6px;
-  max-height: 340px;
+  gap: 8px;
+  max-height: min(46vh, 380px);
+  padding-right: 4px;
 }
+
 .word-row {
   display: flex;
   align-items: center;
-  gap: 8px;
-  background: #0f3460;
-  padding: 6px 10px;
+  gap: 10px;
+  min-height: 46px;
+  padding: 8px 12px;
+  background: var(--panel-alt);
+  border: 2px solid var(--line-muted);
 }
+
 .word-row span {
-  color: #83769c;
-  font-family: VT323, monospace;
-  font-size: 9px;
-  min-width: 24px;
+  min-width: 34px;
+  color: var(--text-dim);
+  font-size: 22px;
+  line-height: 1;
 }
+
 .word-row input {
   flex: 1;
-  background: transparent;
-  border: none;
-  color: #fff1e8;
-  font-family: VT323, monospace;
-  font-size: 11px;
-  outline: none;
   min-width: 0;
-}
-.word-row button {
-  background: #ff004d;
   border: none;
-  color: #fff;
+  outline: none;
+  background: transparent;
+  color: var(--text);
   font-family: VT323, monospace;
-  font-size: 10px;
-  cursor: pointer;
-  padding: 4px 9px;
-  flex-shrink: 0;
+  font-size: 28px;
+  line-height: 1;
 }
-.word-row button:hover { background: #ff3377; }
+
+.word-row button,
+#wordEditorAddBtn,
+#wordEditorSave,
+#wordEditorCancel,
+#wordEditorReset {
+  border: 2px solid transparent;
+  font-family: VT323, monospace;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.word-row button {
+  min-width: 42px;
+  padding: 7px 10px;
+  background: var(--accent-red);
+  color: #fff;
+  font-size: 24px;
+}
+
+.word-row button:hover {
+  background: #ff3377;
+}
+
 #wordEditorAddRow {
   display: flex;
-  gap: 8px;
+  gap: 10px;
 }
+
 #wordEditorNewInput {
   flex: 1;
-  background: #1d2b53;
-  border: 2px solid #29adff;
-  color: #fff1e8;
-  font-family: VT323, monospace;
-  font-size: 11px;
-  padding: 8px 10px;
-  outline: none;
   min-width: 0;
-}
-#wordEditorAddBtn {
-  background: #29adff;
-  border: none;
-  color: #000;
+  padding: 10px 12px;
+  border: 3px solid var(--line);
+  outline: none;
+  background: #1d2b53;
+  color: var(--text);
   font-family: VT323, monospace;
-  font-size: 10px;
-  cursor: pointer;
-  padding: 8px 14px;
+  font-size: 28px;
+  line-height: 1;
+}
+
+#wordEditorAddBtn {
+  padding: 10px 16px;
+  background: var(--line);
+  color: #000;
+  font-size: 24px;
   white-space: nowrap;
 }
-#wordEditorAddBtn:hover { background: #5bc8ff; }
+
+#wordEditorAddBtn:hover {
+  background: #5bc8ff;
+}
+
 #wordEditorButtons {
   display: flex;
+  flex-wrap: wrap;
   gap: 10px;
   justify-content: center;
 }
-#wordEditorSave {
-  background: #00e436;
-  border: none;
-  color: #000;
-  font-family: VT323, monospace;
-  font-size: 10px;
-  cursor: pointer;
-  padding: 12px 22px;
+
+#wordEditorSave,
+#wordEditorCancel,
+#wordEditorReset {
+  min-width: 140px;
+  padding: 12px 18px;
+  font-size: 24px;
 }
-#wordEditorSave:hover { background: #33ff66; }
+
+#wordEditorSave {
+  background: var(--accent-green);
+  color: #000;
+}
+
+#wordEditorSave:hover {
+  background: #33ff66;
+}
+
 #wordEditorCancel {
   background: #5f574f;
-  border: none;
-  color: #fff1e8;
-  font-family: VT323, monospace;
-  font-size: 10px;
-  cursor: pointer;
-  padding: 12px 22px;
+  color: var(--text);
 }
-#wordEditorCancel:hover { background: #7a7068; }
+
+#wordEditorCancel:hover {
+  background: #7a7068;
+}
+
+#wordEditorReset {
+  background: #ffa300;
+  color: #000;
+}
+
+#wordEditorReset:hover {
+  background: #ffb733;
+}
+
+@media (max-width: 640px) {
+  body {
+    padding-inline: 10px;
+    gap: 10px;
+  }
+
+  #hint {
+    font-size: 22px;
+  }
+
+  #wordEditor {
+    padding: 10px;
+  }
+
+  #wordEditorPanel {
+    padding: 18px;
+    gap: 12px;
+  }
+
+  #wordEditorPanel h2 {
+    font-size: 28px;
+  }
+
+  #wordEditorPanel p,
+  .word-row span {
+    font-size: 20px;
+  }
+
+  .word-row,
+  #wordEditorAddRow {
+    gap: 8px;
+  }
+
+  .word-row input,
+  #wordEditorNewInput {
+    font-size: 24px;
+  }
+
+  #wordEditorButtons {
+    flex-direction: column;
+  }
+
+  #wordEditorSave,
+  #wordEditorCancel,
+  #wordEditorReset {
+    width: 100%;
+  }
+}

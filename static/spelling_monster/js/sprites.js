@@ -1,63 +1,76 @@
-// Sprite sheet: img/sprites.png
-//
-// Layout: 8 sprites in a horizontal strip, each occupying a 16px-wide cell.
-// Sprites are drawn top-left within their cell.
-// Sheet dimensions: 128 × 16 px
-//
-//  Cell x=0    knight      8 × 12 px
-//  Cell x=16   goblin      7 × 8  px
-//  Cell x=32   skeleton    7 × 8  px
-//  Cell x=48   bat         7 × 7  px
-//  Cell x=64   slime       7 × 7  px
-//  Cell x=80   heart       7 × 6  px
-//  Cell x=96   heart_empty 7 × 6  px
-//  Cell x=112  sword       3 × 5  px
-
 const SPRITE_DEFS = {
-  knight:      { x:   0, y: 0, w: 8, h: 12 },
-  goblin:      { x:  16, y: 0, w: 7, h: 8  },
-  skeleton:    { x:  32, y: 0, w: 7, h: 8  },
-  bat:         { x:  48, y: 0, w: 7, h: 7  },
-  slime:       { x:  64, y: 0, w: 7, h: 7  },
-  heart:       { x:  80, y: 0, w: 7, h: 6  },
-  heart_empty: { x:  96, y: 0, w: 7, h: 6  },
-  sword:       { x: 112, y: 0, w: 3, h: 5  },
+  knight:      { w: 8,  h: 12, src: 'img/knight.png' },
+  goblin:      { w: 8,  h: 12, src: 'img/goblin.png' },
+  skeleton:    { w: 8,  h: 12, src: 'img/skeleton.png' },
+  bat:         { w: 12, h: 9,  src: 'img/bat.png' },
+  slime:       { w: 10, h: 8,  src: 'img/slime.png' },
+  heart:       { x: 80,  y: 0, w: 7, h: 6 },
+  heart_empty: { x: 96,  y: 0, w: 7, h: 6 },
+  sword:       { x: 112, y: 0, w: 3, h: 5 },
 };
 
 const MONSTER_SPRITE_KEYS = ['goblin', 'skeleton', 'bat', 'slime'];
 const MONSTER_NAMES = ['Goblin', 'Skeleton', 'Bat', 'Slime'];
 
 let spriteSheet = null;
-let knightImage = null;
+const spriteImages = {};
 
-function loadSpriteSheet(src, callback) {
-  const img = new Image();
-  img.onload = () => { spriteSheet = img; callback(); };
-  img.src = src;
+function loadImage(src) {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    img.onload = () => resolve(img);
+    img.onerror = reject;
+    img.src = src;
+  });
 }
 
-function loadKnightImage(src, callback) {
-  const img = new Image();
-  img.onload = () => { knightImage = img; callback(); };
-  img.src = src;
+function loadSprites(callback) {
+  const imageSprites = Object.entries(SPRITE_DEFS)
+    .filter(([, sprite]) => sprite.src)
+    .map(([key, sprite]) =>
+      loadImage(sprite.src).then(img => {
+        spriteImages[key] = img;
+      })
+    );
+
+  Promise.all([loadImage('img/sprites.png'), ...imageSprites])
+    .then(([sheet]) => {
+      spriteSheet = sheet;
+      callback();
+    })
+    .catch(err => {
+      console.error('Failed to load sprite assets', err);
+    });
 }
 
 function drawSprite(ctx, key, x, y, scale) {
-  if (!spriteSheet) return;
-  const s = SPRITE_DEFS[key];
+  const sprite = SPRITE_DEFS[key];
+  if (!sprite) return;
+
   ctx.imageSmoothingEnabled = false;
-  ctx.drawImage(spriteSheet, s.x, s.y, s.w, s.h,
-    Math.round(x), Math.round(y), s.w * scale, s.h * scale);
+
+  if (sprite.src && spriteImages[key]) {
+    ctx.drawImage(
+      spriteImages[key],
+      Math.round(x),
+      Math.round(y),
+      sprite.w * scale,
+      sprite.h * scale
+    );
+    return;
+  }
+
+  if (!spriteSheet) return;
+
+  ctx.drawImage(
+    spriteSheet,
+    sprite.x, sprite.y, sprite.w, sprite.h,
+    Math.round(x), Math.round(y), sprite.w * scale, sprite.h * scale
+  );
 }
 
 function drawKnight(ctx, x, y, scale) {
-  if (knightImage) {
-    ctx.imageSmoothingEnabled = false;
-    ctx.drawImage(knightImage, Math.round(x), Math.round(y),
-      SPRITE_DEFS.knight.w * scale, SPRITE_DEFS.knight.h * scale);
-  } else {
-    drawSprite(ctx, 'knight', x, y, scale);
-  }
+  drawSprite(ctx, 'knight', x, y, scale);
   drawSprite(ctx, 'sword', x + 8 * scale, y + 2 * scale, scale);
 }
 
