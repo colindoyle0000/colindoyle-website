@@ -17,6 +17,7 @@ const ITEMS = [
 
 let game = {};
 let activeWords = WORDS.slice();
+let musicEnabled = false;
 
 function initGame() {
   game = {
@@ -389,14 +390,10 @@ function renderTitle() {
   ctx.fillText('SETTINGS:', 22, 148);
   drawToggle(22, 158, 'Audio Preview', game.settings.audio, 'A');
   drawToggle(22, 176, 'Sneak Peek',    game.settings.peek,  'S');
+  drawToggle(22, 194, 'Music',         musicEnabled,        'M');
 
-  drawButton(22,  202, 100, 22, 'PLAY GAME',  '#00e436', '#000000');
-  drawButton(134, 202, 110, 22, 'EDIT WORDS', '#29adff', '#000000');
-
-  ctx.fillStyle = '#83769c';
-  ctx.font = px(10);
-  ctx.textAlign = 'center';
-  ctx.fillText('ENTER or click PLAY to start', W / 2, H - 8);
+  drawButton(22,  214, 100, 22, 'PLAY GAME',  '#00e436', '#000000');
+  drawButton(134, 214, 110, 22, 'EDIT WORDS', '#29adff', '#000000');
 }
 
 function drawToggle(x, y, label, active, key) {
@@ -463,8 +460,9 @@ function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster =
   ctx.textAlign = 'left';
   ctx.fillText(`${game.currentIndex + 1}/${game.words.length}`, 10, 10);
 
-  // Replay audio button — always visible during battle
+  // Replay audio button and music toggle — always visible during battle
   drawReplayButton();
+  drawBattleMusicButton();
 
   // Knight HP hearts
   for (let i = 0; i < game.maxKnightHP; i++) {
@@ -526,6 +524,19 @@ function drawReplayButton() {
   ctx.font = px(12);
   ctx.textAlign = 'center';
   ctx.fillText('\u266a HEAR WORD', bx + bw / 2, by + bh / 2 + 5);
+}
+
+function drawBattleMusicButton() {
+  const bx = W - 84, by = 23, bw = 81, bh = 14;
+  ctx.fillStyle = '#1d2b53';
+  ctx.fillRect(bx, by, bw, bh);
+  ctx.strokeStyle = musicEnabled ? '#00e436' : '#5f574f';
+  ctx.lineWidth = 1;
+  ctx.strokeRect(bx, by, bw, bh);
+  ctx.fillStyle = musicEnabled ? '#00e436' : '#5f574f';
+  ctx.font = px(10);
+  ctx.textAlign = 'center';
+  ctx.fillText('\u266a MUSIC ' + (musicEnabled ? 'ON' : 'OFF'), bx + bw / 2, by + bh / 2 + 4);
 }
 
 function drawLetterBar(word, typed) {
@@ -723,6 +734,7 @@ function handleKey(e) {
     if (key === 'Enter' || key === ' ') { startGame(); return; }
     if (key === 'a' || key === 'A') { game.settings.audio = !game.settings.audio; render(); return; }
     if (key === 's' || key === 'S') { game.settings.peek  = !game.settings.peek;  render(); return; }
+    if (key === 'm' || key === 'M') { toggleMusic(); return; }
     return;
   }
 
@@ -814,6 +826,16 @@ function drainPendingKeys() {
 
 // ─── Game Flow ────────────────────────────────────────────────────────────────
 
+function toggleMusic() {
+  musicEnabled = !musicEnabled;
+  if (!musicEnabled) {
+    Music.stop();
+  } else if (game.state === STATE.BATTLE) {
+    Music.playBattle();
+  }
+  render();
+}
+
 function startGame() {
   game.state = STATE.PREVIEW;
   startPreview();
@@ -830,7 +852,7 @@ function startPreview() {
   const doTransition = () => {
     setTimeout(() => {
       game.state = STATE.BATTLE;
-      Music.playBattle();
+      if (musicEnabled) Music.playBattle();
       game.peekVisible = false;
       if (game.extraPeekActive) {
         game.extraPeekActive = false;
@@ -880,7 +902,7 @@ function wordComplete() {
 
   if (game.monstersDefeated % 3 === 0 && game.currentIndex + 1 < game.words.length) {
     game.currentIndex++;
-    Music.playVictory();
+    if (musicEnabled) Music.playVictory();
     showBonusScreen();
     return;
   }
@@ -892,7 +914,7 @@ function wordComplete() {
     SFX.victory();
     render();
   } else {
-    Music.playVictory();
+    if (musicEnabled) Music.playVictory();
     game.state = STATE.PREVIEW;
     startPreview();
   }
@@ -1012,16 +1034,22 @@ function handleClick(e) {
   const y = (e.clientY - rect.top)  * scaleY;
 
   if (game.state === STATE.TITLE) {
-    if (x >= 22  && x <= 122 && y >= 202 && y <= 224) { startGame();      return; }
-    if (x >= 134 && x <= 244 && y >= 202 && y <= 224) { openWordEditor(); return; }
+    if (x >= 22  && x <= 122 && y >= 214 && y <= 236) { startGame();      return; }
+    if (x >= 134 && x <= 244 && y >= 214 && y <= 236) { openWordEditor(); return; }
     if (x >= 22  && x <= 44  && y >= 158 && y <= 170) { game.settings.audio = !game.settings.audio; render(); return; }
     if (x >= 22  && x <= 44  && y >= 176 && y <= 188) { game.settings.peek  = !game.settings.peek;  render(); return; }
+    if (x >= 22  && x <= 44  && y >= 194 && y <= 206) { toggleMusic(); return; }
   }
 
   if (game.state === STATE.BATTLE) {
     // Replay button: top right
     if (x >= W - 84 && x <= W - 3 && y >= 3 && y <= 21) {
       Audio.speakWord(game.words[game.currentIndex]);
+      return;
+    }
+    // Music toggle button: below replay button
+    if (x >= W - 84 && x <= W - 3 && y >= 23 && y <= 37) {
+      toggleMusic();
       return;
     }
     // Inventory slots: top left below hearts
