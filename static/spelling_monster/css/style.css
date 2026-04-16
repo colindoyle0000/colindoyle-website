@@ -48,6 +48,16 @@ body {
     0 0 30px rgba(41, 173, 255, 0.28);
 }
 
+#battleInput {
+  position: fixed;
+  left: -9999px;
+  bottom: 0;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+}
+
 #hint {
   color: var(--text-muted);
   font-size: 28px;

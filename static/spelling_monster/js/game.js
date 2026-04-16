@@ -20,6 +20,7 @@ let activeWords = WORDS.slice();
 let musicEnabled = false;
 
 function initGame() {
+  blurBattleInput();
   game = {
     state: STATE.TITLE,
     words: shuffleWords(activeWords),
@@ -45,6 +46,7 @@ function initGame() {
 // ─── Canvas Setup ─────────────────────────────────────────────────────────────
 
 const canvas = document.getElementById('gameCanvas');
+const battleInput = document.getElementById('battleInput');
 const ctx = canvas.getContext('2d');
 // Logical game resolution
 const W = 256;
@@ -66,6 +68,7 @@ const GROUND = H - 68;
 let renderScale = 1;
 let ambientTime = 0;
 let ambientRafId = null;
+const prefersSoftKeyboard = window.matchMedia('(pointer: coarse)').matches;
 
 function px(size) { return `${size}px VT323, monospace`; }
 
@@ -107,6 +110,17 @@ function setCanvasScale() {
   ctx.imageSmoothingEnabled = false;
 }
 
+function focusBattleInput() {
+  if (!prefersSoftKeyboard) return;
+  battleInput.value = '';
+  battleInput.focus({ preventScroll: true });
+}
+
+function blurBattleInput() {
+  battleInput.value = '';
+  battleInput.blur();
+}
+
 function getKnightBounds(offsetX = 0, offsetY = 0) {
   const scale = BATTLE_LAYOUT.knightScale;
   return {
@@ -137,6 +151,17 @@ function drawPanel(x, y, w, h, fill = '#1d2b53', border = '#29adff') {
   ctx.strokeStyle = border;
   ctx.lineWidth = 1;
   ctx.strokeRect(x, y, w, h);
+}
+
+function queueLetterInput(letter) {
+  if (game.state !== STATE.BATTLE) return;
+  if (game.wildActive && game.wildRemaining > 0) return;
+
+  if (anim !== null) {
+    game.pendingKeys.push(letter);
+  } else {
+    handleLetterInput(letter);
+  }
 }
 
 // ─── Animation System ─────────────────────────────────────────────────────────
@@ -939,13 +964,8 @@ function handleKey(e) {
     if (key === '1') { useInventoryItem(0); return; }
     if (key === '2') { useInventoryItem(1); return; }
     if (key === '3') { useInventoryItem(2); return; }
-    if (game.wildActive && game.wildRemaining > 0) return;  // auto-typing
     if (/^[a-zA-Z]$/.test(key)) {
-      if (anim !== null) {
-        game.pendingKeys.push(key.toLowerCase());           // buffer for after anim
-      } else {
-        handleLetterInput(key.toLowerCase());
-      }
+      queueLetterInput(key.toLowerCase());
     }
     return;
   }
@@ -1057,6 +1077,7 @@ function startPreview() {
         showPeek(3000);
       }
       render();
+      focusBattleInput();
       if (game.wildActive && game.wildRemaining > 0) {
         setTimeout(maybeAutoWild, 600);
       }
@@ -1108,6 +1129,7 @@ function wordComplete() {
   game.currentIndex++;
   if (game.currentIndex >= game.words.length) {
     game.state = STATE.VICTORY;
+    blurBattleInput();
     Music.stop();
     SFX.victory();
     render();
@@ -1121,6 +1143,7 @@ function wordComplete() {
 function showBonusScreen() {
   game.bonusItems = [...ITEMS].sort(() => Math.random() - 0.5).slice(0, 3);
   game.state = STATE.BONUS;
+  blurBattleInput();
   SFX.bonus();
   render();
 }
@@ -1137,9 +1160,11 @@ function applyBonus(idx) {
 
   if (game.currentIndex >= game.words.length) {
     game.state = STATE.VICTORY;
+    blurBattleInput();
     Music.stop();
     render();
   } else {
+    focusBattleInput();
     game.state = STATE.PREVIEW;
     startPreview();
   }
@@ -1227,6 +1252,19 @@ function maybeAutoWild() {
 // ─── Click Handling ───────────────────────────────────────────────────────────
 
 canvas.addEventListener('click', handleClick);
+battleInput.addEventListener('input', () => {
+  const letters = battleInput.value.toLowerCase().replace(/[^a-z]/g, '');
+  battleInput.value = '';
+
+  for (const letter of letters) {
+    queueLetterInput(letter);
+  }
+
+  if (game.state === STATE.BATTLE) {
+    focusBattleInput();
+  }
+});
+battleInput.addEventListener('keydown', e => e.stopPropagation());
 
 function handleClick(e) {
   const rect  = canvas.getBoundingClientRect();
@@ -1236,7 +1274,7 @@ function handleClick(e) {
   const y = (e.clientY - rect.top)  * scaleY;
 
   if (game.state === STATE.TITLE) {
-    if (x >= 22  && x <= 122 && y >= 214 && y <= 230) { startGame();      return; }
+    if (x >= 22  && x <= 122 && y >= 214 && y <= 230) { startGame(); focusBattleInput(); return; }
     if (x >= 134 && x <= 234 && y >= 214 && y <= 230) { openWordEditor(); return; }
     if (x >= 22  && x <= 46  && y >= 158 && y <= 172) { game.settings.audio = !game.settings.audio; render(); return; }
     if (x >= 22  && x <= 46  && y >= 176 && y <= 190) { game.settings.peek  = !game.settings.peek;  render(); return; }
@@ -1244,6 +1282,7 @@ function handleClick(e) {
   }
 
   if (game.state === STATE.BATTLE) {
+    focusBattleInput();
     // Replay button: top right
     if (x >= W - 76 && x <= W - 8 && y >= 8 && y <= 24) {
       Audio.speakWord(game.words[game.currentIndex]);
@@ -1320,6 +1359,7 @@ function buildWordRows() {
 }
 
 function openWordEditor() {
+  blurBattleInput();
   buildWordRows();
   document.getElementById('wordEditorNewInput').value = '';
   document.getElementById('wordEditor').classList.add('open');
