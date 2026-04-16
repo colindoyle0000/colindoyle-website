@@ -6,7 +6,7 @@ const SPRITE_DEFS = {
   slime:       { w: 10, h: 8,  src: 'img/slime.png' },
   heart:       { x: 80,  y: 0, w: 7, h: 6 },
   heart_empty: { x: 96,  y: 0, w: 7, h: 6 },
-  sword:       { x: 112, y: 0, w: 3, h: 5 },
+  sword:       { w: 5,  h: 7,  src: 'img/sword.png', cropX: 28, cropY: 28, cropW: 17, cropH: 22 },
 };
 
 const MONSTER_SPRITE_KEYS = ['goblin', 'skeleton', 'bat', 'slime'];
@@ -50,8 +50,16 @@ function drawSprite(ctx, key, x, y, scale) {
   ctx.imageSmoothingEnabled = false;
 
   if (sprite.src && spriteImages[key]) {
+    const sx = sprite.cropX ?? 0;
+    const sy = sprite.cropY ?? 0;
+    const sw = sprite.cropW ?? spriteImages[key].width;
+    const sh = sprite.cropH ?? spriteImages[key].height;
     ctx.drawImage(
       spriteImages[key],
+      sx,
+      sy,
+      sw,
+      sh,
       Math.round(x),
       Math.round(y),
       sprite.w * scale,
@@ -69,9 +77,20 @@ function drawSprite(ctx, key, x, y, scale) {
   );
 }
 
-function drawKnight(ctx, x, y, scale) {
+function drawKnight(ctx, x, y, scale, opts = {}) {
+  const swordAngle = opts.swordAngle || 0;
+  const swordX = x + (opts.swordOffsetX ?? 6) * scale;
+  const swordY = y + (opts.swordOffsetY ?? 1) * scale;
+  const swordPivotX = scale;
+  const swordPivotY = 6 * scale;
+
   drawSprite(ctx, 'knight', x, y, scale);
-  drawSprite(ctx, 'sword', x + 8 * scale, y + 2 * scale, scale);
+
+  ctx.save();
+  ctx.translate(Math.round(swordX + swordPivotX), Math.round(swordY + swordPivotY));
+  ctx.rotate(swordAngle);
+  drawSprite(ctx, 'sword', -swordPivotX, -swordPivotY, scale);
+  ctx.restore();
 }
 
 function drawMonster(ctx, type, x, y, scale) {

@@ -214,7 +214,11 @@ function animTick(ts) {
 function drawAttackFrame(t) {
   const impactT = anim.impactT || 0.55;
   const { x: ox, y: oy } = getAttackOffsets(t, anim.attackType || 'lunge', impactT);
-  renderBattleScene({ knightOffsetX: ox, knightOffsetY: oy });
+  renderBattleScene({
+    knightOffsetX: ox,
+    knightOffsetY: oy,
+    swordAngle: getAttackSwordAngle(t, impactT),
+  });
 
   // Slash starburst visible in a window centred on impactT
   const before = 0.20, after = 0.32;
@@ -242,6 +246,16 @@ function drawAttackFrame(t) {
       ctx.restore();
     }
   }
+}
+
+function getAttackSwordAngle(t, impactT) {
+  if (t <= impactT) {
+    const p = t / impactT;
+    return Math.sin(p * Math.PI * 0.5) * Math.PI * 0.5;
+  }
+
+  const p = (t - impactT) / (1 - impactT);
+  return (1 - p) * Math.PI * 0.5;
 }
 
 // Injury: screen shakes + red flash overlay
@@ -678,7 +692,7 @@ function renderPreview() {
 // Shared by normal render, attack anim, injury anim, and fatality anim.
 // opts.knightOffsetX — x shift for lunge animation (default 0)
 // opts.hideMonster   — true during fatality explosion (default false)
-function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster = false } = {}) {
+function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster = false, swordAngle = 0 } = {}) {
   const word = game.words[game.currentIndex];
   const monsterType = game.currentIndex % 4;
   const idlePhase = (game.currentIndex % 4) * 0.7;
@@ -709,7 +723,7 @@ function renderBattleScene({ knightOffsetX = 0, knightOffsetY = 0, hideMonster =
   // Inventory slots
   drawInventory();
 
-  drawKnight(ctx, knight.x, knight.y, knight.scale);
+  drawKnight(ctx, knight.x, knight.y, knight.scale, { swordAngle });
 
   if (!hideMonster) {
     drawMonster(ctx, monsterType, monster.x + monsterIdleX, monster.y + monsterIdleY, monster.scale);
