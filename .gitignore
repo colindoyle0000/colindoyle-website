@@ -12,3 +12,6 @@ go.sum
 
 .DS_Store
 **/.DS_Store
+
+# Claude Code worktrees
+**/.claude/
