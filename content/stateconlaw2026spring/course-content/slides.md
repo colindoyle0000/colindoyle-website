@@ -53,3 +53,9 @@ The slides for each class session will be made available here in both PDF and we
 **20 - Administrative Law** | [(.pdf)](/../../stateconlaw2026spring-material/slides/20-admin.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/20-admin)
 
 **21 - Administrative Law (cont.)** | [(.pdf)](/../../stateconlaw2026spring-material/slides/21-admin.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/21-admin)
+
+**22 - Local Government** | [(.pdf)](/../../stateconlaw2026spring-material/slides/22-local.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/22-local)
+
+**23 - Local Government (cont.)** | [(.pdf)](/../../stateconlaw2026spring-material/slides/23-local.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/23-local)
+
+**24 - Amendments** | [(.pdf)](/../../stateconlaw2026spring-material/slides/24-amendment.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/24-amendment)
