@@ -19,3 +19,9 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+# AMLC consultation upload — serve the SPA for any patron-specific upload URL
+[[redirects]]
+  from = "/amlc/upload/*"
+  to = "/amlc/upload/index.html"
+  status = 200

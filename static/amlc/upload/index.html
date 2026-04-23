@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Consultation Process — Upload</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink: #0e0c09;
+      --ink-mid: #444;
+      --ink-light: #888;
+      --warm-bg: #f4f0e8;
+      --rule-heavy: 2.5pt solid #0e0c09;
+      --rule-thin: 0.75pt solid #0e0c09;
+    }
+
+    body {
+      font-family: 'EB Garamond', Garamond, Georgia, serif;
+      font-size: 16px;
+      line-height: 1.65;
+      color: var(--ink);
+      background: #c8c4bc;
+      min-height: 100vh;
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      padding: 40px 20px 80px;
+    }
+
+    .card {
+      background: var(--warm-bg);
+      max-width: 620px;
+      width: 100%;
+      padding: 50px 56px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.22), 0 1px 4px rgba(0,0,0,0.12);
+    }
+
+    /* Header */
+    .header { margin-bottom: 32px; }
+    .rule-heavy { border: none; border-top: var(--rule-heavy); margin-bottom: 2px; }
+    .rule-thin  { border: none; border-top: var(--rule-thin);  margin-bottom: 14px; }
+    .rule-thin-bottom { border: none; border-top: var(--rule-thin); margin-top: 14px; }
+
+    .company-name {
+      font-size: 7pt;
+      font-weight: 400;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--ink);
+      opacity: 0.65;
+      display: block;
+      margin-bottom: 3px;
+    }
+    .header-title {
+      font-size: 10pt;
+      font-weight: 500;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--ink);
+      display: block;
+    }
+
+    /* Body text */
+    .intro { margin-bottom: 28px; }
+    .intro p { margin-bottom: 12px; text-align: justify; hyphens: auto; }
+
+    hr.divider {
+      border: none;
+      border-top: 0.4pt solid #ccc;
+      margin: 24px 0;
+    }
+
+    /* Project ID display */
+    .project-id-block {
+      font-size: 8pt;
+      letter-spacing: 0.1em;
+      color: var(--ink-mid);
+      margin-bottom: 24px;
+    }
+    .project-id-label {
+      font-size: 6.5pt;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--ink-light);
+      display: block;
+      margin-bottom: 2px;
+    }
+    .project-id-value {
+      font-family: 'EB Garamond', Garamond, Georgia, serif;
+      font-size: 9pt;
+      letter-spacing: 0.12em;
+      color: var(--ink-mid);
+    }
+
+    /* Form */
+    form { }
+
+    .field { margin-bottom: 20px; }
+
+    label {
+      font-size: 7pt;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--ink-light);
+      display: block;
+      margin-bottom: 6px;
+    }
+
+    input[type="file"] {
+      display: block;
+      width: 100%;
+      font-family: 'EB Garamond', Garamond, Georgia, serif;
+      font-size: 14px;
+      color: var(--ink-mid);
+      background: #ede9e0;
+      border: 0.4pt solid #bbb;
+      padding: 10px 12px;
+      cursor: pointer;
+    }
+    input[type="file"]:focus { outline: 1.5px solid var(--ink); }
+
+    .file-hint {
+      font-size: 9pt;
+      color: var(--ink-light);
+      margin-top: 6px;
+    }
+
+    button[type="submit"] {
+      font-family: 'EB Garamond', Garamond, Georgia, serif;
+      font-size: 8pt;
+      font-weight: 500;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--warm-bg);
+      background: var(--ink);
+      border: none;
+      padding: 12px 28px;
+      cursor: pointer;
+      margin-top: 8px;
+      transition: opacity 0.15s;
+    }
+    button[type="submit"]:hover { opacity: 0.78; }
+    button[type="submit"]:disabled { opacity: 0.4; cursor: default; }
+
+    /* Success state */
+    .success-block {
+      display: none;
+      text-align: center;
+      padding: 32px 0 16px;
+    }
+    .success-block .success-mark {
+      font-size: 28px;
+      margin-bottom: 16px;
+      display: block;
+    }
+    .success-block p {
+      color: var(--ink-mid);
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    /* Error state */
+    .error-msg {
+      display: none;
+      color: #8b2020;
+      font-size: 9pt;
+      margin-top: 10px;
+    }
+
+    /* Unknown patron */
+    .unknown-block { display: none; }
+
+    /* Closing */
+    .closing {
+      margin-top: 32px;
+      padding-top: 20px;
+      border-top: 0.4pt solid #ccc;
+    }
+    .closing-thanks { margin-bottom: 12px; font-size: 15px; }
+    .closing-sign {
+      font-size: 7pt;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      opacity: 0.65;
+      line-height: 1.8;
+    }
+
+    @media (max-width: 520px) {
+      .card { padding: 36px 28px; }
+    }
+  </style>
+</head>
+<body>
+<div class="card">
+
+  <div class="header">
+    <div class="rule-heavy"></div>
+    <div class="rule-thin"></div>
+    <span class="company-name">The American Mechanical Literature Company</span>
+    <span class="header-title">The Consultation Process</span>
+    <div class="rule-thin-bottom"></div>
+  </div>
+
+  <!-- Unknown patron fallback -->
+  <div class="unknown-block" id="unknownBlock">
+    <p>This link does not correspond to an active consultation. Please check that you have
+    typed the address correctly, or contact The Consultation Process directly.</p>
+  </div>
+
+  <!-- Main content (shown when patron ID is present) -->
+  <div id="mainContent" style="display:none;">
+
+    <div class="project-id-block">
+      <span class="project-id-label">Project</span>
+      <span class="project-id-value" id="projectIdDisplay"></span>
+    </div>
+
+    <div class="intro">
+      <p>The Consultation Process has received your letter and is ready to receive your responses.</p>
+      <p>Please photograph or scan each page of your completed consultation form — one image per page
+      is preferred — and upload them using the form below. Ensure that your handwriting is clearly
+      legible and that the full page is visible in each image.</p>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Netlify form -->
+    <form
+      name="consultation-upload"
+      method="POST"
+      enctype="multipart/form-data"
+      data-netlify="true"
+      netlify-honeypot="bot-field"
+      id="uploadForm"
+    >
+      <!-- Honeypot -->
+      <p style="display:none;">
+        <label>Do not fill this out: <input name="bot-field"></label>
+      </p>
+
+      <!-- Hidden fields populated by JS -->
+      <input type="hidden" name="form-name" value="consultation-upload">
+      <input type="hidden" name="patron-id" id="patronIdInput">
+
+      <div class="field">
+        <label for="fileInput">Scans or photographs of your completed form</label>
+        <input
+          type="file"
+          name="scans"
+          id="fileInput"
+          accept="image/*,.pdf"
+          multiple
+          required
+        >
+        <p class="file-hint">JPG, PNG, or PDF &mdash; you may select multiple files at once.</p>
+      </div>
+
+      <button type="submit" id="submitBtn">Upload responses</button>
+      <p class="error-msg" id="errorMsg">Something went wrong. Please try again, or contact us directly.</p>
+    </form>
+
+    <!-- Success message (shown after submission) -->
+    <div class="success-block" id="successBlock">
+      <span class="success-mark">&#10003;</span>
+      <p>Your responses have been received.<br>
+      The Consultation Process will continue shortly.</p>
+    </div>
+
+  </div><!-- /mainContent -->
+
+  <div class="closing">
+    <p class="closing-thanks">Thank you for taking the time to answer these questions.</p>
+    <div class="closing-sign">
+      Sincerely,<br>
+      The Consultation Process<br>
+      The American Mechanical Literature Company
+    </div>
+  </div>
+
+</div><!-- /card -->
+
+<script>
+  (function () {
+    // Parse patron ID from URL path: /amlc/upload/{patron-id}
+    var parts = window.location.pathname.replace(/\/$/, '').split('/');
+    var patronId = parts[parts.length - 1];
+
+    // Validate it looks like a UUID
+    var uuidPattern = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+
+    if (!patronId || !uuidPattern.test(patronId)) {
+      document.getElementById('unknownBlock').style.display = 'block';
+      return;
+    }
+
+    // Show main content
+    document.getElementById('mainContent').style.display = 'block';
+
+    // Populate hidden input and display
+    document.getElementById('patronIdInput').value = patronId;
+    document.getElementById('projectIdDisplay').textContent = patronId.slice(0, 8).toUpperCase();
+
+    // Handle form submission
+    var form = document.getElementById('uploadForm');
+    var submitBtn = document.getElementById('submitBtn');
+    var errorMsg = document.getElementById('errorMsg');
+    var successBlock = document.getElementById('successBlock');
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Uploading\u2026';
+      errorMsg.style.display = 'none';
+
+      var data = new FormData(form);
+
+      fetch('/', {
+        method: 'POST',
+        body: data,
+      })
+      .then(function (res) {
+        if (!res.ok) throw new Error('Network response was not ok');
+        form.style.display = 'none';
+        successBlock.style.display = 'block';
+      })
+      .catch(function () {
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Upload responses';
+        errorMsg.style.display = 'block';
+      });
+    });
+  })();
+</script>
+</body>
+</html>
