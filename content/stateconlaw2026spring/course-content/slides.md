@@ -59,3 +59,5 @@ The slides for each class session will be made available here in both PDF and we
 **23 - Local Government (cont.)** | [(.pdf)](/../../stateconlaw2026spring-material/slides/23-local.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/23-local)
 
 **24 - Amendments** | [(.pdf)](/../../stateconlaw2026spring-material/slides/24-amendment.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/24-amendment)
+
+**25 - Course Review** | [(.pdf)](/../../stateconlaw2026spring-material/slides/25-review.pdf) | [(webpage)](/../../stateconlaw2026spring-material/slides/25-review)
