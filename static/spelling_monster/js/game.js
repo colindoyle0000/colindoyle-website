@@ -1435,7 +1435,7 @@ function parseWordsMd(text) {
 }
 
 function fetchDefaultWords() {
-  return fetch('data/words.md')
+  return fetch('data/words.md', { cache: 'no-cache' })
     .then(r => r.text())
     .then(parseWordsMd)
     .catch(() => WORDS.slice());
