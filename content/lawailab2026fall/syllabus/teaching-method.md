@@ -9,7 +9,7 @@ toc: false
 ---
 
 ## Attendance
-Class attendance is required.[^1] Class starts on time. Don’t be late. You should plan to arrive early and use the time before class starts to get settled so that you are ready to go at 9:50am. I record attendance and late arrivals, both of which affect your class participation grade. Of course, life happens, cars get flat tires, children get sick, and so on. If you are late or absent for a legitimate reason, please let me or the [Office of Student Affairs] (https://studentaffairs.lls.edu/) know so that it does not affect your participation grade.
+Class attendance is required.[^1] Class starts on time. Don’t be late. You should plan to arrive early and use the time before class starts to get settled so that you are ready to go at 9:50am. I record attendance and late arrivals, both of which affect your class participation grade. Of course, life happens, cars get flat tires, children get sick, and so on. If you are late or absent for a legitimate reason, please let me or the [Office of Student Affairs](https://studentaffairs.lls.edu/) know so that it does not affect your participation grade.
 
 [^1]:Section 3.2 of the JD Handbook states, “A student is required to attend classes regularly. A student may be withdrawn, and/or excluded from an examination, and given a failing grade in any course in which the student has not maintained a satisfactory attendance record.” 
 

@@ -1,6 +1,6 @@
 ---
 linktitle: Law and AI Lab
-title: Law and AI Lab (Spring 2026)
+title: Law and AI Lab (Fall 2026)
 type: book # Do not modify.
 toc: false
 ---
