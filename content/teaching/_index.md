@@ -13,6 +13,15 @@ The following course websites are available to the public. The websites contain 
 ## Current Courses:
 
 ### Law and AI Lab  <br>
+Fall 2026 <br>
+Loyola Law School, Los Angeles <br>
+[Course Website](../lawailab2026fall)
+
+---
+
+## Archive:
+
+### Law and AI Lab  <br>
 Spring 2026 <br>
 Loyola Law School, Los Angeles <br>
 [Course Website](../lawailab2026spring)
@@ -21,10 +30,6 @@ Loyola Law School, Los Angeles <br>
 Spring 2026 <br>
 Loyola Law School, Los Angeles <br>
 [Course Website](../stateconlaw2026spring)
-
----
-
-## Archive:
 
 ### Torts  <br>
 Fall 2025 <br>
