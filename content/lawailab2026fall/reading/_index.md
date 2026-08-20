@@ -32,3 +32,16 @@ Before class, I would like you to deeply reflect upon the following questions, i
 - How do you anticipate that AI will affect your life in the next few years?
 - Looking broadly at law and society, what are the questions related to AI that you most want to know the answers to? These questions do not need to be answerable!
 - How should law schools and the legal profession respond to AI?
+
+## Aug. 27, 2026
+
+_Readings:_
+
+Colin Cornaby, [In the Future All Food Will Be Cooked in a Microwave, and if You Can’t Deal With That Then You Need to Get Out of the Kitchen](https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/)
+
+Explore the following website, looking into the details of at least three cases. Take notes and be prepared to share and discuss your findings in class.
+
+Damien Charlotin, Website, [AI Hallucination Cases](https://www.damiencharlotin.com/hallucinations/)
+
+Colin Doyle, [Automation and Access to Justice](https://direct.mit.edu/ajle/article/doi/10.1162/AJLE.a.6/134263/AUTOMATION-AND-ACCESS-TO-JUSTICE), pgs. 61-75 (2025).
+I'm a little sheepish about assigning my own work as reading, but this passage is just a succinct, accessible introduction to how LLMs work and their limitations for legal reasoning. Anything I assign in class that I've written should be open to challenge and critique as much as anyone else's work.
