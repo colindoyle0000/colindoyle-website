@@ -48,7 +48,7 @@ I'm a little sheepish about assigning my own work as reading, but this passage i
 
 ## Sept. 3, 2026
 
-This week, we will examine the fundamentals of machine learning. We will also being our exploration of experimental design, thinking through how to design experiments to test hypotheses about AI and law. It's an information-dense week, but it will provide a necessary foundation for the rest of the course.
+This week, we will examine the fundamentals of machine learning. We will also begin our exploration of experimental design, thinking through how to design experiments to test hypotheses about AI and law. It's an information-dense week, but it will provide a necessary foundation for the rest of the course.
 
 _Assignment:_
 
