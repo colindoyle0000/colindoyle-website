@@ -45,3 +45,39 @@ Damien Charlotin, Website, [AI Hallucination Cases](https://www.damiencharlotin.
 
 Colin Doyle, [Automation and Access to Justice](https://direct.mit.edu/ajle/article/doi/10.1162/AJLE.a.6/134263/AUTOMATION-AND-ACCESS-TO-JUSTICE), pgs. 61-75 (2025).
 I'm a little sheepish about assigning my own work as reading, but this passage is just a succinct, accessible introduction to how LLMs work and their limitations for legal reasoning. Anything I assign in class that I've written should be open to challenge and critique as much as anyone else's work.
+
+## Sept. 3, 2026
+
+This week, we will examine the fundamentals of machine learning is and how machine learning models are trained. We will also being our exploration of experimental design, thinking through how to design experiments to test hypotheses about AI and law. It's an information-dense week, but it will provide a necessary foundation for the rest of the course.
+
+_Assignment:_
+
+**Generative AI Policy**: Following up on our discussion of the generative AI policies you drafted in class, write out a provision that you would like to see included in the finalized generative AI policy for this class. Write a persuasive argument for why this provision should be included. Some questions to consider: What does this provision accomplish? Why do its benefits outweigh its drawbacks? How is it superior to alternatives? How does it align with the values and goals of this class?
+
+The provision does not need to have been included in the draft policies you made in class. It can be a revised version of something we discussed or a new idea entirely. You are welcome to collaborate with another classmate on this assignment and submit a joint provision and argument. As I am interested in hearing your judgment and beliefs, I ask that you not use generative AI in the early stages of this assignment for selecting a provision and justifying that choice. You are encouraged to use generative AI to help you refine your argument and writing, but you are fully responsible for the content of your submission.
+
+I expect your submission to be a few paragraphs long, but there is no minimum or maximum length requirement. As is always the rule in this class, quality of thought and argument is more important than quantity of writing.
+
+Please submit your provision and argument via email to colin.doyle@lls.edu by 8:00 AM on Thursday, Sept. 3 as either a Word, PDF, or markdown document.
+
+
+
+_Readings:_
+
+[**DOWNLOAD ALL READINGS HERE**](sept3_readings.zip)
+
+Machine Learning: A Primer: an introduction for both technical and non-technical readers
+<br> Lizzie Turner, Medium: Artificial Intelligence (May 26, 2018)
+<br> Read all.
+
+An Introduction to Statistical Learning with Applications in R
+<br> Gareth James, Daniela Witten, Trevor Hastie, & Robert Tibshirani (2021)
+<br> Read Introduction pages 1-9 (stop at “Who Should Read This Book?), 15-42.
+
+Teaching Empirical Legal Research Study Design: Topics & Resources (2015)
+<br> Sarah E. Ryan
+<br> Read all.
+
+*An Introduction to Statistical Learning with Applications in R* is a technical text unlike typical law school readings. This might be an opportunity to experiment with using generative AI to augment your learning and reading comprehension?
+
+Also, remember that class will start with a discussion of the three cases you explored on the [AI Hallucination Cases website](https://www.damiencharlotin.com/hallucinations/).
