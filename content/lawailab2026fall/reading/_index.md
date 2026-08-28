@@ -48,11 +48,11 @@ I'm a little sheepish about assigning my own work as reading, but this passage i
 
 ## Sept. 3, 2026
 
-This week, we will examine the fundamentals of machine learning is and how machine learning models are trained. We will also being our exploration of experimental design, thinking through how to design experiments to test hypotheses about AI and law. It's an information-dense week, but it will provide a necessary foundation for the rest of the course.
+This week, we will examine the fundamentals of machine learning. We will also being our exploration of experimental design, thinking through how to design experiments to test hypotheses about AI and law. It's an information-dense week, but it will provide a necessary foundation for the rest of the course.
 
 _Assignment:_
 
-**Generative AI Policy**: Following up on our discussion of the generative AI policies you drafted in class, write out a provision that you would like to see included in the finalized generative AI policy for this class. Write a persuasive argument for why this provision should be included. Some questions to consider: What does this provision accomplish? Why do its benefits outweigh its drawbacks? How is it superior to alternatives? How does it align with the values and goals of this class?
+**Generative AI Policy**: Following up on our discussion of the generative AI policies you drafted in class, write out a provision that you would like to see included in the final generative AI policy for this class. Write a persuasive argument for why this provision should be included. Some questions to consider: What does this provision accomplish? Why do its benefits outweigh its drawbacks? How is it superior to alternatives? How does it align with the values and goals of this class?
 
 The provision does not need to have been included in the draft policies you made in class. It can be a revised version of something we discussed or a new idea entirely. You are welcome to collaborate with another classmate on this assignment and submit a joint provision and argument. As I am interested in hearing your judgment and beliefs, I ask that you not use generative AI in the early stages of this assignment for selecting a provision and justifying that choice. You are encouraged to use generative AI to help you refine your argument and writing, but you are fully responsible for the content of your submission.
 
