@@ -111,7 +111,7 @@ Experimental design
 
 Limitations and Future Directions
 
-I have created a sample design document to illustrate what is expected. You can find it [here](sample_design).
+I have created a sample design document to illustrate what is expected. You can find it [here](https://www.colin-doyle.net/lawailab2026fall/sample_design/).
 
 Some notes:
 
