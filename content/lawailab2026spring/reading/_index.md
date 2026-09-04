@@ -122,7 +122,7 @@ To inspire you to do great work:
 [Richard Hamming, *You and Your Research* (1986)](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf)
 
 To give you a sense of structure for experimental design and reporting (along with citations to related literature that you might find useful):
-[Matthew Dahl, *Bye-bye, Bluebook? Automating Legal Procedure with Large Language Models* (2025)](https://arxiv.org/abs/2505.02763)
+[Matthew Dahl & Eric Martinez, *Bye-bye, Bluebook? Automating Legal Drudgery With AI-Augmented Rule Following* (2026)](https://arxiv.org/abs/2505.02763)
 
 _Assignment:_
 

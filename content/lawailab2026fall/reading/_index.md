@@ -81,3 +81,49 @@ Teaching Empirical Legal Research Study Design: Topics & Resources (2015)
 *An Introduction to Statistical Learning with Applications in R* is a technical text unlike typical law school readings. This might be an opportunity to experiment with using generative AI to augment your learning and reading comprehension?
 
 Also, remember that class will start with a discussion of the three cases you explored on the [AI Hallucination Cases website](https://www.damiencharlotin.com/hallucinations/).
+
+
+## Sept. 10, 2026
+
+This week, we will continue our examination of machine learning through the project of designing a spam filter and begin looking at experimental design and how to design experiments to test hypotheses about AI and law. The readings for this week are light because your main assignment is to design a small, informal experiment to test a hypothesis about generative AI and the law.
+
+_Readings:_
+
+To inspire you to do great work:
+[Richard Hamming, *You and Your Research* (1986)](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf)
+
+To give you a sense of structure for experimental design and reporting (along with citations to related literature that you might find useful):
+[Matthew Dahl & Eric Martinez, *Bye-bye, Bluebook? Automating Legal Drudgery With AI-Augmented Rule Following* (2026)](https://arxiv.org/abs/2505.02763)
+
+_Assignment:_
+
+Your assignment is to design a small, informal experiment about language models and law. Think of it as a prototype for a publishable study idea: you’re kicking the tires on a research question and testing out ideas for experimental design. In class, we will workshop some of your experiment designs together.
+
+Your design document should include the following:
+
+Title (give your experiment a name)
+
+Research question
+
+Hypothesis
+
+Experimental design
+
+Limitations and Future Directions
+
+I have created a sample design document to illustrate what is expected. You can find it [here](sample_design).
+
+Some notes:
+
+**Research Question:** Select a research question that genuinely interests you. What is a question about generative AI and the law that you want answered? What do you wonder about? Do not use generative AI to come up with your research question as it should be something that *you* care about.
+
+**Hypothesis:** Your hypothesis should be a clear, testable statement that predicts an outcome.
+
+**Experiment Design:** Describe how you will test your hypothesis, including the language models you will use and the interactions you will have with them. 
+
+You may use generative AI to help you think through experimental design. This is a new kind of task for most people. Language models can be useful for pointing out blind spots, suggesting controls, or helping you see alternative designs you hadn’t considered. But engage critically with any suggestions the model makes. You are responsible for the final design of your experiment. You should not include any experimental design or analysis choice that you cannot fully explain and defend.
+
+**Limitations and Future Directions** This is really important! Your experiment won’t be able to fully answer your research question. What are the limitations of your design? What might complicate your findings? How might your results *not* provide a full explanation of the question you’re trying to ask? How could future work build on your experiment to provide a more complete answer to your research question?
+
+
+Please submit your experiment design notes via email to colin.doyle@lls.edu by 8:00 AM on Thursday, Sept. 10 as either a Word, PDF, or markdown document.
