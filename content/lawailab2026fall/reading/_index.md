@@ -132,7 +132,7 @@ Please submit your experiment design notes via email to colin.doyle@lls.edu by 8
 
 This week, we'll turn to AI tools that have been built specifically for doing legal work and consider how to engage with these tools in a critical way to expose their vulnerabilities. The purpose of this lesson is to introduce you to red teaming as a philosophy for critically understanding and engaging with legal tech.
 
-As you do this week's readings, keep in mind that your role for this week's class is to be a member of a red team that maliciously and benevolently stress-tests legal AI software, trying to discover weaknesses.
+As you do this week's readings, keep in mind that your role for this week's class is to be a member of a red team that maliciously and benevolently stress-tests AI software, trying to discover weaknesses.
 
 _Readings:_
 
