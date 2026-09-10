@@ -127,3 +127,28 @@ You may use generative AI to help you think through experimental design. This is
 
 
 Please submit your experiment design notes via email to colin.doyle@lls.edu by 8:00 AM on Thursday, Sept. 10 as either a Word, PDF, or markdown document.
+
+## Sep. 17, 2026
+
+This week, we'll turn to AI tools that have been built specifically for doing legal work and consider how to engage with these tools in a critical way to expose their vulnerabilities. The purpose of this lesson is to introduce you to red teaming as a philosophy for critically understanding and engaging with legal tech.
+
+As you do this week's readings, keep in mind that your role for this week's class is to be a member of a red team that maliciously and benevolently stress-tests legal AI software, trying to discover weaknesses.
+
+_Readings:_
+
+Blake Bullwinkel, et al., [_Lessons From Red Teaming 100 Generative
+AI Products_](https://arxiv.org/pdf/2501.07238v1), arXiv preprint, (2025).
+
+Varun Magesh, et al., [_Hallucination-Free? Assessing the Reliability of Leading AI
+Legal Research Tools_](https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf), J. Emp. L. Studies (2025).
+
+
+_Assignment:_
+
+This week's competition is about who can get AI tools to fail the most spectacularly at answering a law-related question. You can use both general-purpose LLMs and legal-specific tools (like those available on WestLaw or LexisNexis) for this assignment. The much-coveted stickers on the sticker chart will be awarded in both legal and general-purpose categories.
+
+You can work on your own or in small groups of up to four students. You should email me a short write up of your submissions by 8:00 AM on Thursday, Sept. 17. Each submission should include the name of the model/platform used, prompt(s), responses, and a description of how the response is incorrect or misleading. You or your group should submit at least one entry, but you are welcome to submit as many as you like.
+
+I would encourage you to experiment with different prompts, instructions, and questions. I'll give you the heads up right now that all of the leading providers have patched up the errors documented in your readings, so you will need to come up with new approaches.
+
+You can expect that models will perform well on answering questions that are well-represented within their training data or that have obvious answers that can be verified with an external source. Accordingly, you might have better luck steering away from Supreme Court cases or 1L doctrinal questions and instead focus on more obscure areas of law and more complicated questions. I quite enjoy finding new ways to get models to fall on their faces, so you can feel free to look over some of my prior work if you're looking for ideas: [If You Give an LLM a Legal Practice Guide](https://dl.acm.org/doi/10.1145/3709025.3712220), [Using Differences in State Law to Test Whether LLMs Reason or Remember](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7443478).
