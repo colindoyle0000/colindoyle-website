@@ -152,3 +152,43 @@ You can work on your own or in small groups of up to four students. You should e
 I would encourage you to experiment with different prompts, instructions, and questions. I'll give you the heads up right now that all of the leading providers have patched up the errors documented in your readings, so you will need to come up with new approaches.
 
 You can expect that models will perform well on answering questions that are well-represented within their training data or that have obvious answers that can be verified with an external source. Accordingly, you might have better luck steering away from Supreme Court cases or 1L doctrinal questions and instead focus on more obscure areas of law and more complicated questions. I quite enjoy finding new ways to get models to fall on their faces, so you can feel free to look over some of my prior work if you're looking for ideas: [If You Give an LLM a Legal Practice Guide](https://dl.acm.org/doi/10.1145/3709025.3712220), [Using Differences in State Law to Test Whether LLMs Reason or Remember](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7443478).
+
+## Sep. 24, 2026
+
+Going forward for the semester, we will have fewer reading assignments as students are expected to begin doing their own independent research and reading for their projects and papers. As you explore potential research questions and topics, I encourage you to reach out to me for help finding relevant literature and resources and to help you develop your ideas for your projects. We will continue to dedicate time at the start of each class for students to share their research questions, ideas, and progress with one another.
+
+This week, you will be programming your first computer applications. How exciting! The term ”vibe coding” is a bit of a pejorative term, and ”vibe coders” are often rightly criticized for mindlessly using LLMs to create programs that they think work but that are laden with errors and vulnerabilities. But just because coding with AI assistance can be done in a mindless way doesn’t mean that it can’t be done in a thoughtful way. This is the same issue we've confronted with lawyers use of generative AI. My goal in this lesson is to set you up with the skills that will set you apart as you apply for jobs and enter the legal profession.
+
+Class this week will be broken up into two parts. The first part of class, we will work together to create a simple, useful application that can help the law school's Office of Academic Affairs automate certain tasks related to reviewing law school syllabi. In the second part of class, Prof. Justin Levitt will join us to talk about his work tracking ongoing voting rights litigation so that our class can develop plans for ways that we might use generative AI to develop tools that can help him with his work.
+
+_Readings:_
+
+Ethan Mollick, [*An opinionated guide to which AI to use to do stuff*](https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22), One Useful Thing (July 23, 2026)
+
+Anthropic, [*How Claude Code Works*](https://code.claude.com/docs/en/how-claude-code-works)
+
+Anthropic, [*Best Practices*](https://code.claude.com/docs/en/best-practices)
+
+_Assignment:_
+
+You need to install either Claude or ChatGPT as a desktop application on your computer. Before class, you should open the application to make sure that it is installed and working properly. We don't want to have to use up class time troubleshooting installation issues. If you have any problems installing the application, please reach out to me for help.
+
+Later this week, I will send an email with more details about the work that we will be doing in class.
+
+## Oct. 1, 2026
+
+TBD
+
+## Oct. 8, 2026
+
+No class this week.
+
+## Oct. 15, 2026
+
+## Oct. 22, 2026
+
+## Oct. 29, 2026
+
+## Nov. 5, 2026
+
+## Nov. 12, 2026
