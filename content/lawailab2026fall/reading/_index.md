@@ -177,7 +177,21 @@ Later this week, I will send an email with more details about the work that we w
 
 ## Oct. 1, 2026
 
-TBD
+As previously discussed, we will have fewer readings and assignments for the rest of the semester as students are expected to be doing more independent research and reading for their projects and papers.
+
+At this point in time, you should be developing an idea for the research area for your final project and be doing independent reading. I highly encourage you to start our next class prepared to share with the class the research area you are interested in and final project ideas that you are interested in exploring.
+
+_Assignment:_
+
+Spend at least an hour this week planning or experimenting with ways to either:
+
+1) Improve upon the syllabus review application that we built in class last week (shared with you on the box link provided before last class), or
+
+2) Develop a new application that could help Prof. Levitt with his work tracking ongoing voting rights litigation.
+
+Please submit your planning notes and code, if any, via email to colin.doyle@lls.edu by 8:00 AM on Thursday, Oct. 1.
+
+You can use generative AI to help you with this assignment, particularly for generating code. But keep in mind that I'm not interested in you sharing with me the unfiltered output of an LLM that you prompt with this assignment. I want to see your own thinking and discernment. LLMs can generate some possibilities or avenues for thought, but it is your judgment and evaluation that matters.
 
 ## Oct. 8, 2026
 
