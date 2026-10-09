@@ -199,6 +199,68 @@ No class this week.
 
 ## Oct. 15, 2026
 
+This week, we will turn our focus to your projects for this class. There is no assigned reading, but you are expected to be doing research related to your final paper and presentation.
+
+In class on Thursday, each student will be expected to share their current ideas for their final project to receive feedback from the class.
+
+_Assignment:_
+
+You should submit a final project description
+via email to colin.doyle@lls.edu by 8:00 AM on Thursday, Oct. 1. This project description will be shared with the class to help facilitate discussion and feedback. The project description should be no more than a few paragraphs long and should include:
+
+- The current draft of your research question. At this stage, you aren't expected to have a final thesis or argument, but you should be able to articulate the kind of question you want to answer and why it is important.
+
+- Your current plan for the project, including any work that you have already done.
+
+- Two or three specific questions that you need to resolve in order to move forward with your project. This is the most important part of the document. These should be questions that you are struggling with and are looking for feedback on from the class.
+
+If you are working with a partner or in a group for your final paper and presentation, please submit one research update per group rather than one per person.
+
+If your plan for your final project is to assist a law-school clinic or other organization, I expect that you will be at an earlier stage of your project development. In that case, I expect that you will be able to describe the organization you would like to work with, the kind of problem you would like to help them solve, and the challenges you anticipate with this work.
+
+I have included below a list of potential partner organizations at the law school who have expressed interest in getting help from students in this class. Each of these could be a potential partner for your final project.
+
+**Voting Rights Litigation**
+
+Although we used Prof. Levitt’s website as part of an in-class exercise, assisting him with this work is fair game for a final project.
+
+**Bar Exam Task Force**
+
+Using language models to rewrite practice questions to reflect the NextGen bar.
+
+
+
+**Academic Success Program**
+
+Time management tool for law students, particularly 1Ls.
+
+
+
+**Entertainment Law**
+
+Tax Incentive Comparison Engine
+
+Chain-of-Title Risk Scanner
+
+Guild Compliance Checker
+
+Entertainment Contract Analyzer
+
+Music Clearance Assistant
+
+**Anti-Trafficking Initiative**
+
+Legislative tracking
+
+Letter of support writing assistant
+
+Social media management assistant
+
+**Loyola Justice for Atrocities Clinic**
+
+Document-compliance checker
+
+
 ## Oct. 22, 2026
 
 ## Oct. 29, 2026
