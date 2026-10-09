@@ -214,7 +214,7 @@ via email to colin.doyle@lls.edu by 8:00 AM on Thursday, Oct. 1. This project de
 
 - Two or three specific questions that you need to resolve in order to move forward with your project. This is the most important part of the document. These should be questions that you are struggling with and are looking for feedback on from the class.
 
-If you are working with a partner or in a group for your final paper and presentation, please submit one research update per group rather than one per person.
+If you are working with a partner or in a group for your final paper and presentation, please submit one project description per group rather than one per person.
 
 If your plan for your final project is to assist a law-school clinic or other organization, I expect that you will be at an earlier stage of your project development. In that case, I expect that you will be able to describe the organization you would like to work with, the kind of problem you would like to help them solve, and the challenges you anticipate with this work.
 
