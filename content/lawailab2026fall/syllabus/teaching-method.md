@@ -23,7 +23,23 @@ Of course, we'll be using our computers for in-class exercises, but I will ask y
 
 ## Generative AI Policy
 
-We will develop the Generative AI policy for this course together.
+Unless an assignment specifically limits or prohibits the use of generative AI, you are allowed to use generative AI on assignments in this class.
+
+You are responsible for the work that you submit. Different standards apply to written work and computer code.
+
+**Written work**
+
+All written work that you submit should represent your own arguments, knowledge, and understanding. During class and office hours, you are expected to explain any claims that you have made, respond to feedback, and consider alternatives.
+
+The inclusion of slop in a written assignment will severely lower your grade on that assignment. Slop includes outright hallucinations but extends to more mild misrepresentations and hollow claims. Beware the sophisticated-sounding but vacuous arguments that large language models are prone to make.
+
+**Computer code**
+
+Students are not required to submit computer code in this class. Students can submit code for certain homework assignments. And some types of final projects require code to be written and submitted.
+
+This is not a code-writing class. I expect that your code will be written with AI coding assistance. I do not expect you to be able to explain lines of code in the way that you are expected to explain sentences within a written assignment. You may not be the line-by-line author of the program, but you are still responsible for the overall program, and I expect that you will be able to explain how it works.
+
+This extends to any LLM experiments that you run. You should be able to fully explain the experimental design, the results, and any analysis of those results.
 
 ## Classroom Norms
 To foster an environment that supports curious critical thinking, our class has a set of norms that I ask you each to follow.
