@@ -206,7 +206,7 @@ In class on Thursday, each student will be expected to share their current ideas
 _Assignment:_
 
 You should submit a final project description
-via email to colin.doyle@lls.edu by 8:00 AM on Thursday, Oct. 1. This project description will be shared with the class to help facilitate discussion and feedback. The project description should be no more than a few paragraphs long and should include:
+via email to colin.doyle@lls.edu by 8:00 AM on Thursday, Oct. 15. This project description will be shared with the class to help facilitate discussion and feedback. The project description should be no more than a few paragraphs long and should include:
 
 - The current draft of your research question. At this stage, you aren't expected to have a final thesis or argument, but you should be able to articulate the kind of question you want to answer and why it is important.
 
