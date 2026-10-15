@@ -263,6 +263,15 @@ Document-compliance checker
 
 ## Oct. 22, 2026
 
+_Assignment:_
+
+This week, you should focus on doing research related to your final paper and presentation.
+
+If you are interested in working with one of the partner organizations listed in the previous reading assignment, email me and I will help to connect you with the right people.
+
+By 8:00 AM on Thursday, Oct. 22, please submit a short update on your progress via email to colin.doyle@lls.edu. If you are working with a partner or in a group for your final paper and presentation, please submit one update per group rather than one per person.
+
+
 ## Oct. 29, 2026
 
 ## Nov. 5, 2026
