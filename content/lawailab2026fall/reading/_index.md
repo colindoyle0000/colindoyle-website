@@ -274,6 +274,10 @@ By 8:00 AM on Thursday, Oct. 22, please submit a short update on your progress v
 
 ## Oct. 29, 2026
 
+You should continue to work on your research and writing for your final paper and presentation.
+
+Students who have not yet met with me to discuss their final project are encouraged to do so.
+
 ## Nov. 5, 2026
 
 ## Nov. 12, 2026
