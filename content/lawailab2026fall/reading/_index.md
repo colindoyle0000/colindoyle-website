@@ -280,4 +280,6 @@ Students who have not yet met with me to discuss their final project are encoura
 
 ## Nov. 5, 2026
 
+You should continue to work on your research and writing for your final paper and presentation.
+
 ## Nov. 12, 2026
